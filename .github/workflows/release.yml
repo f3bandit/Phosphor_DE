@@ -1,0 +1,76 @@
+# Phosphor_DE release - by f3bandit
+#
+# Runs only when you start it by hand: Actions tab > "Release" > Run workflow > type the version (v0.2).
+# It does NOT run on pushes, so it costs no Actions minutes until you use it (about 1 minute per run).
+#
+# It doesn't rebuild the kernel: it ships the tested dist/ezkernelnew.bin that's in the repo, so the
+# release is exactly the file you tested on the cart. Steps:
+#   1. checks dist/ezkernelnew.bin is a sane size (under the 2 MB kernel slot)
+#   2. builds Phosphor_DE_<version>.zip: "SD card" folder (ezkernelnew.bin + SYSTEM/CHEATS),
+#      loader patcher, README.txt, LICENSE, NOTICE, CHEATS_SOURCE.txt
+#   3. creates the tag and the GitHub release with the zip and ezkernelnew.bin attached
+#
+# To release a new version: replace dist/ezkernelnew.bin (and sdcard/SYSTEM/CHEATS if the pack changed),
+# commit, push, then run this.
+
+name: Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Version tag, e.g. v0.2"
+        required: true
+      prerelease:
+        description: "Mark as pre-release (test build)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check the kernel file
+        run: |
+          set -e
+          f=dist/ezkernelnew.bin
+          test -f "$f" || { echo "dist/ezkernelnew.bin is missing"; exit 1; }
+          size=$(stat -c %s "$f")
+          if [ "$size" -gt 2097152 ] || [ "$size" -lt 65536 ]; then echo "ezkernelnew.bin is $size bytes - not a valid kernel"; exit 1; fi
+          if gh release view "${{ inputs.version }}" >/dev/null 2>&1; then echo "Release ${{ inputs.version }} already exists"; exit 1; fi
+          echo "SIZE=$size" >> "$GITHUB_ENV"
+          echo "MD5=$(md5sum "$f" | cut -d' ' -f1)" >> "$GITHUB_ENV"
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+      - name: Build the release zip
+        run: |
+          set -e
+          v="${{ inputs.version }}"
+          d="out/Phosphor_DE_$v"
+          mkdir -p "$d/SD card/SYSTEM" "$d/loader"
+          cp dist/ezkernelnew.bin "$d/SD card/"
+          cp -r sdcard/SYSTEM/CHEATS "$d/SD card/SYSTEM/"
+          cp tools/loader/patch_loader.py "$d/loader/"
+          cp LICENSE NOTICE cheats/CHEATS_SOURCE.txt "$d/"
+          sed -e "s/{VERSION}/$v/g" -e "s/{SIZE}/$SIZE/g" -e "s/{MD5}/$MD5/g" release/README.txt | sed 's/$/\r/' > "$d/README.txt"
+          sed -e "s/{VERSION}/$v/g" -e "s/{SIZE}/$SIZE/g" -e "s/{MD5}/$MD5/g" release/NOTES.md > out/notes.md
+          (cd out && zip -qr "Phosphor_DE_$v.zip" "Phosphor_DE_$v")
+          unzip -t "out/Phosphor_DE_$v.zip" | tail -1
+          echo "$(unzip -l "out/Phosphor_DE_$v.zip" | tail -1)"
+
+      - name: Create the release
+        run: |
+          set -e
+          v="${{ inputs.version }}"
+          pre=""
+          if [ "${{ inputs.prerelease }}" = "true" ]; then pre="--prerelease"; fi
+          gh release create "$v" "out/Phosphor_DE_$v.zip" dist/ezkernelnew.bin \
+            --target "${{ github.sha }}" --title "Phosphor_DE $v" --notes-file out/notes.md $pre
+        env:
+          GH_TOKEN: ${{ github.token }}

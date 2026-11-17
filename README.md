@@ -327,6 +327,14 @@ sh tools/make_sim_disk.sh     # needs mtools and dosfstools
 make SIM=1                    # -> phosphor_de_sim.gba with the test SD card from sim/root built in
 ```
 
+### Making a release
+Releases are made by the **Release** GitHub Action (`.github/workflows/release.yml`). It only runs when started by hand, so it uses no Actions minutes otherwise:
+
+1. Put the tested kernel in `dist/ezkernelnew.bin` (and the new pack in `sdcard/SYSTEM/CHEATS` if it changed), commit and push.
+2. **Actions** tab > **Release** > **Run workflow**, type the version (e.g. `v0.2`), Run.
+
+It ships the committed, cart-tested `dist/ezkernelnew.bin` (it doesn't rebuild it), packs `Phosphor_DE_<version>.zip` (the `SD card` folder, the loader patcher, README, licenses), and creates the tag and the release. The release text comes from `release/NOTES.md` and the zip's README from `release/README.txt`.
+
 ---
 
 ## Repo layout
@@ -344,6 +352,8 @@ dist/          prebuilt ezkernelnew.bin
 tools/         PC tools (see above)
 sim/           test SD card contents for the emulator build
 docs/          pictures for this README
+release/       release notes and the release zip's README (used by the Release action)
+.github/       the Release action
 ```
 
 ---
