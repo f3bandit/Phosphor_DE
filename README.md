@@ -327,11 +327,16 @@ sh tools/make_sim_disk.sh     # needs mtools and dosfstools
 make SIM=1                    # -> phosphor_de_sim.gba with the test SD card from sim/root built in
 ```
 
-### Making a release
-Releases are made by the **Release** GitHub Action (`.github/workflows/release.yml`). It only runs when started by hand, so it uses no Actions minutes otherwise:
+### Building on GitHub and making a release
+Two GitHub Actions, both started by hand only (they use no Actions minutes otherwise):
 
+**Build** (`.github/workflows/build.yml`): builds `ezkernelnew.bin` from the current source with devkitARM release 65 (it refuses any other toolchain release), runs the same 2 MB / RAM safety checks, and posts the file as a download on the run page (Artifacts). The run summary shows whether it matches `dist/ezkernelnew.bin`. It never releases anything or changes the repo.
+
+**Release** (`.github/workflows/release.yml`):
 1. Put the tested kernel in `dist/ezkernelnew.bin` (and the new pack in `sdcard/SYSTEM/CHEATS` if it changed), commit and push.
 2. **Actions** tab > **Release** > **Run workflow**, type the version (e.g. `v0.2`), Run.
+
+So a new version goes: change the source, run **Build**, test its `ezkernelnew.bin` on the cart, copy it to `dist/`, commit, run **Release**.
 
 It ships the committed, cart-tested `dist/ezkernelnew.bin` (it doesn't rebuild it), packs `Phosphor_DE_<version>.zip` (the `SD card` folder, the loader patcher, README, licenses), and creates the tag and the release. The release text comes from `release/NOTES.md` and the zip's README from `release/README.txt`.
 
@@ -353,7 +358,7 @@ tools/         PC tools (see above)
 sim/           test SD card contents for the emulator build
 docs/          pictures for this README
 release/       release notes and the release zip's README (used by the Release action)
-.github/       the Release action
+.github/       the Build and Release actions
 ```
 
 ---

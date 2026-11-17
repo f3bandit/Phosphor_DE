@@ -1,0 +1,68 @@
+# Phosphor_DE build - by f3bandit
+#
+# Runs only when you start it by hand: Actions tab > "Build" > Run workflow.
+# Builds ezkernelnew.bin from the current source and posts it as a download on the run page
+# ("Artifacts" at the bottom), for you to test on the cart. It never releases anything and never
+# changes the repo: once a build has been tested, copy it to dist/ezkernelnew.bin, commit, and run
+# "Release".
+#
+# Toolchain: devkitARM release 65 (the one Phosphor_DE is built and tested with). The build stops if
+# the container has any other release, so a toolchain change can't slip into a cart build unnoticed.
+# Same safety checks as a local build: under the 2 MB kernel slot, RAM data not past 0x02040000.
+
+name: Build
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container: devkitpro/devkitarm:20241111
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check the toolchain
+        run: |
+          v=$($DEVKITARM/bin/arm-none-eabi-gcc --version | head -1)
+          echo "$v"
+          (dkp-pacman -Q libgba gba-tools 2>/dev/null || true)
+          case "$v" in
+            *"devkitARM release 65"*) ;;
+            *) echo "::error::Expected devkitARM release 65, got: $v. Not building."; exit 1 ;;
+          esac
+
+      - name: Build
+        run: make
+
+      - name: Check the result
+        id: check
+        run: |
+          set -e
+          test -f ezkernelnew.bin || { echo "::error::No ezkernelnew.bin (the build or its safety checks failed)"; exit 1; }
+          new=$(md5sum ezkernelnew.bin | cut -d' ' -f1)
+          old=$(md5sum dist/ezkernelnew.bin | cut -d' ' -f1)
+          size=$(stat -c %s ezkernelnew.bin)
+          md5sum ezkernelnew.bin > ezkernelnew.bin.md5
+          {
+            echo "### ezkernelnew.bin"
+            echo "| | size | md5 |"
+            echo "|---|---|---|"
+            echo "| this build | $size | \`$new\` |"
+            echo "| dist/ (released) | $(stat -c %s dist/ezkernelnew.bin) | \`$old\` |"
+            echo
+            if [ "$new" = "$old" ]; then
+              echo "Same file as dist/ezkernelnew.bin: the source matches the released kernel."
+            else
+              echo "Different from dist/ezkernelnew.bin. Test it on the cart before putting it in dist/."
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
+          echo "short=$(echo $new | cut -c1-8)" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ezkernelnew-${{ github.sha }}-${{ steps.check.outputs.short }}
+          path: |
+            ezkernelnew.bin
+            ezkernelnew.bin.md5
+          retention-days: 30
