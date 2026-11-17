@@ -10,7 +10,7 @@ Phosphor_DE {VERSION}, a kernel for the **EZ-Flash Omega Definitive Edition** (R
 - New Phosphor UI: GBA only, scrolling long names, Tamzen font on dark grey, SD / NOR / Recent / Settings tabs
 - New cheat engine and cheat pack: **1,704 games, 31,168 ready-to-play cheats** (GameHacking.org + libretro), nothing to type in, Anti DMA automatic
 - NOR Check (dead-cell test) and read-only boot chip dump
-- Optional loader recolor patcher (the blue install screen goes grey)
+- Optional loader recolor: `loader/de-recovery-phosphor.img` (the bright blue install screen goes grey; flash it from safe mode, see the README)
 
 Full guide, SD card layout, tools and disclaimer: see the [README](https://github.com/f3bandit/Phosphor_DE#readme).
 

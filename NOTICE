@@ -19,8 +19,8 @@ Cheat data in sdcard/SYSTEM/CHEATS is not covered by the Apache License:
 - GameHacking.org (https://gamehacking.org), GBA code exports.
 - libretro cheat database (https://github.com/libretro/libretro-database), CC BY-SA 4.0.
 
-EZ-Flash's loader recovery image is not included; tools/loader/patch_loader.py patches the user's
-own copy.
+loader/de-recovery-phosphor.img is EZ-Flash's Omega DE loader recovery image (de-recovery.img)
+with 4 bytes (two colors) changed; the rest is EZ-Flash's, unchanged.
 
 EZ-Flash, Nintendo, Game Boy Advance, Analogue Pocket and game names are trademarks of their
 respective owners. Phosphor_DE is not affiliated with or endorsed by any of them.

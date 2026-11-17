@@ -103,7 +103,7 @@ You need: the cart, a microSD card (FAT32), and a PC.
 
 Optional extras:
 - **Box art**: Phosphor_DE uses EZ-Flash's box art pack (`IMGS.zip` from EZ-Flash's site). Put its `IMGS` folder inside `SYSTEM`, so you have `SYSTEM/IMGS/A/X/AXVE.bmp` and so on. It isn't included here because it isn't ours to share.
-- **Loader recolor**: see [Loader recolor](#loader-recolor-optional).
+- **Loader recolor**: `loader/de-recovery-phosphor.img` in the zip, see [Loader recolor](#loader-recolor-optional).
 
 ### Updating Phosphor_DE
 Same steps with the new `ezkernelnew.bin`: copy it to the SD root, hold R at power-on. Your saves, settings and cheat picks stay.
@@ -232,17 +232,16 @@ Write the codes into `SYSTEM/CHEATS/<GAMECODE>.cht` in either layout above. To c
 
 The loader is separate from the kernel and lives in the same boot chip, at the very start. It is updated through EZ-Flash's **safe mode** with EZ-Flash's own recovery image. The recolor changes **exactly 4 bytes** of that image: two color values. No code is touched.
 
-This repo doesn't ship EZ-Flash's image. You patch your own copy:
+The ready-made image is in the release zip and in this repo: [`loader/de-recovery-phosphor.img`](loader/de-recovery-phosphor.img), md5 `557c6e79ad576c3054785bd27fa65340`.
 
-1. Get EZ-Flash's **Omega Definitive Edition** loader recovery file, `de-recovery.img` (EZ-Flash publishes it; it's the DE one, **not** the original Omega one).
-2. Run:
-   ```
-   python tools/loader/patch_loader.py de-recovery.img de-recovery-phosphor.img
-   ```
-   The script checks the input is EZ-Flash's exact file (md5 `f8510d97f4da06fd5d413a4074e313d9`) and the result is the exact known-good file (md5 `557c6e79ad576c3054785bd27fa65340`). If either check fails it writes nothing.
-3. Write `de-recovery-phosphor.img` to a **spare** microSD card with **Win32 Disk Imager** (it wipes that card; Rufus may refuse the image).
-4. Put that card in the cart, **hold SELECT** while turning on (safe mode), choose **Update Loader**, and wait for 100%.
-5. Put your normal SD card back.
+1. Write `de-recovery-phosphor.img` to a **spare** microSD card with **Win32 Disk Imager** (it wipes that card; Rufus may refuse the image).
+2. Put that card in the cart, **hold SELECT** while turning on (safe mode), choose **Update Loader**, and wait for 100%. Don't turn the power off while it writes.
+3. Put your normal SD card back.
+
+Want to make it yourself? `loader/patch_loader.py` builds the same file from your own copy of EZ-Flash's `de-recovery.img` (the **Omega DE** one, not the original Omega one) and checks the md5 before and after:
+```
+python loader/patch_loader.py de-recovery.img de-recovery-phosphor.img
+```
 
 **To undo it:** do the same with EZ-Flash's original `de-recovery.img`. Safe mode is separate from the loader and isn't changed, so this way back always stays available.
 
@@ -285,7 +284,7 @@ All PC-side, nothing here runs on the cart.
 | `tools/make_cheat_pack.py` | Builds a cheat pack from the libretro cheat database (game codes from the No-Intro GBA dat). |
 | `tools/gbacodes.py` | Converts Action Replay v3 / AR MAX and GameShark v1/v2 codes (encrypted or raw) to the plain Code Breaker that Phosphor_DE runs. |
 | `tools/cht_check.c` | The Phosphor_DE cheat parser and compiler built for the PC, used to check cheat files. |
-| `tools/loader/patch_loader.py` | The loader recolor (above). |
+| `loader/patch_loader.py` | Makes the loader recolor image from EZ-Flash's `de-recovery.img` (above). |
 | `tools/make_sim_disk.sh` | Makes the test SD card for the emulator build. |
 | `tools/bdf2font.py` | Turns a BDF font into the kernel's font header. |
 

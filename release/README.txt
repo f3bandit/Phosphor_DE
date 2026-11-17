@@ -31,8 +31,11 @@ KEYS
   In game: L+R+START = in-game menu / reset to menu, L+R+SELECT = sleep (see Settings > Add-ons)
 
 LOADER RECOLOR (optional, makes the bright blue install screen grey)
-  loader\patch_loader.py patches your own copy of EZ-Flash's de-recovery.img (4 bytes, checked by md5).
-  Steps in the full guide on GitHub.
+  loader\de-recovery-phosphor.img  (md5 557c6e79ad576c3054785bd27fa65340)
+  1. Write it to a SPARE microSD with Win32 Disk Imager (wipes that card).
+  2. Card in the cart, HOLD SELECT at power-on (safe mode), "Update Loader", wait for 100%.
+  3. Put your normal SD card back.
+  Undo: same steps with EZ-Flash's original de-recovery.img. Details in loader\README.txt.
 
 GOING BACK
   Put EZ-Flash's official ezkernelnew.bin on the SD root and hold R at power-on.
