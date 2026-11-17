@@ -27,6 +27,58 @@ DROP = {('MSSE', '(M) - Must Be On'): 'suspicious master code (GBA Video)',
 FIX = {('AFXE', 'Infinite MP No 4'): '022003B4 000003E7',      # encrypted junk on the site, rebuilt from
        ('AFXE', 'Max Level No 24'): '0020190E 00000063'}       # the pattern of the other characters
 
+# Checked by hand (and on the cart), applied last to every cheat whatever its source (GameHacking or
+# libretro): POST_DROP removes, POST_CODE replaces the code (Code Breaker, '+' between words),
+# RENAME fixes the name (button combos read from the code's key checks).
+_EMERALD_HEAP = 'writes into the game\'s heap (0x02000000-0x0201BFFF) every frame: overworld graphics glitches'
+POST_DROP = {}
+for _c in ('BPEE', 'BPEP'):
+    POST_DROP[(_c, 'Max Money')] = 'only changes the money shown in the bag; ' + _EMERALD_HEAP
+    POST_DROP[(_c, 'Max Coins')] = _EMERALD_HEAP + ' (Max Coins From Pokies only writes in the slot machine)'
+    POST_DROP[(_c, 'Wild Pokemon Catching Spree')] = _EMERALD_HEAP
+POST_DROP[('BPEE', 'Complete Pokedex')] = 'only fills entries 1-8 (Pokedex Complete is the full one)'
+POST_CODE = {
+    # libretro's Anti DMA (SuperCheats' B2809E31 3CEF5320 1C7B3231 B494738C) patches 0x08076BEE and the
+    # save data still moves (Infinite Money did nothing on the cart); the Action Replay money code's own
+    # Anti DMA (A57E2EDE A5AFF3E4, game ID BPEE) patches 0x08076BEA
+    ('BPEE', 'Anti DMA'): '88076BEA+2400',
+}
+for _c in ('BPEE', 'BPEP', 'BPEF'):     # SaveBlock2 play time: hours (0x0E) were left alone
+    POST_CODE[(_c, 'Low Game Time')] = '82024A62+0000+82024A64+0001+82024A66+0000'
+RENAME = {('BPEE', a): b for a, b in (
+    ('Access Fly Map [Press Select]', 'Access Fly Map [Press A+Select]'),
+    ('Have Flash [Press L+Select]', 'Have Flash [Press Select+Up]'),
+    ('1-Hit Kill', '1-Hit Kill [Hold L]'),
+    ('1-Hit Double Battle Kill (Instant Win)', '1-Hit Double Battle Kill [Hold L]'),
+    ('1-Hit Win', '1-Hit Win [Hold R]'),
+    ('100% catch Rate', '100% Catch Rate'),
+    ('Gain 5000 Exp', 'Gain 5000 Exp [Press A+R]'),
+    ('Receive Starter', 'Receive Starter [Press L+R+Down]'),
+    ('Receive Symbol', 'Receive Symbol [Hold Select]'),
+    ('Recieve More Exp', 'Receive More Exp'),
+    ('The Human Bike', 'The Human Bike [B+Up On, B+Down Off]'),
+    ('Berry Blender Re-Battle Activator', 'Berry Blender Re-Battle [Hold Select]'),
+    ('Receive Balance Badge', 'Receive Balance Badge [Press Select+L+Up]'),
+    ('Receive Dynamo Badge', 'Receive Dynamo Badge [Press Select+Down]'),
+    ('Receive Feather Badge', 'Receive Feather Badge [Press Select+L+Right]'),
+    ('Receive Heat Badge', 'Receive Heat Badge [Press Select+Left]'),
+    ('Receive Knuckle Badge', 'Receive Knuckle Badge [Press Select+Right]'),
+    ('Receive Mind Badge', 'Receive Mind Badge [Press Select+L+Down]'),
+    ('Receive Rain Badge', 'Receive Rain Badge [Press Select+L+Left]'),
+    ('Receive Stone Badge', 'Receive Stone Badge [Press Select+Up]'),
+    ('Mystic Ticket', 'Mystic Ticket (one at a time)'),
+    ('Aurora Ticket', 'Aurora Ticket (one at a time)'),
+    ('Have Old Sea Map', 'Have Old Sea Map (one at a time)'))}
+
+def post_fix(code, cheats, report):
+    """the hand-checked fixes above, on one game's merged list"""
+    out = []
+    for d, c in cheats:
+        if (code, d) in POST_DROP:
+            report.append((code, d, POST_DROP[(code, d)])); continue
+        out.append((RENAME.get((code, d), d), POST_CODE.get((code, d), c)))
+    return out
+
 # ---------------------------------------------------------------- reading
 def read_cht(text):
     d = dict(re.findall(r'cheat(\d+)_desc\s*=\s*"([^"]*)"', text))
@@ -288,6 +340,7 @@ def main(src, lrpack, db, out):
         if len(cheats) > CH_MAX:
             for d, _ in cheats[CH_MAX:]: report.append((code, d, 'over the 448-cheat list limit'))
             cheats = cheats[:CH_MAX]
+        cheats = post_fix(code, cheats, report)
         cheats = fix_auto(code, cheats, report)
         cheats = engine_check(dst, code, cheats, report, checker, tmp)
         if not cheats: continue

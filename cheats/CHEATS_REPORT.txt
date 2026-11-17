@@ -1,4 +1,4 @@
-1704 games, 31166 cheats
+1704 games, 31159 cheats
 
 Dropped:
    24979  value list from an XXXX code
@@ -10,8 +10,12 @@ Dropped:
      390  over the 448-cheat list limit
       40  unknown code format
        5  auto code that does more than plain writes / ROM patches
+       2  writes into the game's heap (0x02000000-0x0201BFFF) every frame: overworld graphics glitches (Max Coins From Pokies only writes in the slot machine)
+       2  only changes the money shown in the bag; writes into the game's heap (0x02000000-0x0201BFFF) every frame: overworld graphics glitches
+       2  writes into the game's heap (0x02000000-0x0201BFFF) every frame: overworld graphics glitches
        1  also overwrites the byte next to each item count
        1  suspicious master code (GBA Video)
+       1  only fills entries 1-8 (Pokedex Complete is the full one)
 
 GameHacking games with no game code (not included):
   Anguna (Homebrew) [69056]
@@ -32078,3 +32082,10 @@ BQ7X | Enable Code | Phosphor_DE cheat engine can't run it
 BSBP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BSNX | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BTAP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+BPEE | Max Coins | writes into the game's heap (0x02000000-0x0201BFFF) every frame: overworld graphics glitches (Max Coins From Pokies only writes in the slot machine)
+BPEE | Max Money | only changes the money shown in the bag; writes into the game's heap (0x02000000-0x0201BFFF) every frame: overworld graphics glitches
+BPEE | Wild Pokemon Catching Spree | writes into the game's heap (0x02000000-0x0201BFFF) every frame: overworld graphics glitches
+BPEE | Complete Pokedex | only fills entries 1-8 (Pokedex Complete is the full one)
+BPEP | Max Coins | writes into the game's heap (0x02000000-0x0201BFFF) every frame: overworld graphics glitches (Max Coins From Pokies only writes in the slot machine)
+BPEP | Max Money | only changes the money shown in the bag; writes into the game's heap (0x02000000-0x0201BFFF) every frame: overworld graphics glitches
+BPEP | Wild Pokemon Catching Spree | writes into the game's heap (0x02000000-0x0201BFFF) every frame: overworld graphics glitches
