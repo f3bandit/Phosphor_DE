@@ -7,7 +7,7 @@ NOT FOR: the original Omega, the newer blue "Omega DE B" (ezbluekernel.bin), or 
 INSTALL
 1. Copy everything inside the "SD card" folder to the ROOT of your microSD card:
      ezkernelnew.bin
-     SYSTEM\CHEATS\   (the cheat pack: 1,704 games, 31,168 ready-to-play cheats)
+     SYSTEM\CHEATS\   (the cheat pack: 1,704 games, 31,166 ready-to-play cheats)
    If the card already has a SYSTEM folder, merge them.
 2. Put the card in the cart. HOLD R while turning the console on, until the update screen shows.
 3. Let it finish. DO NOT turn the power off while it writes.

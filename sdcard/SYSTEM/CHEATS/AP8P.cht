@@ -32,6 +32,6 @@ cheat7_desc = "Infinite Time On Chests/Mini Games"
 cheat7_code = "82001804+0040"
 cheat7_enable = false
 
-cheat8_desc = "Infinite Tries On Musical Mayhem (Timer Must Be On)"
+cheat8_desc = "Infinite Tries On Musical Mayhem (Timer Needs To Be On)"
 cheat8_code = "82001074+0000"
 cheat8_enable = false

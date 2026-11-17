@@ -1,109 +1,109 @@
 cheats = 27
 
-cheat0_desc = "Access All Panels"
-cheat0_code = "4203ADF4+0012+00000003+0020+4203AEF4+0012+00000003+0020+4203AFF4+0012+00000003+0020"
+cheat0_desc = "[M] Must Be On"
+cheat0_code = "0000440B+000A+1000036C+0007+82001790+0000+82001792+0000"
 cheat0_enable = false
 
-cheat1_desc = "Access BMD [Press Select+Right]"
-cheat1_code = "74000130+03EB+3200A500+0001+74000130+03EB+4200A52C+87C4+00000002+0008+74000130+03EB+4200A52E+0875+00000003+0004+74000130+03EB+8200A530+85A0+74000130+03EB+8200A600+0080+74000130+03EB+8200A558+00FF"
+cheat1_desc = "Access All Panels"
+cheat1_code = "4203ADF4+0012+00000003+0020+4203AEF4+0012+00000003+0020+4203AFF4+0012+00000003+0020"
 cheat1_enable = false
 
-cheat2_desc = "Access GMD [Press Select+Down]"
-cheat2_code = "74000130+037B+8200A500+1801+74000130+037B+4200A52C+87C4+00000002+0008+74000130+037B+4200A52E+0875+00000003+0004+74000130+037B+8200A530+85A0+74000130+037B+8200A600+0080+74000130+037B+8200A558+00FF"
+cheat2_desc = "Access BMD [Press Select+Right]"
+cheat2_code = "74000130+03EB+3200A500+0001+74000130+03EB+4200A52C+87C4+00000002+0008+74000130+03EB+4200A52E+0875+00000003+0004+74000130+03EB+8200A530+85A0+74000130+03EB+8200A600+0080+74000130+03EB+8200A558+00FF"
 cheat2_enable = false
 
-cheat3_desc = "Buster Level S"
-cheat3_code = "3203582E+000B"
+cheat3_desc = "Access GMD [Press Select+Down]"
+cheat3_code = "74000130+037B+8200A500+1801+74000130+037B+4200A52C+87C4+00000002+0008+74000130+037B+4200A52E+0875+00000003+0004+74000130+037B+8200A530+85A0+74000130+037B+8200A600+0080+74000130+037B+8200A558+00FF"
 cheat3_enable = false
 
-cheat4_desc = "Cheap Chip Trader"
-cheat4_code = "3200B1C0+0000"
+cheat4_desc = "Buster Level S"
+cheat4_code = "3203582E+000B"
 cheat4_enable = false
 
-cheat5_desc = "Chips Deal 5000 Damage"
-cheat5_code = "42035CBE+1388+00000005+0002"
+cheat5_desc = "Cheap Chip Trader"
+cheat5_code = "3200B1C0+0000"
 cheat5_enable = false
 
-cheat6_desc = "Chips Do 9000 Damage"
-cheat6_code = "42035CBE+2328+00000005+0004"
+cheat6_desc = "Chips Deal 5000 Damage"
+cheat6_code = "42035CBE+1388+00000005+0002"
 cheat6_enable = false
 
-cheat7_desc = "Custom Gauge Full"
-cheat7_code = "32036415+0040"
+cheat7_desc = "Chips Do 9000 Damage"
+cheat7_code = "42035CBE+2328+00000005+0004"
 cheat7_enable = false
 
-cheat8_desc = "Delete Enemies [Press Select+Up]"
-cheat8_code = "74000130+03BB+32035815+0000"
+cheat8_desc = "Custom Gauge Full"
+cheat8_code = "32036415+0040"
 cheat8_enable = false
 
-cheat9_desc = "Free Net Deals"
-cheat9_code = "7200A512+0002+4201A006+0000+00000005+0008"
+cheat9_desc = "Delete Enemies [Press Select+Up]"
+cheat9_code = "74000130+03BB+32035815+0000"
 cheat9_enable = false
 
-cheat10_desc = "Full Custom Gauge"
-cheat10_code = "82036414+4000"
+cheat10_desc = "Free Net Deals"
+cheat10_code = "7200A512+0002+4201A006+0000+00000005+0008"
 cheat10_enable = false
 
-cheat11_desc = "Have All Navi Blocks"
-cheat11_code = "42000306+0000+0000005B+0002+42003892+0909+0000005B+0002+42005A12+7171+0000005B+0002"
+cheat11_desc = "Full Custom Gauge"
+cheat11_code = "82036414+4000"
 cheat11_enable = false
 
-cheat12_desc = "Have All Souls"
-cheat12_code = "8200242E+FFFF+32002430+00FF"
+cheat12_desc = "Have All Navi Blocks"
+cheat12_code = "42000306+0000+0000005B+0002+42003892+0909+0000005B+0002+42005A12+7171+0000005B+0002"
 cheat12_enable = false
 
-cheat13_desc = "Have All Subchips"
-cheat13_code = "420002F0+0000+00000003+0002+4200387C+0404+00000004+0002+420059FC+7171+00000003+0002"
+cheat13_desc = "Have All Souls"
+cheat13_code = "8200242E+FFFF+32002430+00FF"
 cheat13_enable = false
 
-cheat14_desc = "Have Max Zenny"
-cheat14_code = "82000180+0000+82000182+0000+82002388+423F+8200238A+000F+82005EE8+423F+82005EEA+000F"
+cheat14_desc = "Have All Subchips"
+cheat14_code = "420002F0+0000+00000003+0002+4200387C+0404+00000004+0002+420059FC+7171+00000003+0002"
 cheat14_enable = false
 
-cheat15_desc = "Have Navi Customizer"
-cheat15_code = "3200243A+00FF+320024B7+00FF"
+cheat15_desc = "Have Max Zenny"
+cheat15_code = "82000180+0000+82000182+0000+82002388+423F+8200238A+000F+82005EE8+423F+82005EEA+000F"
 cheat15_enable = false
 
-cheat16_desc = "Infinite Health"
-cheat16_code = "3203B1A4+0064"
+cheat16_desc = "Have Navi Customizer"
+cheat16_code = "3200243A+00FF+320024B7+00FF"
 cheat16_enable = false
 
-cheat17_desc = "Infinite HP"
-cheat17_code = "8203B1A4+270F+82035844+270F"
+cheat17_desc = "Infinite Health"
+cheat17_code = "3203B1A4+0064"
 cheat17_enable = false
 
-cheat18_desc = "Low Delete Time"
-cheat18_code = "72035842+0003+82035850+0000"
+cheat18_desc = "Infinite HP"
+cheat18_code = "8203B1A4+270F+82035844+270F"
 cheat18_enable = false
 
-cheat19_desc = "Max Bug Frags After Battle"
-cheat19_code = "8203B840+FE00"
+cheat19_desc = "Low Delete Time"
+cheat19_code = "72035842+0003+82035850+0000"
 cheat19_enable = false
 
-cheat20_desc = "No Random Battles"
-cheat20_code = "820023BE+0000"
+cheat20_desc = "Max Bug Frags After Battle"
+cheat20_code = "8203B840+FE00"
 cheat20_enable = false
 
-cheat21_desc = "Quick Weapon Charge"
-cheat21_code = "72035B52+0001+32035B52+0081"
+cheat21_desc = "No Random Battles"
+cheat21_code = "820023BE+0000"
 cheat21_enable = false
 
-cheat22_desc = "Quick Zenny Gain"
-cheat22_code = "7200A534+8996+8200A554+C350"
+cheat22_desc = "Quick Weapon Charge"
+cheat22_code = "72035B52+0001+32035B52+0081"
 cheat22_enable = false
 
-cheat23_desc = "Rapid Fire"
-cheat23_code = "72035B2A+0300+32035B64+0028"
+cheat23_desc = "Quick Zenny Gain"
+cheat23_code = "7200A534+8996+8200A554+C350"
 cheat23_enable = false
 
-cheat24_desc = "Skip Battle Scene"
-cheat24_code = "72035810+0000+82035810+0408+7200A7AC+0100+8200A7A6+0100+7200A7A0+0801+8200A7A6+0000"
+cheat24_desc = "Rapid Fire"
+cheat24_code = "72035B2A+0300+32035B64+0028"
 cheat24_enable = false
 
-cheat25_desc = "Transparent"
-cheat25_code = "72035810+0C04+32039A28+000C"
+cheat25_desc = "Skip Battle Scene"
+cheat25_code = "72035810+0000+82035810+0408+7200A7AC+0100+8200A7A6+0100+7200A7A0+0801+8200A7A6+0000"
 cheat25_enable = false
 
-cheat26_desc = "[M] Must Be On"
-cheat26_code = "0000440B+000A+1000036C+0007+82001790+0000+82001792+0000"
+cheat26_desc = "Transparent"
+cheat26_code = "72035810+0C04+32039A28+000C"
 cheat26_enable = false

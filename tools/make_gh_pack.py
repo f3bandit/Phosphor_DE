@@ -22,7 +22,8 @@ import gbacodes as g
 
 CH_MAX = 448
 HERE = os.path.dirname(os.path.abspath(__file__))
-DROP = {('AFXE', 'Infinite Items (All Slots)'): 'also overwrites the byte next to each item count'}
+DROP = {('MSSE', '(M) - Must Be On'): 'suspicious master code (GBA Video)',
+        ('AFXE', 'Infinite Items (All Slots)'): 'also overwrites the byte next to each item count'}
 FIX = {('AFXE', 'Infinite MP No 4'): '022003B4 000003E7',      # encrypted junk on the site, rebuilt from
        ('AFXE', 'Max Level No 24'): '0020190E 00000063'}       # the pattern of the other characters
 
@@ -202,6 +203,28 @@ def gh_game(code, entries, report):
         out.append((d, cc)); seen.add(key(d))
     return out
 
+# The cart switches a cheat on by itself ("auto") when its name contains one of these
+# (source/pde_cheats.c is_auto). Auto cheats go to the top of every list.
+AUTO_TRIGGERS = ('Anti DMA', 'Anti-DMA', 'Must Be On', 'must be on')
+REAL_AUTO = re.compile(r'^\W*(\(m\)|\[m\])?\W*(must be on|anti[- ]?dma|disable dma|enable code|[^()]*enable code)\b|\(must be on\)\s*$|^\W*must be on', re.I)
+
+def fix_auto(code, cheats, report):
+    """auto cheats first; names that only mention a trigger get reworded so the cart doesn't
+    switch them on by itself; auto cheats may only do plain writes and ROM patches, since they
+    run whenever any other cheat is on"""
+    auto, rest = [], []
+    for d, c in cheats:
+        if not any(t in d for t in AUTO_TRIGGERS):
+            rest.append((d, c)); continue
+        if not REAL_AUTO.search(d):
+            nd = d.replace('Anti-DMA', 'AntiDMA').replace('Anti DMA', 'AntiDMA').replace('Must Be On', 'Needs To Be On').replace('must be on', 'needs to be on')
+            rest.append((nd, c)); continue
+        lines = c.split('+'); types = {lines[k][0] for k in range(0, len(lines), 2)}
+        if not types <= set('0138') or (code, d) in DROP:
+            report.append((code, d, DROP.get((code, d), 'auto code that does more than plain writes / ROM patches'))); continue
+        auto.append((d, c))
+    return auto + rest
+
 def key(name):
     return re.sub(r'[^a-z0-9]', '', name.lower())
 
@@ -265,6 +288,7 @@ def main(src, lrpack, db, out):
         if len(cheats) > CH_MAX:
             for d, _ in cheats[CH_MAX:]: report.append((code, d, 'over the 448-cheat list limit'))
             cheats = cheats[:CH_MAX]
+        cheats = fix_auto(code, cheats, report)
         cheats = engine_check(dst, code, cheats, report, checker, tmp)
         if not cheats: continue
         write_cht(os.path.join(dst, code + '.cht'), cheats)

@@ -1,15 +1,17 @@
-1704 games, 31168 cheats
+1704 games, 31166 cheats
 
 Dropped:
    24979  value list from an XXXX code
     1829  Action Replay / GameShark code that won't decode
     1659  master / must-be-on code, not needed
     1413  Code Breaker code that is encrypted or broken
-     865  Phosphor_DE cheat engine can't run it
+     861  Phosphor_DE cheat engine can't run it
      825  same code as another cheat
      390  over the 448-cheat list limit
       40  unknown code format
+       5  auto code that does more than plain writes / ROM patches
        1  also overwrites the byte next to each item count
+       1  suspicious master code (GBA Video)
 
 GameHacking games with no game code (not included):
   Anguna (Homebrew) [69056]
@@ -29017,6 +29019,7 @@ BFFJ | Max MP | value list from an XXXX code
 BFFJ | Max Str | value list from an XXXX code
 BFFJ | No Random Battles | value list from an XXXX code
 BFFJ | Quick Level Gain | value list from an XXXX code
+MSSE | (M) - Must Be On | suspicious master code (GBA Video)
 XXXE | Bolt | value list from an XXXX code
 XXXE | Enemies Can't Block | value list from an XXXX code
 XXXE | Fire | value list from an XXXX code
@@ -30874,8 +30877,8 @@ AONE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AVYE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 ABWE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BCME | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
-AC7P | Infinite Health | Phosphor_DE cheat engine can't run it
 AC7P | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+AC7P | Infinite Health | Phosphor_DE cheat engine can't run it
 AC7E | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 ACPE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BC6E | Enabler Code | Phosphor_DE cheat engine can't run it
@@ -30929,8 +30932,8 @@ ADBE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 ADIE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 ADLE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 A8SE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
-BDSP | 5 Diamonds | Phosphor_DE cheat engine can't run it
 BDSP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+BDSP | 5 Diamonds | Phosphor_DE cheat engine can't run it
 BDSE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AD3E | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AQPE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
@@ -30949,11 +30952,11 @@ A5NP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 A5NE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BDQP | Enable Code | Phosphor_DE cheat engine can't run it
 BDQE | Enable Code | Phosphor_DE cheat engine can't run it
+ADME | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 ADME | Have Red Keycard | Phosphor_DE cheat engine can't run it
 ADME | Max Plasma Cells | Phosphor_DE cheat engine can't run it
 ADME | Weapon Always BFG | Phosphor_DE cheat engine can't run it
 ADME | Weapon Always Chainsaw | Phosphor_DE cheat engine can't run it
-ADME | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 ADMP | Have Red Keycard | Phosphor_DE cheat engine can't run it
 ADMP | Max Plasma Cells | Phosphor_DE cheat engine can't run it
 ADMP | Weapon Always BFG | Phosphor_DE cheat engine can't run it
@@ -30986,8 +30989,8 @@ BD6E | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AA9P | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AA9E | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AD4E | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
-AETE | Infinite Continues | Phosphor_DE cheat engine can't run it
 AETE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+AETE | Infinite Continues | Phosphor_DE cheat engine can't run it
 AMGE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AWXJ | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AWXE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
@@ -31001,8 +31004,8 @@ BFZE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AFZE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AF8E | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BFIE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
-AF6E | Access In-Game Cheats | Phosphor_DE cheat engine can't run it
 AF6E | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+AF6E | Access In-Game Cheats | Phosphor_DE cheat engine can't run it
 AFVE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BZ4P | Enable Code | Phosphor_DE cheat engine can't run it
 BZ4J | Enable Code | Phosphor_DE cheat engine can't run it
@@ -31015,11 +31018,11 @@ AZIX | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AZIY | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BE8E | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AFPE | Always Low Round Timer | Phosphor_DE cheat engine can't run it
-AFYE | Low Timer | Phosphor_DE cheat engine can't run it
 AFYE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+AFYE | Low Timer | Phosphor_DE cheat engine can't run it
 AFSE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
-AFOE | Max Score (Green Player) | Phosphor_DE cheat engine can't run it
 AFOE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+AFOE | Max Score (Green Player) | Phosphor_DE cheat engine can't run it
 AFOP | Max Score (Green Player) | Phosphor_DE cheat engine can't run it
 BFSP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BFSE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
@@ -31046,13 +31049,13 @@ AGAE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AGXP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AGXJ | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AGXE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
-BGVE | (M) Must Be On | Phosphor_DE cheat engine can't run it
+BGVE | (M) Must Be On | auto code that does more than plain writes / ROM patches
 AH3E | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BHPJ | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BHPE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+A7HE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 A7HE | Girding Potion | Phosphor_DE cheat engine can't run it
 A7HE | Press R+Up For 5th Magic Spell | Phosphor_DE cheat engine can't run it
-A7HE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 A7HP | Girding Potion | Phosphor_DE cheat engine can't run it
 A7HP | Press R+Up For 5th Magic Spell | Phosphor_DE cheat engine can't run it
 BHTE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
@@ -31061,19 +31064,19 @@ A4NP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BFGE | Enabler Code | Phosphor_DE cheat engine can't run it
 AAEP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AAEE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+AHHE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AHHE | 1 Strike And You Are Out | Phosphor_DE cheat engine can't run it
 AHHE | P3 Has 0 Home Runs | Phosphor_DE cheat engine can't run it
-AHHE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AHPP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AHPE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+AHWP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AHWP | All Courses | Phosphor_DE cheat engine can't run it
 AHWP | Have All Cups | Phosphor_DE cheat engine can't run it
 AHWP | Sooo Fast | Phosphor_DE cheat engine can't run it
 AHWP | Twin Mill II | Phosphor_DE cheat engine can't run it
-AHWP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AHWE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
-AIAE | Have Walnut | Phosphor_DE cheat engine can't run it
 AIAE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+AIAE | Have Walnut | Phosphor_DE cheat engine can't run it
 AHLE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BICE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AIGE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
@@ -31095,6 +31098,7 @@ AYKE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AN6J | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BKHP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BKHE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+AEYP | [M] Must Be On | auto code that does more than plain writes / ROM patches
 AEYE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BKMP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BKME | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
@@ -31116,6 +31120,7 @@ AKWP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AKWE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 ALBP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 ALBE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+AL2E | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AL2E | Have Max Card 10 | Phosphor_DE cheat engine can't run it
 AL2E | Have Max Card 13 | Phosphor_DE cheat engine can't run it
 AL2E | Have Max Card 14 | Phosphor_DE cheat engine can't run it
@@ -31124,7 +31129,6 @@ AL2E | Have Max Card 26 | Phosphor_DE cheat engine can't run it
 AL2E | Have Max Card 29 | Phosphor_DE cheat engine can't run it
 AL2E | Have Max Card 30 | Phosphor_DE cheat engine can't run it
 AL2E | Have Max Card 9 | Phosphor_DE cheat engine can't run it
-AL2E | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BLWE | Enable Code | Phosphor_DE cheat engine can't run it
 BL7P | Enable Code | Phosphor_DE cheat engine can't run it
 BL7P | Enable Code (Alternate) | Phosphor_DE cheat engine can't run it
@@ -31134,18 +31138,18 @@ ALDE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 B3YP | Enabler Code | Phosphor_DE cheat engine can't run it
 B3YE | Enabler Code | Phosphor_DE cheat engine can't run it
 AZLP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+AZLE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AZLE | Link's Tunic is Orange | Phosphor_DE cheat engine can't run it
 AZLE | Link's Tunic is Red | Phosphor_DE cheat engine can't run it
 AZLE | Link's Tunic is Yellow | Phosphor_DE cheat engine can't run it
-AZLE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BZMP | Enable (M) | Phosphor_DE cheat engine can't run it
 BZME | Enable (M) | Phosphor_DE cheat engine can't run it
 A2LE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 ALTP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 ALTE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BLSE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
-BLKE | The Sky Is Falling: Moon Jump | Phosphor_DE cheat engine can't run it
 BLKE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+BLKE | The Sky Is Falling: Moon Jump | Phosphor_DE cheat engine can't run it
 ALCE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 A39J | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BLRE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
@@ -31177,25 +31181,25 @@ A8BE | Enable Code | Phosphor_DE cheat engine can't run it
 A9BP | Enable Code | Phosphor_DE cheat engine can't run it
 A9BE | Enable Code | Phosphor_DE cheat engine can't run it
 AK8P | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+AK8E | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AK8E | Ghost | Phosphor_DE cheat engine can't run it
 AK8E | Max/Infinite Rounds Leader | Phosphor_DE cheat engine can't run it
 AK8E | Unicorn | Phosphor_DE cheat engine can't run it
-AK8E | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
-AK9E | Leader: Infinite Health | Phosphor_DE cheat engine can't run it
 AK9E | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+AK9E | Leader: Infinite Health | Phosphor_DE cheat engine can't run it
 BMHE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AUGE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AGIJ | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AREE | Miyu | Phosphor_DE cheat engine can't run it
-AZCE | Press A For Moon Jump | Phosphor_DE cheat engine can't run it
-AZCE | [M] Must Be On | Phosphor_DE cheat engine can't run it
+AZCE | [M] Must Be On | auto code that does more than plain writes / ROM patches
 AZCE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+AZCE | Press A For Moon Jump | Phosphor_DE cheat engine can't run it
+AZCP | [M] Must Be On | auto code that does more than plain writes / ROM patches
 AZCP | Press A For Moon Jump | Phosphor_DE cheat engine can't run it
-AZCP | [M] Must Be On | Phosphor_DE cheat engine can't run it
 A62E | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BZ3P | Max/Infinite Crystals | Phosphor_DE cheat engine can't run it
-BZ3E | Max/Infinite Crystals | Phosphor_DE cheat engine can't run it
 BZ3E | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+BZ3E | Max/Infinite Crystals | Phosphor_DE cheat engine can't run it
 BZ3E | Mission Time 0 (Perfect Score) | Phosphor_DE cheat engine can't run it
 BZ3E | Enemies Killed (Perfect Score) | Phosphor_DE cheat engine can't run it
 BZ3E | Never Hit (Perfect Score) | Phosphor_DE cheat engine can't run it
@@ -31216,18 +31220,18 @@ AM8E | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BQ7P | Enable Code | Phosphor_DE cheat engine can't run it
 BQ7E | Enable Code | Phosphor_DE cheat engine can't run it
 AJAP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+AJAE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AJAE | Aztec Temple | Phosphor_DE cheat engine can't run it
 AJAE | New York | Phosphor_DE cheat engine can't run it
-AJAE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AMFE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BMTE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 A4BE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AMXE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AMXX | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AMXY | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+AW4E | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AW4E | One-Button Fatalities | Phosphor_DE cheat engine can't run it
 AW4E | One-Button Weapon Fatalities | Phosphor_DE cheat engine can't run it
-AW4E | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AM5E | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AMRE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AMWP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
@@ -31243,7 +31247,7 @@ ANQP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 ANQE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AGPE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BODE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
-A6OP | [M] Must Be On | Phosphor_DE cheat engine can't run it
+A6OP | [M] Must Be On | auto code that does more than plain writes / ROM patches
 A6OP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 A6OJ | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 A6OE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
@@ -31310,8 +31314,8 @@ BPPP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BPPE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BPOE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 APRE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
-APWE | Press Start To Open Exits | Phosphor_DE cheat engine can't run it
 APWE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+APWE | Press Start To Open Exits | Phosphor_DE cheat engine can't run it
 AP5E | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 APTP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 APTE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
@@ -31385,13 +31389,13 @@ A4AE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 ASIE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 ASGE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 ASQP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+ASQE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 ASQE | Start On Level 18 | Phosphor_DE cheat engine can't run it
 ASQE | Start On Level 19 | Phosphor_DE cheat engine can't run it
-ASQE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 ASOP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 ASOJ | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
-ASOE | Have 200 Special Rings | Phosphor_DE cheat engine can't run it
 ASOE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+ASOE | Have 200 Special Rings | Phosphor_DE cheat engine can't run it
 A2NP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 A2NJ | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 A2NE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
@@ -31438,8 +31442,8 @@ AZUE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 A3ZE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 ASLE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AB4E | Enable Code | Phosphor_DE cheat engine can't run it
-ADFE | Team 1-P4 Infinite Health | Phosphor_DE cheat engine can't run it
 ADFE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+ADFE | Team 1-P4 Infinite Health | Phosphor_DE cheat engine can't run it
 BDPE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AG5E | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BF8E | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
@@ -31460,8 +31464,8 @@ AN8J | Enable Code | Phosphor_DE cheat engine can't run it
 AN8E | Enable Code | Phosphor_DE cheat engine can't run it
 ATAP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 ATAE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
-AJGE | Moon Jump | Phosphor_DE cheat engine can't run it
 AJGE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+AJGE | Moon Jump | Phosphor_DE cheat engine can't run it
 AJGP | Moon Jump | Phosphor_DE cheat engine can't run it
 BNTP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BNTE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
@@ -31469,15 +31473,15 @@ BT2P | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 BT2E | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 ATKP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 ATKJ | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+ATKE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 ATKE | P1 Always Gunjack | Phosphor_DE cheat engine can't run it
 ATKE | P1 Always Jin | Phosphor_DE cheat engine can't run it
 ATKE | P1 Always Nina | Phosphor_DE cheat engine can't run it
 ATKE | P1 Always Paul | Phosphor_DE cheat engine can't run it
 ATKE | P1 Always Wins | Phosphor_DE cheat engine can't run it
 ATKE | P2 Always Wins | Phosphor_DE cheat engine can't run it
-ATKE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
-AVAJ | Max P1 Gauge | Phosphor_DE cheat engine can't run it
 AVAJ | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+AVAJ | Max P1 Gauge | Phosphor_DE cheat engine can't run it
 AO3P | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AO3E | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 A3TE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
@@ -31487,8 +31491,8 @@ BSLE | Infinite Gas Garnades | Phosphor_DE cheat engine can't run it
 ATJE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AIFP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AIFE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
-ATHE | Mindy | Phosphor_DE cheat engine can't run it
 ATHE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+ATHE | Mindy | Phosphor_DE cheat engine can't run it
 ATHP | Mindy | Phosphor_DE cheat engine can't run it
 BTOE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 B2TE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
@@ -31517,9 +31521,9 @@ AW9E | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AWQP | Allied | Phosphor_DE cheat engine can't run it
 AWOE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AWWE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
+AXME | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AXME | Phoenix | Phosphor_DE cheat engine can't run it
 AXME | Unknown 1 | Phosphor_DE cheat engine can't run it
-AXME | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AXMP | Phoenix | Phosphor_DE cheat engine can't run it
 AXMP | Unknown 1 | Phosphor_DE cheat engine can't run it
 BYYP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
@@ -31928,9 +31932,9 @@ AY7P | Alternate Master Code | Phosphor_DE cheat engine can't run it
 AY7E | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AY7E | Alternate Master Code | Phosphor_DE cheat engine can't run it
 BYWP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
-BYWP | Alternate [M] Must Be On | Phosphor_DE cheat engine can't run it
+BYWP | Alternate [M] Needs To Be On | Phosphor_DE cheat engine can't run it
 BYWE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
-BYWE | Alternate [M] Must Be On | Phosphor_DE cheat engine can't run it
+BYWE | Alternate [M] Needs To Be On | Phosphor_DE cheat engine can't run it
 AYWP | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 AYWE | Enable Code (Must Be On) | Phosphor_DE cheat engine can't run it
 A4GE | Enabler Code | Phosphor_DE cheat engine can't run it

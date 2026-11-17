@@ -2,7 +2,7 @@
 
 A custom kernel (the menu/firmware you see when you turn the cart on) for the **EZ-Flash Omega Definitive Edition** GBA flash cart, by **f3bandit**.
 
-Dark, readable, GBA-only, with a new cheat engine and a ready-made cheat pack of **31,168 cheats for 1,704 games**, every one ready to play with nothing to type in.
+Dark, readable, GBA-only, with a new cheat engine and a ready-made cheat pack of **31,166 cheats for 1,704 games**, every one ready to play with nothing to type in.
 
 ![Phosphor_DE splash](docs/splash.png)
 
@@ -153,7 +153,7 @@ The cheat system is new; EZ-Flash's was dropped because its library is badly org
 - Up to **448 cheats per game** are listed.
 
 ### The cheat pack (`SYSTEM/CHEATS`)
-- **1,704 games, 31,168 cheats**, from **GameHacking.org** (all GBA games) and the **libretro cheat database**, merged per game code.
+- **1,704 games, 31,166 cheats**, from **GameHacking.org** (all GBA games) and the **libretro cheat database**, merged per game code.
 - **Ready to play only.** Every cheat works the moment you turn it on:
   - codes where you'd have to type in a value (`XXXX`, `??`) are **removed**, along with GameHacking's long "pick a value" lists made from them. Normal codes already have the value set (like 9999 gold).
   - master / "must be on" codes are removed: Phosphor_DE doesn't need them. Anti-DMA fixes are kept.
