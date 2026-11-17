@@ -1,0 +1,201 @@
+cheats = 50
+
+cheat0_desc = "Always Low Overall Time"
+cheat0_code = "83002414+0000"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Time"
+cheat1_code = "83002442+0E10"
+cheat1_enable = false
+
+cheat2_desc = "P1 - Tag P2 Infinite Health"
+cheat2_code = "33004D32+0097+33004D34+0097"
+cheat2_enable = false
+
+cheat3_desc = "P1 - Tag P2 No Health"
+cheat3_code = "33004D32+0000+33004D34+0000"
+cheat3_enable = false
+
+cheat4_desc = "P1 - Tag P3 Infinite Health"
+cheat4_code = "330052C2+0097+330052C4+0097"
+cheat4_enable = false
+
+cheat5_desc = "P1 - Tag P3 No Health"
+cheat5_code = "330052C2+0000+330052C4+0000"
+cheat5_enable = false
+
+cheat6_desc = "P1 Always Heihachi"
+cheat6_code = "330042B3+0009"
+cheat6_enable = false
+
+cheat7_desc = "P1 Always Yoshimitsu"
+cheat7_code = "330042B3+0006"
+cheat7_enable = false
+
+cheat8_desc = "P1 Needs 1 Win To Win"
+cheat8_code = "5506F98C+0003+49C7E585+7AB3"
+cheat8_enable = false
+
+cheat9_desc = "P2 - Tag P2 Infinite Health"
+cheat9_code = "33005DE2+0097+33005DE4+0097"
+cheat9_enable = false
+
+cheat10_desc = "P2 - Tag P2 No Health"
+cheat10_code = "33005DE2+0000+33005DE4+0000"
+cheat10_enable = false
+
+cheat11_desc = "P2 - Tag P3 Infinite Health"
+cheat11_code = "33006372+0097+33006374+0097"
+cheat11_enable = false
+
+cheat12_desc = "P2 - Tag P3 No Health"
+cheat12_code = "33006372+0000+33006374+0000"
+cheat12_enable = false
+
+cheat13_desc = "P2 Needs 1 Win To Win"
+cheat13_code = "5506F98C+0003+45C6E98C+72BB"
+cheat13_enable = false
+
+cheat14_desc = "Start On Stage 10"
+cheat14_code = "5504788E+0003+ABB98A8E+C6E6"
+cheat14_enable = false
+
+cheat15_desc = "Start On Stage 2"
+cheat15_code = "5504788E+0003+EBB5C283+DEE7"
+cheat15_enable = false
+
+cheat16_desc = "Start On Stage 3"
+cheat16_code = "5504788E+0003+F3000E28+B6ED"
+cheat16_enable = false
+
+cheat17_desc = "Start On Stage 4"
+cheat17_code = "5504788E+0003+FF018221+9EE5"
+cheat17_enable = false
+
+cheat18_desc = "Start On Stage 5"
+cheat18_code = "5504788E+0003+E7A64F08+777F"
+cheat18_enable = false
+
+cheat19_desc = "Start On Stage 6"
+cheat19_code = "5504788E+0003+EBA74301+5F77"
+cheat19_enable = false
+
+cheat20_desc = "Start On Stage 7"
+cheat20_code = "5504788E+0003+F3000FAA+377D"
+cheat20_enable = false
+
+cheat21_desc = "Start On Stage 8"
+cheat21_code = "5504788E+0003+FF1303A3+1F75"
+cheat21_enable = false
+
+cheat22_desc = "Start On Stage 9"
+cheat22_code = "5504788E+0003+A7B88687+EEEE"
+cheat22_enable = false
+
+cheat23_desc = "Infinite Health P1"
+cheat23_code = "830047A2+008C"
+cheat23_enable = false
+
+cheat24_desc = "75% Health P1"
+cheat24_code = "730047A2+008C+830047A2+0069"
+cheat24_enable = false
+
+cheat25_desc = "50% Health P1"
+cheat25_code = "730047A2+008C+830047A2+0046"
+cheat25_enable = false
+
+cheat26_desc = "25% Health P1"
+cheat26_code = "730047A2+008C+830047A2+0023"
+cheat26_enable = false
+
+cheat27_desc = "1-Hit Death P1"
+cheat27_code = "730047A2+008C+830047A2+0001"
+cheat27_enable = false
+
+cheat28_desc = "No Health P1"
+cheat28_code = "830047A2+0000"
+cheat28_enable = false
+
+cheat29_desc = "P1 Never Wins"
+cheat29_code = "3300244E+0000"
+cheat29_enable = false
+
+cheat30_desc = "Infinite Health P2"
+cheat30_code = "83005852+008C"
+cheat30_enable = false
+
+cheat31_desc = "75% Health P2"
+cheat31_code = "73005852+008C+83005852+0069"
+cheat31_enable = false
+
+cheat32_desc = "50% Health P2"
+cheat32_code = "73005852+008C+83005852+0046"
+cheat32_enable = false
+
+cheat33_desc = "25% Health P2"
+cheat33_code = "73005852+008C+83005852+0023"
+cheat33_enable = false
+
+cheat34_desc = "1-Hit Death P2"
+cheat34_code = "73005852+008C+83005852+0001"
+cheat34_enable = false
+
+cheat35_desc = "P2 Never Wins"
+cheat35_code = "3300244F+0000"
+cheat35_enable = false
+
+cheat36_desc = "P1 Always Hwoarang"
+cheat36_code = "330042B3+0002"
+cheat36_enable = false
+
+cheat37_desc = "P1 Always Law"
+cheat37_code = "330042B3+0003"
+cheat37_enable = false
+
+cheat38_desc = "P1 Always King"
+cheat38_code = "330042B3+0007"
+cheat38_enable = false
+
+cheat39_desc = "P1 Always Xiaoyu"
+cheat39_code = "330042B3+0008"
+cheat39_enable = false
+
+cheat40_desc = "P2 Always Jin"
+cheat40_code = "33005363+0000"
+cheat40_enable = false
+
+cheat41_desc = "P2 Always Paul"
+cheat41_code = "33005363+0001"
+cheat41_enable = false
+
+cheat42_desc = "P2 Always Hwoarang"
+cheat42_code = "33005363+0002"
+cheat42_enable = false
+
+cheat43_desc = "P2 Always Law"
+cheat43_code = "33005363+0003"
+cheat43_enable = false
+
+cheat44_desc = "P2 Always Nina"
+cheat44_code = "33005363+0004"
+cheat44_enable = false
+
+cheat45_desc = "P2 Always Gunjack"
+cheat45_code = "33005363+0005"
+cheat45_enable = false
+
+cheat46_desc = "P2 Always Yoshimitsu"
+cheat46_code = "33005363+0006"
+cheat46_enable = false
+
+cheat47_desc = "P2 Always King"
+cheat47_code = "33005363+0007"
+cheat47_enable = false
+
+cheat48_desc = "P2 Always Xiaoyu"
+cheat48_code = "33005363+0008"
+cheat48_enable = false
+
+cheat49_desc = "P2 Always Heihachi"
+cheat49_code = "33005363+0009"
+cheat49_enable = false

@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Hole In One (P1)"
+cheat0_code = "32000936+0001"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Power Shots"
+cheat1_code = "320313B2+0009"
+cheat1_enable = false
+
+cheat2_desc = "Low Time (Speed Golf)"
+cheat2_code = "82000620+0000+82000622+0000"
+cheat2_enable = false

@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Access All Levels"
+cheat0_code = "43007CB8+0101+00000006+0002"
+cheat0_enable = false
+
+cheat1_desc = "Complete Mission [Press Start+Up]"
+cheat1_code = "74000130+03B7+32002BE6+0001+74000130+03B7+33007CB0+0000"
+cheat1_enable = false
+
+cheat2_desc = "Have 99 Kills"
+cheat2_code = "320028DC+0063+33007CA8+0063"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Ammo"
+cheat3_code = "32003C04+0063"
+cheat3_enable = false
+
+cheat4_desc = "Rapid Fire"
+cheat4_code = "32003C1E+000C"
+cheat4_enable = false
+
+cheat5_desc = "Start With Hi-Score"
+cheat5_code = "720028D8+0000+820028D8+C350"
+cheat5_enable = false
+
+cheat6_desc = "Stop Timer"
+cheat6_code = "32002BE0+0060"
+cheat6_enable = false

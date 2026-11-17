@@ -1,0 +1,21 @@
+cheats = 5
+
+cheat0_desc = "Designs"
+cheat0_code = "42005662+FFFF+0000000F+0002"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Money"
+cheat1_code = "83004034+270F"
+cheat1_enable = false
+
+cheat2_desc = "Infinite SP For A Lot of Characters"
+cheat2_code = "32005A85+0063+32005A95+0063+32005AA5+0063+32005AB5+0063+32005AC5+0063+32005AD5+0063+32005AE5+0063+32005AF5+0063+32005B05+0063+32005B15+0063+32005B25+0063+32005B35+0063+32005B45+0063+32005B55+0063+32005B56+0063"
+cheat2_enable = false
+
+cheat3_desc = "Items"
+cheat3_code = "42005F80+6363+0000000E+0002"
+cheat3_enable = false
+
+cheat4_desc = "Lvl 50 Everyone"
+cheat4_code = "42005A18+869F+0000003E+0010+42005A1A+0001+0000003E+0010"
+cheat4_enable = false

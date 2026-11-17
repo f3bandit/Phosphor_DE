@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Access All Games"
+cheat0_code = "73006FD0+6FE0+33006FE4+00FF"
+cheat0_enable = false
+
+cheat1_desc = "Access All Worlds"
+cheat1_code = "73006FD0+6FE0+33006FE2+0083"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Health"
+cheat2_code = "73006FD0+6FE0+33002C22+000A"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Lives"
+cheat3_code = "73006FD0+6FE0+33006FE0+0009"
+cheat3_enable = false
+
+cheat4_desc = "Max Lives"
+cheat4_code = "320017FE+0009+33006FE0+0009"
+cheat4_enable = false
+
+cheat5_desc = "Need To Collect Only 1 Hot Rod Part"
+cheat5_code = "3200183A+0005"
+cheat5_enable = false

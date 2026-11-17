@@ -1,0 +1,65 @@
+cheats = 16
+
+cheat0_desc = "Access All Areas"
+cheat0_code = "8202E8B6+FFFF"
+cheat0_enable = false
+
+cheat1_desc = "Access All Mini Games"
+cheat1_code = "52000A82+0004+3E444A50+565C+61000000+0000"
+cheat1_enable = false
+
+cheat2_desc = "Access All Modes"
+cheat2_code = "82000A80+3831"
+cheat2_enable = false
+
+cheat3_desc = "Database Complete"
+cheat3_code = "42000A70+FFFF+00000007+0002"
+cheat3_enable = false
+
+cheat4_desc = "Have All Chips"
+cheat4_code = "42035900+FFFF+00000004+0002"
+cheat4_enable = false
+
+cheat5_desc = "Have All Elves"
+cheat5_code = "320366F0+0007+320366F5+0000"
+cheat5_enable = false
+
+cheat6_desc = "Have All EX Skills"
+cheat6_code = "320366CA+00FF"
+cheat6_enable = false
+
+cheat7_desc = "Have All Parts"
+cheat7_code = "420358C8+9999+0000000D+0002"
+cheat7_enable = false
+
+cheat8_desc = "Have All Subtanks"
+cheat8_code = "420366BC+2020+00000002+0002"
+cheat8_enable = false
+
+cheat9_desc = "Infinite Crystals"
+cheat9_code = "820366BA+270F"
+cheat9_enable = false
+
+cheat10_desc = "Infinite Dash"
+cheat10_code = "7203673A+0001+3203673A+00FE"
+cheat10_enable = false
+
+cheat11_desc = "Infinite Health"
+cheat11_code = "320366A4+0020"
+cheat11_enable = false
+
+cheat12_desc = "Infinite Lives"
+cheat12_code = "32035910+0009"
+cheat12_enable = false
+
+cheat13_desc = "Invincible"
+cheat13_code = "32036694+0002"
+cheat13_enable = false
+
+cheat14_desc = "Multi Jump"
+cheat14_code = "D0000020+0001+82036660+FB40+D0000020+0001+82036662+FFFF"
+cheat14_enable = false
+
+cheat15_desc = "Quick Charge"
+cheat15_code = "720366E4+0606+820366E4+C8C8"
+cheat15_enable = false

@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Always Low Timer"
+cheat0_code = "83003A04+0000"
+cheat0_enable = false

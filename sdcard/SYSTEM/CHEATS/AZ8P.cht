@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Press Select For Next Gems Are Multi"
+cheat0_code = "D0000020+0004+33002EB2+0005+D0000020+0004+33002EB0+0005"
+cheat0_enable = false
+
+cheat1_desc = "Unlock Everything"
+cheat1_code = "42001348+FFFF+00000010+0002"
+cheat1_enable = false

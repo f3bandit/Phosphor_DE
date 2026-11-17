@@ -1,0 +1,49 @@
+cheats = 12
+
+cheat0_desc = "All Extras Unlocked"
+cheat0_code = "83002188+FFFF"
+cheat0_enable = false
+
+cheat1_desc = "All Levels Cleared In Story Mode"
+cheat1_code = "830025A0+01FF"
+cheat1_enable = false
+
+cheat2_desc = "All Power Cards"
+cheat2_code = "43002230+0909+000001FF+0001"
+cheat2_enable = false
+
+cheat3_desc = "Enemy 1 Has No Health"
+cheat3_code = "33001FF6+0000+33001FF3+0000"
+cheat3_enable = false
+
+cheat4_desc = "Enemy 2 Has No Health"
+cheat4_code = "33001DFB+0000+33001DFE+0000"
+cheat4_enable = false
+
+cheat5_desc = "Enemy 3 Has No Health"
+cheat5_code = "33001EF7+0000+33001EFA+0000"
+cheat5_enable = false
+
+cheat6_desc = "Hold A To Float Upwards"
+cheat6_code = "73001D08+0001+83001C70+0060"
+cheat6_enable = false
+
+cheat7_desc = "Infinite HP"
+cheat7_code = "33001CFF+0064"
+cheat7_enable = false
+
+cheat8_desc = "Max Power Bar"
+cheat8_code = "33001CD3+0048"
+cheat8_enable = false
+
+cheat9_desc = "Max Skill Points"
+cheat9_code = "83004DA8+03E7+8300218C+03E7+8300249A+03E7"
+cheat9_enable = false
+
+cheat10_desc = "Press Select To Win Instantly (Survival Battles)"
+cheat10_code = "73001D08+0004+33001626+0000+73001D08+0004+33001DFB+0000+73001D08+0004+33001EF7+0000+73001D08+0004+33001FF3+0000"
+cheat10_enable = false
+
+cheat11_desc = "Win 1 Battle To End Virtual Training"
+cheat11_code = "820001DA+0063"
+cheat11_enable = false

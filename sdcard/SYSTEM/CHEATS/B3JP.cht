@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Access All Stages"
+cheat0_code = "42010CC8+0202+00000007+0002"
+cheat0_enable = false
+
+cheat1_desc = "Have 99 Fireflies"
+cheat1_code = "32010C9C+0063"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Lives"
+cheat2_code = "32010C14+0063"
+cheat2_enable = false
+
+cheat3_desc = "Skip Level [Press Select+Up]"
+cheat3_code = "74000130+03BB+32010D64+0003"
+cheat3_enable = false

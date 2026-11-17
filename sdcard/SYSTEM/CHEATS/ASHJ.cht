@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Unlock All Digital Trading Cards"
+cheat0_code = "83002970+FFFF+83002972+FFFF"
+cheat0_enable = false

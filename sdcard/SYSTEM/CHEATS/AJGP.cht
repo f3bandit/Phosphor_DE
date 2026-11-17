@@ -1,0 +1,21 @@
+cheats = 5
+
+cheat0_desc = "Infinite Timer"
+cheat0_code = "32002732+0010"
+cheat0_enable = false
+
+cheat1_desc = "Max Bananas"
+cheat1_code = "82004508+6464"
+cheat1_enable = false
+
+cheat2_desc = "Max Score"
+cheat2_code = "82000B00+C9FF+82000B02+3B9A"
+cheat2_enable = false
+
+cheat3_desc = "Take a banana to get them all"
+cheat3_code = "8802B488+2064"
+cheat3_enable = false
+
+cheat4_desc = "Tarzan invulnerable against enemies"
+cheat4_code = "8801AA18+E009"
+cheat4_enable = false

@@ -1,0 +1,169 @@
+cheats = 42
+
+cheat0_desc = "10th Character"
+cheat0_code = "8202C0F2+6300+8202C0F4+6300+8202C0F6+6300+8202C0F8+6300+8202C0FA+6300"
+cheat0_enable = false
+
+cheat1_desc = "1st Character"
+cheat1_code = "8202BE6A+6300+8202BE6C+6300+8202BE6E+6300+8202BE70+6300+8202BE72+6300"
+cheat1_enable = false
+
+cheat2_desc = "2nd Character"
+cheat2_code = "8202BEB2+6300+8202BEB4+6300+8202BEB6+6300+8202BEB8+6300+8202BEBA+6300"
+cheat2_enable = false
+
+cheat3_desc = "3rd Character"
+cheat3_code = "8202BEFA+6300+8202BEFC+6300+8202BEFE+6300+8202BF00+6300+8202BF02+6300"
+cheat3_enable = false
+
+cheat4_desc = "4th Character"
+cheat4_code = "8202BF42+6300+8202BF44+6300+8202BF46+6300+8202BF48+6300+8202BF4A+6300"
+cheat4_enable = false
+
+cheat5_desc = "5th Character"
+cheat5_code = "8202BF8A+6300+8202BF8C+6300+8202BF8E+6300+8202BF90+6300+8202BF92+6300"
+cheat5_enable = false
+
+cheat6_desc = "6th Character"
+cheat6_code = "8202BFD2+6300+8202BFD4+6300+8202BFD6+6300+8202BFD8+6300+8202BFDA+6300"
+cheat6_enable = false
+
+cheat7_desc = "7th Character"
+cheat7_code = "8202C01A+6300+8202C01C+6300+8202C01E+6300+8202C020+6300+8202C022+6300"
+cheat7_enable = false
+
+cheat8_desc = "8th Character"
+cheat8_code = "8202C062+6300+8202C064+6300+8202C066+6300+8202C068+6300+8202C06A+6300"
+cheat8_enable = false
+
+cheat9_desc = "999,999 Gold"
+cheat9_code = "8202BCF8+423F+8202BCFA+000F"
+cheat9_enable = false
+
+cheat10_desc = "9th Character"
+cheat10_code = "8202C0AA+6300+8202C0AC+6300+8202C0AE+6300+8202C0B0+6300+8202C0B2+6300"
+cheat10_enable = false
+
+cheat11_desc = "Brave Lance"
+cheat11_code = "881C6D10+87D4"
+cheat11_enable = false
+
+cheat12_desc = "Chest Key (Five Uses)"
+cheat12_code = "880971FC+7EE5"
+cheat12_enable = false
+
+cheat13_desc = "Demon Surge"
+cheat13_code = "895501BA+13A8"
+cheat13_enable = false
+
+cheat14_desc = "Demonb Light"
+cheat14_code = "89105496+2DCF"
+cheat14_enable = false
+
+cheat15_desc = "Juna Fruit"
+cheat15_code = "881C8938+383C"
+cheat15_enable = false
+
+cheat16_desc = "Killer Bow"
+cheat16_code = "881A80AC+2FC6"
+cheat16_enable = false
+
+cheat17_desc = "Killing Edge"
+cheat17_code = "8807D568+5621"
+cheat17_enable = false
+
+cheat18_desc = "Lightning"
+cheat18_code = "890C7924+3A33"
+cheat18_enable = false
+
+cheat19_desc = "Max Current HP/Maximum HP (First 16 Characters)"
+cheat19_code = "4202BE5E+6363+00000010+0048"
+cheat19_enable = false
+
+cheat20_desc = "Max Status All Characters"
+cheat20_code = "4202BE60+6363+00000016+0048+4202BE62+6363+00000016+0048+4202BE64+6363+00000016+0048"
+cheat20_enable = false
+
+cheat21_desc = "Max/Infinite HP All Characters"
+cheat21_code = "4202BE5E+6363+00000016+0048"
+cheat21_enable = false
+
+cheat22_desc = "Neutral Phase Repeats Without Going to Other Phases (You Can Control Neutral Units)"
+cheat22_code = "881A0F64+EAB7"
+cheat22_enable = false
+
+cheat23_desc = "Ocean Seal"
+cheat23_code = "8812C784+194F"
+cheat23_enable = false
+
+cheat24_desc = "Orion's Belt"
+cheat24_code = "8878FBBA+F6F2"
+cheat24_enable = false
+
+cheat25_desc = "Portrait 1"
+cheat25_code = "8202C08C+0000"
+cheat25_enable = false
+
+cheat26_desc = "Purge"
+cheat26_code = "89385932+AF72"
+cheat26_enable = false
+
+cheat27_desc = "Quick Level UP"
+cheat27_code = "3203A4F5+0063+3203A50B+0063+3203A55A+0063+3203A575+0063"
+cheat27_enable = false
+
+cheat28_desc = "Rescue"
+cheat28_code = "33007DAF+0031"
+cheat28_enable = false
+
+cheat29_desc = "Siegmund"
+cheat29_code = "880F8A94+148E"
+cheat29_enable = false
+
+cheat30_desc = "Slim Sword"
+cheat30_code = "881A6290+FDA8"
+cheat30_enable = false
+
+cheat31_desc = "Status Effect 5"
+cheat31_code = "3202C0BC+0000"
+cheat31_enable = false
+
+cheat32_desc = "Stone Shard"
+cheat32_code = "880D0D08+357D"
+cheat32_enable = false
+
+cheat33_desc = "Support #1 6"
+cheat33_code = "3202C0BE+004F"
+cheat33_enable = false
+
+cheat34_desc = "Sword Skill 4"
+cheat34_code = "3202C0B4+0000"
+cheat34_enable = false
+
+cheat35_desc = "Turn Number"
+cheat35_code = "3202BD00+0000"
+cheat35_enable = false
+
+cheat36_desc = "Turn Status 2"
+cheat36_code = "3202C098+00BE"
+cheat36_enable = false
+
+cheat37_desc = "Turn/Phase"
+cheat37_code = "3202BCFF+0000"
+cheat37_enable = false
+
+cheat38_desc = "Vidofnir"
+cheat38_code = "880EB85C+5C72"
+cheat38_enable = false
+
+cheat39_desc = "Warp"
+cheat39_code = "88045774+ABB7"
+cheat39_enable = false
+
+cheat40_desc = "All Weapons In Supply"
+cheat40_code = "4203A81C+6301+00010059+0002"
+cheat40_enable = false
+
+cheat41_desc = "All Items In Supply"
+cheat41_code = "4203A81C+635A+00010062+0002"
+cheat41_enable = false

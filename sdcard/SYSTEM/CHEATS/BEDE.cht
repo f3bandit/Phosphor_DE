@@ -1,0 +1,21 @@
+cheats = 5
+
+cheat0_desc = "Have 999 Coins"
+cheat0_code = "82003818+03E7"
+cheat0_enable = false
+
+cheat1_desc = "Have All Jawbreakers"
+cheat1_code = "82003810+FFFF+82003812+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Health"
+cheat2_code = "32001FB4+0032"
+cheat2_enable = false
+
+cheat3_desc = "Multi Jump"
+cheat3_code = "D0000020+0001+42035CFC+FC00+03FF0002+0002+D0000020+0001+42035FAC+FC00+03FF0002+0002+D0000020+0001+42036214+FC00+03FF0002+0002"
+cheat3_enable = false
+
+cheat4_desc = "Soft Landing"
+cheat4_code = "72035D80+000F+32035D80+0002+72036030+000F+42036030+0002+00000002+0268"
+cheat4_enable = false

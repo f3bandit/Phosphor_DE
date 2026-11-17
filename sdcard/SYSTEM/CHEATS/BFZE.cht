@@ -1,0 +1,129 @@
+cheats = 32
+
+cheat0_desc = "All Modes/Cups/Etc"
+cheat0_code = "32008C20+00FF+32008C21+00FF+32008C22+00FF+32008C23+00FF+32008C24+00FF+32008C25+00FF+32008C26+00FF+32008C27+00FF+32008C28+00FF+32008C29+00FF+32008C2A+00FF+32008C2B+00FF+32008C2C+00FF+32008C2D+00FF+32008C2E+00FF+32008C2F+00FF"
+cheat0_enable = false
+
+cheat1_desc = "Always Flashing Vehicle"
+cheat1_code = "320149CA+007F"
+cheat1_enable = false
+
+cheat2_desc = "Always Place 1st"
+cheat2_code = "83001250+0300+83001252+0102"
+cheat2_enable = false
+
+cheat3_desc = "Blue Engine Fire"
+cheat3_code = "320149C0+0000"
+cheat3_enable = false
+
+cheat4_desc = "End Race [Select+Up]"
+cheat4_code = "74000130+03BB+320149DC+0005"
+cheat4_enable = false
+
+cheat5_desc = "Energy Bar is always flashing"
+cheat5_code = "320149BC+00FF"
+cheat5_enable = false
+
+cheat6_desc = "Engine Fire has boost effect"
+cheat6_code = "320149BE+00FF"
+cheat6_enable = false
+
+cheat7_desc = "Have All Cars"
+cheat7_code = "82008C18+FFFF+82008C1A+FFFF"
+cheat7_enable = false
+
+cheat8_desc = "Have All Cups Open"
+cheat8_code = "82008C2C+FFFF+82008C28+FFFF"
+cheat8_enable = false
+
+cheat9_desc = "Have All Story Levels Open"
+cheat9_code = "42008C30+1F1F+00000004+0002"
+cheat9_enable = false
+
+cheat10_desc = "Have All Zero Test Classes Open"
+cheat10_code = "32008C48+0004"
+cheat10_enable = false
+
+cheat11_desc = "Have All Zero Tests Complete"
+cheat11_code = "42008CAC+FFFF+00000008+0002"
+cheat11_enable = false
+
+cheat12_desc = "Infinite Health"
+cheat12_code = "820149BA+3400"
+cheat12_enable = false
+
+cheat13_desc = "Kill Opposition [Select+Down]"
+cheat13_code = "74000130+037B+42014A8A+0000+00000004+00D0"
+cheat13_enable = false
+
+cheat14_desc = "Levitating Vehicle"
+cheat14_code = "320149B7+0040"
+cheat14_enable = false
+
+cheat15_desc = "Max Cash In Story Mode"
+cheat15_code = "42008C38+FFFF+00000004+0002"
+cheat15_enable = false
+
+cheat16_desc = "Maximum Earnings"
+cheat16_code = "43000FE0+03E7+00000008+0002"
+cheat16_enable = false
+
+cheat17_desc = "Orange Engine Fire"
+cheat17_code = "320149C0+0001"
+cheat17_enable = false
+
+cheat18_desc = "Pink Circle around vehicle"
+cheat18_code = "320149E8+00FF"
+cheat18_enable = false
+
+cheat19_desc = "Press Select+R For Instant Win"
+cheat19_code = "73002474+FD04+820149DC+6363"
+cheat19_enable = false
+
+cheat20_desc = "Story Mode Complete"
+cheat20_code = "82008C30+2F1F+82008C32+1F1F+82008C34+1F1F+82008C36+1F1F+32008C38+00FF+32008C39+00FF+32008C3A+00FF+32008C3B+00FF+32008C3C+00FF+32008C3D+00FF+32008C3E+00FF+32008C3F+00FF"
+cheat20_enable = false
+
+cheat21_desc = "Turbo Boost"
+cheat21_code = "D0000020+0001+820149A4+5000"
+cheat21_enable = false
+
+cheat22_desc = "Unlock All Players (Cup Mode)"
+cheat22_code = "73002DA0+0303+43002DA2+0303+00000010+0002"
+cheat22_enable = false
+
+cheat23_desc = "Unlock All Players (Story Mode)"
+cheat23_code = "43000FF0+1F1F+00000004+0002"
+cheat23_enable = false
+
+cheat24_desc = "Upside Down Vehicle"
+cheat24_code = "320149DB+00D0"
+cheat24_enable = false
+
+cheat25_desc = "Always Low Time"
+cheat25_code = "7201759C+0001+8201759C+0000"
+cheat25_enable = false
+
+cheat26_desc = "Infinite Boost Time"
+cheat26_code = "720149BC+0001+320149BC+00FF"
+cheat26_enable = false
+
+cheat27_desc = "Have Booster"
+cheat27_code = "320149EB+0001"
+cheat27_enable = false
+
+cheat28_desc = "Infinite Spare Machines"
+cheat28_code = "3300122D+0004"
+cheat28_enable = false
+
+cheat29_desc = "Start On Last Lap"
+cheat29_code = "720149DC+00FF+820149DC+0404"
+cheat29_enable = false
+
+cheat30_desc = "Max Race Points"
+cheat30_code = "83001690+03E7"
+cheat30_enable = false
+
+cheat31_desc = "Have All Gran Prix Races Won"
+cheat31_code = "82008C2A+FFFF"
+cheat31_enable = false

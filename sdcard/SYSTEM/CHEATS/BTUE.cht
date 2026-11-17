@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Access All Levels"
+cheat0_code = "43003BF2+0101+00000008+0002"
+cheat0_enable = false
+
+cheat1_desc = "Access All Secrets"
+cheat1_code = "43003C62+0101+00000003+0002"
+cheat1_enable = false
+
+cheat2_desc = "Gallery Complete"
+cheat2_code = "43003C02+0101+00000030+0002"
+cheat2_enable = false

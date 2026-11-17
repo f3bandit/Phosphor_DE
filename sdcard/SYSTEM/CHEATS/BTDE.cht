@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Complete Album"
+cheat0_code = "4203A070+FFFF+00000012+0002"
+cheat0_enable = false
+
+cheat1_desc = "Have All Items"
+cheat1_code = "4203A040+FFFF+0000000A+0002"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Jewels"
+cheat2_code = "8203A060+270F"
+cheat2_enable = false

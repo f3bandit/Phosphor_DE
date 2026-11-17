@@ -1,0 +1,37 @@
+cheats = 9
+
+cheat0_desc = "Amateur Rivals"
+cheat0_code = "33000ED0+0000"
+cheat0_enable = false
+
+cheat1_desc = "Auto Hit"
+cheat1_code = "3300014A+0001"
+cheat1_enable = false
+
+cheat2_desc = "Easy Advantage"
+cheat2_code = "730012B2+0000+330012B2+0003"
+cheat2_enable = false
+
+cheat3_desc = "Loads of Money"
+cheat3_code = "830000CC+9680+830000CE+0098"
+cheat3_enable = false
+
+cheat4_desc = "Maximum Stats"
+cheat4_code = "430000C4+0F0F+00000004+0002+72000EB4+0000+32000E94+0000"
+cheat4_enable = false
+
+cheat5_desc = "Open All Events"
+cheat5_code = "430000F4+FFFF+00000002+0002"
+cheat5_enable = false
+
+cheat6_desc = "Open All Training"
+cheat6_code = "830000E0+FFFF+330000E2+00FF+330000F9+00FF"
+cheat6_enable = false
+
+cheat7_desc = "Rank #1"
+cheat7_code = "330000F3+0001"
+cheat7_enable = false
+
+cheat8_desc = "Rival Can't Score"
+cheat8_code = "330012B6+0000"
+cheat8_enable = false

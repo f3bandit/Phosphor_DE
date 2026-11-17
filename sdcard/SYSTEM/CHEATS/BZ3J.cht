@@ -1,0 +1,121 @@
+cheats = 30
+
+cheat0_desc = "1 Kill Needed To Pass Timed Event"
+cheat0_code = "7202FFE8+0000+8202FFE8+0018"
+cheat0_enable = false
+
+cheat1_desc = "All Net Navi's Unlocked (Navi Select Screen)"
+cheat1_code = "830047E0+E226+83004C30+B43F+83004C32+2200+83004C34+4806+83004C36+2320+83004C38+4906+83004C3A+24E7+83004C3C+5C85+83004C3E+4065+83004C40+548D+83004C42+1C52+83004C44+429A+83004C46+DBF9+83004C48+BC3F+83004C4A+7943+83004C4C+E5C9+83004C4E+0000+83004C50+4800+83004C52+0200+83004C54+A270+83004C56+0200+82004DC6+FFFF+82004DC8+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "Ciel's Computer Upgrade Modifier"
+cheat2_code = "320021F8+0000"
+cheat2_enable = false
+
+cheat3_desc = "Dialogue Border Modifier"
+cheat3_code = "320021F4+0000"
+cheat3_enable = false
+
+cheat4_desc = "Have All Armor Upgrades"
+cheat4_code = "32037D2B+00FF+82037D2C+FFFF"
+cheat4_enable = false
+
+cheat5_desc = "Have All Chips"
+cheat5_code = "42036E78+FFFF+00000017+0002"
+cheat5_enable = false
+
+cheat6_desc = "Have All EX Parts"
+cheat6_code = "82037D28+FFFF"
+cheat6_enable = false
+
+cheat7_desc = "Have All Weapons"
+cheat7_code = "32037D2A+000F"
+cheat7_enable = false
+
+cheat8_desc = "Have Double Health Bar"
+cheat8_code = "32037D05+0001"
+cheat8_enable = false
+
+cheat9_desc = "Have Reserve Tanks"
+cheat9_code = "82037D1C+2020+82037D1E+2020"
+cheat9_enable = false
+
+cheat10_desc = "Hold L+A For Moon Jump"
+cheat10_code = "72001EB0+FE01+32037C6E+0000"
+cheat10_enable = false
+
+cheat11_desc = "Infinite Crystals"
+cheat11_code = "82037D1A+270F"
+cheat11_enable = false
+
+cheat12_desc = "Infinite Dash"
+cheat12_code = "32037D70+00FF"
+cheat12_enable = false
+
+cheat13_desc = "Infinite Double Jumps"
+cheat13_code = "32037D7A+0000"
+cheat13_enable = false
+
+cheat14_desc = "Infinite Health"
+cheat14_code = "32037D04+0020"
+cheat14_enable = false
+
+cheat15_desc = "Infinite Lives"
+cheat15_code = "32036F70+0009"
+cheat15_enable = false
+
+cheat16_desc = "Infinite Lives-Mini Game 1"
+cheat16_code = "32031938+0004"
+cheat16_enable = false
+
+cheat17_desc = "Infinite Time In Timed Events"
+cheat17_code = "8202FFE4+0690"
+cheat17_enable = false
+
+cheat18_desc = "Insane Full Base Makeover!"
+cheat18_code = "420021A6+FFFF+00000025+0002"
+cheat18_enable = false
+
+cheat19_desc = "Invincible"
+cheat19_code = "32037CF4+0002"
+cheat19_enable = false
+
+cheat20_desc = "Jump Thru Ceilings"
+cheat20_code = "74000130+03FE+E2037CB8+FCB0"
+cheat20_enable = false
+
+cheat21_desc = "Jump To Last Stage"
+cheat21_code = "8202FDC4+FFAF"
+cheat21_enable = false
+
+cheat22_desc = "Low Game Time"
+cheat22_code = "82036F7C+0000"
+cheat22_enable = false
+
+cheat23_desc = "No Misses-Mini Game 2"
+cheat23_code = "32031973+0000"
+cheat23_enable = false
+
+cheat24_desc = "Press Select To Drain Boss' Energy"
+cheat24_code = "74000130+03FB+8203BB04+0001+74000130+03FB+8203BA20+0001"
+cheat24_enable = false
+
+cheat25_desc = "Quick Weapon Charge"
+cheat25_code = "72037D3C+0606+82037D3C+C8C8"
+cheat25_enable = false
+
+cheat26_desc = "S Rank"
+cheat26_code = "32036F71+0006"
+cheat26_enable = false
+
+cheat27_desc = "Spike Protection Upgrade"
+cheat27_code = "82036EF2+0F0F"
+cheat27_enable = false
+
+cheat28_desc = "Unlock Bonus Mini Game Menu"
+cheat28_code = "820021CA+443E"
+cheat28_enable = false
+
+cheat29_desc = "Unlock EXE Enemies In Cyberspace!"
+cheat29_code = "820021F0+0413"
+cheat29_enable = false

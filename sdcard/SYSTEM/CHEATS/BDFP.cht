@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Infinite Health"
+cheat0_code = "32015704+0064"
+cheat0_enable = false
+
+cheat1_desc = "Max Gooshy Balls"
+cheat1_code = "32015700+0063"
+cheat1_enable = false

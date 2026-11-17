@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Max Boltz"
+cheat0_code = "32015BF8+00FF"
+cheat0_enable = false

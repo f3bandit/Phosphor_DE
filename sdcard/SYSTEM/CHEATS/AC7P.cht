@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Grenades"
+cheat0_code = "320374DC+2163"
+cheat0_enable = false
+
+cheat1_desc = "Infinite HP"
+cheat1_code = "330000E4+0064"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Lives"
+cheat2_code = "330000E0+0004"
+cheat2_enable = false

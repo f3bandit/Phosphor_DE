@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Infinite Zzz's"
+cheat0_code = "8200AF58+0404"
+cheat0_enable = false
+
+cheat1_desc = "Pickup 1 Star For Max Stars"
+cheat1_code = "3200AE6F+000F"
+cheat1_enable = false

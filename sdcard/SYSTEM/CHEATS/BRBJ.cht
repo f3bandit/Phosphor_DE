@@ -1,0 +1,217 @@
+cheats = 54
+
+cheat0_desc = "*MD Modifier"
+cheat0_code = "8200AC24+0000"
+cheat0_enable = false
+
+cheat1_desc = "*MD's Don't Disappear"
+cheat1_code = "8200AC1C+0000"
+cheat1_enable = false
+
+cheat2_desc = "1 HP On All Enemies"
+cheat2_code = "8203B2FC+0001+8203B3D4+0001+8203B4AC+0001"
+cheat2_enable = false
+
+cheat3_desc = "99 Ninjas In Kill 100 Ninjas Mini-Game Killed"
+cheat3_code = "32007C04+0063"
+cheat3_enable = false
+
+cheat4_desc = "99 Regular"
+cheat4_code = "320052B1+0063"
+cheat4_enable = false
+
+cheat5_desc = "Add As Many Mega/Giga/Dark Chips To Your Folder As You Like"
+cheat5_code = "320052B3+00FF+320052B4+00FF+320052AD+00FF"
+cheat5_enable = false
+
+cheat6_desc = "All Navi Cust Programs"
+cheat6_code = "42001156+0000+0000004D+0003+42005BF6+0055+0000004D+0003+42003E32+0009+0000004D+0003"
+cheat6_enable = false
+
+cheat7_desc = "Always 1 Turn In Liberate Missions"
+cheat7_code = "32002307+0001"
+cheat7_enable = false
+
+cheat8_desc = "Always Able To Go Berserk (If HP Are 0)"
+cheat8_code = "3203E541+0000"
+cheat8_enable = false
+
+cheat9_desc = "Always AntiMagic Mode"
+cheat9_code = "32036D70+0091+32036D74+0078"
+cheat9_enable = false
+
+cheat10_desc = "Always Be Berserk"
+cheat10_code = "320340D9+0002"
+cheat10_enable = false
+
+cheat11_desc = "Always Choose From 10 Chips In-Battle"
+cheat11_code = "3203C88A+000A"
+cheat11_enable = false
+
+cheat12_desc = "Always Empty Vacuum (When Sucking Clouds)"
+cheat12_code = "32013894+0000"
+cheat12_enable = false
+
+cheat13_desc = "Always Get S-Rank"
+cheat13_code = "32034AAE+000B"
+cheat13_enable = false
+
+cheat14_desc = "Always Successful Chaos Soul Charge Attack"
+cheat14_code = "320340AF+0002"
+cheat14_enable = false
+
+cheat15_desc = "Another Forte Soul"
+cheat15_code = "3203C884+0041+3203C8CC+00FF+3203C8AC+0007"
+cheat15_enable = false
+
+cheat16_desc = "Buster Modifier"
+cheat16_code = "3203C884+0000"
+cheat16_enable = false
+
+cheat17_desc = "Cheap Chip Trader"
+cheat17_code = "8200B920+0001"
+cheat17_enable = false
+
+cheat18_desc = "Crazy Rock Buster"
+cheat18_code = "820052A8+6262+320052AB+0062"
+cheat18_enable = false
+
+cheat19_desc = "Custom Gauge Full (Press Select)"
+cheat19_code = "72036DF0+0004+82035700+4000"
+cheat19_enable = false
+
+cheat20_desc = "Damage of Current Chip"
+cheat20_code = "82034E2E+0000"
+cheat20_enable = false
+
+cheat21_desc = "Defeat All SP Navis"
+cheat21_code = "42000ED2+0000+00000012+0002+42002672+0000+00000012+0002"
+cheat21_enable = false
+
+cheat22_desc = "Fight Forte XX (Get Into Any Battle)"
+cheat22_code = "82034ACC+232C+82034ACE+0812"
+cheat22_enable = false
+
+cheat23_desc = "First Chip in Sack Modifier"
+cheat23_code = "8202B3FC+0000"
+cheat23_enable = false
+
+cheat24_desc = "First Chip In-Battle Modifier"
+cheat24_code = "8203C830+0000"
+cheat24_enable = false
+
+cheat25_desc = "Folder Open...?"
+cheat25_code = "320052AF+000A"
+cheat25_enable = false
+
+cheat26_desc = "Forte Soul Appears At The MegaMan Menu Screen"
+cheat26_code = "320052F4+0000"
+cheat26_enable = false
+
+cheat27_desc = "Full Blues HP"
+cheat27_code = "32005346+0000+82005348+270F+8200534A+270F"
+cheat27_enable = false
+
+cheat28_desc = "Have All Chips"
+cheat28_code = "42002EB8+6363+0000085C+0001+4200371C+6363+00000004+0001"
+cheat28_enable = false
+
+cheat29_desc = "Have All Souls"
+cheat29_code = "320029F8+00FF"
+cheat29_enable = false
+
+cheat30_desc = "Have All Subchips"
+cheat30_code = "42001140+0000+00000003+0002+42005BE0+0055+00000003+0002+42003E20+0004+00000003+0002"
+cheat30_enable = false
+
+cheat31_desc = "Have Navi Customizer"
+cheat31_code = "82002C98+80E5+82002C9A+E524+82002CB8+2480"
+cheat31_enable = false
+
+cheat32_desc = "Infinite Action Points In Liberate Missions"
+cheat32_code = "320022F7+0008"
+cheat32_enable = false
+
+cheat33_desc = "Infinite Air In Ship Network"
+cheat33_code = "32001330+0064"
+cheat33_enable = false
+
+cheat34_desc = "Infinite Berserk Mode Time"
+cheat34_code = "820340C6+FFFF"
+cheat34_enable = false
+
+cheat35_desc = "Infinite BugFrag"
+cheat35_code = "8200266C+0000+8200266E+0000+820029A0+270F+820029A2+0000+820060D4+270F+820060D6+0000"
+cheat35_enable = false
+
+cheat36_desc = "Infinite Zenny"
+cheat36_code = "82000180+0000+82000182+0000+8200299C+423F+8200299E+000F+820060CC+423F+820060CE+000F"
+cheat36_enable = false
+
+cheat37_desc = "Instant Death For Bosses"
+cheat37_code = "8203B2FC+0000"
+cheat37_enable = false
+
+cheat38_desc = "Invincibility"
+cheat38_code = "32038CB6+0003"
+cheat38_enable = false
+
+cheat39_desc = "Invincibility (of Berserk Mode)"
+cheat39_code = "32038CCF+000A"
+cheat39_enable = false
+
+cheat40_desc = "Max Bug Frags"
+cheat40_code = "8200266C+0000+820029A0+270F+820060D4+270F"
+cheat40_enable = false
+
+cheat41_desc = "Max Buster Stats"
+cheat41_code = "320052A9+0062+820052AA+6262"
+cheat41_enable = false
+
+cheat42_desc = "Max HP"
+cheat42_code = "8203B224+270F"
+cheat42_enable = false
+
+cheat43_desc = "Max HP (Navis)"
+cheat43_code = "320052E6+0000+820052E8+270F+820052EA+270F"
+cheat43_enable = false
+
+cheat44_desc = "MegaMan's Color Modifier"
+cheat44_code = "3203C890+000F"
+cheat44_enable = false
+
+cheat45_desc = "Mode Modifier"
+cheat45_code = "32036C9A+0000"
+cheat45_enable = false
+
+cheat46_desc = "Navi Out Of Battle"
+cheat46_code = "320052D1+0000+32002941+0000"
+cheat46_enable = false
+
+cheat47_desc = "Play As Navis/Souls"
+cheat47_code = "3203C8A9+0000+3203C8AC+0000+3203409F+0009"
+cheat47_enable = false
+
+cheat48_desc = "Press Select + Down For Teleport"
+cheat48_code = "7200AF50+FC84+82002944+0000"
+cheat48_enable = false
+
+cheat49_desc = "Press Select To Delete All Enemies By Zeromaru"
+cheat49_code = "D0000020+0004+4203B2FC+0000+00000004+00D8"
+cheat49_enable = false
+
+cheat50_desc = "Press Select+B For An Action"
+cheat50_code = "D0000020+0006+3203B209+0000"
+cheat50_enable = false
+
+cheat51_desc = "Unison Limit"
+cheat51_code = "3203409B+0009"
+cheat51_enable = false
+
+cheat52_desc = "Unlock E-Reader Screen"
+cheat52_code = "320029FA+00FF"
+cheat52_enable = false
+
+cheat53_desc = "Walk Through Walls"
+cheat53_code = "82013774+0001"
+cheat53_enable = false

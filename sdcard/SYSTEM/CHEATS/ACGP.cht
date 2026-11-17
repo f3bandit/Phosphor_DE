@@ -1,0 +1,53 @@
+cheats = 13
+
+cheat0_desc = "Always Master Grade"
+cheat0_code = "83003E06+8080+83003E08+8080"
+cheat0_enable = false
+
+cheat1_desc = "Challenge Stage-Flash"
+cheat1_code = "33003DDF+0063"
+cheat1_enable = false
+
+cheat2_desc = "Have 5 Of All Magic Gems"
+cheat2_code = "43002A40+0505+0000001B+0002"
+cheat2_enable = false
+
+cheat3_desc = "Level Modifier"
+cheat3_code = "83002C42+0000"
+cheat3_enable = false
+
+cheat4_desc = "Level Modifier-Flash (00-62)"
+cheat4_code = "33003DDF+0000"
+cheat4_enable = false
+
+cheat5_desc = "Max Gems"
+cheat5_code = "83002C52+03E7"
+cheat5_enable = false
+
+cheat6_desc = "Max Jewels"
+cheat6_code = "83002C48+270F"
+cheat6_enable = false
+
+cheat7_desc = "Max Magic Gem Meter 1"
+cheat7_code = "83002EFC+00FF"
+cheat7_enable = false
+
+cheat8_desc = "No Gems"
+cheat8_code = "83002C52+0000"
+cheat8_enable = false
+
+cheat9_desc = "No Magic Gem Meter 1"
+cheat9_code = "83002EFC+0000"
+cheat9_enable = false
+
+cheat10_desc = "Press A For Color Modifier"
+cheat10_code = "33002C5A+0000"
+cheat10_enable = false
+
+cheat11_desc = "Start With Jewels Modifier"
+cheat11_code = "73002C48+0000+83002C48+0000"
+cheat11_enable = false
+
+cheat12_desc = "Stop Timer"
+cheat12_code = "83003E1C+0000"
+cheat12_enable = false

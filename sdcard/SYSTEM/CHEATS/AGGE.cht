@@ -1,0 +1,41 @@
+cheats = 10
+
+cheat0_desc = "Have All Presents"
+cheat0_code = "33000240+0000"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Batteries"
+cheat1_code = "33000249+0063"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Custard Pies"
+cheat2_code = "33000248+0063"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Double Jump"
+cheat3_code = "74000130+03FE+33000228+002A"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Presents"
+cheat4_code = "74000130+03FB+33000240+0063"
+cheat4_enable = false
+
+cheat5_desc = "Invincible"
+cheat5_code = "3300023D+0004"
+cheat5_enable = false
+
+cheat6_desc = "Moon Jump"
+cheat6_code = "3300022E+0001"
+cheat6_enable = false
+
+cheat7_desc = "Multi Jump"
+cheat7_code = "D0000020+0001+8300022E+FD00"
+cheat7_enable = false
+
+cheat8_desc = "Skip Level [Press Select]"
+cheat8_code = "D0000020+0004+33000254+0001"
+cheat8_enable = false
+
+cheat9_desc = "Stop Timer"
+cheat9_code = "83000244+3840"
+cheat9_enable = false

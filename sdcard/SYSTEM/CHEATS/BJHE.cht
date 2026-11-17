@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Enter Debug Menu [Press Select+L+R]"
+cheat0_code = "74000130+00FB+330017AC+0002"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Flash"
+cheat1_code = "83000D84+0258"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Friends"
+cheat2_code = "33003DAA+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health"
+cheat3_code = "33002A02+0032"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Lives"
+cheat4_code = "33003DA9+0009"
+cheat4_enable = false
+
+cheat5_desc = "Skip Level [Press Select+Up]"
+cheat5_code = "74000130+03BB+33002A08+0003"
+cheat5_enable = false

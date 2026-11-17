@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Opponent don't move"
+cheat0_code = "88046688+42BA+8804668A+D103+8804668C+528A"
+cheat0_enable = false
+
+cheat1_desc = "Time stopped"
+cheat1_code = "88030044+E014"
+cheat1_enable = false

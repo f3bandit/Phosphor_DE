@@ -1,0 +1,157 @@
+cheats = 39
+
+cheat0_desc = "All Courses"
+cheat0_code = "43004372+0101+00000007+0002"
+cheat0_enable = false
+
+cheat1_desc = "Always Place 1st"
+cheat1_code = "83001E9A+0001"
+cheat1_enable = false
+
+cheat2_desc = "Arachnorod"
+cheat2_code = "330042C9+0001"
+cheat2_enable = false
+
+cheat3_desc = "Backgammon Course"
+cheat3_code = "33004379+0001"
+cheat3_enable = false
+
+cheat4_desc = "Billiard Course"
+cheat4_code = "33004378+0001"
+cheat4_enable = false
+
+cheat5_desc = "Blue Sky Course"
+cheat5_code = "3300437B+0001"
+cheat5_enable = false
+
+cheat6_desc = "Casino Course"
+cheat6_code = "3300437A+0001"
+cheat6_enable = false
+
+cheat7_desc = "Desert Course"
+cheat7_code = "33004377+0001"
+cheat7_enable = false
+
+cheat8_desc = "Desk Course"
+cheat8_code = "33004372+0001"
+cheat8_enable = false
+
+cheat9_desc = "Evil Twin"
+cheat9_code = "330042BA+0001"
+cheat9_enable = false
+
+cheat10_desc = "Floral Course"
+cheat10_code = "33004376+0001"
+cheat10_enable = false
+
+cheat11_desc = "Galaxy Course"
+cheat11_code = "3300437F+0001"
+cheat11_enable = false
+
+cheat12_desc = "Greased Lightnin'"
+cheat12_code = "330042B7+0001"
+cheat12_enable = false
+
+cheat13_desc = "Hammered Coupe"
+cheat13_code = "330042B2+0001"
+cheat13_enable = false
+
+cheat14_desc = "Hooligan"
+cheat14_code = "330042BB+0001"
+cheat14_enable = false
+
+cheat15_desc = "Hot Wheels Course"
+cheat15_code = "3300437D+0001"
+cheat15_enable = false
+
+cheat16_desc = "Infinite Money"
+cheat16_code = "83004770+270F"
+cheat16_enable = false
+
+cheat17_desc = "Jungle Course"
+cheat17_code = "3300437E+0001"
+cheat17_enable = false
+
+cheat18_desc = "Lakester"
+cheat18_code = "330042C1+0001"
+cheat18_enable = false
+
+cheat19_desc = "Maelstrom"
+cheat19_code = "330042B3+0001"
+cheat19_enable = false
+
+cheat20_desc = "Max Money Earned"
+cheat20_code = "830042F0+03E7"
+cheat20_enable = false
+
+cheat21_desc = "MX-48 Turbo"
+cheat21_code = "330042CB+0001"
+cheat21_enable = false
+
+cheat22_desc = "Old #3"
+cheat22_code = "330042C3+0001"
+cheat22_enable = false
+
+cheat23_desc = "Phaeton"
+cheat23_code = "330042B9+0001"
+cheat23_enable = false
+
+cheat24_desc = "Phantastique"
+cheat24_code = "330042B1+0001"
+cheat24_enable = false
+
+cheat25_desc = "Pond Course"
+cheat25_code = "33004374+0001"
+cheat25_enable = false
+
+cheat26_desc = "Press Select+A For Auto Pilot"
+cheat26_code = "74000130+03FA+33004DFA+0001"
+cheat26_enable = false
+
+cheat27_desc = "Press Select+B To End Race"
+cheat27_code = "74000130+03F9+330059A4+0009"
+cheat27_enable = false
+
+cheat28_desc = "Roll Cage"
+cheat28_code = "330042C7+0001"
+cheat28_enable = false
+
+cheat29_desc = "Screamin' Hauler"
+cheat29_code = "330042B8+0001"
+cheat29_enable = false
+
+cheat30_desc = "Shredster"
+cheat30_code = "330042BE+0001"
+cheat30_enable = false
+
+cheat31_desc = "Snow Course"
+cheat31_code = "33004375+0001"
+cheat31_enable = false
+
+cheat32_desc = "Sooo Fast"
+cheat32_code = "330042C2+0001"
+cheat32_enable = false
+
+cheat33_desc = "Stay Tuned"
+cheat33_code = "330042C4+0001"
+cheat33_enable = false
+
+cheat34_desc = "Surf Crate"
+cheat34_code = "330042C5+0001"
+cheat34_enable = false
+
+cheat35_desc = "Twin Mill II"
+cheat35_code = "330042CA+0001"
+cheat35_enable = false
+
+cheat36_desc = "Unlock All Cups"
+cheat36_code = "830042F4+0101+830042F6+0101"
+cheat36_enable = false
+
+cheat37_desc = "Vulture"
+cheat37_code = "330042B6+0001"
+cheat37_enable = false
+
+cheat38_desc = "Vulture Roadster"
+cheat38_code = "330042C0+0001"
+cheat38_enable = false

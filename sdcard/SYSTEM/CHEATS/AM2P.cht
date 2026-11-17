@@ -1,0 +1,417 @@
+cheats = 104
+
+cheat0_desc = "99MB Regular Mem"
+cheat0_code = "32000DD7+0063"
+cheat0_enable = false
+
+cheat1_desc = "ACDCPass"
+cheat1_code = "32000ED8+0001"
+cheat1_enable = false
+
+cheat2_desc = "AirPass"
+cheat2_code = "32000EDB+0001"
+cheat2_enable = false
+
+cheat3_desc = "ALicense"
+cheat3_code = "32000EBC+0001"
+cheat3_enable = false
+
+cheat4_desc = "Always 10 Battle Items"
+cheat4_code = "3200EEF9+000A"
+cheat4_enable = false
+
+cheat5_desc = "ArmyData"
+cheat5_code = "32000EB9+0001"
+cheat5_enable = false
+
+cheat6_desc = "Attack"
+cheat6_code = "32001128+0004"
+cheat6_enable = false
+
+cheat7_desc = "BadDataA"
+cheat7_code = "32000E90+0001"
+cheat7_enable = false
+
+cheat8_desc = "BadDataB"
+cheat8_code = "32000E91+0001"
+cheat8_enable = false
+
+cheat9_desc = "Balloon"
+cheat9_code = "32000E8E+0001"
+cheat9_enable = false
+
+cheat10_desc = "Battery"
+cheat10_code = "32000E92+0001"
+cheat10_enable = false
+
+cheat11_desc = "Beetle"
+cheat11_code = "32000EB5+0001"
+cheat11_enable = false
+
+cheat12_desc = "Binocs"
+cheat12_code = "32000E8A+0001"
+cheat12_enable = false
+
+cheat13_desc = "BLicense"
+cheat13_code = "32000EBB+0001"
+cheat13_enable = false
+
+cheat14_desc = "BluFragA"
+cheat14_code = "32000EA6+0001"
+cheat14_enable = false
+
+cheat15_desc = "BluFragB"
+cheat15_code = "32000EA7+0001"
+cheat15_enable = false
+
+cheat16_desc = "Broach"
+cheat16_code = "32000E9B+0001"
+cheat16_enable = false
+
+cheat17_desc = "BugFrag"
+cheat17_code = "32000EC5+0001"
+cheat17_enable = false
+
+cheat18_desc = "Busting Level S"
+cheat18_code = "32004EFA+000B+3200EFF7+000B"
+cheat18_enable = false
+
+cheat19_desc = "Charge"
+cheat19_code = "3200112A+0004"
+cheat19_enable = false
+
+cheat20_desc = "Cheap Chip Trader"
+cheat20_code = "82009B28+0009"
+cheat20_enable = false
+
+cheat21_desc = "Chips Do 5000 Damage"
+cheat21_code = "42009C3C+1388+00000005+0002"
+cheat21_enable = false
+
+cheat22_desc = "Chng.Bat"
+cheat22_code = "32000E95+0001"
+cheat22_enable = false
+
+cheat23_desc = "Chopstck"
+cheat23_code = "32000E9F+0001"
+cheat23_enable = false
+
+cheat24_desc = "Complete Library"
+cheat24_code = "42000060+FFFF+00000011+0002"
+cheat24_enable = false
+
+cheat25_desc = "Complete Pack"
+cheat25_code = "420011C2+6363+00000109+0012+420011C4+6363+00000109+0012+420011C6+6363+00000109+0012+420024AC+6363+00000003+0002"
+cheat25_enable = false
+
+cheat26_desc = "CyberKey"
+cheat26_code = "32000E9A+0001"
+cheat26_enable = false
+
+cheat27_desc = "DexCode"
+cheat27_code = "32000ED1+0001"
+cheat27_enable = false
+
+cheat28_desc = "ElBit042"
+cheat28_code = "32000EAB+0001"
+cheat28_enable = false
+
+cheat29_desc = "ElBit082"
+cheat29_code = "32000EAC+0001"
+cheat29_enable = false
+
+cheat30_desc = "ElBit093"
+cheat30_code = "32000EAD+0001"
+cheat30_enable = false
+
+cheat31_desc = "ElBit201"
+cheat31_code = "32000EAE+0001"
+cheat31_enable = false
+
+cheat32_desc = "ElBit232"
+cheat32_code = "32000EAF+0001"
+cheat32_enable = false
+
+cheat33_desc = "ElBit243"
+cheat33_code = "32000EB0+0001"
+cheat33_enable = false
+
+cheat34_desc = "ElBit253"
+cheat34_code = "32000EB1+0001"
+cheat34_enable = false
+
+cheat35_desc = "ElBit271"
+cheat35_code = "32000EB2+0001"
+cheat35_enable = false
+
+cheat36_desc = "ElBitEV"
+cheat36_code = "32000EB3+0001"
+cheat36_enable = false
+
+cheat37_desc = "ExamCard"
+cheat37_code = "32000E84+0001"
+cheat37_enable = false
+
+cheat38_desc = "Fan"
+cheat38_code = "32000E83+0001"
+cheat38_enable = false
+
+cheat39_desc = "Firewood"
+cheat39_code = "32000E8C+0001"
+cheat39_enable = false
+
+cheat40_desc = "Fish"
+cheat40_code = "32000E8D+0001"
+cheat40_enable = false
+
+cheat41_desc = "FreePass"
+cheat41_code = "32000EC0+0001"
+cheat41_enable = false
+
+cheat42_desc = "Full Custom Bar"
+cheat42_code = "82004F0C+4000"
+cheat42_enable = false
+
+cheat43_desc = "GateKeyA"
+cheat43_code = "32000EC1+0001"
+cheat43_enable = false
+
+cheat44_desc = "GateKeyB"
+cheat44_code = "32000EC2+0001"
+cheat44_enable = false
+
+cheat45_desc = "GateKeyC"
+cheat45_code = "32000EC3+0001"
+cheat45_enable = false
+
+cheat46_desc = "GateKeyD"
+cheat46_code = "32000EC4+0001"
+cheat46_enable = false
+
+cheat47_desc = "GoldRing"
+cheat47_code = "32000E9D+0001"
+cheat47_enable = false
+
+cheat48_desc = "GospCode"
+cheat48_code = "32000ED7+0001"
+cheat48_enable = false
+
+cheat49_desc = "Gospel ID"
+cheat49_code = "32000EA8+0001"
+cheat49_enable = false
+
+cheat50_desc = "Have All Subchips"
+cheat50_code = "42000EF0+0404+00000003+0002"
+cheat50_enable = false
+
+cheat51_desc = "HeatData"
+cheat51_code = "32000EA4+0001"
+cheat51_enable = false
+
+cheat52_desc = "HeroData"
+cheat52_code = "32000E81+0001"
+cheat52_enable = false
+
+cheat53_desc = "HopeData"
+cheat53_code = "32000E82+0001"
+cheat53_enable = false
+
+cheat54_desc = "Infinite HP"
+cheat54_code = "82008A94+270F"
+cheat54_enable = false
+
+cheat55_desc = "Infinite Zenny"
+cheat55_code = "82008A60+C350"
+cheat55_enable = false
+
+cheat56_desc = "Invincible"
+cheat56_code = "82008A9A+00FF"
+cheat56_enable = false
+
+cheat57_desc = "KngStone"
+cheat57_code = "32000EB7+0001"
+cheat57_enable = false
+
+cheat58_desc = "Knife"
+cheat58_code = "32000E8B+0001"
+cheat58_enable = false
+
+cheat59_desc = "KotoPass"
+cheat59_code = "32000EA9+0001"
+cheat59_enable = false
+
+cheat60_desc = "Lighter"
+cheat60_code = "32000E88+0001"
+cheat60_enable = false
+
+cheat61_desc = "LoveLetr"
+cheat61_code = "32000EB4+0001"
+cheat61_enable = false
+
+cheat62_desc = "MagSuit"
+cheat62_code = "32000EAA+0001"
+cheat62_enable = false
+
+cheat63_desc = "MariPass"
+cheat63_code = "32000ED9+0001"
+cheat63_enable = false
+
+cheat64_desc = "Maximum HP"
+cheat64_code = "82001132+270F"
+cheat64_enable = false
+
+cheat65_desc = "MaylCode"
+cheat65_code = "32000EC6+0001"
+cheat65_enable = false
+
+cheat66_desc = "Megagun Does 1000+ Damage"
+cheat66_code = "82009C18+FFFF+32000DD4+004E"
+cheat66_enable = false
+
+cheat67_desc = "MiliCode"
+cheat67_code = "32000ED5+0001"
+cheat67_enable = false
+
+cheat68_desc = "MiniPET"
+cheat68_code = "32000E99+0001"
+cheat68_enable = false
+
+cheat69_desc = "Move Anywhere (In-Battle)"
+cheat69_code = "3200ECE4+0012+3200ECF4+0012+3200ED04+0012+3200ED64+0012+3200ED74+0012+3200ED84+0012+3200EDE4+0012+3200EDF4+0012+3200EE04+0012"
+cheat69_enable = false
+
+cheat70_desc = "NiceData"
+cheat70_code = "32000E86+0001"
+cheat70_enable = false
+
+cheat71_desc = "No Random Battles"
+cheat71_code = "82009082+0000"
+cheat71_enable = false
+
+cheat72_desc = "NoteData"
+cheat72_code = "32000E94+0001"
+cheat72_enable = false
+
+cheat73_desc = "OddProg"
+cheat73_code = "32000E8F+0001"
+cheat73_enable = false
+
+cheat74_desc = "OkuPass"
+cheat74_code = "32000EDA+0001"
+cheat74_enable = false
+
+cheat75_desc = "ONBACode"
+cheat75_code = "32000ED6+0001"
+cheat75_enable = false
+
+cheat76_desc = "P.A Memo Complete"
+cheat76_code = "8200009C+FFFF+8200009E+FFFF"
+cheat76_enable = false
+
+cheat77_desc = "Paper"
+cheat77_code = "32000E87+0001"
+cheat77_enable = false
+
+cheat78_desc = "Passport"
+cheat78_code = "32000E97+0001"
+cheat78_enable = false
+
+cheat79_desc = "PET"
+cheat79_code = "32000E80+0001"
+cheat79_enable = false
+
+cheat80_desc = "PilotCap"
+cheat80_code = "32000E9E+0001"
+cheat80_enable = false
+
+cheat81_desc = "Rapid"
+cheat81_code = "32001129+0004"
+cheat81_enable = false
+
+cheat82_desc = "RaulCode"
+cheat82_code = "32000ED4+0001"
+cheat82_enable = false
+
+cheat83_desc = "RedCure"
+cheat83_code = "32000EA3+0001"
+cheat83_enable = false
+
+cheat84_desc = "RedFrag"
+cheat84_code = "32000EA2+0001"
+cheat84_enable = false
+
+cheat85_desc = "RibiCode"
+cheat85_code = "32000ED3+0001"
+cheat85_enable = false
+
+cheat86_desc = "RoboX"
+cheat86_code = "32000E9C+0001"
+cheat86_enable = false
+
+cheat87_desc = "SLicense"
+cheat87_code = "32000EBD+0001"
+cheat87_enable = false
+
+cheat88_desc = "SS Lic"
+cheat88_code = "32000EBE+0001"
+cheat88_enable = false
+
+cheat89_desc = "SSS Lic"
+cheat89_code = "32000EBF+0001"
+cheat89_enable = false
+
+cheat90_desc = "Stick"
+cheat90_code = "32000E89+0001"
+cheat90_enable = false
+
+cheat91_desc = "Thread"
+cheat91_code = "32000EA1+0001"
+cheat91_enable = false
+
+cheat92_desc = "Ticket"
+cheat92_code = "32000E96+0001"
+cheat92_enable = false
+
+cheat93_desc = "Twilight"
+cheat93_code = "32000EB8+0001"
+cheat93_enable = false
+
+cheat94_desc = "WalkProg"
+cheat94_code = "32000E85+0001"
+cheat94_enable = false
+
+cheat95_desc = "Weak Enemies"
+cheat95_code = "42008B54+0001+00000003+00C0"
+cheat95_enable = false
+
+cheat96_desc = "Whiskey"
+cheat96_code = "32000EA0+0001"
+cheat96_enable = false
+
+cheat97_desc = "Wireless"
+cheat97_code = "32000E98+0001"
+cheat97_enable = false
+
+cheat98_desc = "YaiCode"
+cheat98_code = "32000ED2+0001"
+cheat98_enable = false
+
+cheat99_desc = "YeloCure"
+cheat99_code = "32000EA5+0001"
+cheat99_enable = false
+
+cheat100_desc = "YumKey"
+cheat100_code = "32000E93+0001"
+cheat100_enable = false
+
+cheat101_desc = "YumTear"
+cheat101_code = "32000EB6+0001"
+cheat101_enable = false
+
+cheat102_desc = "Zero Delete Time"
+cheat102_code = "82004F1C+0000"
+cheat102_enable = false
+
+cheat103_desc = "ZLicense"
+cheat103_code = "32000EBA+0001"
+cheat103_enable = false

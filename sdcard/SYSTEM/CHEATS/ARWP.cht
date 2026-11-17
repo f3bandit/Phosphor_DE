@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Destroy Opponents [Press Select]"
+cheat0_code = "D0000020+0004+430017EC+0500+00000002+0070"
+cheat0_enable = false
+
+cheat1_desc = "Weak Opponent #1"
+cheat1_code = "730017EC+0000+830017EC+0480"
+cheat1_enable = false
+
+cheat2_desc = "Weak Opponent #2"
+cheat2_code = "7300185C+0000+8300185C+0480"
+cheat2_enable = false

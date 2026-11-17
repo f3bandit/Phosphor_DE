@@ -1,0 +1,53 @@
+cheats = 13
+
+cheat0_desc = "Infinite Timer"
+cheat0_code = "32002732+0010"
+cheat0_enable = false
+
+cheat1_desc = "Max Bananas"
+cheat1_code = "82004508+6464"
+cheat1_enable = false
+
+cheat2_desc = "Max Score"
+cheat2_code = "82000B00+C9FF+82000B02+3B9A"
+cheat2_enable = false
+
+cheat3_desc = "Take a banana to get them all"
+cheat3_code = "8802B488+2064"
+cheat3_enable = false
+
+cheat4_desc = "Tarzan invulnerable against enemies"
+cheat4_code = "8801AA18+E009"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Health"
+cheat5_code = "32001F4E+0004"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Lives"
+cheat6_code = "32005F84+0063"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Oxygen"
+cheat7_code = "3200477E+0000"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Spears"
+cheat8_code = "32002110+0063"
+cheat8_enable = false
+
+cheat9_desc = "Press Up+B For Invincibility On"
+cheat9_code = "74000130+03BD+83001000+0001+73001000+0001+3200211E+0001"
+cheat9_enable = false
+
+cheat10_desc = "Press Down+B For Invincibility Off"
+cheat10_code = "74000130+037D+83001000+0000+73001000+0000+3200211E+0000"
+cheat10_enable = false
+
+cheat11_desc = "Press Select To Skip Level"
+cheat11_code = "D0000020+0004+32002116+0001"
+cheat11_enable = false
+
+cheat12_desc = "Unlock All Movies"
+cheat12_code = "32036E6D+003E"
+cheat12_enable = false

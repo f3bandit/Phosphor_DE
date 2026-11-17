@@ -1,0 +1,37 @@
+cheats = 9
+
+cheat0_desc = "All Extras Unlocked"
+cheat0_code = "8203E152+270F"
+cheat0_enable = false
+
+cheat1_desc = "Big Score"
+cheat1_code = "320215DF+0009+320215DE+0009+320215DD+0009+320215DC+0009+320215DB+0009"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Continues"
+cheat2_code = "320215F5+0003"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health"
+cheat3_code = "32024E5A+004D"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Lives"
+cheat4_code = "32024EDB+0009"
+cheat4_enable = false
+
+cheat5_desc = "Start With Hi-Score"
+cheat5_code = "720215DA+0000+320215DA+0005"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Time"
+cheat6_code = "82021608+001E"
+cheat6_enable = false
+
+cheat7_desc = "Max Score"
+cheat7_code = "82021360+967F+82021362+0098"
+cheat7_enable = false
+
+cheat8_desc = "Invincible"
+cheat8_code = "32024E54+0009"
+cheat8_enable = false

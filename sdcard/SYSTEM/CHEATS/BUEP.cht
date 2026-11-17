@@ -1,0 +1,37 @@
+cheats = 9
+
+cheat0_desc = "All Stage Tasks Complete"
+cheat0_code = "43001E74+0101+00000020+0002"
+cheat0_enable = false
+
+cheat1_desc = "Maximum Level"
+cheat1_code = "33001C73+000A"
+cheat1_enable = false
+
+cheat2_desc = "Multi Jump"
+cheat2_code = "D0000020+0001+83003A70+FC00+D0000020+0001+83003A72+FFFF"
+cheat2_enable = false
+
+cheat3_desc = "Quick Level Gain"
+cheat3_code = "83001C48+C350"
+cheat3_enable = false
+
+cheat4_desc = "Skip Level [Press Select+Up]"
+cheat4_code = "74000130+03BB+330039C8+0004"
+cheat4_enable = false
+
+cheat5_desc = "Transparent"
+cheat5_code = "73003AC0+8824+33003B8E+0002"
+cheat5_enable = false
+
+cheat6_desc = "Unlock All BK Promos"
+cheat6_code = "83001CCA+0101+83001CCC+0101"
+cheat6_enable = false
+
+cheat7_desc = "Unlock Credits"
+cheat7_code = "33001CFF+0002"
+cheat7_enable = false
+
+cheat8_desc = "Unlock Hard Mode"
+cheat8_code = "33001CD1+0001"
+cheat8_enable = false

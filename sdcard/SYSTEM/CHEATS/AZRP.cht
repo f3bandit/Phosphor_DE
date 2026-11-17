@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "9 Lives"
+cheat0_code = "3300680B+0009"
+cheat0_enable = false
+
+cheat1_desc = "99 Acorns"
+cheat1_code = "3300680E+0063"
+cheat1_enable = false
+
+cheat2_desc = "999 Coins"
+cheat2_code = "83006806+03E7"
+cheat2_enable = false
+
+cheat3_desc = "Inf HP"
+cheat3_code = "33006814+0006"
+cheat3_enable = false

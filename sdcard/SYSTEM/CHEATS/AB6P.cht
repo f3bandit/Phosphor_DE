@@ -1,0 +1,41 @@
+cheats = 10
+
+cheat0_desc = "1-Hit Kill"
+cheat0_code = "33002241+0000+33002242+0050"
+cheat0_enable = false
+
+cheat1_desc = "All Challenges Beat"
+cheat1_code = "32000B23+001D"
+cheat1_enable = false
+
+cheat2_desc = "Hit Anywhere Both Players"
+cheat2_code = "88002802+46C0+88004726+46C0+8800465C+E01D+88004ADC+46C0"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Credits"
+cheat3_code = "82000B0C+270F"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Health P1"
+cheat4_code = "330020FD+0050+330020FE+0050"
+cheat4_enable = false
+
+cheat5_desc = "Round 1 Won"
+cheat5_code = "730020C4+0000+330020C4+0001"
+cheat5_enable = false
+
+cheat6_desc = "Selection Timer Off"
+cheat6_code = "3300000C+0014"
+cheat6_enable = false
+
+cheat7_desc = "Unlock All Art"
+cheat7_code = "82000A60+FFFF+82000A62+FFFF"
+cheat7_enable = false
+
+cheat8_desc = "Unlock Collection"
+cheat8_code = "32000B19+00FF"
+cheat8_enable = false
+
+cheat9_desc = "Unlock Survival/Challenge Modes"
+cheat9_code = "32000B22+001F"
+cheat9_enable = false

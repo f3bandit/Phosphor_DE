@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Max Score"
+cheat0_code = "83004EC8+E0FF+83004ECA+05F5"
+cheat0_enable = false
+
+cheat1_desc = "Max Special Spuds"
+cheat1_code = "33002811+0064"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Lives"
+cheat2_code = "83002812+2364"
+cheat2_enable = false

@@ -1,0 +1,41 @@
+cheats = 10
+
+cheat0_desc = "Have All Items"
+cheat0_code = "4200ACC8+0001+00010006+0004+4200ACCA+0060+00000006+0004"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Ammo"
+cheat1_code = "3200ACC4+0063"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Coffee Cups"
+cheat2_code = "8200ACCE+0063"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Grenades"
+cheat3_code = "8200ACCA+0063"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Health"
+cheat4_code = "32009E86+0006"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Lives"
+cheat5_code = "33007234+0009"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Special Ammo"
+cheat6_code = "8200ACC4+0063"
+cheat6_enable = false
+
+cheat7_desc = "Max Score"
+cheat7_code = "8200ACB4+FFFF"
+cheat7_enable = false
+
+cheat8_desc = "Multi Jump"
+cheat8_code = "32009E85+0000"
+cheat8_enable = false
+
+cheat9_desc = "Upgrade Blaster"
+cheat9_code = "3200ACC0+000E"
+cheat9_enable = false

@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Infinite Health"
+cheat0_code = "42003B0C+0064+00000003+0004"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Power"
+cheat1_code = "42003B18+1D4C+00000003+0004"
+cheat1_enable = false
+
+cheat2_desc = "All Items Found"
+cheat2_code = "82002200+FFFF+82002202+FFFF"
+cheat2_enable = false

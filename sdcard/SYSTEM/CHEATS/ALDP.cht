@@ -1,0 +1,21 @@
+cheats = 5
+
+cheat0_desc = "Infinite Magic"
+cheat0_code = "83001D58+0019"
+cheat0_enable = false
+
+cheat1_desc = "Max Prisoners Saved"
+cheat1_code = "83001D80+0063"
+cheat1_enable = false
+
+cheat2_desc = "Always Low Time"
+cheat2_code = "83001DEC+0000"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health"
+cheat3_code = "83001E08+0005"
+cheat3_enable = false
+
+cheat4_desc = "Max Gems"
+cheat4_code = "83001E0C+0063"
+cheat4_enable = false

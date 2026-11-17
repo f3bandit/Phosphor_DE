@@ -1,0 +1,93 @@
+cheats = 23
+
+cheat0_desc = "Max Popularity"
+cheat0_code = "3201B34F+0064"
+cheat0_enable = false
+
+cheat1_desc = "Player 1: 50% Health"
+cheat1_code = "72000306+FFF5+820002DC+0330"
+cheat1_enable = false
+
+cheat2_desc = "Player 1: Dazed"
+cheat2_code = "82000388+00F0"
+cheat2_enable = false
+
+cheat3_desc = "Player 1: No Daze"
+cheat3_code = "82000388+0000"
+cheat3_enable = false
+
+cheat4_desc = "Player 1: Special Gauge Empty"
+cheat4_code = "820003D4+0000"
+cheat4_enable = false
+
+cheat5_desc = "Player 1: Special Gauge Full"
+cheat5_code = "820003D4+0400"
+cheat5_enable = false
+
+cheat6_desc = "Stop Out of Ring Timer"
+cheat6_code = "82000ABC+0000"
+cheat6_enable = false
+
+cheat7_desc = "Tag Opponent 1: 50% Health"
+cheat7_code = "72000676+FFF5+8200064C+0330"
+cheat7_enable = false
+
+cheat8_desc = "Tag Opponent 1: Dazed"
+cheat8_code = "820006F8+00F0"
+cheat8_enable = false
+
+cheat9_desc = "Tag Opponent 1: No Daze"
+cheat9_code = "820006F8+0000"
+cheat9_enable = false
+
+cheat10_desc = "Tag Opponent 1: Special Gauge Empty"
+cheat10_code = "82000744+0000"
+cheat10_enable = false
+
+cheat11_desc = "Tag Opponent 1: Special Gauge Full"
+cheat11_code = "82000744+0400"
+cheat11_enable = false
+
+cheat12_desc = "Tag Opponent 2: 50% Health"
+cheat12_code = "7200082E+FFF5+82000804+0330"
+cheat12_enable = false
+
+cheat13_desc = "Tag Opponent 2: Dazed"
+cheat13_code = "820008B0+00F0"
+cheat13_enable = false
+
+cheat14_desc = "Tag Opponent 2: No Daze"
+cheat14_code = "820008B0+0000"
+cheat14_enable = false
+
+cheat15_desc = "Tag Opponent 2: Special Gauge Empty"
+cheat15_code = "820008FC+0000"
+cheat15_enable = false
+
+cheat16_desc = "Tag Opponent 2: Special Gauge Full"
+cheat16_code = "820008FC+0400"
+cheat16_enable = false
+
+cheat17_desc = "Tag Partner/Opponent 1: 50% Health"
+cheat17_code = "720004BE+FFF5+82000494+0330"
+cheat17_enable = false
+
+cheat18_desc = "Tag Partner/Opponent 1: Dazed"
+cheat18_code = "82000540+00F0"
+cheat18_enable = false
+
+cheat19_desc = "Tag Partner/Opponent 1: No Daze"
+cheat19_code = "82000540+0000"
+cheat19_enable = false
+
+cheat20_desc = "Tag Partner/Opponent 1: Special Gauge Empty"
+cheat20_code = "8200058C+0000"
+cheat20_enable = false
+
+cheat21_desc = "Tag Partner/Opponent 1: Special Gauge Full"
+cheat21_code = "8200058C+0400"
+cheat21_enable = false
+
+cheat22_desc = "Unlock All Wrestlers"
+cheat22_code = "4201B298+0101+00000014+0002"
+cheat22_enable = false

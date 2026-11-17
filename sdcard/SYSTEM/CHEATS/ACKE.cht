@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Infinite Stat Points"
+cheat0_code = "83004DB4+0008"
+cheat0_enable = false
+
+cheat1_desc = "Opponnent Scores 0"
+cheat1_code = "83000F12+0000"
+cheat1_enable = false

@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Untouchable"
+cheat0_code = "8803CD10+E000+8805AC2A+E000"
+cheat0_enable = false

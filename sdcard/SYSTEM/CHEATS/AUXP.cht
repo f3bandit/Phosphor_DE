@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Complete Task [Press Select]"
+cheat0_code = "D0000020+0004+42039112+0303+00000010+0002"
+cheat0_enable = false
+
+cheat1_desc = "Heaps of Cash"
+cheat1_code = "82038E20+E0FF+82038E22+05F5"
+cheat1_enable = false
+
+cheat2_desc = "No Damage"
+cheat2_code = "32039134+000E"
+cheat2_enable = false
+
+cheat3_desc = "Stop Timer"
+cheat3_code = "82039110+025A"
+cheat3_enable = false
+
+cheat4_desc = "Unlock Filmography"
+cheat4_code = "4203906C+0000+00000004+0002"
+cheat4_enable = false
+
+cheat5_desc = "Unlock Jump Tests"
+cheat5_code = "42039218+0000+00000005+0002"
+cheat5_enable = false
+
+cheat6_desc = "Unlock Precision Tests"
+cheat6_code = "42039076+0000+00000003+0002"
+cheat6_enable = false

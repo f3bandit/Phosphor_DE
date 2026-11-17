@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "End/Win Race [Press Select]"
+cheat0_code = "D0000020+0004+83006378+0000"
+cheat0_enable = false
+
+cheat1_desc = "Have All Parts"
+cheat1_code = "43004AD0+0001+0000007D+0004"
+cheat1_enable = false
+
+cheat2_desc = "Press L For Turbo Boost"
+cheat2_code = "53002B6B+0003+4B9DF821+1C98"
+cheat2_enable = false
+
+cheat3_desc = "Turbo Boost [Press L]"
+cheat3_code = "D0000020+0200+83006368+8000"
+cheat3_enable = false

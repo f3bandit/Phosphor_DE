@@ -1,0 +1,145 @@
+cheats = 36
+
+cheat0_desc = "Access All Lands"
+cheat0_code = "83003000+FBFF"
+cheat0_enable = false
+
+cheat1_desc = "All Items Collected"
+cheat1_code = "43002FE6+FFFF+00000000+0000"
+cheat1_enable = false
+
+cheat2_desc = "All Items In Journal"
+cheat2_code = "33002FE7+00FF+33002FE8+00FF+33002FE9+00FF+33002FEA+00FF+33002FEB+00FF+33002FEC+00FF+33002FED+00FF+33002FEE+00FF+33002FEF+00FF+33002FF0+00FF+33002FF1+00FF+33002FF2+00FF+33002FF3+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Banana Savannah"
+cheat3_code = "7300295C+0000+8300295C+0258"
+cheat3_enable = false
+
+cheat4_desc = "Banana Savannah: Have 600/600 Gems"
+cheat4_code = "8300295C+0258"
+cheat4_enable = false
+
+cheat5_desc = "Byrd Barracks"
+cheat5_code = "73002956+0000+83002956+0258"
+cheat5_enable = false
+
+cheat6_desc = "Byrd Barracks: Have 600/600 Gems"
+cheat6_code = "83002956+0258"
+cheat6_enable = false
+
+cheat7_desc = "Chateau Ripto"
+cheat7_code = "73002968+0000+83002968+0384"
+cheat7_enable = false
+
+cheat8_desc = "Chateau Ripto: Have 900/900 Gems"
+cheat8_code = "83002936+0384"
+cheat8_enable = false
+
+cheat9_desc = "Cheetah Spot Spa: Have 650/650 Gems"
+cheat9_code = "83002932+028A"
+cheat9_enable = false
+
+cheat10_desc = "Chetah Spot Spa"
+cheat10_code = "73002962+0000+83002962+028A"
+cheat10_enable = false
+
+cheat11_desc = "Dragon Shores"
+cheat11_code = "73002950+0000+83002950+0384"
+cheat11_enable = false
+
+cheat12_desc = "Dragon Shores: Have 900/900 Gems"
+cheat12_code = "83002950+0384"
+cheat12_enable = false
+
+cheat13_desc = "Fairy Library"
+cheat13_code = "73002952+0000+83002952+01F4"
+cheat13_enable = false
+
+cheat14_desc = "Fairy Library: Have 500/500 Gems"
+cheat14_code = "83002952+01F4"
+cheat14_enable = false
+
+cheat15_desc = "Have 12/12 Total Hearts"
+cheat15_code = "33003029+000C"
+cheat15_enable = false
+
+cheat16_desc = "Have 9000/9000 Total Gems"
+cheat16_code = "8300301E+2328"
+cheat16_enable = false
+
+cheat17_desc = "Have All Levels Open"
+cheat17_code = "83003000+FFFF"
+cheat17_enable = false
+
+cheat18_desc = "Have Everything Unlocked"
+cheat18_code = "43002FE6+FFFF+00000007+0002"
+cheat18_enable = false
+
+cheat19_desc = "Infinite Health"
+cheat19_code = "8801A4D2+0000"
+cheat19_enable = false
+
+cheat20_desc = "Infinite Jewels"
+cheat20_code = "8300301C+0384"
+cheat20_enable = false
+
+cheat21_desc = "Kangaroo Hoodoos"
+cheat21_code = "7300295E+0000+8300295E+02BC"
+cheat21_enable = false
+
+cheat22_desc = "Kangaroo Hoodoos: Have 700/700 Gems"
+cheat22_code = "8300295E+02BC"
+cheat22_enable = false
+
+cheat23_desc = "Money Bag's Mansion"
+cheat23_code = "73002960+0000+83002960+0320"
+cheat23_enable = false
+
+cheat24_desc = "Moneybag's Mansion: Have 800/800 Gems"
+cheat24_code = "83002930+0320"
+cheat24_enable = false
+
+cheat25_desc = "Press Select To Escape Any Level"
+cheat25_code = "74000130+03FB+32039E94+0005"
+cheat25_enable = false
+
+cheat26_desc = "Professor's Secret Lab"
+cheat26_code = "73002964+0000+83002964+0320"
+cheat26_enable = false
+
+cheat27_desc = "Rabbit Habitat"
+cheat27_code = "7300295A+0000+8300295A+0258"
+cheat27_enable = false
+
+cheat28_desc = "Rabbit Habitat: Have 600/600 Gems"
+cheat28_code = "8300295A+0258"
+cheat28_enable = false
+
+cheat29_desc = "Rhynoc's And Clocks"
+cheat29_code = "73002966+0000+83002966+0320"
+cheat29_enable = false
+
+cheat30_desc = "Rhynoc's Clocks: Have 800/800 Gems"
+cheat30_code = "83002934+0320"
+cheat30_enable = false
+
+cheat31_desc = "Thieve's Guild"
+cheat31_code = "73002958+0000+83002958+0258"
+cheat31_enable = false
+
+cheat32_desc = "Thieve's Guild: Have 600/600 Gems"
+cheat32_code = "83002958+0258"
+cheat32_enable = false
+
+cheat33_desc = "Time Always 00:00:00"
+cheat33_code = "43002922+0000+00000004+0002"
+cheat33_enable = false
+
+cheat34_desc = "Yeti Serengeti"
+cheat34_code = "73002954+0000+83002954+0226"
+cheat34_enable = false
+
+cheat35_desc = "Yeti Serengeti: Have 550/550 Gems"
+cheat35_code = "83002954+0226"
+cheat35_enable = false

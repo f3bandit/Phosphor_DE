@@ -1,0 +1,21 @@
+cheats = 5
+
+cheat0_desc = "Have Good Items"
+cheat0_code = "32001B6C+0004+32001B6D+0008+32001B6E+000C+32001B6F+0010+32001B70+0012+32001B71+0016+32001B72+001A+32001B73+001E+32001B74+0022+32001B75+0024+32001B76+0028+32001B77+002C+32001B78+0030+32001B79+0034+32001B7A+0036"
+cheat0_enable = false
+
+cheat1_desc = "Max Health Bar"
+cheat1_code = "72001210+12E0+32001271+0080+72001B00+1BD0+32001B61+0080"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Flying Dashes"
+cheat2_code = "72001210+12E0+32001272+0001+72001B00+1BD0+32001B62+0001"
+cheat2_enable = false
+
+cheat3_desc = "Max Energy"
+cheat3_code = "72001210+12E0+82001274+03E7+72001B00+1BD0+82001B64+03E7"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Life"
+cheat4_code = "72001210+12E0+32001270+0080+72001B00+1BD0+32001B60+0080"
+cheat4_enable = false

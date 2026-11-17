@@ -1,0 +1,65 @@
+cheats = 16
+
+cheat0_desc = "300 Missions Completed"
+cheat0_code = "42001FBC+FFFF+00000028+0002+32024A3F+002B+82002010+7FF0+42002012+FFFF+00000003+0002+82002018+ABBF+8200201A+0AEA"
+cheat0_enable = false
+
+cheat1_desc = "All Areas Freed"
+cheat1_code = "42002CC0+0700+0000001E+000C"
+cheat1_enable = false
+
+cheat2_desc = "All Clan Skills Maxed"
+cheat2_code = "420021B6+0063+00000008+0002"
+cheat2_enable = false
+
+cheat3_desc = "Clan Level Maxed"
+cheat3_code = "320021B4+0063"
+cheat3_enable = false
+
+cheat4_desc = "Earn 50,000 AP"
+cheat4_code = "7201F500+0001+8201F514+1388"
+cheat4_enable = false
+
+cheat5_desc = "Earn 50,000 Gil"
+cheat5_code = "7201F500+0001+8201F510+C350"
+cheat5_enable = false
+
+cheat6_desc = "Have All Monsters+Max Stats"
+cheat6_code = "42002E7A+0856+00000014+0010+42002E7C+6300+00000014+0010+42002E7E+FF00+00000014+0010+42002E80+00FF+00000014+0010+42002E82+4444+00000014+0010+42002E84+FFFF+00000014+0010+42002E86+FFFF+00000014+0010"
+cheat6_enable = false
+
+cheat7_desc = "Have Everything"
+cheat7_code = "42001940+0001+00010176+0004+42001942+0063+00000176+0004"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Clan Funds"
+cheat8_code = "82001F64+E0FF+82001F66+05F5"
+cheat8_enable = false
+
+cheat9_desc = "Max Enemies Killed"
+cheat9_code = "32003C2B+00FF"
+cheat9_enable = false
+
+cheat10_desc = "Maximum JP"
+cheat10_code = "42000156+0063+00000018+0108"
+cheat10_enable = false
+
+cheat11_desc = "Maximum Speed"
+cheat11_code = "42000152+03E7+00000018+0108"
+cheat11_enable = false
+
+cheat12_desc = "No Battle Rules"
+cheat12_code = "42003C34+0000+00000008+0002"
+cheat12_enable = false
+
+cheat13_desc = "No Cards"
+cheat13_code = "42000182+0000+00000018+0108"
+cheat13_enable = false
+
+cheat14_desc = "Quick Level Gain"
+cheat14_code = "4200008A+0063+00000018+0108"
+cheat14_enable = false
+
+cheat15_desc = "Win After 1st Attack"
+cheat15_code = "7200F59E+0004+42002FDC+0000+00000008+0108+7200F59E+0104+42002FDC+0000+00000008+0108"
+cheat15_enable = false

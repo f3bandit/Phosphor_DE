@@ -1,0 +1,37 @@
+cheats = 9
+
+cheat0_desc = "Access All Secrets"
+cheat0_code = "4203FE24+FFFF+00000004+0002"
+cheat0_enable = false
+
+cheat1_desc = "Access Single Player"
+cheat1_code = "3203FE1A+0001"
+cheat1_enable = false
+
+cheat2_desc = "Have 50,000 Zenie"
+cheat2_code = "83001CDC+C350"
+cheat2_enable = false
+
+cheat3_desc = "Infinite KI"
+cheat3_code = "43001AFC+0064+0000000B+002C"
+cheat3_enable = false
+
+cheat4_desc = "Maximum Health"
+cheat4_code = "43001AF8+0064+0000000B+002C"
+cheat4_enable = false
+
+cheat5_desc = "Maximum Power"
+cheat5_code = "43001B02+0064+0000000B+002C"
+cheat5_enable = false
+
+cheat6_desc = "Maximum Strength"
+cheat6_code = "43001B06+00FF+0000000B+002C"
+cheat6_enable = false
+
+cheat7_desc = "Quick Advance"
+cheat7_code = "B3003C54+0001+33003C54+0001"
+cheat7_enable = false
+
+cheat8_desc = "Reveal All Paths"
+cheat8_code = "83001D06+FFFF"
+cheat8_enable = false

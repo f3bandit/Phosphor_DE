@@ -1,0 +1,21 @@
+cheats = 5
+
+cheat0_desc = "Have $100,000,000"
+cheat0_code = "83002F28+E0FF+83002F2A+05F5"
+cheat0_enable = false
+
+cheat1_desc = "Have $50,000"
+cheat1_code = "83002F28+C350"
+cheat1_enable = false
+
+cheat2_desc = "Pot Starts At $50,000"
+cheat2_code = "73004178+0000+83004178+C350"
+cheat2_enable = false
+
+cheat3_desc = "Show Rival Cards"
+cheat3_code = "330041A0+0001"
+cheat3_enable = false
+
+cheat4_desc = "Unlock All Portraits"
+cheat4_code = "83002F00+FFFF"
+cheat4_enable = false

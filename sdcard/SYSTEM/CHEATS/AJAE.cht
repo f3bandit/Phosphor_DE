@@ -1,0 +1,77 @@
+cheats = 19
+
+cheat0_desc = "Championship Complete"
+cheat0_code = "8300010C+0808+8300010E+0606+83000110+0407+83000112+0404+83000114+0404+43000116+0808+00000003+0002+83000120+0404+83000122+0001+83000124+0002"
+cheat0_enable = false
+
+cheat1_desc = "Have Sub-Machine-Gun"
+cheat1_code = "33002945+0008"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Life"
+cheat2_code = "43002934+FFFF+00000003+0002"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Missiles"
+cheat3_code = "33002945+0007"
+cheat3_enable = false
+
+cheat4_desc = "Max Funds"
+cheat4_code = "8300011C+CA00+8300011E+3B9A"
+cheat4_enable = false
+
+cheat5_desc = "Max Score (Shows 0000)"
+cheat5_code = "83002926+270F+83005574+270F"
+cheat5_enable = false
+
+cheat6_desc = "Maximum Points"
+cheat6_code = "83002926+270F"
+cheat6_enable = false
+
+cheat7_desc = "Press Select To 1-Hit Kill"
+cheat7_code = "74000130+03FB+43002A2C+0000+00000003+00F8+74000130+03FB+43002A2E+0000+00000003+00F8+74000130+03FB+43002A30+0000+00000003+00F8"
+cheat7_enable = false
+
+cheat8_desc = "Super Power"
+cheat8_code = "83002928+1000+8300292A+0470"
+cheat8_enable = false
+
+cheat9_desc = "Take No Damage"
+cheat9_code = "33002935+00FF+83002936+FFFF+83002938+FFFF"
+cheat9_enable = false
+
+cheat10_desc = "The Incredible Hulk"
+cheat10_code = "6200C242+0A56"
+cheat10_enable = false
+
+cheat11_desc = "Trasher"
+cheat11_code = "8202C20A+2256"
+cheat11_enable = false
+
+cheat12_desc = "Unlock All Cars"
+cheat12_code = "430002C4+0000+0000000B+0002"
+cheat12_enable = false
+
+cheat13_desc = "Unlock All Tracks"
+cheat13_code = "830002B2+0000+830002B4+0000"
+cheat13_enable = false
+
+cheat14_desc = "Infinite Mayhem"
+cheat14_code = "8300292A+0459"
+cheat14_enable = false
+
+cheat15_desc = "Infinite Guided Missiles"
+cheat15_code = "83002944+0700"
+cheat15_enable = false
+
+cheat16_desc = "Infinite Money"
+cheat16_code = "8300011C+C350"
+cheat16_enable = false
+
+cheat17_desc = "Jump Always Charged"
+cheat17_code = "830028A8+2EE0"
+cheat17_enable = false
+
+cheat18_desc = "Press Down & Select For Start On Elite+All Cars (Championship)"
+cheat18_code = "D0000020+0084+83000120+0404+D0000020+0084+83000122+0003"
+cheat18_enable = false

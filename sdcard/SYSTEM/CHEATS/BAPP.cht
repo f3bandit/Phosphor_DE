@@ -1,0 +1,89 @@
+cheats = 22
+
+cheat0_desc = "1HitKill"
+cheat0_code = "8801EFBC+4240+88049972+4249+8804E446+4240"
+cheat0_enable = false
+
+cheat1_desc = "Access Debug Menu [Press Select+Up]"
+cheat1_code = "74000130+03BB+330019D0+00C0"
+cheat1_enable = false
+
+cheat2_desc = "Dragon Attack"
+cheat2_code = "33007658+0003"
+cheat2_enable = false
+
+cheat3_desc = "Dragon Charge"
+cheat3_code = "33007670+0003"
+cheat3_enable = false
+
+cheat4_desc = "Dragon Drain"
+cheat4_code = "3300766C+0003"
+cheat4_enable = false
+
+cheat5_desc = "Dragon Fire"
+cheat5_code = "3300767C+0003"
+cheat5_enable = false
+
+cheat6_desc = "Dragon Off [Press L+Down]"
+cheat6_code = "74000130+017F+42038F4C+2A8D+DD770002+0002+3300707D+0000"
+cheat6_enable = false
+
+cheat7_desc = "Dragon Speed"
+cheat7_code = "33007690+0003"
+cheat7_enable = false
+
+cheat8_desc = "DragonFire Charged"
+cheat8_code = "72038F82+0001+32038F82+00A5"
+cheat8_enable = false
+
+cheat9_desc = "Have All Buddy Powers"
+cheat9_code = "83006BD8+0101+33006BDA+0001"
+cheat9_enable = false
+
+cheat10_desc = "Infinite Focus"
+cheat10_code = "3300707E+0032"
+cheat10_enable = false
+
+cheat11_desc = "Infinite Health"
+cheat11_code = "33007026+004A"
+cheat11_enable = false
+
+cheat12_desc = "Infinite Lives"
+cheat12_code = "33006AB4+000A"
+cheat12_enable = false
+
+cheat13_desc = "Invincible"
+cheat13_code = "33007020+0005"
+cheat13_enable = false
+
+cheat14_desc = "Invulnerable - RAM"
+cheat14_code = "33007044+0001"
+cheat14_enable = false
+
+cheat15_desc = "Jake Attack"
+cheat15_code = "33007688+0003"
+cheat15_enable = false
+
+cheat16_desc = "Jake Focus"
+cheat16_code = "3300768C+0003"
+cheat16_enable = false
+
+cheat17_desc = "Jake Life"
+cheat17_code = "33007684+0003"
+cheat17_enable = false
+
+cheat18_desc = "Jake Skate"
+cheat18_code = "3300765C+0003"
+cheat18_enable = false
+
+cheat19_desc = "Jake Speed"
+cheat19_code = "33007660+0003"
+cheat19_enable = false
+
+cheat20_desc = "Jump higher"
+cheat20_code = "88042882+FFF5+88044C6A+FFF5"
+cheat20_enable = false
+
+cheat21_desc = "Quick Progress"
+cheat21_code = "83007470+0000"
+cheat21_enable = false

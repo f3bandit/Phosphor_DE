@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Hold L+R To Access Debug Menu"
+cheat0_code = "74000130+00FF+83007FDC+4155+74000130+00FF+83007FDE+0800"
+cheat0_enable = false

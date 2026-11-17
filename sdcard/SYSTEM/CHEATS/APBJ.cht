@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Infinite Health"
+cheat0_code = "881F4D20+DB5C"
+cheat0_enable = false

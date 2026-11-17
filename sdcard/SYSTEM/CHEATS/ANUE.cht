@@ -1,0 +1,41 @@
+cheats = 10
+
+cheat0_desc = "Access All Tracks"
+cheat0_code = "73007CA0+0006+83007CB0+000C"
+cheat0_enable = false
+
+cheat1_desc = "Always Place 1st"
+cheat1_code = "330005E6+0000"
+cheat1_enable = false
+
+cheat2_desc = "Extra Top Speed"
+cheat2_code = "330005B1+0002"
+cheat2_enable = false
+
+cheat3_desc = "Have All PowerUps"
+cheat3_code = "330005F1+0005+330005E9+0001+830005EA+0302+830005EC+0504"
+cheat3_enable = false
+
+cheat4_desc = "Have Helmet"
+cheat4_code = "330005F4+00A0"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Funds"
+cheat5_code = "330005E7+0063"
+cheat5_enable = false
+
+cheat6_desc = "Instant Win [Press Select]"
+cheat6_code = "D0000020+0004+330005A6+0000"
+cheat6_enable = false
+
+cheat7_desc = "No Damage"
+cheat7_code = "330005E8+00FF"
+cheat7_enable = false
+
+cheat8_desc = "Turbo"
+cheat8_code = "330005D0+0004"
+cheat8_enable = false
+
+cheat9_desc = "Turbo Wasp Taxi"
+cheat9_code = "730005BA+0258+830005BA+0A58"
+cheat9_enable = false

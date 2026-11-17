@@ -1,0 +1,165 @@
+cheats = 41
+
+cheat0_desc = "All EXE Character Accessories"
+cheat0_code = "3203C560+000A+3203C562+001A+3203C564+0025+3203C566+002F"
+cheat0_enable = false
+
+cheat1_desc = "Bike Back Modifier"
+cheat1_code = "3203CBA4+0000"
+cheat1_enable = false
+
+cheat2_desc = "Bike Body Modifier"
+cheat2_code = "3203CBA2+0000"
+cheat2_enable = false
+
+cheat3_desc = "Bike Front Modifier"
+cheat3_code = "3203CBA0+0000"
+cheat3_enable = false
+
+cheat4_desc = "Crossover Battle Mode 2 In Link Mode"
+cheat4_code = "320021E8+0003"
+cheat4_enable = false
+
+cheat5_desc = "Dark Transformation > Sabata"
+cheat5_code = "88047B3E+2006"
+cheat5_enable = false
+
+cheat6_desc = "Enter Any Mode And Exit To Highlight Sound Test"
+cheat6_code = "3203CC70+0003"
+cheat6_enable = false
+
+cheat7_desc = "Have 196 Stats Points"
+cheat7_code = "3203C442+00C4"
+cheat7_enable = false
+
+cheat8_desc = "Have All Accessories [Menu/Accessories Storage Box]"
+cheat8_code = "4203C560+0000+00010030+0002"
+cheat8_enable = false
+
+cheat9_desc = "Have All Cards [Item Storage Box]"
+cheat9_code = "4203C4C0+0020+00010007+0002"
+cheat9_enable = false
+
+cheat10_desc = "Have All Frames"
+cheat10_code = "4203C8C0+0001+0001000C+0002"
+cheat10_enable = false
+
+cheat11_desc = "Have All Lens"
+cheat11_code = "4203CC28+0000+00010006+0002+8203CC34+0007+8203CC36+0008"
+cheat11_enable = false
+
+cheat12_desc = "Have All Magics [Enter in Another Area to Enable]"
+cheat12_code = "4203C488+0000+00010004+0002"
+cheat12_enable = false
+
+cheat13_desc = "Have All Normal Itens [Item Storage Box]"
+cheat13_code = "8203C4C0+0000+8203C4C2+0001+8203C4C4+0003+8203C4C6+0004+4203C4C8+0006+0001000F+0002+4203C4E6+0016+0001000A+0002"
+cheat13_enable = false
+
+cheat14_desc = "Have All Parts"
+cheat14_code = "4203CBB8+FFFF+00000004+0004+8203CBF8+FFFF+8203CC1C+FFFF+8203CC1E+FFFF"
+cheat14_enable = false
+
+cheat15_desc = "Have All Weapons [Menu/Swords Storage Box]"
+cheat15_code = "4203C5C0+0001+00010030+0010"
+cheat15_enable = false
+
+cheat16_desc = "Have Complete Sword & Lance"
+cheat16_code = "7203C5C0+00FF+8203C5C0+0027+7203C5D0+00FF+8203C5D0+002F"
+cheat16_enable = false
+
+cheat17_desc = "Have Judgement Card"
+cheat17_code = "7203C4A0+FFFF+8203C4A0+0026"
+cheat17_enable = false
+
+cheat18_desc = "Have Rock Buster"
+cheat18_code = "3203C5C0+0030"
+cheat18_enable = false
+
+cheat19_desc = "Infinite Ammo"
+cheat19_code = "8203CB7C+270F"
+cheat19_enable = false
+
+cheat20_desc = "Infinite HP (CPU Too)"
+cheat20_code = "8801D10A+010A"
+cheat20_enable = false
+
+cheat21_desc = "Infinite LIFE"
+cheat21_code = "8803B60E+0411"
+cheat21_enable = false
+
+cheat22_desc = "Infinite TRC Time"
+cheat22_code = "88059856+3800"
+cheat22_enable = false
+
+cheat23_desc = "Invincible"
+cheat23_code = "8805EBC4+46C0+8805EBEA+2501"
+cheat23_enable = false
+
+cheat24_desc = "Max Energy"
+cheat24_code = "8203CC18+4E20"
+cheat24_enable = false
+
+cheat25_desc = "Max EXP"
+cheat25_code = "8203C448+423F+8203C44A+000F"
+cheat25_enable = false
+
+cheat26_desc = "Max Money"
+cheat26_code = "8203CBB0+270F+8203CB7C+270F"
+cheat26_enable = false
+
+cheat27_desc = "Max Power [9000+ Damage]"
+cheat27_code = "8203C440+7000"
+cheat27_enable = false
+
+cheat28_desc = "Max Sun Meter"
+cheat28_code = "3203CC76+000A"
+cheat28_enable = false
+
+cheat29_desc = "No Sun"
+cheat29_code = "3203CC76+0000"
+cheat29_enable = false
+
+cheat30_desc = "Normal Max Power [900+ Damage]"
+cheat30_code = "8203C440+0A55"
+cheat30_enable = false
+
+cheat31_desc = "Recover HP Django [When Entering A Different Area]"
+cheat31_code = "8203C428+0FFF+8203C42C+0FFF"
+cheat31_enable = false
+
+cheat32_desc = "Recover HP [Sabata]"
+cheat32_code = "8203C438+0FFF+8203C43A+0FFF"
+cheat32_enable = false
+
+cheat33_desc = "Recover TRC [Transformation]"
+cheat33_code = "8203CA08+03E8"
+cheat33_enable = false
+
+cheat34_desc = "Solar Transformation > Sabata"
+cheat34_code = "88047490+2006"
+cheat34_enable = false
+
+cheat35_desc = "Stop Timer"
+cheat35_code = "8801A5DA+3000"
+cheat35_enable = false
+
+cheat36_desc = "Stop Timer (Items)"
+cheat36_code = "8803DCD2+46C0"
+cheat36_enable = false
+
+cheat37_desc = "Stop Timer (Normal/Missions)"
+cheat37_code = "8805757A+3800"
+cheat37_enable = false
+
+cheat38_desc = "TRC Gauge Always Full after Transformation"
+cheat38_code = "880474C4+46C0+88047B48+46C0"
+cheat38_enable = false
+
+cheat39_desc = "Unlock Swords Bag and Accessories Bag"
+cheat39_code = "82004A6E+0101"
+cheat39_enable = false
+
+cheat40_desc = "Walk Through Doors, Objects etc."
+cheat40_code = "8801C950+0411"
+cheat40_enable = false

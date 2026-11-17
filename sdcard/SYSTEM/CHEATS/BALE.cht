@@ -1,0 +1,33 @@
+cheats = 8
+
+cheat0_desc = "Infinite Hearts"
+cheat0_code = "73003EA8+0405+33003EA9+0005"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Paper"
+cheat1_code = "33001F52+0009"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Turns"
+cheat2_code = "73004A8C+00B5+33004ADC+0000"
+cheat2_enable = false
+
+cheat3_desc = "Quick Point Gain"
+cheat3_code = "73004C1A+00B5+33004C2A+00C8"
+cheat3_enable = false
+
+cheat4_desc = "Stop Change Timer"
+cheat4_code = "73004A52+0004+33004A52+0005"
+cheat4_enable = false
+
+cheat5_desc = "Stop Pump Timer"
+cheat5_code = "73004AE0+0009+33004AE0+000A"
+cheat5_enable = false
+
+cheat6_desc = "Stop Timer"
+cheat6_code = "730046AC+00B5+330046B0+0000"
+cheat6_enable = false
+
+cheat7_desc = "Unlock All Contents"
+cheat7_code = "43001FB0+0303+00000004+0002+43001FB8+FFFF+00000004+0002"
+cheat7_enable = false

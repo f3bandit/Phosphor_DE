@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Access All Chapters"
+cheat0_code = "32007AC6+00FF"
+cheat0_enable = false
+
+cheat1_desc = "Have 99 Snacks"
+cheat1_code = "32007A34+0063"
+cheat1_enable = false

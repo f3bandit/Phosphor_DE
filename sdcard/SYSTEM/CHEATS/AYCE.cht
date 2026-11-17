@@ -1,0 +1,653 @@
+cheats = 163
+
+cheat0_desc = "Alis: All Magic"
+cheat0_code = "82014BAE+0205"
+cheat0_enable = false
+
+cheat1_desc = "Alis: Infinite HP"
+cheat1_code = "32014BA1+00FF"
+cheat1_enable = false
+
+cheat2_desc = "Alis: Infinite MP"
+cheat2_code = "32014BA2+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Alis: Level 30"
+cheat3_code = "32014BA5+001E"
+cheat3_enable = false
+
+cheat4_desc = "Alis: Max Attack"
+cheat4_code = "32014BA8+00FF"
+cheat4_enable = false
+
+cheat5_desc = "Alis: Max Defense"
+cheat5_code = "32014BA9+00FF"
+cheat5_enable = false
+
+cheat6_desc = "Alis: Maximum HP"
+cheat6_code = "32014BA6+00FF"
+cheat6_enable = false
+
+cheat7_desc = "Alis: Maximum MP"
+cheat7_code = "32014BA7+00FF"
+cheat7_enable = false
+
+cheat8_desc = "Amy: All Techs"
+cheat8_code = "32003F19+000F"
+cheat8_enable = false
+
+cheat9_desc = "Amy: Infinite HP"
+cheat9_code = "82003F3C+03E7"
+cheat9_enable = false
+
+cheat10_desc = "Amy: Infinite TP"
+cheat10_code = "82003F38+03E7"
+cheat10_enable = false
+
+cheat11_desc = "Amy: Max Experience"
+cheat11_code = "32003F32+00FF"
+cheat11_enable = false
+
+cheat12_desc = "Amy: Max Stats"
+cheat12_code = "42003F20+03E7+00000008+0002"
+cheat12_enable = false
+
+cheat13_desc = "Amy: Maximum HP"
+cheat13_code = "82003F3A+03E7"
+cheat13_enable = false
+
+cheat14_desc = "Amy: Maximum TP"
+cheat14_code = "82003F36+03E7"
+cheat14_enable = false
+
+cheat15_desc = "Anna: All Techs"
+cheat15_code = "32003ED9+000F"
+cheat15_enable = false
+
+cheat16_desc = "Anna: Infinite HP"
+cheat16_code = "82003EFC+03E7"
+cheat16_enable = false
+
+cheat17_desc = "Anna: Infinite TP"
+cheat17_code = "82003EF8+03E7"
+cheat17_enable = false
+
+cheat18_desc = "Anna: Max Experience"
+cheat18_code = "32003EF2+00FF"
+cheat18_enable = false
+
+cheat19_desc = "Anna: Max Stats"
+cheat19_code = "42003EE0+03E7+00000008+0002"
+cheat19_enable = false
+
+cheat20_desc = "Anna: Maximum HP"
+cheat20_code = "82003EFA+03E7"
+cheat20_enable = false
+
+cheat21_desc = "Anna: Maximum TP"
+cheat21_code = "82003EF6+03E7"
+cheat21_enable = false
+
+cheat22_desc = "Hugh: All Techs"
+cheat22_code = "32003E99+000F"
+cheat22_enable = false
+
+cheat23_desc = "Hugh: Infinite HP"
+cheat23_code = "82003EBC+03E7"
+cheat23_enable = false
+
+cheat24_desc = "Hugh: Infinite TP"
+cheat24_code = "82003EB8+03E7"
+cheat24_enable = false
+
+cheat25_desc = "Hugh: Max Experience"
+cheat25_code = "32003EB2+00FF"
+cheat25_enable = false
+
+cheat26_desc = "Hugh: Max Stats"
+cheat26_code = "42003EA0+03E7+00000008+0002"
+cheat26_enable = false
+
+cheat27_desc = "Hugh: Maximum HP"
+cheat27_code = "82003EBA+03E7"
+cheat27_enable = false
+
+cheat28_desc = "Hugh: Maximum TP"
+cheat28_code = "82003EB6+03E7"
+cheat28_enable = false
+
+cheat29_desc = "Kain: All Techs"
+cheat29_code = "32003E59+000F"
+cheat29_enable = false
+
+cheat30_desc = "Kain: Infinite HP"
+cheat30_code = "82003E7C+03E7"
+cheat30_enable = false
+
+cheat31_desc = "Kain: Infinite TP"
+cheat31_code = "82003E78+03E7"
+cheat31_enable = false
+
+cheat32_desc = "Kain: Max Experience"
+cheat32_code = "32003E72+00FF"
+cheat32_enable = false
+
+cheat33_desc = "Kain: Max Stats"
+cheat33_code = "42003E60+03E7+00000008+0002"
+cheat33_enable = false
+
+cheat34_desc = "Kain: Maximum HP"
+cheat34_code = "82003E7A+03E7"
+cheat34_enable = false
+
+cheat35_desc = "Kain: Maximum TP"
+cheat35_code = "82003E76+03E7"
+cheat35_enable = false
+
+cheat36_desc = "Lena: Infinite HP"
+cheat36_code = "82003D4C+03E7"
+cheat36_enable = false
+
+cheat37_desc = "Lena: Infinite TP"
+cheat37_code = "82003D4A+03E7"
+cheat37_enable = false
+
+cheat38_desc = "Lena: Max Damage"
+cheat38_code = "82003D48+07D0"
+cheat38_enable = false
+
+cheat39_desc = "Lena: Max Defense"
+cheat39_code = "82003D46+07D0"
+cheat39_enable = false
+
+cheat40_desc = "Lena: Max Intel"
+cheat40_code = "82003D40+0400"
+cheat40_enable = false
+
+cheat41_desc = "Lena: Max Luck"
+cheat41_code = "32003D2C+00FF"
+cheat41_enable = false
+
+cheat42_desc = "Lena: Max Skill"
+cheat42_code = "32003D2D+00FF"
+cheat42_enable = false
+
+cheat43_desc = "Lena: Max Speed"
+cheat43_code = "32003D5B+00FF"
+cheat43_enable = false
+
+cheat44_desc = "Lena: Maximum HP"
+cheat44_code = "82003D50+03E7"
+cheat44_enable = false
+
+cheat45_desc = "Lena: Maximum TP"
+cheat45_code = "82003D4E+03E7"
+cheat45_enable = false
+
+cheat46_desc = "Lyle: Infinite HP"
+cheat46_code = "82003DCC+03E7"
+cheat46_enable = false
+
+cheat47_desc = "Lyle: Infinite TP"
+cheat47_code = "82003DCA+03E7"
+cheat47_enable = false
+
+cheat48_desc = "Lyle: Max Damage"
+cheat48_code = "82003DC8+07D0"
+cheat48_enable = false
+
+cheat49_desc = "Lyle: Max Defense"
+cheat49_code = "82003DC6+07D0"
+cheat49_enable = false
+
+cheat50_desc = "Lyle: Max Intel"
+cheat50_code = "82003DC0+0400"
+cheat50_enable = false
+
+cheat51_desc = "Lyle: Max Luck"
+cheat51_code = "32003DAC+00FF"
+cheat51_enable = false
+
+cheat52_desc = "Lyle: Max Skill"
+cheat52_code = "32003DAD+00FF"
+cheat52_enable = false
+
+cheat53_desc = "Lyle: Max Speed"
+cheat53_code = "32003DDB+00FF"
+cheat53_enable = false
+
+cheat54_desc = "Lyle: Maximum HP"
+cheat54_code = "82003DD0+03E7"
+cheat54_enable = false
+
+cheat55_desc = "Lyle: Maximum TP"
+cheat55_code = "82003DCE+03E7"
+cheat55_enable = false
+
+cheat56_desc = "Max Meseta"
+cheat56_code = "820039DC+E0FF+820039DE+05F5"
+cheat56_enable = false
+
+cheat57_desc = "Mieu: Infinite HP"
+cheat57_code = "82003ECC+03E7"
+cheat57_enable = false
+
+cheat58_desc = "Mieu: Infinite TP"
+cheat58_code = "82003ECA+03E7"
+cheat58_enable = false
+
+cheat59_desc = "Mieu: Max Damage"
+cheat59_code = "82003EC8+07D0"
+cheat59_enable = false
+
+cheat60_desc = "Mieu: Max Defense"
+cheat60_code = "82003EC6+07D0"
+cheat60_enable = false
+
+cheat61_desc = "Mieu: Max Intel"
+cheat61_code = "82003EC0+0400"
+cheat61_enable = false
+
+cheat62_desc = "Mieu: Max Luck"
+cheat62_code = "32003EAC+00FF"
+cheat62_enable = false
+
+cheat63_desc = "Mieu: Max Skill"
+cheat63_code = "32003EAD+00FF"
+cheat63_enable = false
+
+cheat64_desc = "Mieu: Max Speed"
+cheat64_code = "32003EDB+00FF"
+cheat64_enable = false
+
+cheat65_desc = "Mieu: Maximum HP"
+cheat65_code = "82003ED0+03E7"
+cheat65_enable = false
+
+cheat66_desc = "Mieu: Maximum TP"
+cheat66_code = "82003ECE+03E7"
+cheat66_enable = false
+
+cheat67_desc = "Myau: All Magic"
+cheat67_code = "82014BBE+0304"
+cheat67_enable = false
+
+cheat68_desc = "Myau: Infinite HP"
+cheat68_code = "32014BB1+00FF"
+cheat68_enable = false
+
+cheat69_desc = "Myau: Infinite MP"
+cheat69_code = "32014BB2+00FF"
+cheat69_enable = false
+
+cheat70_desc = "Myau: Level 30"
+cheat70_code = "32014BB5+001E"
+cheat70_enable = false
+
+cheat71_desc = "Myau: Max Attack"
+cheat71_code = "32014BB8+00FF"
+cheat71_enable = false
+
+cheat72_desc = "Myau: Max Defense"
+cheat72_code = "32014BB9+00FF"
+cheat72_enable = false
+
+cheat73_desc = "Myau: Maximum HP"
+cheat73_code = "32014BB6+00FF"
+cheat73_enable = false
+
+cheat74_desc = "Myau: Maximum MP"
+cheat74_code = "32014BB7+00FF"
+cheat74_enable = false
+
+cheat75_desc = "Nei: All Techs"
+cheat75_code = "32003F99+000F"
+cheat75_enable = false
+
+cheat76_desc = "Nei: Infinite HP"
+cheat76_code = "82003FBC+03E7"
+cheat76_enable = false
+
+cheat77_desc = "Nei: Infinite TP"
+cheat77_code = "82003FB8+03E7"
+cheat77_enable = false
+
+cheat78_desc = "Nei: Max Experience"
+cheat78_code = "32003FB2+00FF"
+cheat78_enable = false
+
+cheat79_desc = "Nei: Max Stats"
+cheat79_code = "42003FA0+03E7+00000008+0002"
+cheat79_enable = false
+
+cheat80_desc = "Nei: Maximum HP"
+cheat80_code = "82003FBA+03E7"
+cheat80_enable = false
+
+cheat81_desc = "Nei: Maximum TP"
+cheat81_code = "82003FB6+03E7"
+cheat81_enable = false
+
+cheat82_desc = "No Random Battles on Overworld"
+cheat82_code = "88740480+2000"
+cheat82_enable = false
+
+cheat83_desc = "Noah: All Magic"
+cheat83_code = "82014BDE+0505"
+cheat83_enable = false
+
+cheat84_desc = "Noah: Infinite HP"
+cheat84_code = "32014BD1+00FF"
+cheat84_enable = false
+
+cheat85_desc = "Noah: Infinite MP"
+cheat85_code = "32014BD2+00FF"
+cheat85_enable = false
+
+cheat86_desc = "Noah: Level 30"
+cheat86_code = "32014BD5+001E"
+cheat86_enable = false
+
+cheat87_desc = "Noah: Max Attack"
+cheat87_code = "32014BD8+00FF"
+cheat87_enable = false
+
+cheat88_desc = "Noah: Max Defense"
+cheat88_code = "32014BD9+00FF"
+cheat88_enable = false
+
+cheat89_desc = "Noah: Maximum HP"
+cheat89_code = "32014BD6+00FF"
+cheat89_enable = false
+
+cheat90_desc = "Noah: Maximum MP"
+cheat90_code = "32014BD7+00FF"
+cheat90_enable = false
+
+cheat91_desc = "Odin: Infinite HP"
+cheat91_code = "32014BC1+00FF"
+cheat91_enable = false
+
+cheat92_desc = "Odin: Infinite MP"
+cheat92_code = "32014BC2+00FF"
+cheat92_enable = false
+
+cheat93_desc = "Odin: Level 30"
+cheat93_code = "32014BC5+001E"
+cheat93_enable = false
+
+cheat94_desc = "Odin: Max Attack"
+cheat94_code = "32014BC8+00FF"
+cheat94_enable = false
+
+cheat95_desc = "Odin: Max Defense"
+cheat95_code = "32014BC9+00FF"
+cheat95_enable = false
+
+cheat96_desc = "Odin: Maximum HP"
+cheat96_code = "32014BC6+00FF"
+cheat96_enable = false
+
+cheat97_desc = "Odin: Maximum MP"
+cheat97_code = "32014BC7+00FF"
+cheat97_enable = false
+
+cheat98_desc = "Quick Level Gain"
+cheat98_code = "32014A70+0064"
+cheat98_enable = false
+
+cheat99_desc = "Quick Meseta Gain"
+cheat99_code = "820039DC+FFFF"
+cheat99_enable = false
+
+cheat100_desc = "Rhys: Infinite HP"
+cheat100_code = "82003F4C+03E7"
+cheat100_enable = false
+
+cheat101_desc = "Rhys: Infinite TP"
+cheat101_code = "82003F4A+03E7"
+cheat101_enable = false
+
+cheat102_desc = "Rhys: Max Damage"
+cheat102_code = "82003F48+07D0"
+cheat102_enable = false
+
+cheat103_desc = "Rhys: Max Defense"
+cheat103_code = "82003F46+07D0"
+cheat103_enable = false
+
+cheat104_desc = "Rhys: Max Intel"
+cheat104_code = "82003F40+0400"
+cheat104_enable = false
+
+cheat105_desc = "Rhys: Max Luck"
+cheat105_code = "32003F2C+00FF"
+cheat105_enable = false
+
+cheat106_desc = "Rhys: Max Skill"
+cheat106_code = "32003F2D+00FF"
+cheat106_enable = false
+
+cheat107_desc = "Rhys: Max Speed"
+cheat107_code = "32003F5B+00FF"
+cheat107_enable = false
+
+cheat108_desc = "Rhys: Maximum HP"
+cheat108_code = "82003F50+03E7"
+cheat108_enable = false
+
+cheat109_desc = "Rhys: Maximum TP"
+cheat109_code = "82003F4E+03E7"
+cheat109_enable = false
+
+cheat110_desc = "Rolf: All Techs"
+cheat110_code = "32003FD9+000F"
+cheat110_enable = false
+
+cheat111_desc = "Rolf: Infinite HP"
+cheat111_code = "82003FFC+03E7"
+cheat111_enable = false
+
+cheat112_desc = "Rolf: Infinite TP"
+cheat112_code = "82003FF8+03E7"
+cheat112_enable = false
+
+cheat113_desc = "Rolf: Max Experience"
+cheat113_code = "32003FF2+00FF"
+cheat113_enable = false
+
+cheat114_desc = "Rolf: Max Stats"
+cheat114_code = "42003FE0+03E7+00000008+0002"
+cheat114_enable = false
+
+cheat115_desc = "Rolf: Maximum HP"
+cheat115_code = "82003FFA+03E7"
+cheat115_enable = false
+
+cheat116_desc = "Rolf: Maximum TP"
+cheat116_code = "82003FF6+03E7"
+cheat116_enable = false
+
+cheat117_desc = "Rudo: All Techs"
+cheat117_code = "32003F59+000F"
+cheat117_enable = false
+
+cheat118_desc = "Rudo: Infinite HP"
+cheat118_code = "82003F7C+03E7"
+cheat118_enable = false
+
+cheat119_desc = "Rudo: Infinite TP"
+cheat119_code = "82003F78+03E7"
+cheat119_enable = false
+
+cheat120_desc = "Rudo: Max Experience"
+cheat120_code = "32003F72+00FF"
+cheat120_enable = false
+
+cheat121_desc = "Rudo: Max Stats"
+cheat121_code = "42003F60+03E7+00000008+0002"
+cheat121_enable = false
+
+cheat122_desc = "Rudo: Maximum HP"
+cheat122_code = "82003F7A+03E7"
+cheat122_enable = false
+
+cheat123_desc = "Rudo: Maximum TP"
+cheat123_code = "82003F76+03E7"
+cheat123_enable = false
+
+cheat124_desc = "Shir: All Techs"
+cheat124_code = "32003E19+000F"
+cheat124_enable = false
+
+cheat125_desc = "Shir: Infinite HP"
+cheat125_code = "82003E3C+03E7"
+cheat125_enable = false
+
+cheat126_desc = "Shir: Infinite TP"
+cheat126_code = "82003E38+03E7"
+cheat126_enable = false
+
+cheat127_desc = "Shir: Max Experience"
+cheat127_code = "32003E32+00FF"
+cheat127_enable = false
+
+cheat128_desc = "Shir: Max Stats"
+cheat128_code = "42003E20+03E7+00000008+0002"
+cheat128_enable = false
+
+cheat129_desc = "Shir: Maximum HP"
+cheat129_code = "82003E3A+03E7"
+cheat129_enable = false
+
+cheat130_desc = "Shir: Maximum TP"
+cheat130_code = "82003E36+03E7"
+cheat130_enable = false
+
+cheat131_desc = "Slot 16"
+cheat131_code = "32014C6F+0000"
+cheat131_enable = false
+
+cheat132_desc = "Slot 17"
+cheat132_code = "32014C70+0000"
+cheat132_enable = false
+
+cheat133_desc = "Slot 18"
+cheat133_code = "32014C71+0000"
+cheat133_enable = false
+
+cheat134_desc = "Slot 19"
+cheat134_code = "32014C72+0000"
+cheat134_enable = false
+
+cheat135_desc = "Slot 20"
+cheat135_code = "32014C73+0000"
+cheat135_enable = false
+
+cheat136_desc = "Slot 21"
+cheat136_code = "32014C74+0000"
+cheat136_enable = false
+
+cheat137_desc = "Slot 22"
+cheat137_code = "32014C75+0000"
+cheat137_enable = false
+
+cheat138_desc = "Slot 23"
+cheat138_code = "32014C76+0000"
+cheat138_enable = false
+
+cheat139_desc = "Slot 24"
+cheat139_code = "32014C77+0000"
+cheat139_enable = false
+
+cheat140_desc = "Slot 25"
+cheat140_code = "32014C78+0000"
+cheat140_enable = false
+
+cheat141_desc = "Slot 26"
+cheat141_code = "32014C79+0000"
+cheat141_enable = false
+
+cheat142_desc = "Slot 27"
+cheat142_code = "32014C7A+0000"
+cheat142_enable = false
+
+cheat143_desc = "Slot 28"
+cheat143_code = "32014C7B+0000"
+cheat143_enable = false
+
+cheat144_desc = "Slot 29"
+cheat144_code = "32014C7C+0000"
+cheat144_enable = false
+
+cheat145_desc = "Slot 30"
+cheat145_code = "32014C7D+0000"
+cheat145_enable = false
+
+cheat146_desc = "Slot 31"
+cheat146_code = "32014C7E+0000"
+cheat146_enable = false
+
+cheat147_desc = "Slot 32"
+cheat147_code = "32014C7F+0000"
+cheat147_enable = false
+
+cheat148_desc = "Walk Through Walls"
+cheat148_code = "88765F8A+2100"
+cheat148_enable = false
+
+cheat149_desc = "Wren: Infinite HP"
+cheat149_code = "82003E4C+03E7"
+cheat149_enable = false
+
+cheat150_desc = "Wren: Infinite TP"
+cheat150_code = "82003E4A+03E7"
+cheat150_enable = false
+
+cheat151_desc = "Wren: Max Damage"
+cheat151_code = "82003E48+07D0"
+cheat151_enable = false
+
+cheat152_desc = "Wren: Max Defense"
+cheat152_code = "82003E46+07D0"
+cheat152_enable = false
+
+cheat153_desc = "Wren: Max Intel"
+cheat153_code = "82003E40+0400"
+cheat153_enable = false
+
+cheat154_desc = "Wren: Max Luck"
+cheat154_code = "32003E2C+00FF"
+cheat154_enable = false
+
+cheat155_desc = "Wren: Max Skill"
+cheat155_code = "32003E2D+00FF"
+cheat155_enable = false
+
+cheat156_desc = "Wren: Max Speed"
+cheat156_code = "32003E5B+00FF"
+cheat156_enable = false
+
+cheat157_desc = "Wren: Maximum HP"
+cheat157_code = "82003E50+03E7"
+cheat157_enable = false
+
+cheat158_desc = "Wren: Maximum TP"
+cheat158_code = "82003E4E+03E7"
+cheat158_enable = false
+
+cheat159_desc = "Infinite Mesetas"
+cheat159_code = "82003FBC+E0FF+82003FBE+05F5"
+cheat159_enable = false
+
+cheat160_desc = "No Random Battles"
+cheat160_code = "32003FC0+0010"
+cheat160_enable = false
+
+cheat161_desc = "Max Party XP Gain"
+cheat161_code = "82002CFC+FFFF"
+cheat161_enable = false
+
+cheat162_desc = "Access All Characters"
+cheat162_code = "32002FD8+0004+72003D7E+0000+42003D7E+C000+00000004+0080"
+cheat162_enable = false

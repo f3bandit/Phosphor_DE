@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Infinite Health"
+cheat0_code = "320030ED+0048"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Health (Turtles)"
+cheat1_code = "830007CC+4800+830007D4+4800"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Time"
+cheat2_code = "330063C0+0063"
+cheat2_enable = false

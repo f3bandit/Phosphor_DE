@@ -1,0 +1,245 @@
+cheats = 61
+
+cheat0_desc = "AGI"
+cheat0_code = "8201DE68+0000"
+cheat0_enable = false
+
+cheat1_desc = "Antidote"
+cheat1_code = "3201F7A6+0063"
+cheat1_enable = false
+
+cheat2_desc = "Apple Curse Song CD"
+cheat2_code = "3201F7B4+0001"
+cheat2_enable = false
+
+cheat3_desc = "ATK"
+cheat3_code = "8201DE60+0000"
+cheat3_enable = false
+
+cheat4_desc = "Awaken"
+cheat4_code = "3201F7A8+0063"
+cheat4_enable = false
+
+cheat5_desc = "Bob's New CD"
+cheat5_code = "3201F7B3+0001"
+cheat5_enable = false
+
+cheat6_desc = "Burn Balm"
+cheat6_code = "3201F7A9+0063"
+cheat6_enable = false
+
+cheat7_desc = "Can of Cat Food"
+cheat7_code = "3201F7B7+0001"
+cheat7_enable = false
+
+cheat8_desc = "Classic Cat Food"
+cheat8_code = "3201F7BB+0001"
+cheat8_enable = false
+
+cheat9_desc = "Country Cat Food"
+cheat9_code = "3201F7BF+0001"
+cheat9_enable = false
+
+cheat10_desc = "Current HP"
+cheat10_code = "8201DE5C+0000"
+cheat10_enable = false
+
+cheat11_desc = "DEF"
+cheat11_code = "8201DE62+0000"
+cheat11_enable = false
+
+cheat12_desc = "Deluxe Cat Food"
+cheat12_code = "3201F7B8+0001"
+cheat12_enable = false
+
+cheat13_desc = "Double Special Salve"
+cheat13_code = "3201F7A5+0063"
+cheat13_enable = false
+
+cheat14_desc = "Excellent Cat Food"
+cheat14_code = "3201F7BA+0001"
+cheat14_enable = false
+
+cheat15_desc = "Exp For Lvl Up"
+cheat15_code = "8201DE58+0000+8201DE5A+0000"
+cheat15_enable = false
+
+cheat16_desc = "Experience"
+cheat16_code = "8201DE54+0000+8201DE56+0000"
+cheat16_enable = false
+
+cheat17_desc = "Full Spirit Book"
+cheat17_code = "42022B30+FFFF+00000060+0002"
+cheat17_enable = false
+
+cheat18_desc = "Gold Cat Food"
+cheat18_code = "3201F7BE+0001"
+cheat18_enable = false
+
+cheat19_desc = "Gold Tablets"
+cheat19_code = "3201F7A2+0063"
+cheat19_enable = false
+
+cheat20_desc = "Gourmet Cat Food"
+cheat20_code = "3201F7B9+0001"
+cheat20_enable = false
+
+cheat21_desc = "Have $50,000"
+cheat21_code = "8201D580+C350"
+cheat21_enable = false
+
+cheat22_desc = "Level (00-FF)"
+cheat22_code = "3201DE52+0000"
+cheat22_enable = false
+
+cheat23_desc = "Light Token"
+cheat23_code = "3201F7B6+0001"
+cheat23_enable = false
+
+cheat24_desc = "Max HP"
+cheat24_code = "8201DE5E+0000"
+cheat24_enable = false
+
+cheat25_desc = "Money"
+cheat25_code = "8201D580+423F+8201D582+000F"
+cheat25_enable = false
+
+cheat26_desc = "Money From Anna #2"
+cheat26_code = "3201F7B2+0001"
+cheat26_enable = false
+
+cheat27_desc = "Money Received From Anna"
+cheat27_code = "3201F7B1+0001"
+cheat27_enable = false
+
+cheat28_desc = "Mortuary Tablets"
+cheat28_code = "3201F7A0+0063"
+cheat28_enable = false
+
+cheat29_desc = "Mudnolto's Burger"
+cheat29_code = "3201F7AC+0001"
+cheat29_enable = false
+
+cheat30_desc = "One Hit Kills"
+cheat30_code = "3201F170+0000+3201F07C+0000+3201F264+0000+3201F358+0000+3201F540+0000+3201F44C+0000"
+cheat30_enable = false
+
+cheat31_desc = "Oracle Bell"
+cheat31_code = "3201F7AD+0001"
+cheat31_enable = false
+
+cheat32_desc = "Oracle Bell #2"
+cheat32_code = "3201F7AE+0001"
+cheat32_enable = false
+
+cheat33_desc = "Oracle Bell #3"
+cheat33_code = "3201F7AF+0001"
+cheat33_enable = false
+
+cheat34_desc = "Paralysis Remedy"
+cheat34_code = "3201F7A7+0063"
+cheat34_enable = false
+
+cheat35_desc = "Party Cat Food"
+cheat35_code = "3201F7BD+0001"
+cheat35_enable = false
+
+cheat36_desc = "Perfect Cat Food"
+cheat36_code = "3201F7C0+0001"
+cheat36_enable = false
+
+cheat37_desc = "Premium Cat Food"
+cheat37_code = "3201F7BC+0001"
+cheat37_enable = false
+
+cheat38_desc = "Prime Tablets"
+cheat38_code = "3201F7A1+0063"
+cheat38_enable = false
+
+cheat39_desc = "Purrfect Condition"
+cheat39_code = "3201F7C1+0063"
+cheat39_enable = false
+
+cheat40_desc = "Quick Cash Gain"
+cheat40_code = "82022DA6+C350"
+cheat40_enable = false
+
+cheat41_desc = "Quick Level Gain (Shaman)"
+cheat41_code = "73007E1C+AF23+83007E20+C350"
+cheat41_enable = false
+
+cheat42_desc = "Royal Salve"
+cheat42_code = "3201F7A4+0063"
+cheat42_enable = false
+
+cheat43_desc = "Shadow Token"
+cheat43_code = "3201F7B5+0001"
+cheat43_enable = false
+
+cheat44_desc = "Shaman Exp"
+cheat44_code = "82022E2C+0000+82022E2E+0000"
+cheat44_enable = false
+
+cheat45_desc = "Shaman ID"
+cheat45_code = "82022C2C+0000+82022C2E+0000"
+cheat45_enable = false
+
+cheat46_desc = "Shaman ID Associated With Spirit"
+cheat46_code = "8201DE88+0000+8201DE8A+0000"
+cheat46_enable = false
+
+cheat47_desc = "Shaman Level"
+cheat47_code = "32022E30+0000"
+cheat47_enable = false
+
+cheat48_desc = "Slot #1"
+cheat48_code = "8201DE50+0000"
+cheat48_enable = false
+
+cheat49_desc = "Slot #2"
+cheat49_code = "8201DE94+0000"
+cheat49_enable = false
+
+cheat50_desc = "Slot #3"
+cheat50_code = "8201DED8+0000"
+cheat50_enable = false
+
+cheat51_desc = "Slot #4"
+cheat51_code = "8201DF1C+0000"
+cheat51_enable = false
+
+cheat52_desc = "Spirit Modifier"
+cheat52_code = "3201DE50+0000"
+cheat52_enable = false
+
+cheat53_desc = "Spiritual Salve"
+cheat53_code = "3201F7A3+0063"
+cheat53_enable = false
+
+cheat54_desc = "Status"
+cheat54_code = "3201DE6A+0000"
+cheat54_enable = false
+
+cheat55_desc = "Sword of Light"
+cheat55_code = "3201F7AB+0001"
+cheat55_enable = false
+
+cheat56_desc = "Thaw Out"
+cheat56_code = "3201F7AA+0063"
+cheat56_enable = false
+
+cheat57_desc = "Type Modifier"
+cheat57_code = "8201F06E+0000"
+cheat57_enable = false
+
+cheat58_desc = "Wild Level Modifier"
+cheat58_code = "82022CFE+0000"
+cheat58_enable = false
+
+cheat59_desc = "Wild Modifier"
+cheat59_code = "82022CFA+0000"
+cheat59_enable = false
+
+cheat60_desc = "Wild Move Modifiers"
+cheat60_code = "82022CE0+0000+82022CE4+0000+82022CE8+0000+82022CEC+0000+82022CF0+0000+82022CF4+0000"
+cheat60_enable = false

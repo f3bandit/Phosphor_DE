@@ -1,0 +1,61 @@
+cheats = 15
+
+cheat0_desc = "All DD Secrets Found"
+cheat0_code = "3300529D+0009+3300529E+0009+3300529F+0009+330052A0+0009+330052A1+0009+330052A2+0009+330052A3+0009+330052A4+0009+330052A5+0009+330052A6+0009+330052A7+0009+330052A8+0009+330052A9+0009+330052AA+0009+330052AB+0009+330052AC+0009+330052AD+0009+330052AE+0009+330052AF+0009+330052B0+0009+330052B1+0009+330052B2+0009+330052B3+0009+330052B4+0009"
+cheat0_enable = false
+
+cheat1_desc = "Have Billy Club"
+cheat1_code = "33005294+0001+33006492+0010"
+cheat1_enable = false
+
+cheat2_desc = "Have Double Strength"
+cheat2_code = "33006496+0010"
+cheat2_enable = false
+
+cheat3_desc = "Hit/Collect Anywhere"
+cheat3_code = "82009368+0008+83004D9C+0002+83004D9E+EA00+83004DB8+0000+83004DBA+E1A0+83004DC8+0000+83004DCA+E1A0+83004C00+0000+83004C02+E1A0+83004C78+0000+83004C7A+E1A0"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Health"
+cheat4_code = "32009364+002C"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Radar Sense"
+cheat5_code = "3200640E+0084"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Sense"
+cheat6_code = "3300640E+0384"
+cheat6_enable = false
+
+cheat7_desc = "Invincible"
+cheat7_code = "88015C16+46C0"
+cheat7_enable = false
+
+cheat8_desc = "Max Score"
+cheat8_code = "83005298+847F+8300529A+001E"
+cheat8_enable = false
+
+cheat9_desc = "Mega Jump"
+cheat9_code = "320093B6+0000"
+cheat9_enable = false
+
+cheat10_desc = "Multi Jump"
+cheat10_code = "72009362+002D+32009362+0021"
+cheat10_enable = false
+
+cheat11_desc = "One Hit Kills"
+cheat11_code = "880114FE+1A48+8801246C+E01A+8801B01C+E00E"
+cheat11_enable = false
+
+cheat12_desc = "Transparent"
+cheat12_code = "32009368+0002"
+cheat12_enable = false
+
+cheat13_desc = "Unlock All Secrets"
+cheat13_code = "43006580+0101+00000014+0002"
+cheat13_enable = false
+
+cheat14_desc = "Infinite Lives"
+cheat14_code = "33005296+0009"
+cheat14_enable = false

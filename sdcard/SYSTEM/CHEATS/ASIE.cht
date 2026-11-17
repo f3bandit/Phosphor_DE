@@ -1,0 +1,229 @@
+cheats = 57
+
+cheat0_desc = "Bathroom Meter Never Goes Down"
+cheat0_code = "33003A17+0063"
+cheat0_enable = false
+
+cheat1_desc = "Bed Meter Never Goes Down"
+cheat1_code = "33003A0B+0063"
+cheat1_enable = false
+
+cheat2_desc = "Have $50,000 Cash"
+cheat2_code = "83003954+C350"
+cheat2_enable = false
+
+cheat3_desc = "House Meter Never Goes Down"
+cheat3_code = "33003A1F+0063"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Money"
+cheat4_code = "83003954+FFFF"
+cheat4_enable = false
+
+cheat5_desc = "Max All Personality Traits"
+cheat5_code = "4300397A+0A0A+00000002+0002+3300397E+000A"
+cheat5_enable = false
+
+cheat6_desc = "Max Money"
+cheat6_code = "83003954+967F+83003946+0098"
+cheat6_enable = false
+
+cheat7_desc = "Max Personality"
+cheat7_code = "73004114+044E+4300396A+0A0A+00000002+0002+73004114+044E+3300396E+000A"
+cheat7_enable = false
+
+cheat8_desc = "Max Personality: Active"
+cheat8_code = "3300397C+000A"
+cheat8_enable = false
+
+cheat9_desc = "Max Personality: Neat"
+cheat9_code = "3300397A+000A"
+cheat9_enable = false
+
+cheat10_desc = "Max Personality: Nice"
+cheat10_code = "3300397E+000A"
+cheat10_enable = false
+
+cheat11_desc = "Max Personality: Outgoing"
+cheat11_code = "3300397B+000A"
+cheat11_enable = false
+
+cheat12_desc = "Max Personality: Playful"
+cheat12_code = "3300397D+000A"
+cheat12_enable = false
+
+cheat13_desc = "Max Personality: Popularity"
+cheat13_code = "83003980+270F"
+cheat13_enable = false
+
+cheat14_desc = "Max Populatity"
+cheat14_code = "83003982+7FF8"
+cheat14_enable = false
+
+cheat15_desc = "Max Relationship"
+cheat15_code = "43003978+6400+00000018+0004"
+cheat15_enable = false
+
+cheat16_desc = "Max Relationship: Bucki Brock"
+cheat16_code = "33003995+0064"
+cheat16_enable = false
+
+cheat17_desc = "Max Relationship: Chet R.Chase"
+cheat17_code = "330039AD+0064"
+cheat17_enable = false
+
+cheat18_desc = "Max Relationship: Claire Clutterbell"
+cheat18_code = "330039D5+0064"
+cheat18_enable = false
+
+cheat19_desc = "Max Relationship: Daddy Bigbucks"
+cheat19_code = "33003999+0064"
+cheat19_enable = false
+
+cheat20_desc = "Max Relationship: Daschell Swank"
+cheat20_code = "330039C5+0064"
+cheat20_enable = false
+
+cheat21_desc = "Max Relationship: Det.Dan D.Mann"
+cheat21_code = "3300399D+0064"
+cheat21_enable = false
+
+cheat22_desc = "Max Relationship: Dusty Hogg"
+cheat22_code = "33003989+0064"
+cheat22_enable = false
+
+cheat23_desc = "Max Relationship: Eddie Renalin"
+cheat23_code = "33003991+0064"
+cheat23_enable = false
+
+cheat24_desc = "Max Relationship: Ephram Earl"
+cheat24_code = "330039A5+0064"
+cheat24_enable = false
+
+cheat25_desc = "Max Relationship: Giuseppi Mezzoalto"
+cheat25_code = "330039BD+0064"
+cheat25_enable = false
+
+cheat26_desc = "Max Relationship: Hester Primm"
+cheat26_code = "330039E1+0064"
+cheat26_enable = false
+
+cheat27_desc = "Max Relationship: Lottie Cash"
+cheat27_code = "330039E5+0064"
+cheat27_enable = false
+
+cheat28_desc = "Max Relationship: Mad Willy Hurtzya"
+cheat28_code = "3300398D+0064"
+cheat28_enable = false
+
+cheat29_desc = "Max Relationship: Maximilian Moore"
+cheat29_code = "330039D1+0064"
+cheat29_enable = false
+
+cheat30_desc = "Max Relationship: Mel Odious"
+cheat30_code = "330039CD+0064"
+cheat30_enable = false
+
+cheat31_desc = "Max Relationship: Misty Waters"
+cheat31_code = "330039A9+0064"
+cheat31_enable = false
+
+cheat32_desc = "Max Relationship: Nicki Knack"
+cheat32_code = "330039B5+0064"
+cheat32_enable = false
+
+cheat33_desc = "Max Relationship: Nora Zeal-Ott"
+cheat33_code = "330039D9+0064"
+cheat33_enable = false
+
+cheat34_desc = "Max Relationship: O.Phil McClean"
+cheat34_code = "330039A1+0064"
+cheat34_enable = false
+
+cheat35_desc = "Max Relationship: Olde Salty"
+cheat35_code = "330039B1+0064"
+cheat35_enable = false
+
+cheat36_desc = "Max Relationship: Uncle Hayseed"
+cheat36_code = "330039B9+0064"
+cheat36_enable = false
+
+cheat37_desc = "Max Relationship: Vera Vex"
+cheat37_code = "330039DD+0064"
+cheat37_enable = false
+
+cheat38_desc = "Max Relationship: Vernon Peeve"
+cheat38_code = "330039C9+0064"
+cheat38_enable = false
+
+cheat39_desc = "Max Skills: Cooking"
+cheat39_code = "330039EB+000A"
+cheat39_enable = false
+
+cheat40_desc = "Max Skills: Mechanical"
+cheat40_code = "330039EF+000A"
+cheat40_enable = false
+
+cheat41_desc = "Press R To Speed Up Game Timer"
+cheat41_code = "74000130+02FF+E300395C+0010"
+cheat41_enable = false
+
+cheat42_desc = "Rest Meter Never Goes Down"
+cheat42_code = "33003A13+0063"
+cheat42_enable = false
+
+cheat43_desc = "TV Meter Never Goes Down"
+cheat43_code = "33003A1B+0063"
+cheat43_enable = false
+
+cheat44_desc = "Hunger Meter Never Goes Down"
+cheat44_code = "33003A03+0063"
+cheat44_enable = false
+
+cheat45_desc = "Shower Meter Never Goes Down"
+cheat45_code = "33003A07+0063"
+cheat45_enable = false
+
+cheat46_desc = "Relationship Meter Never Goes Down"
+cheat46_code = "33003A0F+0063"
+cheat46_enable = false
+
+cheat47_desc = "Max Aluminum Cans"
+cheat47_code = "33003A30+0063"
+cheat47_enable = false
+
+cheat48_desc = "Max Old Glass Jars"
+cheat48_code = "33003A31+0063"
+cheat48_enable = false
+
+cheat49_desc = "Max Mechanical Cogs"
+cheat49_code = "33003A32+0063"
+cheat49_enable = false
+
+cheat50_desc = "Max Nuclear Fuel Rods"
+cheat50_code = "33003A33+0063"
+cheat50_enable = false
+
+cheat51_desc = "Max 3-Eared Mice"
+cheat51_code = "33003A34+0063"
+cheat51_enable = false
+
+cheat52_desc = "Max Creativity"
+cheat52_code = "330039F3+000A"
+cheat52_enable = false
+
+cheat53_desc = "Max Body"
+cheat53_code = "330039F7+000A"
+cheat53_enable = false
+
+cheat54_desc = "Max Logic"
+cheat54_code = "330039FB+000A"
+cheat54_enable = false
+
+cheat55_desc = "Max Charisma"
+cheat55_code = "330039FF+000A"
+cheat55_enable = false
+
+cheat56_desc = "Max Affection"
+cheat56_code = "43003988+6400+00000018+0004"
+cheat56_enable = false

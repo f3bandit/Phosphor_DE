@@ -1,0 +1,41 @@
+cheats = 10
+
+cheat0_desc = "Jump higher"
+cheat0_code = "882010A2+81FA+882010AE+81FA+882010DC+82FA+882010E8+81FA"
+cheat0_enable = false
+
+cheat1_desc = "Jump in midair-part1"
+cheat1_code = "8801BD6C+46C0+8801BB7C+46C0+8801BE88+46C0+8801B960+46C0"
+cheat1_enable = false
+
+cheat2_desc = "Jump in midair-part2"
+cheat2_code = "8801BA6E+46C0"
+cheat2_enable = false
+
+cheat3_desc = "Untochable"
+cheat3_code = "88010DAC+2302"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Lives"
+cheat4_code = "33005F10+0063"
+cheat4_enable = false
+
+cheat5_desc = "Max Stars"
+cheat5_code = "33005F11+0063"
+cheat5_enable = false
+
+cheat6_desc = "Have All Energy Spheres"
+cheat6_code = "33005F12+0007"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Time"
+cheat7_code = "33005F14+0063"
+cheat7_enable = false
+
+cheat8_desc = "Unlock All Levels"
+cheat8_code = "33005908+0010"
+cheat8_enable = false
+
+cheat9_desc = "All Stars Collected/Unlock Pics In Gallery"
+cheat9_code = "83005C64+FFFF"
+cheat9_enable = false

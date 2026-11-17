@@ -1,0 +1,33 @@
+cheats = 8
+
+cheat0_desc = "Invincibility"
+cheat0_code = "830071C8+03E8"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Time"
+cheat1_code = "8300704C+0258"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Tin Cans"
+cheat2_code = "33006FC8+0009"
+cheat2_enable = false
+
+cheat3_desc = "999 Shells"
+cheat3_code = "830070AC+03E7"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Time (Bonus Levels)"
+cheat4_code = "730038A8+0008+830038A8+0009"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Lives"
+cheat5_code = "33001444+00FF"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Time (In Race)"
+cheat6_code = "73003970+0008+83003970+0009"
+cheat6_enable = false
+
+cheat7_desc = "Have All Levels Open"
+cheat7_code = "43007594+0202+0000003D+0002"
+cheat7_enable = false

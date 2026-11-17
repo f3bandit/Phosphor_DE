@@ -1,0 +1,21 @@
+cheats = 5
+
+cheat0_desc = "Freeze Enemies"
+cheat0_code = "72000254+0010+82000254+0080"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Bullets"
+cheat1_code = "320000A8+0063"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Nuts"
+cheat2_code = "320000B4+0063"
+cheat2_enable = false
+
+cheat3_desc = "Max Score"
+cheat3_code = "820000B8+03E7+820000BC+03E7"
+cheat3_enable = false
+
+cheat4_desc = "Press B For Moon Jump"
+cheat4_code = "D0000020+0002+00000C12+00FA"
+cheat4_enable = false

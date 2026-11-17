@@ -1,0 +1,125 @@
+cheats = 31
+
+cheat0_desc = "1-Hit To Kill Enemy Zord"
+cheat0_code = "A3003884+0001+83003884+FFFF+A3003886+0001+83003886+FFFF"
+cheat0_enable = false
+
+cheat1_desc = "Clear Mission [Select+L]"
+cheat1_code = "74000130+01FB+33000044+000D"
+cheat1_enable = false
+
+cheat2_desc = "Easy Puzzle"
+cheat2_code = "730033D6+0028+830033E6+0001"
+cheat2_enable = false
+
+cheat3_desc = "Have 50 Blue Gems"
+cheat3_code = "730033C2+0800+33000085+0032"
+cheat3_enable = false
+
+cheat4_desc = "Have 50 Gold Gems"
+cheat4_code = "730033C2+0800+33000084+0032"
+cheat4_enable = false
+
+cheat5_desc = "Have 50 Red Gems"
+cheat5_code = "730033C2+0800+33000086+0032"
+cheat5_enable = false
+
+cheat6_desc = "Have All Arms"
+cheat6_code = "73003402+0504+83003408+0100+73003402+0504+3300340C+0003"
+cheat6_enable = false
+
+cheat7_desc = "Have All Megazord Weapons"
+cheat7_code = "33003407+0004+83003408+0100+8300340A+0205+3300340C+0003"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Health"
+cheat8_code = "3300344D+008F"
+cheat8_enable = false
+
+cheat9_desc = "Infinite HP (Megazord)"
+cheat9_code = "73002FC4+1F40+43003014+707F+00000002+0002"
+cheat9_enable = false
+
+cheat10_desc = "Infinite HP (Ranger)"
+cheat10_code = "730033C2+0800+3300344D+0090"
+cheat10_enable = false
+
+cheat11_desc = "Infinite lives in Puzzle"
+cheat11_code = "330033E0+0004"
+cheat11_enable = false
+
+cheat12_desc = "Infinite Tries"
+cheat12_code = "730033E0+0003+330033E0+0004"
+cheat12_enable = false
+
+cheat13_desc = "Infinte Dino Claws"
+cheat13_code = "730033C2+0800+3300007B+00FF"
+cheat13_enable = false
+
+cheat14_desc = "Invincibility"
+cheat14_code = "88012268+E040"
+cheat14_enable = false
+
+cheat15_desc = "Max Blue Jewels Collected"
+cheat15_code = "33000085+0028"
+cheat15_enable = false
+
+cheat16_desc = "Max Dino Claws"
+cheat16_code = "3300007B+0063"
+cheat16_enable = false
+
+cheat17_desc = "Max Dino Claws Collected"
+cheat17_code = "3300007C+00C8"
+cheat17_enable = false
+
+cheat18_desc = "Max Red Jewels Collected"
+cheat18_code = "83000086+2828"
+cheat18_enable = false
+
+cheat19_desc = "Max Yellow Jewels Collected"
+cheat19_code = "33000084+0028"
+cheat19_enable = false
+
+cheat20_desc = "Mega Jump"
+cheat20_code = "D0000020+0001+33003450+001E"
+cheat20_enable = false
+
+cheat21_desc = "Multi Jump"
+cheat21_code = "D0000020+0001+33003450+0000"
+cheat21_enable = false
+
+cheat22_desc = "One Item Needed Complete Mission Objectives"
+cheat22_code = "A300007E+0000+3300007E+0001"
+cheat22_enable = false
+
+cheat23_desc = "Press L To Criple Boss 2"
+cheat23_code = "74000130+01FF+330038CD+0000"
+cheat23_enable = false
+
+cheat24_desc = "Press L To Cripple Boss 1"
+cheat24_code = "74000130+01FF+33003915+0000"
+cheat24_enable = false
+
+cheat25_desc = "Press L To Cripple Boss 3"
+cheat25_code = "74000130+01FF+330039ED+0000"
+cheat25_enable = false
+
+cheat26_desc = "Select To Fill Puzzle Timer"
+cheat26_code = "74000130+03FB+830033DE+1C20"
+cheat26_enable = false
+
+cheat27_desc = "Stop Mission Timer"
+cheat27_code = "730033C2+0800+33000080+0000"
+cheat27_enable = false
+
+cheat28_desc = "Stop Puzzle Timer"
+cheat28_code = "730033D6+0028+830033DE+1C20"
+cheat28_enable = false
+
+cheat29_desc = "Weak Rival Megazord"
+cheat29_code = "73003884+707F+43003884+0001+00000002+0002"
+cheat29_enable = false
+
+cheat30_desc = "Invincible"
+cheat30_code = "33003433+0002"
+cheat30_enable = false

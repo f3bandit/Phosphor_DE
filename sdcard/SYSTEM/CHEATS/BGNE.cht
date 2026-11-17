@@ -1,0 +1,101 @@
+cheats = 25
+
+cheat0_desc = "Access Very Hard Level"
+cheat0_code = "73000514+0700+33000515+000F"
+cheat0_enable = false
+
+cheat1_desc = "Have All Charaters Unlocked/Cleared"
+cheat1_code = "83007638+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "Infinite HP"
+cheat2_code = "72000002+0001+8300053E+3C00"
+cheat2_enable = false
+
+cheat3_desc = "Infinite HP P1"
+cheat3_code = "3300053F+003B"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Os Points"
+cheat4_code = "880290B0+2096"
+cheat4_enable = false
+
+cheat5_desc = "Infinite PS Armor"
+cheat5_code = "72000002+0001+83000540+2A00"
+cheat5_enable = false
+
+cheat6_desc = "Infinite PS P1"
+cheat6_code = "33000541+0029"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Thrusters"
+cheat7_code = "72000002+0001+83000542+3000"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Time [Time Limit Mode]"
+cheat8_code = "83007618+4650"
+cheat8_enable = false
+
+cheat9_desc = "Infinite Truster Power P1"
+cheat9_code = "33000543+001D"
+cheat9_enable = false
+
+cheat10_desc = "Maximum HP"
+cheat10_code = "3300762C+0096"
+cheat10_enable = false
+
+cheat11_desc = "Maximum PS Armor"
+cheat11_code = "3300762D+0096"
+cheat11_enable = false
+
+cheat12_desc = "Maximum Thrusters"
+cheat12_code = "3300762E+0096"
+cheat12_enable = false
+
+cheat13_desc = "No PS P2"
+cheat13_code = "330005A5+0000"
+cheat13_enable = false
+
+cheat14_desc = "No Time For Time Trials Mode"
+cheat14_code = "83007618+0000"
+cheat14_enable = false
+
+cheat15_desc = "No Trust Power P2"
+cheat15_code = "330005A7+0000"
+cheat15_enable = false
+
+cheat16_desc = "P2: No Armor"
+cheat16_code = "B30005A4+0001+830005A4+0001"
+cheat16_enable = false
+
+cheat17_desc = "P2: No Health"
+cheat17_code = "B30005A2+0001+830005A2+0001"
+cheat17_enable = false
+
+cheat18_desc = "P2: No Thrust"
+cheat18_code = "B30005A6+0001+830005A6+0001"
+cheat18_enable = false
+
+cheat19_desc = "Press Select For 1-Hit Kill"
+cheat19_code = "D0000020+0004+830005A2+0001"
+cheat19_enable = false
+
+cheat20_desc = "Rival Has Minimum HP"
+cheat20_code = "33007630+0032"
+cheat20_enable = false
+
+cheat21_desc = "Rival Has Minimum PS Armor"
+cheat21_code = "33007631+0032"
+cheat21_enable = false
+
+cheat22_desc = "Rival Has Minimum Thrusters"
+cheat22_code = "33007632+0032"
+cheat22_enable = false
+
+cheat23_desc = "Start At Final Battle"
+cheat23_code = "7300763A+0000+3300763A+000C"
+cheat23_enable = false
+
+cheat24_desc = "Unlock Very Hard Mode"
+cheat24_code = "33000515+00FF"
+cheat24_enable = false

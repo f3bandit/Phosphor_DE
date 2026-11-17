@@ -1,0 +1,21 @@
+cheats = 5
+
+cheat0_desc = "Always Place 1st"
+cheat0_code = "83001EC4+0000"
+cheat0_enable = false
+
+cheat1_desc = "Pole Position"
+cheat1_code = "830010E0+0000"
+cheat1_enable = false
+
+cheat2_desc = "Press R For Turbo Boost"
+cheat2_code = "D0000020+0100+83007048+0BC0"
+cheat2_enable = false
+
+cheat3_desc = "Unlock Hidden Cars"
+cheat3_code = "83007098+FFFF"
+cheat3_enable = false
+
+cheat4_desc = "Unlock Hidden Tracks"
+cheat4_code = "830070A0+01FF"
+cheat4_enable = false

@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Max Score"
+cheat0_code = "820043B4+E0FF+820043B6+05F5"
+cheat0_enable = false

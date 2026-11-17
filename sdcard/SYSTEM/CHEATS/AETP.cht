@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Infinite Health"
+cheat0_code = "830007E0+2000"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Continues"
+cheat1_code = "33002CEB+0008"
+cheat1_enable = false
+
+cheat2_desc = "Set Timer Back (Press Select)"
+cheat2_code = "74000130+03FB+3300314A+0000+74000130+03FB+33003174+0000"
+cheat2_enable = false

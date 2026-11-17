@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Infinite Bones"
+cheat0_code = "83002BE8+03E7"
+cheat0_enable = false
+
+cheat1_desc = "Jump in Midair"
+cheat1_code = "8203FF00+4A07+8203FF02+B404+8203FF04+4652+8203FF06+2101+8203FF08+400A+8203FF0A+D003+8203FF0C+2200+8203FF0E+3A04+8203FF10+0412+8203FF12+67B2+8203FF14+6670+8203FF16+2000+8203FF18+4642+8203FF1A+6350+8203FF1C+BD00+8203FF1E+0000+8203FF20+E9BD+8203FF22+0800+8800E9B4+4800+8800E9B6+4700+8800E9B8+FF01+8800E9BA+0203"
+cheat1_enable = false
+
+cheat2_desc = "Press Select For Moon Jump"
+cheat2_code = "D0000020+0004+83002EC8+008A"
+cheat2_enable = false
+
+cheat3_desc = "Press Select To Refill Shout"
+cheat3_code = "D0000020+0004+83002BF0+0008"
+cheat3_enable = false

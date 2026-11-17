@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "500 Perfects"
+cheat0_code = "830057B8+01F4"
+cheat0_enable = false
+
+cheat1_desc = "Max Cool-O-Meter"
+cheat1_code = "330058E2+00B7"
+cheat1_enable = false
+
+cheat2_desc = "Unlock All Levels"
+cheat2_code = "33007BB4+00FF+33007BB6+00FF"
+cheat2_enable = false

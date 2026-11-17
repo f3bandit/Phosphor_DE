@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Infinite lives"
+cheat0_code = "33002B0B+0099"
+cheat0_enable = false
+
+cheat1_desc = "Moon jump"
+cheat1_code = "330004D6+0099"
+cheat1_enable = false

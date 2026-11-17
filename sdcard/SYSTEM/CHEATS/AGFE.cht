@@ -1,0 +1,421 @@
+cheats = 105
+
+cheat0_desc = "Hold L To Multi Hit"
+cheat0_code = "D0000020+0200+82030870+0000"
+cheat0_enable = false
+
+cheat1_desc = "9,999,999 EXP Gained After Battle"
+cheat1_code = "820305A0+967F+820305A2+0098"
+cheat1_enable = false
+
+cheat2_desc = "Access All Summons"
+cheat2_code = "4200024C+FFFF+00000002+0002+42035E70+0707+00000008+0002"
+cheat2_enable = false
+
+cheat3_desc = "Artifacts Shop Available"
+cheat3_code = "4200208C+6363+0000003D+0002"
+cheat3_enable = false
+
+cheat4_desc = "Can Enter/Leave Debug Room (Enter = L+R+A, Leave = Get Teleport Item, L+R+B)"
+cheat4_code = "73001150+0301+82000420+0144+73001150+0301+82030158+0001+72030186+0302+8203016A+FC89"
+cheat4_enable = false
+
+cheat5_desc = "Character X/Y Modifier"
+cheat5_code = "820322FE+0000+820322F6+0000"
+cheat5_enable = false
+
+cheat6_desc = "Enable All Teleport Locations"
+cheat6_code = "82000070+FFFF+82000072+FFFF+82000074+FFFF+82000076+FFFF"
+cheat6_enable = false
+
+cheat7_desc = "Felix: Infinite HP"
+cheat7_code = "82000A88+270F"
+cheat7_enable = false
+
+cheat8_desc = "Felix: Infinite PP"
+cheat8_code = "82000A8A+270F"
+cheat8_enable = false
+
+cheat9_desc = "Felix: Max Agility"
+cheat9_code = "82000A90+03E7"
+cheat9_enable = false
+
+cheat10_desc = "Felix: Max Attack"
+cheat10_code = "82000A8C+03E7"
+cheat10_enable = false
+
+cheat11_desc = "Felix: Max Defense"
+cheat11_code = "82000A8E+03E7"
+cheat11_enable = false
+
+cheat12_desc = "Felix: Max Djinn Pow/Res"
+cheat12_code = "42000A98+03E7+00000008+0002"
+cheat12_enable = false
+
+cheat13_desc = "Felix: Max Luck"
+cheat13_code = "32000A92+00FF"
+cheat13_enable = false
+
+cheat14_desc = "Felix: Maximum HP"
+cheat14_code = "82000A84+270F"
+cheat14_enable = false
+
+cheat15_desc = "Felix: Maximum PP"
+cheat15_code = "82000A86+270F"
+cheat15_enable = false
+
+cheat16_desc = "Garet"
+cheat16_code = "72000060+0018+42000774+FFFF+00000004+0004+72000060+0050+42000774+0000+00000004+0004"
+cheat16_enable = false
+
+cheat17_desc = "Garet: Infinite HP"
+cheat17_code = "820006A4+270F"
+cheat17_enable = false
+
+cheat18_desc = "Garet: Infinite PP"
+cheat18_code = "820006A6+270F"
+cheat18_enable = false
+
+cheat19_desc = "Garet: Max Agility"
+cheat19_code = "820006AC+03E7"
+cheat19_enable = false
+
+cheat20_desc = "Garet: Max Attack"
+cheat20_code = "820006A8+03E7"
+cheat20_enable = false
+
+cheat21_desc = "Garet: Max Defense"
+cheat21_code = "820006AA+03E7"
+cheat21_enable = false
+
+cheat22_desc = "Garet: Max Djinn Pow/Res"
+cheat22_code = "420006B4+03E7+00000008+0002"
+cheat22_enable = false
+
+cheat23_desc = "Garet: Max Luck"
+cheat23_code = "320006AE+00FF"
+cheat23_enable = false
+
+cheat24_desc = "Garet: Maximum HP"
+cheat24_code = "820006A0+270F"
+cheat24_enable = false
+
+cheat25_desc = "Garet: Maximum PP"
+cheat25_code = "820006A2+270F"
+cheat25_enable = false
+
+cheat26_desc = "Have All Characters"
+cheat26_code = "32000040+00FF+82000458+0504+8200045A+0706+8200045C+0100+8200045E+0302"
+cheat26_enable = false
+
+cheat27_desc = "Have All Summons"
+cheat27_code = "8200024C+FFFF+8200024E+FFFF"
+cheat27_enable = false
+
+cheat28_desc = "Infinite Money"
+cheat28_code = "82000250+E0FF+82000252+05F5"
+cheat28_enable = false
+
+cheat29_desc = "Infinite Summons"
+cheat29_code = "32000257+00FF"
+cheat29_enable = false
+
+cheat30_desc = "Isaac"
+cheat30_code = "72000060+0018+42000628+FFFF+00000004+0004+72000060+0050+42000628+0000+00000004+0004"
+cheat30_enable = false
+
+cheat31_desc = "Isaac: Infinite HP"
+cheat31_code = "82000558+270F"
+cheat31_enable = false
+
+cheat32_desc = "Isaac: Infinite PP"
+cheat32_code = "8200055A+270F"
+cheat32_enable = false
+
+cheat33_desc = "Isaac: Max Agility"
+cheat33_code = "82000560+03E7"
+cheat33_enable = false
+
+cheat34_desc = "Isaac: Max Attack"
+cheat34_code = "8200055C+03E7"
+cheat34_enable = false
+
+cheat35_desc = "Isaac: Max Defense"
+cheat35_code = "8200055E+03E7"
+cheat35_enable = false
+
+cheat36_desc = "Isaac: Max Djinn Pow/Res"
+cheat36_code = "42000568+03E7+00000008+0002"
+cheat36_enable = false
+
+cheat37_desc = "Isaac: Max Luck"
+cheat37_code = "32000562+00FF"
+cheat37_enable = false
+
+cheat38_desc = "Isaac: Maximum HP"
+cheat38_code = "82000554+270F"
+cheat38_enable = false
+
+cheat39_desc = "Isaac: Maximum PP"
+cheat39_code = "82000556+270F"
+cheat39_enable = false
+
+cheat40_desc = "Ivan: Infinite HP"
+cheat40_code = "820007F0+270F"
+cheat40_enable = false
+
+cheat41_desc = "Ivan: Infinite PP"
+cheat41_code = "820007F2+270F"
+cheat41_enable = false
+
+cheat42_desc = "Ivan: Max Agility"
+cheat42_code = "820007F8+03E7"
+cheat42_enable = false
+
+cheat43_desc = "Ivan: Max Attack"
+cheat43_code = "820007F4+03E7"
+cheat43_enable = false
+
+cheat44_desc = "Ivan: Max Defense"
+cheat44_code = "820007F6+03E7"
+cheat44_enable = false
+
+cheat45_desc = "Ivan: Max Djinn Pow/Res"
+cheat45_code = "42000800+03E7+00000008+0002"
+cheat45_enable = false
+
+cheat46_desc = "Ivan: Max Luck"
+cheat46_code = "320007FA+00FF"
+cheat46_enable = false
+
+cheat47_desc = "Ivan: Maximum HP"
+cheat47_code = "820007EC+270F"
+cheat47_enable = false
+
+cheat48_desc = "Ivan: Maximum PP"
+cheat48_code = "820007EE+270F"
+cheat48_enable = false
+
+cheat49_desc = "Jenna: Infinite HP"
+cheat49_code = "82000BD4+270F"
+cheat49_enable = false
+
+cheat50_desc = "Jenna: Infinite PP"
+cheat50_code = "82000BD6+270F"
+cheat50_enable = false
+
+cheat51_desc = "Jenna: Max Agility"
+cheat51_code = "82000BDC+03E7"
+cheat51_enable = false
+
+cheat52_desc = "Jenna: Max Attack"
+cheat52_code = "82000BD8+03E7"
+cheat52_enable = false
+
+cheat53_desc = "Jenna: Max Defense"
+cheat53_code = "82000BDA+03E7"
+cheat53_enable = false
+
+cheat54_desc = "Jenna: Max Djinn Pow/Res"
+cheat54_code = "42000BE4+03E7+00000008+0002"
+cheat54_enable = false
+
+cheat55_desc = "Jenna: Max Luck"
+cheat55_code = "32000BDE+00FF"
+cheat55_enable = false
+
+cheat56_desc = "Jenna: Maximum HP"
+cheat56_code = "82000BD0+270F"
+cheat56_enable = false
+
+cheat57_desc = "Jenna: Maximum PP"
+cheat57_code = "82000BD2+270F"
+cheat57_enable = false
+
+cheat58_desc = "Max Permanant Agility"
+cheat58_code = "4200053C+270F+00000008+014C"
+cheat58_enable = false
+
+cheat59_desc = "Max Permanant DEF"
+cheat59_code = "4200053A+270F+00000008+014C"
+cheat59_enable = false
+
+cheat60_desc = "Max Permanant Luck"
+cheat60_code = "3200053E+0080+3200068A+0080+320007D6+0080+32000922+0080+32000A6E+0080+32000BBA+0080+32000D06+0080+32000E52+0080"
+cheat60_enable = false
+
+cheat61_desc = "Max Permanant STR"
+cheat61_code = "42000538+270F+00000008+014C"
+cheat61_enable = false
+
+cheat62_desc = "Max. Permanant HP"
+cheat62_code = "42000530+270F+00000008+014C"
+cheat62_enable = false
+
+cheat63_desc = "Max. Permanant PP"
+cheat63_code = "42000532+270F+00000008+014C"
+cheat63_enable = false
+
+cheat64_desc = "Mia: Infinite HP"
+cheat64_code = "8200093C+270F"
+cheat64_enable = false
+
+cheat65_desc = "Mia: Infinite PP"
+cheat65_code = "8200093E+270F"
+cheat65_enable = false
+
+cheat66_desc = "Mia: Max Agility"
+cheat66_code = "82000944+03E7"
+cheat66_enable = false
+
+cheat67_desc = "Mia: Max Attack"
+cheat67_code = "82000940+03E7"
+cheat67_enable = false
+
+cheat68_desc = "Mia: Max Defense"
+cheat68_code = "82000942+03E7"
+cheat68_enable = false
+
+cheat69_desc = "Mia: Max Djinn Pow/Res"
+cheat69_code = "4200094C+03E7+00000008+0002"
+cheat69_enable = false
+
+cheat70_desc = "Mia: Max Luck"
+cheat70_code = "32000946+00FF"
+cheat70_enable = false
+
+cheat71_desc = "Mia: Maximum HP"
+cheat71_code = "82000938+270F"
+cheat71_enable = false
+
+cheat72_desc = "Mia: Maximum PP"
+cheat72_code = "8200093A+270F"
+cheat72_enable = false
+
+cheat73_desc = "Normal Map"
+cheat73_code = "74000130+03BF+8203231A+FFFD+74000130+037F+8203231A+0002+74000130+03DF+82032312+FFFD+74000130+03EF+82032312+0002"
+cheat73_enable = false
+
+cheat74_desc = "Piers: Infinite HP"
+cheat74_code = "82000E6C+270F"
+cheat74_enable = false
+
+cheat75_desc = "Piers: Infinite PP"
+cheat75_code = "82000E6E+270F"
+cheat75_enable = false
+
+cheat76_desc = "Piers: Max Agility"
+cheat76_code = "82000E74+03E7"
+cheat76_enable = false
+
+cheat77_desc = "Piers: Max Attack"
+cheat77_code = "82000E70+03E7"
+cheat77_enable = false
+
+cheat78_desc = "Piers: Max Defense"
+cheat78_code = "82000E72+03E7"
+cheat78_enable = false
+
+cheat79_desc = "Piers: Max Djinn Pow/Res"
+cheat79_code = "42000E7C+03E7+00000008+0002"
+cheat79_enable = false
+
+cheat80_desc = "Piers: Max Luck"
+cheat80_code = "32000E76+00FF"
+cheat80_enable = false
+
+cheat81_desc = "Piers: Maximum HP"
+cheat81_code = "82000E68+270F"
+cheat81_enable = false
+
+cheat82_desc = "Piers: Maximum PP"
+cheat82_code = "82000E6A+270F"
+cheat82_enable = false
+
+cheat83_desc = "Quick Coin Gain"
+cheat83_code = "8203059C+C350"
+cheat83_enable = false
+
+cheat84_desc = "Quick Level Gain"
+cheat84_code = "820305A0+C350"
+cheat84_enable = false
+
+cheat85_desc = "Sheba: Infinite HP"
+cheat85_code = "82000D20+270F"
+cheat85_enable = false
+
+cheat86_desc = "Sheba: Infinite PP"
+cheat86_code = "82000D22+270F"
+cheat86_enable = false
+
+cheat87_desc = "Sheba: Max Agility"
+cheat87_code = "82000D28+03E7"
+cheat87_enable = false
+
+cheat88_desc = "Sheba: Max Attack"
+cheat88_code = "82000D24+03E7"
+cheat88_enable = false
+
+cheat89_desc = "Sheba: Max Defense"
+cheat89_code = "82000D26+03E7"
+cheat89_enable = false
+
+cheat90_desc = "Sheba: Max Djinn Pow/Res"
+cheat90_code = "42000D30+03E7+00000008+0002"
+cheat90_enable = false
+
+cheat91_desc = "Sheba: Max Luck"
+cheat91_code = "32000D2A+00FF"
+cheat91_enable = false
+
+cheat92_desc = "Sheba: Maximum HP"
+cheat92_code = "82000D1C+270F"
+cheat92_enable = false
+
+cheat93_desc = "Sheba: Maximum PP"
+cheat93_code = "82000D1E+270F"
+cheat93_enable = false
+
+cheat94_desc = "World Map"
+cheat94_code = "74000130+03BF+820321E6+FFFD+74000130+037F+820321E6+0002+74000130+03DF+820321DE+FFFD+74000130+03EF+820321DE+0002"
+cheat94_enable = false
+
+cheat95_desc = "World Map [Ship]"
+cheat95_code = "74000130+03BF+82032266+FFFD+74000130+037F+82032266+0002+74000130+03DF+8203225E+FFFD+74000130+03EF+8203225E+0002"
+cheat95_enable = false
+
+cheat96_desc = "No Random Battle (Scripted Encounter Still Happened)"
+cheat96_code = "82000498+0000"
+cheat96_enable = false
+
+cheat97_desc = "Infinite HP"
+cheat97_code = "42000558+07CF+00000008+014C"
+cheat97_enable = false
+
+cheat98_desc = "Infinite PP"
+cheat98_code = "4200055A+07CF+00000008+014C"
+cheat98_enable = false
+
+cheat99_desc = "Felix Have All Djinni In-Battle"
+cheat99_code = "72000060+0018+42000B58+FFFF+00000004+0004+72000060+0050+42000B58+0000+00000004+0004"
+cheat99_enable = false
+
+cheat100_desc = "Ivan Have All Djinni In-Battle"
+cheat100_code = "72000060+0018+420008C0+FFFF+00000004+0004+72000060+0050+420008C0+0000+00000004+0004"
+cheat100_enable = false
+
+cheat101_desc = "Jenna Have All Djinni In-Battle"
+cheat101_code = "72000060+0018+42000CA4+FFFF+00000004+0004+72000060+0050+42000CA4+0000+00000004+0004"
+cheat101_enable = false
+
+cheat102_desc = "Mia Have All Djinni In-Battle"
+cheat102_code = "72000060+0018+42000A0C+FFFF+00000004+0004+72000060+0050+42000A0C+0000+00000004+0004"
+cheat102_enable = false
+
+cheat103_desc = "Piers Have All Djinni In-Battle"
+cheat103_code = "72000060+0018+42000F3C+FFFF+00000004+0004+72000060+0050+42000F3C+0000+00000004+0004"
+cheat103_enable = false
+
+cheat104_desc = "Sheba Have All Djinni In-Battle"
+cheat104_code = "72000060+0018+42000DF0+FFFF+00000004+0004+72000060+0050+42000DF0+0000+00000004+0004"
+cheat104_enable = false

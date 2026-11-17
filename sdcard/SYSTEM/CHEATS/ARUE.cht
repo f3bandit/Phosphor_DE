@@ -1,0 +1,21 @@
+cheats = 5
+
+cheat0_desc = "Can't Be Tipped"
+cheat0_code = "83001820+0000+83001826+0000"
+cheat0_enable = false
+
+cheat1_desc = "Destroy Opponents [Press Select]"
+cheat1_code = "D0000020+0004+4300185C+0500+00000002+0070"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Health"
+cheat2_code = "830017EC+0000"
+cheat2_enable = false
+
+cheat3_desc = "Weak Opponent #1"
+cheat3_code = "7300185C+0000+8300185C+0480"
+cheat3_enable = false
+
+cheat4_desc = "Weak Opponent #2"
+cheat4_code = "730018CC+0000+830018CC+0480"
+cheat4_enable = false

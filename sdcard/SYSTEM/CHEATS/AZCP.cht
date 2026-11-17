@@ -1,0 +1,245 @@
+cheats = 61
+
+cheat0_desc = "Ability Bitfield"
+cheat0_code = "3202B71A+003F"
+cheat0_enable = false
+
+cheat1_desc = "Access Trans Server [Press Select+R]"
+cheat1_code = "74000130+02FB"
+cheat1_enable = false
+
+cheat2_desc = "All Elves"
+cheat2_code = "8202B744+FFFF+8202B746+FFFF+8202B748+FFFF+8202B74A+FFFF+8202B74C+FFFF+8202B74E+FFFF+8202B750+FFFF+8202B752+FFFF+8202B754+FFFF+8202B756+FFFF"
+cheat2_enable = false
+
+cheat3_desc = "All Elves Fully Grown"
+cheat3_code = "4202B78A+0202+00000000+0000"
+cheat3_enable = false
+
+cheat4_desc = "All Weapon Skills Maxed"
+cheat4_code = "8202B734+0603"
+cheat4_enable = false
+
+cheat5_desc = "All Weapons+Elements"
+cheat5_code = "8202B728+0F0F"
+cheat5_enable = false
+
+cheat6_desc = "Buster Rod Skill Level"
+cheat6_code = "3202B736+0000"
+cheat6_enable = false
+
+cheat7_desc = "Can Select Any Mission"
+cheat7_code = "4202A6AC+0100+02020009+0002+3202A6C0+0011"
+cheat7_enable = false
+
+cheat8_desc = "Checkpoint Modifier"
+cheat8_code = "74000130+03FB+3202A59C+0001"
+cheat8_enable = false
+
+cheat9_desc = "CLEAR TIME"
+cheat9_code = "82022B28+0000+82022B2A+0000"
+cheat9_enable = false
+
+cheat10_desc = "CLEAR TIME Display"
+cheat10_code = "32022B37+0000"
+cheat10_enable = false
+
+cheat11_desc = "Crystals"
+cheat11_code = "8202B79E+0000"
+cheat11_enable = false
+
+cheat12_desc = "Crystals Fed: Jackson"
+cheat12_code = "8202B788+FEED"
+cheat12_enable = false
+
+cheat13_desc = "Crystals Fed: Nuppie"
+cheat13_code = "8202B764+FEED"
+cheat13_enable = false
+
+cheat14_desc = "Crystals Fed: Turbo"
+cheat14_code = "8202B776+FEED"
+cheat14_enable = false
+
+cheat15_desc = "DAMAGE"
+cheat15_code = "82022B2E+0000"
+cheat15_enable = false
+
+cheat16_desc = "DAMAGE Display"
+cheat16_code = "32022B39+0000"
+cheat16_enable = false
+
+cheat17_desc = "Dash length"
+cheat17_code = "3202B6B8+001C"
+cheat17_enable = false
+
+cheat18_desc = "Element"
+cheat18_code = "3202B73D+0000"
+cheat18_enable = false
+
+cheat19_desc = "ELF"
+cheat19_code = "32022B35+0000"
+cheat19_enable = false
+
+cheat20_desc = "ELF Display"
+cheat20_code = "32022B3B+0000"
+cheat20_enable = false
+
+cheat21_desc = "ENEMY"
+cheat21_code = "82022B2C+0000"
+cheat21_enable = false
+
+cheat22_desc = "ENEMY Display"
+cheat22_code = "32022B38+0000"
+cheat22_enable = false
+
+cheat23_desc = "Equipped Cyber Elf 1"
+cheat23_code = "3202B720+0000"
+cheat23_enable = false
+
+cheat24_desc = "Equipped Cyber Elf 2"
+cheat24_code = "3202B721+0000"
+cheat24_enable = false
+
+cheat25_desc = "For Diagonal Movement And Attacking While Moving [Optional]"
+cheat25_code = "74000130+039F+8202B5F8+FD80+74000130+039F+8202B5FA+FFFF+74000130+03AF+8202B5F8+FD80+74000130+03AF+8202B5FA+FFFF+74000130+039D+8202B5F8+FD80+74000130+039D+8202B5FA+FFFF+74000130+03AD+8202B5F8+FD80+74000130+03AD+8202B5FA+FFFF+74000130+03BD+8202B5F8+FD80+74000130+03BD+8202B5FA+FFFF+74000130+035F+8202B5F8+0280+74000130+035F+8202B5FA+0000+74000130+036F+8202B5F8+0280+74000130+036F+8202B5FA+0000+74000130+035D+8202B5F8+0280+74000130+035D+8202B5FA+0000+74000130+036D+8202B5F8+0280+74000130+036D+8202B5FA+0000+74000130+037D+8202B5F8+0280+74000130+037D+8202B5FA+0000"
+cheat25_enable = false
+
+cheat26_desc = "Free Fly Mode (Move The D-Pad Around While Holding R/Press Select To Turn Off)"
+cheat26_code = "74000130+02FF+3202B5AD+000A+74000130+02EF+E202B5EC+0300+74000130+02DF+E202B5EC+FCFF+74000130+02BF+E202B5F0+FCFF+74000130+027F+E202B5F0+0300+74000130+03FB+32004FA0+0000+74000130+03FB+3202B5AD+0000"
+cheat26_enable = false
+
+cheat27_desc = "Growth: Jackson"
+cheat27_code = "3202B79D+0002"
+cheat27_enable = false
+
+cheat28_desc = "Growth: Nuppie"
+cheat28_code = "3202B78B+0001"
+cheat28_enable = false
+
+cheat29_desc = "Growth: Turbo"
+cheat29_code = "3202B794+0001"
+cheat29_enable = false
+
+cheat30_desc = "Have All Elves Fully Grown"
+cheat30_code = "4202B78A+0202+0000000A+0002"
+cheat30_enable = false
+
+cheat31_desc = "Have All Weapon Skills Maxed"
+cheat31_code = "8202B734+0603+8202B736+0204"
+cheat31_enable = false
+
+cheat32_desc = "Hit Anywhere"
+cheat32_code = "8203FE00+4807+8203FE02+B401+8203FE04+6821+8203FE06+2900+8203FE08+D005+8203FE0A+20FF+8203FE0C+0200+8203FE0E+8708+8203FE10+8748+8203FE12+8588+8203FE14+85C8+8203FE16+2014+8203FE18+19C0+8203FE1A+4680+8203FE1C+1C20+8203FE1E+BD00+8203FE20+55B1+8203FE22+0800+880055A8+4800+880055AA+4700+880055AC+FE01+880055AE+0203"
+cheat32_enable = false
+
+cheat33_desc = "Horizontal Air Velocity"
+cheat33_code = "3202B5F5+0002"
+cheat33_enable = false
+
+cheat34_desc = "HP Current"
+cheat34_code = "3202B62C+0010"
+cheat34_enable = false
+
+cheat35_desc = "Invisibility"
+cheat35_code = "3202B634+0080"
+cheat35_enable = false
+
+cheat36_desc = "Jackson timer"
+cheat36_code = "8202B6C6+01FF"
+cheat36_enable = false
+
+cheat37_desc = "Jump in Midair"
+cheat37_code = "8203FFC0+4807+8203FFC2+7800+8203FFC4+2201+8203FFC6+4010+8203FFC8+D003+8203FFCA+2650+8203FFCC+0136+8203FFCE+4276+8203FFD0+65BE+8203FFD2+6D38+8203FFD4+1980+8203FFD6+6538+8203FFD8+682A+8203FFDA+4902+8203FFDC+468F+8203FFDE+0000+8203FFE0+4CA8+8203FFE2+0200+8203FFE4+F6E1+8203FFE6+0801+8801F6D8+4800+8801F6DA+4687+8801F6DC+FFC0+8801F6DE+02FF"
+cheat37_enable = false
+
+cheat38_desc = "Max Weapon Stats"
+cheat38_code = "8202B734+0204+8202B736+0603"
+cheat38_enable = false
+
+cheat39_desc = "Maximum Health"
+cheat39_code = "3202B723+0020"
+cheat39_enable = false
+
+cheat40_desc = "MISSION"
+cheat40_code = "32022B27+0014"
+cheat40_enable = false
+
+cheat41_desc = "MISSION Display"
+cheat41_code = "32022B36+0000"
+cheat41_enable = false
+
+cheat42_desc = "Only 1 Bomb To Deactivate In The &quot;Protect Factory&quot; Mission"
+cheat42_code = "74000130+037B+82022AD8+69FF"
+cheat42_enable = false
+
+cheat43_desc = "Press Select+R During The Rescue Survivor Mission To Position Hack Zero And The Survivor To The Front Of Hq"
+cheat43_code = "74000130+02FB+8202B5EC+F090+74000130+02FB+8202B5EE+001B+74000130+02FB+8202B5F0+FFFF+74000130+02FB+8202B5F2+0002+74000130+02FB+8300482C+F090+74000130+02FB+8300482E+001B+74000130+02FB+83004830+FFFF+74000130+02FB+83004832+0002+74000130+02FB+82022C74+F090+74000130+02FB+82022C76+001B+74000130+02FB+82022C78+D000+74000130+02FB+82022C7A+0002"
+cheat43_enable = false
+
+cheat44_desc = "Press Select+R During The Rescue Survivor Mission To Position Hack Zero And The Survivor To The Front Of Hq 2"
+cheat44_code = "74000130+02FB+8202B5EC+F090+74000130+02FB+8202B5EE+001B+74000130+02FB+8202B5F0+FFFF+74000130+02FB+8202B5F2+0002+74000130+02FB+83004760+F090+74000130+02FB+83004762+001B+74000130+02FB+83004764+FFFF+74000130+02FB+83004766+0002+74000130+02FB+82022C74+F090+74000130+02FB+82022C76+001B+74000130+02FB+82022C78+D000+74000130+02FB+82022C7A+0002"
+cheat44_enable = false
+
+cheat45_desc = "RETRY"
+cheat45_code = "32022B34+0000"
+cheat45_enable = false
+
+cheat46_desc = "RETRY Display"
+cheat46_code = "32022B3A+0000"
+cheat46_enable = false
+
+cheat47_desc = "Shield Boomerang Skill Level"
+cheat47_code = "3202B737+0000"
+cheat47_enable = false
+
+cheat48_desc = "Skip Story Intro When Choosing A New Game"
+cheat48_code = "8800FD4E+46C0"
+cheat48_enable = false
+
+cheat49_desc = "Stage Modifier"
+cheat49_code = "74000130+03FB+3202A574+0000"
+cheat49_enable = false
+
+cheat50_desc = "Triple Rod EXP"
+cheat50_code = "8202B730+0000"
+cheat50_enable = false
+
+cheat51_desc = "Unlock Ultimate Mode When Choosing A New Game"
+cheat51_code = "880BF1C8+E006"
+cheat51_enable = false
+
+cheat52_desc = "Walk Through Walls"
+cheat52_code = "88019972+46C0+8801A0FA+46C0"
+cheat52_enable = false
+
+cheat53_desc = "Z Buster Main EXP"
+cheat53_code = "8202B72C+0000"
+cheat53_enable = false
+
+cheat54_desc = "Z Buster Shot EXP"
+cheat54_code = "3202B738+00C8"
+cheat54_enable = false
+
+cheat55_desc = "Z Buster Skill Level"
+cheat55_code = "3202B734+0000"
+cheat55_enable = false
+
+cheat56_desc = "Z Saber Air EXP"
+cheat56_code = "3202B73B+0000"
+cheat56_enable = false
+
+cheat57_desc = "Z Saber Dash EXP"
+cheat57_code = "3202B73A+0000"
+cheat57_enable = false
+
+cheat58_desc = "Z Saber Main EXP"
+cheat58_code = "8202B72E+0000"
+cheat58_enable = false
+
+cheat59_desc = "Z Saber Skill Level"
+cheat59_code = "3202B735+0000"
+cheat59_enable = false
+
+cheat60_desc = "Zero Can Fly"
+cheat60_code = "8202B5F8+FFFF+8202B5FA+FFFF+74000130+03BF+8202B5F8+FD80+74000130+03BF+8202B5FA+FFFF+74000130+037F+8202B5F8+0280+74000130+037F+8202B5FA+0000"
+cheat60_enable = false

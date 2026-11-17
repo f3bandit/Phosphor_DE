@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "0:00 Left"
+cheat0_code = "3300182C+0000"
+cheat0_enable = false
+
+cheat1_desc = "Team 1 Scores 200"
+cheat1_code = "33001840+00C8"
+cheat1_enable = false
+
+cheat2_desc = "Team 2 Scores 200"
+cheat2_code = "3300187C+00C8"
+cheat2_enable = false

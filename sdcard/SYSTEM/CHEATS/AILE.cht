@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Infinite Continues"
+cheat0_code = "820119B4+0009"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Retries"
+cheat1_code = "820119B2+0009"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Time"
+cheat2_code = "8200E4D0+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Max Score"
+cheat3_code = "8200E4E4+E0FF+8200E4E6+05F5"
+cheat3_enable = false
+
+cheat4_desc = "Max Special"
+cheat4_code = "8200E454+BBBB"
+cheat4_enable = false
+
+cheat5_desc = "Quick Score Gain"
+cheat5_code = "8200E4E4+FFFF"
+cheat5_enable = false

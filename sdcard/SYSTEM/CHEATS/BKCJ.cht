@@ -1,0 +1,45 @@
+cheats = 11
+
+cheat0_desc = "Have All Collection Cards"
+cheat0_code = "82002A84+FFFF+82002A86+FFFF+82002A88+FFFF+82002A8A+FFFF+82002A8C+FFFF+82002A8E+FFFF+32002A90+000F"
+cheat0_enable = false
+
+cheat1_desc = "Have All Cos-Plays"
+cheat1_code = "32003754+003F"
+cheat1_enable = false
+
+cheat2_desc = "Have All Family Actions"
+cheat2_code = "32002AFC+000F+32002B01+00FF+32002B02+003F"
+cheat2_enable = false
+
+cheat3_desc = "Have All Items"
+cheat3_code = "32002B03+00AA+82002B04+AAAA+32002B06+0002"
+cheat3_enable = false
+
+cheat4_desc = "Inf. Cos-Play Power"
+cheat4_code = "320037B2+007F+320037B6+0038"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Family Helpers"
+cheat5_code = "82003760+0505+82003762+0505"
+cheat5_enable = false
+
+cheat6_desc = "Infinite HP / Max HP"
+cheat6_code = "32027F7E+000A+32003756+000A"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Lives"
+cheat7_code = "32003755+0063"
+cheat7_enable = false
+
+cheat8_desc = "Invincible"
+cheat8_code = "32027F80+007F"
+cheat8_enable = false
+
+cheat9_desc = "Max Chocobi"
+cheat9_code = "32003757+0063"
+cheat9_enable = false
+
+cheat10_desc = "Unlock All Mini-Games"
+cheat10_code = "32002AB0+007F"
+cheat10_enable = false

@@ -1,0 +1,133 @@
+cheats = 33
+
+cheat0_desc = "1st Gun"
+cheat0_code = "8201B7E6+FFFF"
+cheat0_enable = false
+
+cheat1_desc = "1st Missile"
+cheat1_code = "3201B808+0063"
+cheat1_enable = false
+
+cheat2_desc = "2nd Gun"
+cheat2_code = "8201B7E8+FFFF"
+cheat2_enable = false
+
+cheat3_desc = "2nd Missile"
+cheat3_code = "3201B80A+0063"
+cheat3_enable = false
+
+cheat4_desc = "3rd Gun"
+cheat4_code = "8201B7EA+FFFF"
+cheat4_enable = false
+
+cheat5_desc = "3rd Missile"
+cheat5_code = "3201B80E+0063"
+cheat5_enable = false
+
+cheat6_desc = "4th Gun"
+cheat6_code = "8201B7EC+FFFF"
+cheat6_enable = false
+
+cheat7_desc = "4th Missile"
+cheat7_code = "3201B810+0063"
+cheat7_enable = false
+
+cheat8_desc = "5th Gun"
+cheat8_code = "8201B7EE+FFFF"
+cheat8_enable = false
+
+cheat9_desc = "5th Missile"
+cheat9_code = "3201B812+0063"
+cheat9_enable = false
+
+cheat10_desc = "6th Missile"
+cheat10_code = "3201B814+0063"
+cheat10_enable = false
+
+cheat11_desc = "Have Shrike Artillery"
+cheat11_code = "8201B7C4+64B4+3201B7F3+0005+7201B7F2+0500+8201B7C0+64B4+8201B7FC+6504+3201B81B+0006+7201B81A+0600+8201B800+6504"
+cheat11_enable = false
+
+cheat12_desc = "Inf 1st Missiles"
+cheat12_code = "8201B808+270F"
+cheat12_enable = false
+
+cheat13_desc = "Inf 2nd Missiles"
+cheat13_code = "8201B80A+270F"
+cheat13_enable = false
+
+cheat14_desc = "Inf 3rd Missiles"
+cheat14_code = "8201B80C+270F"
+cheat14_enable = false
+
+cheat15_desc = "Infinite Ammo-All Weapons"
+cheat15_code = "4201B7E6+FFFF+00000005+0002+4201B808+0063+00000006+0002"
+cheat15_enable = false
+
+cheat16_desc = "Infinite Fuel"
+cheat16_code = "3201B989+0068"
+cheat16_enable = false
+
+cheat17_desc = "Infinite Health"
+cheat17_code = "8201B970+032A"
+cheat17_enable = false
+
+cheat18_desc = "Infinite Missile Slot 3"
+cheat18_code = "3201B80C+0063"
+cheat18_enable = false
+
+cheat19_desc = "Infinite Mission Time"
+cheat19_code = "8201E430+FFFF"
+cheat19_enable = false
+
+cheat20_desc = "Infinite Shields"
+cheat20_code = "8201B960+D200"
+cheat20_enable = false
+
+cheat21_desc = "Max Gun Ammo"
+cheat21_code = "8201B7E6+03E7"
+cheat21_enable = false
+
+cheat22_desc = "Max KPS"
+cheat22_code = "8201B992+1387"
+cheat22_enable = false
+
+cheat23_desc = "Mission Stats-Gunnery 100%"
+cheat23_code = "83005E08+03E7+83005E0A+03E7"
+cheat23_enable = false
+
+cheat24_desc = "Mission Stats-Low Mission Time"
+cheat24_code = "83005E2C+0100"
+cheat24_enable = false
+
+cheat25_desc = "Mission Stats-Max Enemy Kills"
+cheat25_code = "33005E01+00FF"
+cheat25_enable = false
+
+cheat26_desc = "Mission Stats-Missiles 100%"
+cheat26_code = "83005E0C+03E7+83005E0E+03E7"
+cheat26_enable = false
+
+cheat27_desc = "Mission Stats-Ship Damage 0%"
+cheat27_code = "83005E10+032A+83005E12+032A"
+cheat27_enable = false
+
+cheat28_desc = "No Overheat"
+cheat28_code = "3201B959+00FF"
+cheat28_enable = false
+
+cheat29_desc = "Press Select+L To Skip Most Stages"
+cheat29_code = "74000130+01FB+33005E35+00FF"
+cheat29_enable = false
+
+cheat30_desc = "Quick Fire Missiles"
+cheat30_code = "8201B814+0000+8201B818+0000"
+cheat30_enable = false
+
+cheat31_desc = "Rapid Fire"
+cheat31_code = "4201B7E0+0000+00000003+0002"
+cheat31_enable = false
+
+cheat32_desc = "Infinite Decoys"
+cheat32_code = "3201B996+0063"
+cheat32_enable = false

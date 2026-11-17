@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Quick Time Gain (Black)"
+cheat0_code = "32011960+00FF"
+cheat0_enable = false
+
+cheat1_desc = "Quick Time Gain (White)"
+cheat1_code = "32012278+00FF"
+cheat1_enable = false
+
+cheat2_desc = "Time Always 0:00 (Black)"
+cheat2_code = "32011960+0000"
+cheat2_enable = false
+
+cheat3_desc = "Time Always 0:00 (White)"
+cheat3_code = "32012278+0000"
+cheat3_enable = false

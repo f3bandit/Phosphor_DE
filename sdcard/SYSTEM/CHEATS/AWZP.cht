@@ -1,0 +1,61 @@
+cheats = 15
+
+cheat0_desc = "50,000 G (In-Battle)"
+cheat0_code = "820232C0+C350"
+cheat0_enable = false
+
+cheat1_desc = "50,000 G (Shop)"
+cheat1_code = "8200C420+C350"
+cheat1_enable = false
+
+cheat2_desc = "Activate Power Mode [Press B+Up]"
+cheat2_code = "74000130+03BD+820232DE+0101"
+cheat2_enable = false
+
+cheat3_desc = "Activate Super Mode [Press B+Down]"
+cheat3_code = "74000130+037D+820232DE+0202"
+cheat3_enable = false
+
+cheat4_desc = "All Battle Maps"
+cheat4_code = "42028040+FFFF+0000000D+0002"
+cheat4_enable = false
+
+cheat5_desc = "All Color Edits"
+cheat5_code = "8202805C+FFFF+8202805E+FFFF"
+cheat5_enable = false
+
+cheat6_desc = "All Teams"
+cheat6_code = "8202805A+FFFF"
+cheat6_enable = false
+
+cheat7_desc = "Always Day 1"
+cheat7_code = "33004080+0001"
+cheat7_enable = false
+
+cheat8_desc = "Always Rank S"
+cheat8_code = "320232F3+0005"
+cheat8_enable = false
+
+cheat9_desc = "CO Power Maxed"
+cheat9_code = "320232E3+0003"
+cheat9_enable = false
+
+cheat10_desc = "Collect 1,000 Per Win"
+cheat10_code = "820232F8+03E8"
+cheat10_enable = false
+
+cheat11_desc = "No Fog of War"
+cheat11_code = "33003FCD+0000"
+cheat11_enable = false
+
+cheat12_desc = "Unlock Hard Campaign"
+cheat12_code = "32028030+0001"
+cheat12_enable = false
+
+cheat13_desc = "Unlock Sound Room"
+cheat13_code = "32028031+0001"
+cheat13_enable = false
+
+cheat14_desc = "War Room Mastered"
+cheat14_code = "4200C078+0101+0000001E+0014+4200C07A+12C0+0000001E+0014"
+cheat14_enable = false

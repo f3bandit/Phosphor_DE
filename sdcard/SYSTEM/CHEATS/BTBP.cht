@@ -1,0 +1,41 @@
+cheats = 10
+
+cheat0_desc = "Have 19 Icons"
+cheat0_code = "33005D00+0013"
+cheat0_enable = false
+
+cheat1_desc = "Have Blue Key"
+cheat1_code = "32003CF0+0001"
+cheat1_enable = false
+
+cheat2_desc = "Have Green Key"
+cheat2_code = "32003CF4+0001"
+cheat2_enable = false
+
+cheat3_desc = "Have Red Key"
+cheat3_code = "32003CE8+0001"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Boost"
+cheat4_code = "33005DF0+00FF"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Health"
+cheat5_code = "33005DEC+0050"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Lives"
+cheat6_code = "33005E20+0009"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Turbos"
+cheat7_code = "33005E24+0063"
+cheat7_enable = false
+
+cheat8_desc = "Walk-Thru-Walls - Turned Off [Press R+Down]"
+cheat8_code = "74000130+027F+33005B00+0000+73005B00+0000+43001988+0000+00000003+00C4"
+cheat8_enable = false
+
+cheat9_desc = "Walk-Thru-Walls - Turned On [Press R+Up]"
+cheat9_code = "74000130+02BF+33005B00+0001+73005B00+0001+43001988+0010+00000003+00C4"
+cheat9_enable = false

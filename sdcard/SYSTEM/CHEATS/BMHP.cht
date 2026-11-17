@@ -1,0 +1,89 @@
+cheats = 22
+
+cheat0_desc = "Access Extra Options"
+cheat0_code = "72007AB8+1104+32007A66+0008"
+cheat0_enable = false
+
+cheat1_desc = "Access Map Test (Main Menu)"
+cheat1_code = "72007AB8+0254+32007A66+0006"
+cheat1_enable = false
+
+cheat2_desc = "Have all Weapons and Infinite Ammo"
+cheat2_code = "33005E90+0063+33005E92+0063+33005E94+0063+33005E96+0063+33005E98+0063+33005E9A+0063+33005E9C+0063+33005E9E+0063+33005EA0+0063+33005EA2+0063+33005EA4+0063+33005EA6+0063+33005EA8+0063+33005EAA+0063+33005EAC+0063"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Ammo - 1st Weapon"
+cheat3_code = "72011CDC+080A+32011EE1+0063"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Ammo - 2nd Weapon"
+cheat4_code = "72011CDC+080A+32011EE2+0063"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Ammo - 3rd Weapon"
+cheat5_code = "72011CDC+080A+32011EE5+0063"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Ammo - 4th Weapon"
+cheat6_code = "72011CDC+080A+32011EE6+0063"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Grenades"
+cheat7_code = "7200A7DE+0078+3200A7C8+000A"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Health (Side Scrolling Stages)"
+cheat8_code = "3200A7C5+0063"
+cheat8_enable = false
+
+cheat9_desc = "Infinite Health (Top Down Stages)"
+cheat9_code = "32011CA4+0063"
+cheat9_enable = false
+
+cheat10_desc = "Infinite Max Ammo Primary Weapon"
+cheat10_code = "32011EE2+0063"
+cheat10_enable = false
+
+cheat11_desc = "Infinite Max Ammo Secondary Weapon"
+cheat11_code = "32011EE6+0063"
+cheat11_enable = false
+
+cheat12_desc = "Invincible (Top Down Stages)"
+cheat12_code = "32011C9D+0009"
+cheat12_enable = false
+
+cheat13_desc = "Max Ammo Primary Weapon"
+cheat13_code = "82011EE2+03E7"
+cheat13_enable = false
+
+cheat14_desc = "Max Ammo Secondary Weapon"
+cheat14_code = "82011EE6+03E7"
+cheat14_enable = false
+
+cheat15_desc = "Press L Trigger+B For TNT As Secondary"
+cheat15_code = "74000130+01FD+32011EE4+0007"
+cheat15_enable = false
+
+cheat16_desc = "Press R Trigger+B For Grenades As Secondary"
+cheat16_code = "74000130+02FD+32011EE4+0004"
+cheat16_enable = false
+
+cheat17_desc = "Primary Weapon Equiped Modifier"
+cheat17_code = "32011EE0+0000"
+cheat17_enable = false
+
+cheat18_desc = "Unlock all Missions"
+cheat18_code = "33005260+0014"
+cheat18_enable = false
+
+cheat19_desc = "Unlock All Quick Start Missions"
+cheat19_code = "42007A10+0000+0000000F+0004"
+cheat19_enable = false
+
+cheat20_desc = "Unlock Max-GI Mode"
+cheat20_code = "320079ED+0000"
+cheat20_enable = false
+
+cheat21_desc = "Unlock Survival Mode"
+cheat21_code = "320079EC+0000"
+cheat21_enable = false

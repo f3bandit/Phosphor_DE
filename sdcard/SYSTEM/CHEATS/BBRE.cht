@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Have 99 Gold Berries"
+cheat0_code = "3200369C+0063"
+cheat0_enable = false
+
+cheat1_desc = "Have All Totems"
+cheat1_code = "820036F4+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Lives"
+cheat2_code = "8800D340+2063"
+cheat2_enable = false
+
+cheat3_desc = "Invincible (After First Hit)"
+cheat3_code = "A200359A+0202+82007260+0005"
+cheat3_enable = false
+
+cheat4_desc = "One Life Per Berry"
+cheat4_code = "72003694+0001+32003694+0032"
+cheat4_enable = false
+
+cheat5_desc = "Skip Stage [Press Select+L]"
+cheat5_code = "74000130+01FB+8200B880+0020"
+cheat5_enable = false
+
+cheat6_desc = "Unlock All Stages"
+cheat6_code = "4200B5E0+FFFF+00000020+0002"
+cheat6_enable = false

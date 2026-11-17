@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Infinite Credits"
+cheat0_code = "32014234+0009"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Lives"
+cheat1_code = "33006722+0003"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Paper"
+cheat2_code = "3200D3C2+000A"
+cheat2_enable = false
+
+cheat3_desc = "Walk Off Buildings And Float"
+cheat3_code = "3201423E+0000"
+cheat3_enable = false

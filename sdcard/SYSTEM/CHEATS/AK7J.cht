@@ -1,0 +1,21 @@
+cheats = 5
+
+cheat0_desc = "Infinite Health"
+cheat0_code = "83003830+03E7+83003832+03E7"
+cheat0_enable = false
+
+cheat1_desc = "Klonoa - Max Attack Stat"
+cheat1_code = "3300311A+0064+33003122+0064+33003844+0064"
+cheat1_enable = false
+
+cheat2_desc = "Klonoa - Max Level"
+cheat2_code = "33003114+0063+330069E4+0063"
+cheat2_enable = false
+
+cheat3_desc = "Max Gold"
+cheat3_code = "83003134+FFFF+830037D0+FFFF"
+cheat3_enable = false
+
+cheat4_desc = "Max Red Health Items"
+cheat4_code = "33006D62+0064+33006D62+0001"
+cheat4_enable = false

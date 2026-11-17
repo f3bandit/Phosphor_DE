@@ -1,0 +1,21 @@
+cheats = 5
+
+cheat0_desc = "Have $100,000"
+cheat0_code = "82000058+86A0+8200005A+0001"
+cheat0_enable = false
+
+cheat1_desc = "Have All Boards"
+cheat1_code = "4200003A+0505+00000005+0002"
+cheat1_enable = false
+
+cheat2_desc = "Have All Clothing"
+cheat2_code = "4200005C+FFFF+0000000A+0002"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Boost"
+cheat3_code = "330000E7+0034"
+cheat3_enable = false
+
+cheat4_desc = "Maximum Stats"
+cheat4_code = "42000004+3333+00000014+0002"
+cheat4_enable = false

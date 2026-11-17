@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Low Lap Times (Always Place 1st)"
+cheat0_code = "420001BC+0001+00000003+0004"
+cheat0_enable = false
+
+cheat1_desc = "Unlock All Cars"
+cheat1_code = "3200007B+0001+3200007C+0001"
+cheat1_enable = false

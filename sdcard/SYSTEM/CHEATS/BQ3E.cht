@@ -1,0 +1,45 @@
+cheats = 11
+
+cheat0_desc = "Access All Costumes+Areas"
+cheat0_code = "82000004+FFFF+82000006+FFFF"
+cheat0_enable = false
+
+cheat1_desc = "All Lums Collected"
+cheat1_code = "42000008+FFFF+00000004+0002"
+cheat1_enable = false
+
+cheat2_desc = "All Orbs Collected"
+cheat2_code = "42000014+FFFF+00000061+0002"
+cheat2_enable = false
+
+cheat3_desc = "Have Fists"
+cheat3_code = "330023D8+0002"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Health"
+cheat4_code = "3300430C+0020"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Helico"
+cheat5_code = "7300297C+003B+3300297C+00F0"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Lives"
+cheat6_code = "33003734+0009"
+cheat6_enable = false
+
+cheat7_desc = "Mini-Ray [Press Select+Down]"
+cheat7_code = "74000130+037B+33002977+0040"
+cheat7_enable = false
+
+cheat8_desc = "Moon Jump"
+cheat8_code = "73002968+FBA4+33002969+00F8"
+cheat8_enable = false
+
+cheat9_desc = "Normal-Ray [Press Select+Up]"
+cheat9_code = "74000130+03BB+33002977+0000"
+cheat9_enable = false
+
+cheat10_desc = "Quick Fist Charge"
+cheat10_code = "73002986+0001+33002986+0046"
+cheat10_enable = false

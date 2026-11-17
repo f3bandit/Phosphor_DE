@@ -1,0 +1,41 @@
+cheats = 10
+
+cheat0_desc = "Block Blaster: Have Power Shot"
+cheat0_code = "33003A80+0001"
+cheat0_enable = false
+
+cheat1_desc = "Block Blaster: Have Quick Shot"
+cheat1_code = "330020A0+0001"
+cheat1_enable = false
+
+cheat2_desc = "Block Blaster: Have Shield"
+cheat2_code = "330001A1+0003+33002074+0001"
+cheat2_enable = false
+
+cheat3_desc = "Block Blaster: Infinite Lives"
+cheat3_code = "3300209C+0003"
+cheat3_enable = false
+
+cheat4_desc = "Game Timer: Off [Press Select+Down]"
+cheat4_code = "74000130+037B+83003000+0001+73003000+0001+83000030+0000"
+cheat4_enable = false
+
+cheat5_desc = "Game Timer: On [Press Select+Up]"
+cheat5_code = "74000130+03BB+83000030+0001"
+cheat5_enable = false
+
+cheat6_desc = "Have Letters B.O.N.U"
+cheat6_code = "73001314+0000+33001314+0004"
+cheat6_enable = false
+
+cheat7_desc = "Instant Win: Arcade Mode[Press Select+R]"
+cheat7_code = "74000130+02FB+83002600+0000"
+cheat7_enable = false
+
+cheat8_desc = "Instant Win: Time Challenge [Press Select+L]"
+cheat8_code = "74000130+01FB+3300205C+0002"
+cheat8_enable = false
+
+cheat9_desc = "Unlock Bonus Game"
+cheat9_code = "33001320+0001"
+cheat9_enable = false

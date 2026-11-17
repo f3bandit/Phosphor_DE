@@ -1,0 +1,105 @@
+cheats = 26
+
+cheat0_desc = "Access Reverse/Rebirth"
+cheat0_code = "82039BB8+0328"
+cheat0_enable = false
+
+cheat1_desc = "All Battle Cards"
+cheat1_code = "4203A080+0000+000100FF+0002+4203A280+00FF+000100FF+0002+4203A480+01FD+00010032+0002+8203A4E4+0233+8203A4E6+0234"
+cheat1_enable = false
+
+cheat2_desc = "All Moves"
+cheat2_code = "32039CBC+00FF+32039CBD+00FF+32039CBE+00FF+32039CBF+00FF+32039CC0+00FF+32039CC1+00FF+32039CC2+00FF+32039CC3+00FF+32039CC4+00FF+32039CC5+00FF+32039CC6+00FF+32039CC7+00FF+32039CC8+00FF+32039CC9+00FF+32039CCA+00FF+32039CCB+00FF+32039CCC+0000+32039CCD+0000+32039CCE+0000+32039CCF+0000+32039CD0+0000+32039CD1+0000+32039CD2+0000+32039CD3+0000+32039CD4+0000+32039CD5+0000+32039CD6+0000+32039CD7+0000+32039CD8+0000+32039CD9+0000+32039CDA+0000+32039CDB+0000"
+cheat2_enable = false
+
+cheat3_desc = "Complete Journal"
+cheat3_code = "42039CE4+FFFF+00000020+0002"
+cheat3_enable = false
+
+cheat4_desc = "Gain Level [Press Select+Up]"
+cheat4_code = "74000130+03BB+82039CB4+0000"
+cheat4_enable = false
+
+cheat5_desc = "Have 50,000 MP"
+cheat5_code = "82039D24+C350"
+cheat5_enable = false
+
+cheat6_desc = "Have All Cards [Press Select+L+R]"
+cheat6_code = "74000130+00FB+4203A080+0000+00010232+0002"
+cheat6_enable = false
+
+cheat7_desc = "Have All Map Cards"
+cheat7_code = "4203A8C0+0909+00000083+0002"
+cheat7_enable = false
+
+cheat8_desc = "Have All Sleights"
+cheat8_code = "42039CBC+FFFF+00000008+0002"
+cheat8_enable = false
+
+cheat9_desc = "Infinite HP"
+cheat9_code = "72033174+2000+8203314C+03E7+00000002+0002"
+cheat9_enable = false
+
+cheat10_desc = "Journal Complete"
+cheat10_code = "32039CE4+00FF+32039CE5+00FF+32039CE6+00FF+32039CE7+00FF+32039CE8+00FF+32039CE9+00FF+32039CEA+00FF+32039CEB+00FF+32039CEC+00FF+32039CED+00FF+32039CEE+00FF+32039CEF+00FF+32039CF0+00FF+32039CF1+00FF+32039CF2+00FF+32039CF3+00FF+32039CF4+00FF+32039CF5+00FF+32039CF6+00FF+32039CF7+00FF+32039CF8+00FF+32039CF9+00FF+32039CFA+00FF+32039CFB+00FF+32039CFC+00FF+32039CFD+00FF+32039CFE+00FF+32039CFF+00FF+32039D00+00FF+32039D01+00FF+32039D02+00FF+32039D03+00FF+32039D04+0000+32039D05+0000+32039D06+0000+32039D07+0000+32039D08+0000+32039D09+0000+32039D0A+0000+32039D0B+0000+32039D0C+0000+32039D0D+0000+32039D0E+0000+32039D0F+0000+32039D10+0000+32039D11+0000+32039D12+0000+32039D13+0000+32039D14+0000+32039D15+0000+32039D16+0000+32039D17+0000+32039D18+0000+32039D19+0000+32039D1A+0000+32039D1B+0000+32039D1C+0000+32039D1D+0000+32039D1E+0000+32039D1F+0000+32039D20+0000+32039D21+0000+32039D22+0000+32039D23+0000"
+cheat10_enable = false
+
+cheat11_desc = "Level Up Lock Up Fix"
+cheat11_code = "32034000+0004+32039CB0+0000+32034000+0004+32039CB2+0000"
+cheat11_enable = false
+
+cheat12_desc = "Max Attack Points"
+cheat12_code = "32039CAA+0063"
+cheat12_enable = false
+
+cheat13_desc = "Max Dark Points"
+cheat13_code = "32039CAC+00E7"
+cheat13_enable = false
+
+cheat14_desc = "Max Health (Official Code)"
+cheat14_code = "82039BE2+01F4+82039CA8+01F4"
+cheat14_enable = false
+
+cheat15_desc = "Max Health (Unofficial -15)"
+cheat15_code = "82039BE2+0230+82039CA8+0221"
+cheat15_enable = false
+
+cheat16_desc = "Max Moogle Points"
+cheat16_code = "82039D24+869F+82039D26+0001"
+cheat16_enable = false
+
+cheat17_desc = "Max Transformation Points"
+cheat17_code = "32034058+00FF"
+cheat17_enable = false
+
+cheat18_desc = "Maximum AP"
+cheat18_code = "32039CAE+0063"
+cheat18_enable = false
+
+cheat19_desc = "Maximum CP"
+cheat19_code = "82039CAA+270F"
+cheat19_enable = false
+
+cheat20_desc = "Maximum DP"
+cheat20_code = "82039CAC+03E7"
+cheat20_enable = false
+
+cheat21_desc = "Maximum HP"
+cheat21_code = "82039CA8+03E7"
+cheat21_enable = false
+
+cheat22_desc = "Maximum LV"
+cheat22_code = "32039CB8+0063"
+cheat22_enable = false
+
+cheat23_desc = "Maximum TP"
+cheat23_code = "720330BE+F7FF+820330C8+03E7"
+cheat23_enable = false
+
+cheat24_desc = "One-Hit-Kills"
+cheat24_code = "8801A9F4+2000"
+cheat24_enable = false
+
+cheat25_desc = "Rikku Always In Dark Mode"
+cheat25_code = "72033E6C+0000+82033E6C+8000+72033E6C+8000+520330CC+0002+04DDF608+0000+72033E6C+8000+530026C2+0002+841CCF45+0000+72033E6C+8000+530026C8+0003+4740C868+D17D+72033E6C+8000+530026CE+0002+EE580835+0000+72033E6C+8000+530026D8+0003+BE429E5F+1914+43002F72+08C5+00000002+0020"
+cheat25_enable = false

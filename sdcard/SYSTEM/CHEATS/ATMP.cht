@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Have Blue Gem"
+cheat0_code = "33000C84+00FF"
+cheat0_enable = false
+
+cheat1_desc = "Have Green Gem"
+cheat1_code = "33000C85+00FF"
+cheat1_enable = false
+
+cheat2_desc = "Have Purple Gem"
+cheat2_code = "33000C87+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Have Yellow Gem"
+cheat3_code = "33000C86+00FF"
+cheat3_enable = false
+
+cheat4_desc = "Max Char. Points"
+cheat4_code = "33000C80+00E7+33000C81+0003"
+cheat4_enable = false
+
+cheat5_desc = "Press Select For 10 Moves"
+cheat5_code = "D0000020+0004+33000B04+000A"
+cheat5_enable = false

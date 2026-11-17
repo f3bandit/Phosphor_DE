@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Easy Training"
+cheat0_code = "820288D0+0000+820288D2+0000"
+cheat0_enable = false
+
+cheat1_desc = "Friends"
+cheat1_code = "3200BCCC+0080"
+cheat1_enable = false
+
+cheat2_desc = "Fur Coat"
+cheat2_code = "3201A1D0+001F"
+cheat2_enable = false
+
+cheat3_desc = "Have All Items"
+cheat3_code = "4203A110+FFFF+00000007+0002"
+cheat3_enable = false
+
+cheat4_desc = "Training Complete"
+cheat4_code = "8200EC90+FFFF+4200ED90+0000+00000008+0002"
+cheat4_enable = false
+
+cheat5_desc = "Walk"
+cheat5_code = "3203A108+0014"
+cheat5_enable = false

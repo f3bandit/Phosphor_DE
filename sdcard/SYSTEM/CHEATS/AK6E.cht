@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Max Cards"
+cheat0_code = "3300284F+0063"
+cheat0_enable = false

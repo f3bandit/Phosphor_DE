@@ -1,0 +1,81 @@
+cheats = 20
+
+cheat0_desc = "Have 50,000 Coins"
+cheat0_code = "82000054+C350"
+cheat0_enable = false
+
+cheat1_desc = "Have All Cards"
+cheat1_code = "42005688+0001+00000037+0002"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Gold"
+cheat2_code = "82000054+423F+82000056+000F"
+cheat2_enable = false
+
+cheat3_desc = "Infinite HP (All Characters)"
+cheat3_code = "420002C0+0063+00000028+0148"
+cheat3_enable = false
+
+cheat4_desc = "Infinite MP (All Characters)"
+cheat4_code = "420002C8+0063+00000028+0148"
+cheat4_enable = false
+
+cheat5_desc = "Max Agility All Characters"
+cheat5_code = "4200027C+0063+00000020+0148"
+cheat5_enable = false
+
+cheat6_desc = "Max Attack (All Characters)"
+cheat6_code = "42000274+0063+00000028+0148"
+cheat6_enable = false
+
+cheat7_desc = "Max Def (All Characters)"
+cheat7_code = "42000278+0063+00000028+0148"
+cheat7_enable = false
+
+cheat8_desc = "Max Defence All Characters"
+cheat8_code = "42000278+0063+00000020+0148"
+cheat8_enable = false
+
+cheat9_desc = "Max Exp (All Characters)"
+cheat9_code = "42000370+0063+00000028+0148"
+cheat9_enable = false
+
+cheat10_desc = "Max HP (All Characters)"
+cheat10_code = "420002C4+0063+00000028+0148"
+cheat10_enable = false
+
+cheat11_desc = "Max MAG RES All Characters"
+cheat11_code = "42000288+0063+00000020+0148"
+cheat11_enable = false
+
+cheat12_desc = "Max Magic Resistence (All Characters)"
+cheat12_code = "42000288+0063+00000028+0148"
+cheat12_enable = false
+
+cheat13_desc = "Max Move (All Characters)"
+cheat13_code = "42000280+003F+00000028+0148"
+cheat13_enable = false
+
+cheat14_desc = "Max Movement All Characters"
+cheat14_code = "42000280+003F+00000020+0148"
+cheat14_enable = false
+
+cheat15_desc = "Max Sp (All Characters)"
+cheat15_code = "4200027C+0063+00000028+0148"
+cheat15_enable = false
+
+cheat16_desc = "Maximum EX All Characters"
+cheat16_code = "42000370+0063+00000020+0148"
+cheat16_enable = false
+
+cheat17_desc = "Maximum HP All Characters"
+cheat17_code = "420002C4+0063+00000020+0148"
+cheat17_enable = false
+
+cheat18_desc = "Maximum MP All Characters"
+cheat18_code = "420002CC+0063+00000020+0148"
+cheat18_enable = false
+
+cheat19_desc = "Have All Items"
+cheat19_code = "42000098+0062+00000067+0004"
+cheat19_enable = false

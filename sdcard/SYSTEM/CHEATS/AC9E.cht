@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Extra Step [Press R]"
+cheat0_code = "D0000020+0100+3300104E+0001"
+cheat0_enable = false
+
+cheat1_desc = "Have 150 Points"
+cheat1_code = "33002562+0096"
+cheat1_enable = false
+
+cheat2_desc = "Have All Items"
+cheat2_code = "8300256A+FFFF"
+cheat2_enable = false

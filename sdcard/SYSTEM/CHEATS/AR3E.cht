@@ -1,0 +1,21 @@
+cheats = 5
+
+cheat0_desc = "Access All Cheats+Missions"
+cheat0_code = "33000E51+00B0"
+cheat0_enable = false
+
+cheat1_desc = "Maximum Enemies Killed"
+cheat1_code = "82000098+03E7"
+cheat1_enable = false
+
+cheat2_desc = "Minimum Civilians Killed"
+cheat2_code = "82000094+0000"
+cheat2_enable = false
+
+cheat3_desc = "No Mission Timer"
+cheat3_code = "83000E20+0000+83000E9C+0000"
+cheat3_enable = false
+
+cheat4_desc = "Skip Mission [Press L+B]"
+cheat4_code = "74000130+01FD+3300013C+0003+74000130+01FD+830010FA+0804+74000130+01FD+830010F8+0610"
+cheat4_enable = false

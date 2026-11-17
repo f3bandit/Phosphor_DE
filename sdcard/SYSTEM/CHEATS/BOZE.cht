@@ -1,0 +1,26 @@
+cheats = 6
+
+cheat0_desc = "Complete Gallery"
+cheat0_code = "320001B3+0007"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Ammo"
+cheat1_code = "33005D7A+0032"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Health"
+cheat2_code = "820001A8+03E8"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Lives"
+cheat3_code = "320001AC+0009"
+cheat3_enable = false
+
+cheat4_desc = "Multi Jump"
+cheat4_code = "33005EAC+0001"
+cheat4_enable = false
+
+cheat5_desc = "Skip To Final Episode 
+[Press L+R+Up]"
+cheat5_code = "74000130+00BF+820001B0+0007+74000130+00BF+320001B7+0001"
+cheat5_enable = false

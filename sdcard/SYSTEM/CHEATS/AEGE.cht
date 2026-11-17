@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Infinite Health"
+cheat0_code = "83000674+0005"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Lives"
+cheat1_code = "83000680+0004"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Traps/Bombs"
+cheat2_code = "83000748+0303"
+cheat2_enable = false
+
+cheat3_desc = "Invincible"
+cheat3_code = "33000779+0004"
+cheat3_enable = false
+
+cheat4_desc = "Multi Jump"
+cheat4_code = "D0000020+0001+8300076E+FD68"
+cheat4_enable = false
+
+cheat5_desc = "Stop Timer"
+cheat5_code = "83000AB4+0000"
+cheat5_enable = false
+
+cheat6_desc = "Upgrade Weapons"
+cheat6_code = "83000744+0F0F"
+cheat6_enable = false

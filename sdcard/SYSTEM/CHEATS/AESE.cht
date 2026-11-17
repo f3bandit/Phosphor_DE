@@ -1,0 +1,313 @@
+cheats = 78
+
+cheat0_desc = "Have All Keys Level 1"
+cheat0_code = "3203538E+00FF"
+cheat0_enable = false
+
+cheat1_desc = "Have All Keys Level 10"
+cheat1_code = "3202D42E+00FF"
+cheat1_enable = false
+
+cheat2_desc = "Have All Keys Level 3"
+cheat2_code = "32031B02+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Have ALl Keys Level 7"
+cheat3_code = "3202A74E+00FF"
+cheat3_enable = false
+
+cheat4_desc = "Have ALl Keys Level 9"
+cheat4_code = "320209AA+00FF"
+cheat4_enable = false
+
+cheat5_desc = "Have Disc 2 Level 5"
+cheat5_code = "3202E742+00FF"
+cheat5_enable = false
+
+cheat6_desc = "Have Key Level 5"
+cheat6_code = "3202EAAF+00FF"
+cheat6_enable = false
+
+cheat7_desc = "Have Keys Level 10"
+cheat7_code = "3202C62A+0064"
+cheat7_enable = false
+
+cheat8_desc = "Have Keys Level 7"
+cheat8_code = "3202A6F6+0064"
+cheat8_enable = false
+
+cheat9_desc = "Have Keys Level 9"
+cheat9_code = "320214B6+00FF"
+cheat9_enable = false
+
+cheat10_desc = "Infinite Armor Level 11"
+cheat10_code = "32026E04+0064"
+cheat10_enable = false
+
+cheat11_desc = "Infinite Armor Level 12"
+cheat11_code = "3203482C+0064"
+cheat11_enable = false
+
+cheat12_desc = "Infinite Armor Level 8"
+cheat12_code = "320353D8+0064"
+cheat12_enable = false
+
+cheat13_desc = "Infinite C Ammo Level 7"
+cheat13_code = "3202A674+0064"
+cheat13_enable = false
+
+cheat14_desc = "Infinite G Ammo Level 11"
+cheat14_code = "32026E34+0003"
+cheat14_enable = false
+
+cheat15_desc = "Infinite G Ammo Level 3"
+cheat15_code = "3202F078+0003"
+cheat15_enable = false
+
+cheat16_desc = "Infinite G Ammo Level 5"
+cheat16_code = "3202E6D0+0003"
+cheat16_enable = false
+
+cheat17_desc = "Infinite G Ammo Level 6"
+cheat17_code = "320353C8+0003"
+cheat17_enable = false
+
+cheat18_desc = "Infinite G Ammo Level 9"
+cheat18_code = "32020938+0063"
+cheat18_enable = false
+
+cheat19_desc = "Infinite G11 Ammo Level 5"
+cheat19_code = "3202E6CA+0063"
+cheat19_enable = false
+
+cheat20_desc = "Infinite G11 Ammo Level 6"
+cheat20_code = "320353C2+0063"
+cheat20_enable = false
+
+cheat21_desc = "Infinite G11 Ammo Level 8"
+cheat21_code = "32035402+0063"
+cheat21_enable = false
+
+cheat22_desc = "Infinite Grenades Level 11"
+cheat22_code = "32026E34+0064"
+cheat22_enable = false
+
+cheat23_desc = "Infinite Grenades Level 9"
+cheat23_code = "32021442+0064"
+cheat23_enable = false
+
+cheat24_desc = "Infinite H Ammo Level 2"
+cheat24_code = "32035BE4+0064"
+cheat24_enable = false
+
+cheat25_desc = "Infinite Health Level 11"
+cheat25_code = "32026E02+0064"
+cheat25_enable = false
+
+cheat26_desc = "Infinite Health Level 12"
+cheat26_code = "3203482A+0064"
+cheat26_enable = false
+
+cheat27_desc = "Infinite Health Level 8"
+cheat27_code = "320353D6+0064"
+cheat27_enable = false
+
+cheat28_desc = "Infinite HK Ammo Level 5"
+cheat28_code = "3202EA36+0064"
+cheat28_enable = false
+
+cheat29_desc = "Infinite HK Ammo Level 8"
+cheat29_code = "32035402+0064"
+cheat29_enable = false
+
+cheat30_desc = "Infinite JH Ammo Level 1"
+cheat30_code = "32036A08+0063"
+cheat30_enable = false
+
+cheat31_desc = "Infinite JH Ammo Level 11"
+cheat31_code = "32026E2C+0063"
+cheat31_enable = false
+
+cheat32_desc = "Infinite JH Ammo Level 2"
+cheat32_code = "320345A0+0063"
+cheat32_enable = false
+
+cheat33_desc = "Infinite JH Ammo Level 4"
+cheat33_code = "3202CADC+0063"
+cheat33_enable = false
+
+cheat34_desc = "Infinite JH Ammo Level 5"
+cheat34_code = "3202E6C8+0063"
+cheat34_enable = false
+
+cheat35_desc = "Infinite JH Ammo Level 6"
+cheat35_code = "320353C0+0063"
+cheat35_enable = false
+
+cheat36_desc = "Infinite JH Ammo Level 7"
+cheat36_code = "3202A6D4+0063"
+cheat36_enable = false
+
+cheat37_desc = "Infinite JH Ammo Level 8"
+cheat37_code = "32035400+0063"
+cheat37_enable = false
+
+cheat38_desc = "Infinite JH Ammo Level 9"
+cheat38_code = "32020930+0063"
+cheat38_enable = false
+
+cheat39_desc = "Infinite M Ammo Level 1"
+cheat39_code = "32035310+0064"
+cheat39_enable = false
+
+cheat40_desc = "Infinite M Ammo Level 10"
+cheat40_code = "3202C5AC+0064"
+cheat40_enable = false
+
+cheat41_desc = "Infinite M Ammo Level 12"
+cheat41_code = "32034850+0064"
+cheat41_enable = false
+
+cheat42_desc = "Infinite M Ammo Level 3"
+cheat42_code = "32031A84+0064"
+cheat42_enable = false
+
+cheat43_desc = "Infinite M Ammo Level 7"
+cheat43_code = "3202A678+0064"
+cheat43_enable = false
+
+cheat44_desc = "Infinite M16 Ammo Level 12"
+cheat44_code = "32034850+0063"
+cheat44_enable = false
+
+cheat45_desc = "Infinite M16 Ammo Level 3"
+cheat45_code = "3202F06C+0003"
+cheat45_enable = false
+
+cheat46_desc = "Infinite M16 Ammo Level 4"
+cheat46_code = "3202CAD8+0063"
+cheat46_enable = false
+
+cheat47_desc = "Infinite MIni Ammo Level 7"
+cheat47_code = "3202A6D8+0063"
+cheat47_enable = false
+
+cheat48_desc = "Infinite Mini Ammo Level 9"
+cheat48_code = "32020934+0063"
+cheat48_enable = false
+
+cheat49_desc = "Infinite P Ammo 7"
+cheat49_code = "3202A672+0064"
+cheat49_enable = false
+
+cheat50_desc = "Infinite P Ammo Level 7"
+cheat50_code = "3202A6CA+0063"
+cheat50_enable = false
+
+cheat51_desc = "Infinite PH Ammo Level 3"
+cheat51_code = "32031A88+0064"
+cheat51_enable = false
+
+cheat52_desc = "Infinite PH Ammo Level 4"
+cheat52_code = "3202D99C+0064"
+cheat52_enable = false
+
+cheat53_desc = "Infinite PJ Ammo Level 7"
+cheat53_code = "3202A67C+0064"
+cheat53_enable = false
+
+cheat54_desc = "Infinite PJ Ammo Level 8"
+cheat54_code = "32035400+0064"
+cheat54_enable = false
+
+cheat55_desc = "Infinite PK Ammo Level 5"
+cheat55_code = "3202EA34+0064"
+cheat55_enable = false
+
+cheat56_desc = "Infinite PK Ammo Level 6"
+cheat56_code = "32035680+0064"
+cheat56_enable = false
+
+cheat57_desc = "Infinite PKJ Ammo Level 10"
+cheat57_code = "3202C5B0+0064"
+cheat57_enable = false
+
+cheat58_desc = "Infinite PKJ Ammo Level 11"
+cheat58_code = "32026E2C+0064"
+cheat58_enable = false
+
+cheat59_desc = "Infinite PKJ Ammo Level 12"
+cheat59_code = "32034854+0064"
+cheat59_enable = false
+
+cheat60_desc = "Infinite PM Ammo Level 11"
+cheat60_code = "32026E36+0003"
+cheat60_enable = false
+
+cheat61_desc = "Infinite Prox. Mines Level 11"
+cheat61_code = "32026E36+0064"
+cheat61_enable = false
+
+cheat62_desc = "Infinite RL Ammo Level 7"
+cheat62_code = "3202A6DA+0063"
+cheat62_enable = false
+
+cheat63_desc = "Infinite S Ammo Level 12"
+cheat63_code = "32034852+0064"
+cheat63_enable = false
+
+cheat64_desc = "Infinite S Ammo Level 3"
+cheat64_code = "32031A86+0064"
+cheat64_enable = false
+
+cheat65_desc = "Infinite SM Ammo Level 12"
+cheat65_code = "3203484E+0063"
+cheat65_enable = false
+
+cheat66_desc = "Infinite SM Ammo Level 4"
+cheat66_code = "3202CAD6+0063"
+cheat66_enable = false
+
+cheat67_desc = "Infinite SM Ammo Level 6"
+cheat67_code = "320353BA+0063"
+cheat67_enable = false
+
+cheat68_desc = "Infinite SM Ammo Level 9"
+cheat68_code = "3202092A+0063"
+cheat68_enable = false
+
+cheat69_desc = "Infinite SSG Ammo Level 11"
+cheat69_code = "32026E2A+0063"
+cheat69_enable = false
+
+cheat70_desc = "Infinite SSG Ammo Level 12"
+cheat70_code = "32034852+0063"
+cheat70_enable = false
+
+cheat71_desc = "Infinite SSG Ammo Level 9"
+cheat71_code = "3202092E+0063"
+cheat71_enable = false
+
+cheat72_desc = "Infinite Uzi Ammo Level 12"
+cheat72_code = "3203484E+0064"
+cheat72_enable = false
+
+cheat73_desc = "Infinite Uzi Ammo Level 6"
+cheat73_code = "3203567A+0064"
+cheat73_enable = false
+
+cheat74_desc = "Infinite Uzi Ammo Level 9"
+cheat74_code = "32021436+0064"
+cheat74_enable = false
+
+cheat75_desc = "IR Goggles"
+cheat75_code = "3200AB2D+0001+3200ADDD+0001"
+cheat75_enable = false
+
+cheat76_desc = "Press Select+L To Complete Mission"
+cheat76_code = "7200B7DC+FE04+8200B7B0+0036"
+cheat76_enable = false
+
+cheat77_desc = "Stop Timer Level 2"
+cheat77_code = "3200BC38+003B"
+cheat77_enable = false

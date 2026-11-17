@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Access All Minigames"
+cheat0_code = "8300258C+0000"
+cheat0_enable = false
+
+cheat1_desc = "Have 50,000 Blingz"
+cheat1_code = "8300257C+C350"
+cheat1_enable = false
+
+cheat2_desc = "Have All Accessories"
+cheat2_code = "33002568+000F"
+cheat2_enable = false
+
+cheat3_desc = "Have All Bottoms"
+cheat3_code = "83002564+FFFF+33002566+000F"
+cheat3_enable = false
+
+cheat4_desc = "Have All Tops"
+cheat4_code = "83002560+FFFF+33002562+000F"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Volleyballs"
+cheat5_code = "32029378+0005"
+cheat5_enable = false

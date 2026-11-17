@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Access All Levels"
+cheat0_code = "430061AE+0101+00000018+0002"
+cheat0_enable = false
+
+cheat1_desc = "Gallery Complete"
+cheat1_code = "83006216+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Health"
+cheat2_code = "32012484+0003"
+cheat2_enable = false
+
+cheat3_desc = "Invincible"
+cheat3_code = "32012506+0002"
+cheat3_enable = false
+
+cheat4_desc = "Jump in Midair"
+cheat4_code = "8203FF00+4807+8203FF02+B401+8203FF04+4907+8203FF06+6808+8203FF08+3074+8203FF0A+7803+8203FF0C+2B00+8203FF0E+D006+8203FF10+7840+8203FF12+2801+8203FF14+D003+8203FF16+2063+8203FF18+0100+8203FF1A+4240+8203FF1C+66A8+8203FF1E+BD00+8203FF20+26CD+8203FF22+0803+8203FF24+613C+8203FF26+0300+880326C4+4800+880326C6+4700+880326C8+FF01+880326CA+0203"
+cheat4_enable = false
+
+cheat5_desc = "Multi Jump"
+cheat5_code = "D0000020+0001+420124AC+FBC0+043F0002+0002"
+cheat5_enable = false

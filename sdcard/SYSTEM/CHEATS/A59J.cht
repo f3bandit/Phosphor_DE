@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Full Attack Range"
+cheat0_code = "43003338+0100+00000006+0002"
+cheat0_enable = false
+
+cheat1_desc = "Full Power"
+cheat1_code = "83003328+0FFF"
+cheat1_enable = false
+
+cheat2_desc = "P1 Infinite Health"
+cheat2_code = "83003326+0000"
+cheat2_enable = false

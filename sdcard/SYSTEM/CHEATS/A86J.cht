@@ -1,0 +1,33 @@
+cheats = 8
+
+cheat0_desc = "Quick Score"
+cheat0_code = "83002988+FFFF"
+cheat0_enable = false
+
+cheat1_desc = "Max Score"
+cheat1_code = "83002988+C9FF+8300298A+3B9A"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Tries (Chao Mini-Game)"
+cheat2_code = "330019B6+0000"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Rings (Chao Mini-Game)"
+cheat3_code = "83001970+6363"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Rings (Chao Garden)"
+cheat4_code = "83006194+2710"
+cheat4_enable = false
+
+cheat5_desc = "Max Levels Chao"
+cheat5_code = "43001568+0063+00000005+0008"
+cheat5_enable = false
+
+cheat6_desc = "Ball Always Saved"
+cheat6_code = "82035740+0017"
+cheat6_enable = false
+
+cheat7_desc = "Press Select To Reset Time In Timed Events"
+cheat7_code = "74000130+03FB+82034F8C+00C8"
+cheat7_enable = false

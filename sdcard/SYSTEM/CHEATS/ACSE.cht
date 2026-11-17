@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Infinite Lives"
+cheat0_code = "3201B2EA+0009+3201B2E8+0009"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Scare"
+cheat1_code = "3201B2B6+0000+3201B2BA+0000"
+cheat1_enable = false

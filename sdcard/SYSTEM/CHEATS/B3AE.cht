@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Evil Side-Infinite Attack Points"
+cheat0_code = "73003530+0000+33003434+0009+73003530+0000+33003490+0009+73003530+0000+330034EC+0009"
+cheat0_enable = false
+
+cheat1_desc = "Evil Side-Never Has A Turn"
+cheat1_code = "73003530+0000+33003434+0000+73003530+0000+33003490+0000+73003530+0000+330034EC+0000"
+cheat1_enable = false
+
+cheat2_desc = "Good Side-Has No Attack Points"
+cheat2_code = "73003530+0100+33003490+0000+73003530+0100+33003434+0000+73003530+0100+330034EC+0000"
+cheat2_enable = false
+
+cheat3_desc = "Good Side-Infinite Attack Points"
+cheat3_code = "73003530+0100+33003490+0009+73003530+0100+33003434+0009+73003530+0100+330034EC+0009"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Experience"
+cheat4_code = "42002DC8+03E7+00000008+0014"
+cheat4_enable = false
+
+cheat5_desc = "Max EXP-All Characters"
+cheat5_code = "42002C48+03E7+00000012+0028"
+cheat5_enable = false

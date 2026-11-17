@@ -1,0 +1,45 @@
+cheats = 11
+
+cheat0_desc = "Access All Areas"
+cheat0_code = "430047E0+0101+00000003+0002"
+cheat0_enable = false
+
+cheat1_desc = "Easy Win [Press R+A]"
+cheat1_code = "74000130+02FE+33004728+0007+74000130+02FE+33001635+0000"
+cheat1_enable = false
+
+cheat2_desc = "Have 50000 Credits"
+cheat2_code = "83004A30+C350"
+cheat2_enable = false
+
+cheat3_desc = "Have All Cards"
+cheat3_code = "43004A36+0909+0000012C+0002"
+cheat3_enable = false
+
+cheat4_desc = "Have All Code Notes"
+cheat4_code = "4300481E+0101+0000000E+0002"
+cheat4_enable = false
+
+cheat5_desc = "Have All Games"
+cheat5_code = "43004CAC+0101+00000003+0002"
+cheat5_enable = false
+
+cheat6_desc = "Have All House Rules"
+cheat6_code = "430047EE+0101+0000000B+0002"
+cheat6_enable = false
+
+cheat7_desc = "Have All Pictures"
+cheat7_code = "43004804+0101+00000006+0002"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Shields"
+cheat8_code = "33001609+000A"
+cheat8_enable = false
+
+cheat9_desc = "Rival Has No Shields"
+cheat9_code = "33001635+0000"
+cheat9_enable = false
+
+cheat10_desc = "Your Turn"
+cheat10_code = "D0000020+0004+33001660+0000"
+cheat10_enable = false

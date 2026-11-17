@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "CUP Can't Score"
+cheat0_code = "33002709+0000"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Sprint"
+cheat1_code = "43002C56+0129+00000000+0000"
+cheat1_enable = false
+
+cheat2_desc = "Player 1 Can't Score"
+cheat2_code = "33002708+0000"
+cheat2_enable = false
+
+cheat3_desc = "Player 1 Starts With 5 Goals"
+cheat3_code = "73002708+0000"
+cheat3_enable = false

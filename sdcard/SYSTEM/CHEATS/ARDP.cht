@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Infinite Continues"
+cheat0_code = "43003148+0303+00000003+0002"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Health"
+cheat1_code = "430007DC+FFFF+00000003+0002"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Lives"
+cheat2_code = "43003000+0303+00000003+0002"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Power"
+cheat3_code = "43002120+FFFF+00000003+0002"
+cheat3_enable = false
+
+cheat4_desc = "Invincible"
+cheat4_code = "3300084F+0002+330008B3+0002+33000917+0002+3300097B+0002"
+cheat4_enable = false
+
+cheat5_desc = "Skip Level [Press Select]"
+cheat5_code = "D0000020+0004+33002158+0001"
+cheat5_enable = false
+
+cheat6_desc = "Unlock All Secrets"
+cheat6_code = "830005E8+FFFF+33002FFC+0005"
+cheat6_enable = false

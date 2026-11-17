@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Infinite Money"
+cheat0_code = "8200708C+967F+8200708E+0098"
+cheat0_enable = false
+
+cheat1_desc = "No Random Battles"
+cheat1_code = "8800C5BE+2000"
+cheat1_enable = false

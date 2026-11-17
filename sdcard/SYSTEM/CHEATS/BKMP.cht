@@ -1,0 +1,37 @@
+cheats = 9
+
+cheat0_desc = "Take items anywhere (Read notes)"
+cheat0_code = "88002C74+46C0+88002C7E+46C0+88002C86+46C0+88002C90+46C0"
+cheat0_enable = false
+
+cheat1_desc = "Untouchable"
+cheat1_code = "880105C2+2050+880105D0+E00D"
+cheat1_enable = false
+
+cheat2_desc = "150 Collectibles"
+cheat2_code = "32011442+0096"
+cheat2_enable = false
+
+cheat3_desc = "25 Enemies Defeated"
+cheat3_code = "32011443+0019"
+cheat3_enable = false
+
+cheat4_desc = "Max Score"
+cheat4_code = "82011410+03E7"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Health"
+cheat5_code = "3201144B+0005"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Lives"
+cheat6_code = "32011444+0009"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Time (When You're Rufus)"
+cheat7_code = "32011418+003C"
+cheat7_enable = false
+
+cheat8_desc = "Have All Cards"
+cheat8_code = "4201144E+FFFF+00000003+0002"
+cheat8_enable = false

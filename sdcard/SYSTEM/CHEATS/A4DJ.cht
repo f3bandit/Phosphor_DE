@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Start With 50,000 Points"
+cheat0_code = "72006044+0000+82006044+C350"
+cheat0_enable = false
+
+cheat1_desc = "Stop Timer"
+cheat1_code = "82005FB8+0000"
+cheat1_enable = false
+
+cheat2_desc = "Max Chance Gauge"
+cheat2_code = "3200C939+002B"
+cheat2_enable = false
+
+cheat3_desc = "Max Items"
+cheat3_code = "42005FDA+0909+00000005+0002"
+cheat3_enable = false
+
+cheat4_desc = "All Tricks"
+cheat4_code = "420068D0+0101+00000007+0002"
+cheat4_enable = false
+
+cheat5_desc = "All Stages"
+cheat5_code = "32008334+0006"
+cheat5_enable = false
+
+cheat6_desc = "Press Select+L To Complete Stage"
+cheat6_code = "74000130+01FB+32005FBE+0011"
+cheat6_enable = false

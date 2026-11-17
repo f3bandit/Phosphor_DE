@@ -1,0 +1,57 @@
+cheats = 14
+
+cheat0_desc = "40 Total Rescues"
+cheat0_code = "33005AF4+0028"
+cheat0_enable = false
+
+cheat1_desc = "Abe Has 99 Spooce"
+cheat1_code = "330042B9+0063"
+cheat1_enable = false
+
+cheat2_desc = "Abe Has Expresso Boost"
+cheat2_code = "3300041D+0001"
+cheat2_enable = false
+
+cheat3_desc = "Abe Has Extra Boost"
+cheat3_code = "A300429C+0000+3300429D+0002+A300429E+0000+3300429F+0002"
+cheat3_enable = false
+
+cheat4_desc = "Abe Has Infinite Health"
+cheat4_code = "330042AC+0064"
+cheat4_enable = false
+
+cheat5_desc = "Abe Has Moon Jump"
+cheat5_code = "D0000020+0002+330042B2+0000"
+cheat5_enable = false
+
+cheat6_desc = "Munch Has 99 Spooce"
+cheat6_code = "33004959+0063"
+cheat6_enable = false
+
+cheat7_desc = "Munch Has Expresso Boost"
+cheat7_code = "3300041F+0001"
+cheat7_enable = false
+
+cheat8_desc = "Munch Has Extra Boost"
+cheat8_code = "A300493C+0000+3300493D+0002+A300493E+0000+3300493F+0002"
+cheat8_enable = false
+
+cheat9_desc = "Munch Has Infinite Health"
+cheat9_code = "3300494C+0064"
+cheat9_enable = false
+
+cheat10_desc = "Munch Has Moon Jump"
+cheat10_code = "D0000020+0002+33004952+0000"
+cheat10_enable = false
+
+cheat11_desc = "Munch Has Zap Power"
+cheat11_code = "73004948+0000+33004948+0004+73004948+0010+33004948+0014"
+cheat11_enable = false
+
+cheat12_desc = "Quick Possess Chant"
+cheat12_code = "730042A4+0001+330042A4+00BE"
+cheat12_enable = false
+
+cheat13_desc = "Unlock Secret"
+cheat13_code = "33005C50+0001"
+cheat13_enable = false

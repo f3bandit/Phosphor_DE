@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Have All Cut Scenes"
+cheat0_code = "42008286+0201+0202000E+0002+320082A8+001B"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Fever Time"
+cheat1_code = "320095D9+0001"
+cheat1_enable = false
+
+cheat2_desc = "Pause Puyo [Press L]"
+cheat2_code = "D0000020+0200+32009829+0000"
+cheat2_enable = false
+
+cheat3_desc = "Player Has 1 BP [Press Select+Up]"
+cheat3_code = "74000130+03BB+32009B8C+0001"
+cheat3_enable = false
+
+cheat4_desc = "Quick Fever Gain"
+cheat4_code = "720095DA+0100+320095DA+0006"
+cheat4_enable = false
+
+cheat5_desc = "Resume Puyo [Press R]"
+cheat5_code = "D0000020+0100+32009829+0008"
+cheat5_enable = false
+
+cheat6_desc = "Send Rival 8 BP [Press Select+Down]"
+cheat6_code = "74000130+037B+3200BAB4+0008"
+cheat6_enable = false

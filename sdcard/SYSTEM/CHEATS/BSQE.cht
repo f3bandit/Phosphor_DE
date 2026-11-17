@@ -1,0 +1,49 @@
+cheats = 12
+
+cheat0_desc = "Always Play Chapter Modifier (00-03)"
+cheat0_code = "32003BC8+0000"
+cheat0_enable = false
+
+cheat1_desc = "Always Play Level Modifier (00-06, 07-08 Bonus Levels)"
+cheat1_code = "32003BE0+0000"
+cheat1_enable = false
+
+cheat2_desc = "Have 20 Hamburgers"
+cheat2_code = "32003C10+0014"
+cheat2_enable = false
+
+cheat3_desc = "Have 3 Golden Spatulas"
+cheat3_code = "32003C18+0003"
+cheat3_enable = false
+
+cheat4_desc = "Have All Keys"
+cheat4_code = "32003C35+0001"
+cheat4_enable = false
+
+cheat5_desc = "Have All Photos"
+cheat5_code = "32003BFC+00FF"
+cheat5_enable = false
+
+cheat6_desc = "Have All Photos (In Album)"
+cheat6_code = "82003BFC+FFFF"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Health"
+cheat7_code = "32003C0C+0003"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Water Timer"
+cheat8_code = "72003C30+0001+82003C30+003C"
+cheat8_enable = false
+
+cheat9_desc = "Open All Levels"
+cheat9_code = "32003BF8+001C"
+cheat9_enable = false
+
+cheat10_desc = "Press L To Have Keys"
+cheat10_code = "74000130+01FF+32003C35+0001+74000130+01FF+32003C36+0001"
+cheat10_enable = false
+
+cheat11_desc = "Infinite Lives"
+cheat11_code = "32003C08+0063"
+cheat11_enable = false

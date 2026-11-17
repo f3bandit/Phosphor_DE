@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Have all Breath"
+cheat0_code = "33004F63+000F+33004F95+0000+43004F7C+0101+00000004+0001"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Energy"
+cheat1_code = "33004F8A+0064+33004F8E+0064"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Fury"
+cheat2_code = "83004F94+0344"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health"
+cheat3_code = "33004F82+0064+33004F86+0064"
+cheat3_enable = false
+
+cheat4_desc = "Invincibility"
+cheat4_code = "3200BA2C+001E"
+cheat4_enable = false
+
+cheat5_desc = "Max EXP"
+cheat5_code = "83004F68+0A80"
+cheat5_enable = false

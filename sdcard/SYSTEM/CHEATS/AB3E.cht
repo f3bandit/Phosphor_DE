@@ -1,0 +1,53 @@
+cheats = 13
+
+cheat0_desc = "50,000 Cash"
+cheat0_code = "820125CC+C350"
+cheat0_enable = false
+
+cheat1_desc = "Airport"
+cheat1_code = "82012D88+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "All Levels"
+cheat2_code = "320125C4+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Building Site"
+cheat3_code = "82012D40+FFFF"
+cheat3_enable = false
+
+cheat4_desc = "China Town"
+cheat4_code = "82012DF4+FFFF"
+cheat4_enable = false
+
+cheat5_desc = "Downtown"
+cheat5_code = "82012D64+FFFF"
+cheat5_enable = false
+
+cheat6_desc = "Max Rush"
+cheat6_code = "3200E481+00AA"
+cheat6_enable = false
+
+cheat7_desc = "Port"
+cheat7_code = "82012DAC+FFFF"
+cheat7_enable = false
+
+cheat8_desc = "Press Select+Down To Pause"
+cheat8_code = "74000130+037B+83005A00+0001+73005A00+0001+330015D0+0000"
+cheat8_enable = false
+
+cheat9_desc = "Press Select+Up To Resume"
+cheat9_code = "74000130+03BB+83005A00+0000"
+cheat9_enable = false
+
+cheat10_desc = "Skate Park"
+cheat10_code = "82012D1C+FFFF"
+cheat10_enable = false
+
+cheat11_desc = "Sky Scraper"
+cheat11_code = "82012E18+FFFF"
+cheat11_enable = false
+
+cheat12_desc = "Tanker"
+cheat12_code = "82012DD0+FFFF"
+cheat12_enable = false

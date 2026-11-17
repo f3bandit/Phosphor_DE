@@ -1,0 +1,77 @@
+cheats = 19
+
+cheat0_desc = "Ghosts Are Always Edible"
+cheat0_code = "88007396+46C0"
+cheat0_enable = false
+
+cheat1_desc = "Blinky"
+cheat1_code = "73000788+FFFF+43000788+0000+00000002+0002"
+cheat1_enable = false
+
+cheat2_desc = "Dig Dug: Infinite Lives"
+cheat2_code = "3200E560+0005"
+cheat2_enable = false
+
+cheat3_desc = "Dig Dug: Invincible"
+cheat3_code = "7200F41E+0100+8200F41E+0000"
+cheat3_enable = false
+
+cheat4_desc = "Dig Dug: Start With Hi-Score"
+cheat4_code = "7200E55C+0000+8200E55C+C350"
+cheat4_enable = false
+
+cheat5_desc = "Double Fire"
+cheat5_code = "3201A893+0001+82019BCC+00A6"
+cheat5_enable = false
+
+cheat6_desc = "Galaxian: Start With Hi-Score"
+cheat6_code = "72010DE4+0000+82010DE4+C350"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Time (Pole Position)"
+cheat7_code = "881ECD34+2105"
+cheat7_enable = false
+
+cheat8_desc = "Inky"
+cheat8_code = "730007E0+FFFF+430007E0+0000+00000002+0002"
+cheat8_enable = false
+
+cheat9_desc = "Max Score"
+cheat9_code = "82008AB8+423F+82008ABA+000F"
+cheat9_enable = false
+
+cheat10_desc = "Max Total Score"
+cheat10_code = "82008AC0+423F+82008AC2+000F"
+cheat10_enable = false
+
+cheat11_desc = "Move Anywhere (Horizontally)"
+cheat11_code = "88006814+46C0+88006834+46C0"
+cheat11_enable = false
+
+cheat12_desc = "Move Anywhere (Vertically)"
+cheat12_code = "880067EC+46C0+88006800+46C0"
+cheat12_enable = false
+
+cheat13_desc = "Ms. Pac-Man: Edible Ghosts - Pinky"
+cheat13_code = "730007B4+FFFF+430007B4+0000+00000002+0002"
+cheat13_enable = false
+
+cheat14_desc = "Ms. Pac-Man: Edible Ghosts - Sue"
+cheat14_code = "7300080C+FFFF+4300080C+0000+00000002+0002"
+cheat14_enable = false
+
+cheat15_desc = "Ms. Pac-Man: Infinite Lives"
+cheat15_code = "72008AA0+0003+32008AA0+0005"
+cheat15_enable = false
+
+cheat16_desc = "Ms. Pac-Man: Start With Hi-Score"
+cheat16_code = "72008AB8+0000+82008AB8+1388"
+cheat16_enable = false
+
+cheat17_desc = "Place 1st"
+cheat17_code = "32019267+0000"
+cheat17_enable = false
+
+cheat18_desc = "Pole Position: Stop Timer"
+cheat18_code = "3201B86F+005A"
+cheat18_enable = false

@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Infinite Time"
+cheat0_code = "330013B0+0063"
+cheat0_enable = false
+
+cheat1_desc = "Max Score"
+cheat1_code = "8202C57C+E0FF+8202C57E+05F5"
+cheat1_enable = false

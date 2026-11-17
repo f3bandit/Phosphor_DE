@@ -1,0 +1,61 @@
+cheats = 15
+
+cheat0_desc = "All Challenges Complete"
+cheat0_code = "83001E72+151F+43001E74+0101+00010020+0000"
+cheat0_enable = false
+
+cheat1_desc = "All Stage Tasks Complete"
+cheat1_code = "43001E74+0101+00000020+0002"
+cheat1_enable = false
+
+cheat2_desc = "Gun That Shoots Balls"
+cheat2_code = "33005F18+0001"
+cheat2_enable = false
+
+cheat3_desc = "Have Saber"
+cheat3_code = "33005F14+0001"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Health"
+cheat4_code = "33003B44+007A"
+cheat4_enable = false
+
+cheat5_desc = "Laser Eyes"
+cheat5_code = "33005F20+0001"
+cheat5_enable = false
+
+cheat6_desc = "Maximum Level"
+cheat6_code = "33001C73+000A"
+cheat6_enable = false
+
+cheat7_desc = "Multi Jump"
+cheat7_code = "D0000020+0001+83003A70+FC00+D0000020+0001+83003A72+FFFF"
+cheat7_enable = false
+
+cheat8_desc = "Quick Level Gain"
+cheat8_code = "83001C48+C350"
+cheat8_enable = false
+
+cheat9_desc = "Skip Level [Press Select+Up]"
+cheat9_code = "74000130+03BB+330039C8+0004"
+cheat9_enable = false
+
+cheat10_desc = "Throw A Wierd Disc"
+cheat10_code = "33005F1C+0001"
+cheat10_enable = false
+
+cheat11_desc = "Transparent"
+cheat11_code = "73003AC0+8824+33003B8E+0002"
+cheat11_enable = false
+
+cheat12_desc = "Unlock All BK Promos"
+cheat12_code = "83001CCA+0101+83001CCC+0101"
+cheat12_enable = false
+
+cheat13_desc = "Unlock Credits"
+cheat13_code = "33001CFF+0002"
+cheat13_enable = false
+
+cheat14_desc = "Unlock Hard Mode"
+cheat14_code = "33001CD1+0001"
+cheat14_enable = false

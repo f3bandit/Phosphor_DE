@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Press Select For More Time"
+cheat0_code = "D0000020+0004+82027870+0063"
+cheat0_enable = false
+
+cheat1_desc = "Low Lap Time"
+cheat1_code = "82027840+0000"
+cheat1_enable = false
+
+cheat2_desc = "Car Takes No Damage"
+cheat2_code = "8202C5FC+0003"
+cheat2_enable = false

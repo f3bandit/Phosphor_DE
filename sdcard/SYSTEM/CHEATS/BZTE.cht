@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Access All Levels"
+cheat0_code = "830067E2+0606"
+cheat0_enable = false
+
+cheat1_desc = "Easy Win [Press L+R+Down]"
+cheat1_code = "74000130+007F+43005D50+0001+00000002+0054"
+cheat1_enable = false
+
+cheat2_desc = "Have Powershield"
+cheat2_code = "33006198+0004"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Note Tries"
+cheat3_code = "73005D48+0002+33005D48+0003"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Tries"
+cheat4_code = "330067E5+0063"
+cheat4_enable = false
+
+cheat5_desc = "Skip Level [Press L+R+Up]"
+cheat5_code = "74000130+00BF+33006750+0001"
+cheat5_enable = false

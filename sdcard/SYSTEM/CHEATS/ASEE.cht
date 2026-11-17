@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "1 Hit Boss Kills"
+cheat0_code = "32007678+0000"
+cheat0_enable = false
+
+cheat1_desc = "Enemies Die Quickly"
+cheat1_code = "3200019C+0000+32003168+0000"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Web Cartridges"
+cheat2_code = "8200317C+0003"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Web Meter"
+cheat3_code = "82003184+0064"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Health"
+cheat4_code = "82003158+0096"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Lives"
+cheat5_code = "820000B8+000A"
+cheat5_enable = false
+
+cheat6_desc = "Have Armor Suit"
+cheat6_code = "32003178+0096"
+cheat6_enable = false

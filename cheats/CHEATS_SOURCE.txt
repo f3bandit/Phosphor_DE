@@ -1,0 +1,8 @@
+Cheats in SYSTEM/CHEATS (one file per game code)
+
+GameHacking.org - https://gamehacking.org (GBA, LibRetro exports)
+libretro cheat database - https://github.com/libretro/libretro-database (CC BY-SA 4.0)
+
+Only ready-to-play codes are included: nothing has to be typed in or edited. Codes are stored as
+unencrypted Code Breaker; Action Replay / GameShark codes were converted (Anti-DMA patches kept).
+Every file was compiled with the Phosphor_DE cheat engine. Dropped codes: CHEATS_REPORT.txt

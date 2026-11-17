@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Access All Paths"
+cheat0_code = "43000FF0+1F1F+00000004+0002"
+cheat0_enable = false
+
+cheat1_desc = "End Race [Press Select+Up]"
+cheat1_code = "74000130+03BB+320149DC+0005"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Power"
+cheat2_code = "320149BB+0064"
+cheat2_enable = false
+
+cheat3_desc = "Kill All Rivals [Press Select+Down]"
+cheat3_code = "74000130+037B+42014A8A+0000+00000004+00D0"
+cheat3_enable = false
+
+cheat4_desc = "Maximum Earnings"
+cheat4_code = "43000FE0+03E7+00000008+0002"
+cheat4_enable = false
+
+cheat5_desc = "Unlock All Players (Cup Mode)"
+cheat5_code = "73002DA0+0303+43002DA2+0303+0000000E+0002"
+cheat5_enable = false
+
+cheat6_desc = "Unlock All Players (Story Mode)"
+cheat6_code = "43000FF0+0101+00000004+0002"
+cheat6_enable = false

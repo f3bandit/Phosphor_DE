@@ -1,0 +1,101 @@
+cheats = 25
+
+cheat0_desc = "Access Warp Gates"
+cheat0_code = "74000130+03B7+32000064+0007+32000378+00FF"
+cheat0_enable = false
+
+cheat1_desc = "All Abilities"
+cheat1_code = "82013392+FFFF+32013394+00FF"
+cheat1_enable = false
+
+cheat2_desc = "All Enemy Data"
+cheat2_code = "420133A0+FFFF+00000017+0002"
+cheat2_enable = false
+
+cheat3_desc = "Always Rush/Guard"
+cheat3_code = "32013261+00F4"
+cheat3_enable = false
+
+cheat4_desc = "Complete Map"
+cheat4_code = "420000B6+FFFF+0000013F+0002"
+cheat4_enable = false
+
+cheat5_desc = "Complete Soul Set"
+cheat5_code = "4201331C+FFFF+00000032+0002"
+cheat5_enable = false
+
+cheat6_desc = "Have All Equipment"
+cheat6_code = "420132B4+0101+00000034+0002"
+cheat6_enable = false
+
+cheat7_desc = "Have All Items"
+cheat7_code = "42013294+0101+00000010+0002"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Double Jumps"
+cheat8_code = "720004F4+1006+320004F4+0002"
+cheat8_enable = false
+
+cheat9_desc = "Infinite HP"
+cheat9_code = "8201327A+270F"
+cheat9_enable = false
+
+cheat10_desc = "Infinite MP"
+cheat10_code = "8201327C+270F"
+cheat10_enable = false
+
+cheat11_desc = "Max CON"
+cheat11_code = "82013284+270F"
+cheat11_enable = false
+
+cheat12_desc = "Max Experience"
+cheat12_code = "8201328C+E0FF+8201328E+05F5"
+cheat12_enable = false
+
+cheat13_desc = "Max Gold"
+cheat13_code = "82013290+423F+82013292+000F"
+cheat13_enable = false
+
+cheat14_desc = "Max INT"
+cheat14_code = "82013286+270F"
+cheat14_enable = false
+
+cheat15_desc = "Max LCK"
+cheat15_code = "82013288+7F00"
+cheat15_enable = false
+
+cheat16_desc = "Max STR"
+cheat16_code = "82013282+270F"
+cheat16_enable = false
+
+cheat17_desc = "Maximum HP"
+cheat17_code = "8201327E+270F"
+cheat17_enable = false
+
+cheat18_desc = "Maximum MP"
+cheat18_code = "82013280+270F"
+cheat18_enable = false
+
+cheat19_desc = "Press R+B+Up To Open Mist Door"
+cheat19_code = "74000130+02BD+8200037E+9871"
+cheat19_enable = false
+
+cheat20_desc = "Reset Game Timer"
+cheat20_code = "820000AC+0000+820000AE+0000"
+cheat20_enable = false
+
+cheat21_desc = "Sprint X2"
+cheat21_code = "D0000020+0010+8200052E+0002+D0000020+0020+8200052E+FFFD"
+cheat21_enable = false
+
+cheat22_desc = "Transparent"
+cheat22_code = "8200055C+0000"
+cheat22_enable = false
+
+cheat23_desc = "Unlock Special"
+cheat23_code = "32000060+000F+320000A1+0001"
+cheat23_enable = false
+
+cheat24_desc = "Weak Final Boss"
+cheat24_code = "7200140C+05DC+8200140C+0000+72001598+07D0+82001598+0000"
+cheat24_enable = false

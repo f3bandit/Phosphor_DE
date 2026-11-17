@@ -1,0 +1,109 @@
+cheats = 27
+
+cheat0_desc = "Add Metal Blocks to Most Stages"
+cheat0_code = "33007934+0001"
+cheat0_enable = false
+
+cheat1_desc = "Clouds in the Background on All Stages"
+cheat1_code = "33007942+0001"
+cheat1_enable = false
+
+cheat2_desc = "Coins Appear Across the Top of the Stage"
+cheat2_code = "3300792C+0001"
+cheat2_enable = false
+
+cheat3_desc = "Enable Hard Mode"
+cheat3_code = "330079FC+0001"
+cheat3_enable = false
+
+cheat4_desc = "Enemies Can't Be Squashed"
+cheat4_code = "33007996+0001"
+cheat4_enable = false
+
+cheat5_desc = "Game Pack Error Message"
+cheat5_code = "33007939+0001"
+cheat5_enable = false
+
+cheat6_desc = "Hard Mode Enabled (Alternate)"
+cheat6_code = "3300796A+0001"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Lives"
+cheat7_code = "3300795A+0009"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Time"
+cheat8_code = "33007987+000C"
+cheat8_enable = false
+
+cheat9_desc = "Invincible"
+cheat9_code = "3300799E+0006"
+cheat9_enable = false
+
+cheat10_desc = "Invisible Background"
+cheat10_code = "33007920+0001"
+cheat10_enable = false
+
+cheat11_desc = "Jump in Midair"
+cheat11_code = "3200348D+0010"
+cheat11_enable = false
+
+cheat12_desc = "Makes Random Changes to Most Stages"
+cheat12_code = "33007932+0001"
+cheat12_enable = false
+
+cheat13_desc = "Moon Jump"
+cheat13_code = "33007909+0001"
+cheat13_enable = false
+
+cheat14_desc = "Multi Jump"
+cheat14_code = "D0000020+0001+3300729F+00FC"
+cheat14_enable = false
+
+cheat15_desc = "Play As Luigi"
+cheat15_code = "33007953+0001"
+cheat15_enable = false
+
+cheat16_desc = "Random Coin & Block Placement"
+cheat16_code = "3300792E+0001"
+cheat16_enable = false
+
+cheat17_desc = "Red Scenery"
+cheat17_code = "33007933+0001"
+cheat17_enable = false
+
+cheat18_desc = "Squat Jumping"
+cheat18_code = "33007914+0001"
+cheat18_enable = false
+
+cheat19_desc = "Star Invincibility Always Active"
+cheat19_code = "3300799F+0001"
+cheat19_enable = false
+
+cheat20_desc = "Stop Timer"
+cheat20_code = "330079FA+0009"
+cheat20_enable = false
+
+cheat21_desc = "Super Fast Walking Animation"
+cheat21_code = "33007981+0000"
+cheat21_enable = false
+
+cheat22_desc = "Swim on All Stages"
+cheat22_code = "33007904+0001"
+cheat22_enable = false
+
+cheat23_desc = "Time Ticks Down Super Fast"
+cheat23_code = "33007987+0000"
+cheat23_enable = false
+
+cheat24_desc = "Unbreakable Cloud Blocks Added to Stages"
+cheat24_code = "33007943+0001"
+cheat24_enable = false
+
+cheat25_desc = "Vine Grows at the Start of Every Stage"
+cheat25_code = "33007958+0001"
+cheat25_enable = false
+
+cheat26_desc = "Water or Lava Added to Most Stages"
+cheat26_code = "33007941+0001"
+cheat26_enable = false

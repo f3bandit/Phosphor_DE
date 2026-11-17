@@ -1,0 +1,33 @@
+cheats = 8
+
+cheat0_desc = "Earn $50,000"
+cheat0_code = "830014C0+C350"
+cheat0_enable = false
+
+cheat1_desc = "Extra Top Speed"
+cheat1_code = "83001EC0+1200"
+cheat1_enable = false
+
+cheat2_desc = "Maximum Funds"
+cheat2_code = "830014A4+869F+330014A6+0001"
+cheat2_enable = false
+
+cheat3_desc = "No Traffic"
+cheat3_code = "33001EC4+0000"
+cheat3_enable = false
+
+cheat4_desc = "Quick XLR8"
+cheat4_code = "D0000020+0001+33001E88+00FF"
+cheat4_enable = false
+
+cheat5_desc = "Turned Off [Press Select+Down]"
+cheat5_code = "74000130+037B+330060A4+0001+730060A4+0001+33005F54+0000"
+cheat5_enable = false
+
+cheat6_desc = "Turned On [Press Select+Up]"
+cheat6_code = "74000130+03BB+330060A4+0002+730060A4+0002+33005F54+0020"
+cheat6_enable = false
+
+cheat7_desc = "Unlock All Tracks"
+cheat7_code = "430001E2+0001+00000005+0002"
+cheat7_enable = false

@@ -1,0 +1,53 @@
+cheats = 13
+
+cheat0_desc = "1 Lap Races"
+cheat0_code = "330056E4+0001"
+cheat0_enable = false
+
+cheat1_desc = "All Events Won"
+cheat1_code = "32000A0D+0055+42000A0E+5555+00000008+0002+32000A1E+0055"
+cheat1_enable = false
+
+cheat2_desc = "Drunk Opponents"
+cheat2_code = "4202D534+0000+00000003+0500"
+cheat2_enable = false
+
+cheat3_desc = "End Race [Press L+B]"
+cheat3_code = "74000130+01FD+82014366+0002"
+cheat3_enable = false
+
+cheat4_desc = "Have 50,000 Points"
+cheat4_code = "82000814+C350"
+cheat4_enable = false
+
+cheat5_desc = "Heavy Traffic"
+cheat5_code = "33005604+0002"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Nitrous"
+cheat6_code = "3202CAEE+0005"
+cheat6_enable = false
+
+cheat7_desc = "No Traffic"
+cheat7_code = "33005604+0000"
+cheat7_enable = false
+
+cheat8_desc = "Tuned By Omen"
+cheat8_code = "3202CA85+0020"
+cheat8_enable = false
+
+cheat9_desc = "Unlock All Cars"
+cheat9_code = "82000C56+FFFF"
+cheat9_enable = false
+
+cheat10_desc = "Unlock All Crew Members"
+cheat10_code = "82000C5A+FFFF"
+cheat10_enable = false
+
+cheat11_desc = "Unlock All Tracks"
+cheat11_code = "82000C58+FFFF"
+cheat11_enable = false
+
+cheat12_desc = "Unlock All Upgrades"
+cheat12_code = "42000C34+FFFF+0000000F+0002"
+cheat12_enable = false

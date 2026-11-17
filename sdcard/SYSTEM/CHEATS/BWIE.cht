@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Have All Fireflies"
+cheat0_code = "32033C56+002D"
+cheat0_enable = false
+
+cheat1_desc = "Have All Images"
+cheat1_code = "430034A0+FFFF+0000000E+0002"
+cheat1_enable = false
+
+cheat2_desc = "Have All Items"
+cheat2_code = "43003490+FFFF+00000002+0002"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health"
+cheat3_code = "32033C50+0012"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Magic"
+cheat4_code = "32033C51+0060"
+cheat4_enable = false
+
+cheat5_desc = "Maximum Health"
+cheat5_code = "32033C53+0012"
+cheat5_enable = false

@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Chii Clothing Modifier (Unencrypted)"
+cheat0_code = "33003A64+0000"
+cheat0_enable = false
+
+cheat1_desc = "Max Exercise Level"
+cheat1_code = "32012447+0013"
+cheat1_enable = false

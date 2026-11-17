@@ -1,0 +1,37 @@
+cheats = 9
+
+cheat0_desc = "Have Car [Press L+Up]"
+cheat0_code = "74000130+01BF+33002AB0+0001"
+cheat0_enable = false
+
+cheat1_desc = "Have Jet Pack [Press L+Down]"
+cheat1_code = "74000130+017F+33002AB0+0009"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Shield"
+cheat2_code = "33002AA7+0001"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Spinach"
+cheat3_code = "33002AB7+0020"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Vehicle"
+cheat4_code = "33002A98+0020"
+cheat4_enable = false
+
+cheat5_desc = "Opponents don't move (Read notes)"
+cheat5_code = "880E721C+4648+880E7220+D000"
+cheat5_enable = false
+
+cheat6_desc = "Race alone"
+cheat6_code = "880EEF90+46C0"
+cheat6_enable = false
+
+cheat7_desc = "Rivals Are Chickens"
+cheat7_code = "43002AE4+0020+00000003+004C+43002AFC+000B+00000003+004C"
+cheat7_enable = false
+
+cheat8_desc = "Unlock All Stages"
+cheat8_code = "43002DE4+FFFF+00000005+0002+33002DEE+00FF"
+cheat8_enable = false

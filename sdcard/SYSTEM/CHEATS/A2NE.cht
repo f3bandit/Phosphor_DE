@@ -1,0 +1,197 @@
+cheats = 49
+
+cheat0_desc = "0:00:00 Level Time"
+cheat0_code = "83005490+0000+83005492+0000"
+cheat0_enable = false
+
+cheat1_desc = "300 Rings"
+cheat1_code = "330030C3+0003"
+cheat1_enable = false
+
+cheat2_desc = "999999 Points"
+cheat2_code = "83005450+423F+83005452+000F"
+cheat2_enable = false
+
+cheat3_desc = "All Rings Collected"
+cheat3_code = "730030AA+012C+830030A8+012C"
+cheat3_enable = false
+
+cheat4_desc = "All SP Rings"
+cheat4_code = "330054F4+0007"
+cheat4_enable = false
+
+cheat5_desc = "All Stats S Rank"
+cheat5_code = "33003C00+0005+33003C01+0005+33003C02+0005+33003C03+0005+33003C04+0005+33003C05+0005+33003C06+0005"
+cheat5_enable = false
+
+cheat6_desc = "Always in boost mode"
+cheat6_code = "83005A38+07F8+83005A3A+0001"
+cheat6_enable = false
+
+cheat7_desc = "Amy - All Levels"
+cheat7_code = "32002668+007F"
+cheat7_enable = false
+
+cheat8_desc = "Auto-Right Movement"
+cheat8_code = "330059F5+0007"
+cheat8_enable = false
+
+cheat9_desc = "Backgrounds Are A Little Higher Up"
+cheat9_code = "33005930+0007"
+cheat9_enable = false
+
+cheat10_desc = "Can Go Before It Says Go"
+cheat10_code = "33005A02+0004"
+cheat10_enable = false
+
+cheat11_desc = "Chao Belly Full"
+cheat11_code = "33003BF4+00C8"
+cheat11_enable = false
+
+cheat12_desc = "Chao Mood Empty"
+cheat12_code = "33003BF3+0000"
+cheat12_enable = false
+
+cheat13_desc = "Collect Rings From Anywhere"
+cheat13_code = "8800812A+46C0+88008138+46C0+88008156+46C0+88008164+46C0"
+cheat13_enable = false
+
+cheat14_desc = "Cream"
+cheat14_code = "32002660+001F"
+cheat14_enable = false
+
+cheat15_desc = "Cream can fly forever"
+cheat15_code = "83005A8C+00FF"
+cheat15_enable = false
+
+cheat16_desc = "Egg Chao"
+cheat16_code = "33003CB5+0001"
+cheat16_enable = false
+
+cheat17_desc = "Have All SP Rings"
+cheat17_code = "830054F4+0007"
+cheat17_enable = false
+
+cheat18_desc = "Have Feet"
+cheat18_code = "33003CAE+0000"
+cheat18_enable = false
+
+cheat19_desc = "Infinite Air Attack"
+cheat19_code = "33005A03+0004"
+cheat19_enable = false
+
+cheat20_desc = "Infinite Flight"
+cheat20_code = "880126C2+1E10+88012C46+3800"
+cheat20_enable = false
+
+cheat21_desc = "Infinite Lives"
+cheat21_code = "33005448+000A"
+cheat21_enable = false
+
+cheat22_desc = "Infinite Rings"
+cheat22_code = "8200033C+207F+8200033E+0200+82000340+6008+82000342+1C08+82000344+E015+82007AAC+3000+82007D4E+3000"
+cheat22_enable = false
+
+cheat23_desc = "Invincibility"
+cheat23_code = "33005A0C+0064"
+cheat23_enable = false
+
+cheat24_desc = "Jump in Midair"
+cheat24_code = "88025E30+2001+880294FE+2000+8802957A+20FB+8802957C+0200+8802957E+8260+88029580+2005"
+cheat24_enable = false
+
+cheat25_desc = "Knuckles - All Levels"
+cheat25_code = "32002667+007F"
+cheat25_enable = false
+
+cheat26_desc = "Multi Jump"
+cheat26_code = "74000130+03FE+830059F2+FDD0"
+cheat26_enable = false
+
+cheat27_desc = "Must Be On (For The Following Codes To Work)"
+cheat27_code = "33003CB1+0000"
+cheat27_enable = false
+
+cheat28_desc = "No Feet"
+cheat28_code = "33003CAE+00FF"
+cheat28_enable = false
+
+cheat29_desc = "Omochao Chao"
+cheat29_code = "33003CB5+0002"
+cheat29_enable = false
+
+cheat30_desc = "Only 1 Ring Needed To Pass Special Stage"
+cheat30_code = "830030AA+0001"
+cheat30_enable = false
+
+cheat31_desc = "Open All Zones"
+cheat31_code = "3200265F+001F+82002660+1F1F+82002662+1F1F"
+cheat31_enable = false
+
+cheat32_desc = "Play the game demo!!"
+cheat32_code = "330053C8+0001"
+cheat32_enable = false
+
+cheat33_desc = "Press Select+Down For Timer Off"
+cheat33_code = "74000130+037B+33004A00+0001+73004A00+0001+330030C2+0030"
+cheat33_enable = false
+
+cheat34_desc = "Press Select+Up For Timer On"
+cheat34_code = "74000130+03BB+33004A00+0000"
+cheat34_enable = false
+
+cheat35_desc = "Quick Stat Level Up"
+cheat35_code = "820049D6+2063"
+cheat35_enable = false
+
+cheat36_desc = "Ring Combo X9"
+cheat36_code = "330031AC+0009"
+cheat36_enable = false
+
+cheat37_desc = "Screen Won't Scroll"
+cheat37_code = "330059A0+0007"
+cheat37_enable = false
+
+cheat38_desc = "Sonic"
+cheat38_code = "32002664+007F"
+cheat38_enable = false
+
+cheat39_desc = "Stop Timer"
+cheat39_code = "83005490+0000"
+cheat39_enable = false
+
+cheat40_desc = "Tails can fly forever"
+cheat40_code = "83005A90+00FF"
+cheat40_enable = false
+
+cheat41_desc = "Unlock All Characters"
+cheat41_code = "A200266C+1C18+8200266A+FFFF"
+cheat41_enable = false
+
+cheat42_desc = "Unlock Extra Zone (Sonic Only)"
+cheat42_code = "32002672+0001"
+cheat42_enable = false
+
+cheat43_desc = "Unlock Sound Test"
+cheat43_code = "32002669+0001"
+cheat43_enable = false
+
+cheat44_desc = "Unlock Tiny Chao Garden"
+cheat44_code = "A200266C+1C18+3200266C+0001"
+cheat44_enable = false
+
+cheat45_desc = "Max Rings"
+cheat45_code = "830053F0+03E7"
+cheat45_enable = false
+
+cheat46_desc = "Transparent"
+cheat46_code = "33005A0C+0002"
+cheat46_enable = false
+
+cheat47_desc = "All Gems"
+cheat47_code = "82002664+7F7F+82002666+7F7F+32002668+007F"
+cheat47_enable = false
+
+cheat48_desc = "Instrumentals"
+cheat48_code = "83008316+0005"
+cheat48_enable = false

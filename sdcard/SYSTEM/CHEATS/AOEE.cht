@@ -1,0 +1,37 @@
+cheats = 9
+
+cheat0_desc = "Always Place 1st"
+cheat0_code = "420001BC+0001+00000003+0004"
+cheat0_enable = false
+
+cheat1_desc = "Max Stats: Exo Force"
+cheat1_code = "32000061+0043+82000062+5458+82000064+5475+32000066+0077"
+cheat1_enable = false
+
+cheat2_desc = "Max Stats: H.O.T."
+cheat2_code = "8200000C+5545+8200000E+5456+82000010+5457"
+cheat2_enable = false
+
+cheat3_desc = "Max Stats: Maverick"
+cheat3_code = "3200001D+0044+8200001E+6555+82000020+6564+32000022+0055"
+cheat3_enable = false
+
+cheat4_desc = "Max Stats: Nitro"
+cheat4_code = "82000050+6754+82000052+5866+82000054+8656"
+cheat4_enable = false
+
+cheat5_desc = "Max Stats: R.E.D."
+cheat5_code = "3200003F+0034+82000040+7555+82000042+6565+32000044+0055"
+cheat5_enable = false
+
+cheat6_desc = "Max Stats: Zero"
+cheat6_code = "8200002E+5455+82000030+5565+82000032+5575"
+cheat6_enable = false
+
+cheat7_desc = "Unlock All Cars"
+cheat7_code = "3200007B+0001+3200007C+0001"
+cheat7_enable = false
+
+cheat8_desc = "Unlock All Cup"
+cheat8_code = "3200001C+00FF+3200002D+00FF+3200003E+00FF+3200004F+00FF+32000060+00FF+32000071+00FF"
+cheat8_enable = false

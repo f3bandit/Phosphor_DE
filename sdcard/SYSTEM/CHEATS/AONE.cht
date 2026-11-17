@@ -1,0 +1,77 @@
+cheats = 19
+
+cheat0_desc = "Access All Rounds"
+cheat0_code = "33001EFA+0064+33003030+0064"
+cheat0_enable = false
+
+cheat1_desc = "Enable All Hidden Modes At Once"
+cheat1_code = "33002FEC+00FF"
+cheat1_enable = false
+
+cheat2_desc = "Enable Player 1 For Happy Ending"
+cheat2_code = "33002FC4+0001"
+cheat2_enable = false
+
+cheat3_desc = "Enable Player 2 For Happy Ending"
+cheat3_code = "33002FE0+0001"
+cheat3_enable = false
+
+cheat4_desc = "Full Item Library (Including Special Items)"
+cheat4_code = "430030B8+FFFF+0000000A+0002+8300302C+FFFF"
+cheat4_enable = false
+
+cheat5_desc = "Get Items From Anywhere"
+cheat5_code = "88098A78+B633"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Lives P2/CPU Bobblen"
+cheat6_code = "33002FDA+0006"
+cheat6_enable = false
+
+cheat7_desc = "Invincibility P1"
+cheat7_code = "33002FCA+0096"
+cheat7_enable = false
+
+cheat8_desc = "Invincibility P2/CPU Bobblen"
+cheat8_code = "33002FE6+009E"
+cheat8_enable = false
+
+cheat9_desc = "P1 Has Fire Breath"
+cheat9_code = "33002FC3+0001"
+cheat9_enable = false
+
+cheat10_desc = "P1 Have All Powerups"
+cheat10_code = "33002FC0+00FF"
+cheat10_enable = false
+
+cheat11_desc = "Press Select To Skip To Next Round"
+cheat11_code = "730018E4+0004+8300154C+0001"
+cheat11_enable = false
+
+cheat12_desc = "Skip Level [Press Select+Up]"
+cheat12_code = "74000130+03BB+3300154C+0001+74000130+03BB+3300154E+0001"
+cheat12_enable = false
+
+cheat13_desc = "Spectator Mode (CPU Plays For You)"
+cheat13_code = "33002FC4+0002"
+cheat13_enable = false
+
+cheat14_desc = "Start On Round ##"
+cheat14_code = "73002FF2+0000+33002FF2+0000"
+cheat14_enable = false
+
+cheat15_desc = "Start With Hi-Score"
+cheat15_code = "73002FB8+0000+83002FB8+C350"
+cheat15_enable = false
+
+cheat16_desc = "Infinite Lives"
+cheat16_code = "33002FBE+0006"
+cheat16_enable = false
+
+cheat17_desc = "Rapid Fire"
+cheat17_code = "73002FBC+1200+83002FBC+0000"
+cheat17_enable = false
+
+cheat18_desc = "Super Jump"
+cheat18_code = "7300026E+0027+8300026E+0005"
+cheat18_enable = false

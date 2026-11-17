@@ -1,0 +1,333 @@
+cheats = 83
+
+cheat0_desc = "10th Unit Infinite EN"
+cheat0_code = "82014740+0290"
+cheat0_enable = false
+
+cheat1_desc = "10th Unit Infinite HP"
+cheat1_code = "82014738+2DD2"
+cheat1_enable = false
+
+cheat2_desc = "10th Unit Max Movement"
+cheat2_code = "32012788+0004"
+cheat2_enable = false
+
+cheat3_desc = "10th Unit Max Stats"
+cheat3_code = "82012792+FFFF+42012798+FFFF+00000006+0002"
+cheat3_enable = false
+
+cheat4_desc = "10th Unit Max Upgrades"
+cheat4_code = "8201474E+FFFF"
+cheat4_enable = false
+
+cheat5_desc = "10th Unit Maximum EN"
+cheat5_code = "3201474D+00FF"
+cheat5_enable = false
+
+cheat6_desc = "10th Unit Maximum HP"
+cheat6_code = "3201473C+00FF"
+cheat6_enable = false
+
+cheat7_desc = "10th Unit Maximum SP"
+cheat7_code = "82012794+03E7"
+cheat7_enable = false
+
+cheat8_desc = "1st Unit Infinite EN"
+cheat8_code = "820147A8+0290"
+cheat8_enable = false
+
+cheat9_desc = "1st Unit Infinite HP"
+cheat9_code = "820147A0+27D8"
+cheat9_enable = false
+
+cheat10_desc = "1st Unit Max Movement"
+cheat10_code = "320126B0+0004"
+cheat10_enable = false
+
+cheat11_desc = "1st Unit Max Stats"
+cheat11_code = "820126BA+FFFF+420126C0+FFFF+00000006+0002"
+cheat11_enable = false
+
+cheat12_desc = "1st Unit Max Upgrades"
+cheat12_code = "820147A6+FFFF"
+cheat12_enable = false
+
+cheat13_desc = "1st Unit Maximum EN"
+cheat13_code = "320147A5+00FF"
+cheat13_enable = false
+
+cheat14_desc = "1st Unit Maximum HP"
+cheat14_code = "320147A4+00FF"
+cheat14_enable = false
+
+cheat15_desc = "1st Unit Maximum SP"
+cheat15_code = "820126BC+03E7"
+cheat15_enable = false
+
+cheat16_desc = "2nd Unit Infinite EN"
+cheat16_code = "820147DC+0290"
+cheat16_enable = false
+
+cheat17_desc = "2nd Unit Infinite HP"
+cheat17_code = "820147D4+27D8"
+cheat17_enable = false
+
+cheat18_desc = "2nd Unit Max Movement"
+cheat18_code = "3201271C+0004"
+cheat18_enable = false
+
+cheat19_desc = "2nd Unit Max Stats"
+cheat19_code = "82012726+FFFF+4201272C+FFFF+00000006+0002"
+cheat19_enable = false
+
+cheat20_desc = "2nd Unit Max Upgrades"
+cheat20_code = "820147D2+FFFF"
+cheat20_enable = false
+
+cheat21_desc = "2nd Unit Maximum EN"
+cheat21_code = "320147D9+00FF"
+cheat21_enable = false
+
+cheat22_desc = "2nd Unit Maximum HP"
+cheat22_code = "320147D8+00FF"
+cheat22_enable = false
+
+cheat23_desc = "2nd Unit Maximum SP"
+cheat23_code = "82012728+03E7"
+cheat23_enable = false
+
+cheat24_desc = "3rd Unit Infinite EN"
+cheat24_code = "82014810+0290"
+cheat24_enable = false
+
+cheat25_desc = "3rd Unit Infinite HP"
+cheat25_code = "82014808+27D8"
+cheat25_enable = false
+
+cheat26_desc = "3rd Unit Max Movement"
+cheat26_code = "32012764+0004"
+cheat26_enable = false
+
+cheat27_desc = "3rd Unit Max Stats"
+cheat27_code = "8201276E+FFFF+42012774+FFFF+00000006+0002"
+cheat27_enable = false
+
+cheat28_desc = "3rd Unit Max Upgrades"
+cheat28_code = "8201480E+FFFF"
+cheat28_enable = false
+
+cheat29_desc = "3rd Unit Maximum EN"
+cheat29_code = "3201480D+00FF"
+cheat29_enable = false
+
+cheat30_desc = "3rd Unit Maximum HP"
+cheat30_code = "3201480C+00FF"
+cheat30_enable = false
+
+cheat31_desc = "3rd Unit Maximum SP"
+cheat31_code = "82012770+03E7"
+cheat31_enable = false
+
+cheat32_desc = "4th Unit Infinite EN"
+cheat32_code = "820154A8+02E2"
+cheat32_enable = false
+
+cheat33_desc = "4th Unit Infinite HP"
+cheat33_code = "820154A0+27D8"
+cheat33_enable = false
+
+cheat34_desc = "4th Unit Max Movement"
+cheat34_code = "32012B78+0004"
+cheat34_enable = false
+
+cheat35_desc = "4th Unit Max Stats"
+cheat35_code = "82012B82+FFFF+42012B88+FFFF+00000006+0002"
+cheat35_enable = false
+
+cheat36_desc = "4th Unit Max Upgrades"
+cheat36_code = "820154A6+FFFF"
+cheat36_enable = false
+
+cheat37_desc = "4th Unit Maximum EN"
+cheat37_code = "320154A5+00FF"
+cheat37_enable = false
+
+cheat38_desc = "4th Unit Maximum HP"
+cheat38_code = "320154A4+00FF"
+cheat38_enable = false
+
+cheat39_desc = "4th Unit Maximum SP"
+cheat39_code = "82012B84+03E7"
+cheat39_enable = false
+
+cheat40_desc = "5th Unit Infinite EN"
+cheat40_code = "82015510+0267"
+cheat40_enable = false
+
+cheat41_desc = "5th Unit Infinite HP"
+cheat41_code = "82015508+22DD"
+cheat41_enable = false
+
+cheat42_desc = "5th Unit Max Movement"
+cheat42_code = "32012B9C+0004"
+cheat42_enable = false
+
+cheat43_desc = "5th Unit Max Upgrades"
+cheat43_code = "8201550E+FFFF"
+cheat43_enable = false
+
+cheat44_desc = "5th Unit Maximum EN"
+cheat44_code = "3201550D+00FF"
+cheat44_enable = false
+
+cheat45_desc = "5th Unit Maximum HP"
+cheat45_code = "3201550C+00FF"
+cheat45_enable = false
+
+cheat46_desc = "5th Unit Maximum SP"
+cheat46_code = "82012BA8+03E7"
+cheat46_enable = false
+
+cheat47_desc = "6th Unit Infinite EN"
+cheat47_code = "82013804+019A"
+cheat47_enable = false
+
+cheat48_desc = "6th Unit Infinite HP"
+cheat48_code = "820137FC+18E7"
+cheat48_enable = false
+
+cheat49_desc = "6th Unit Max Movement"
+cheat49_code = "320120C8+0004"
+cheat49_enable = false
+
+cheat50_desc = "6th Unit Max Stats"
+cheat50_code = "820120D2+FFFF+420120D8+FFFF+00000006+0002"
+cheat50_enable = false
+
+cheat51_desc = "6th Unit Max Upgrades"
+cheat51_code = "82013806+FFFF"
+cheat51_enable = false
+
+cheat52_desc = "6th Unit Maximum EN"
+cheat52_code = "32013805+00FF"
+cheat52_enable = false
+
+cheat53_desc = "6th Unit Maximum HP"
+cheat53_code = "32013800+00FF"
+cheat53_enable = false
+
+cheat54_desc = "6th Unit Maximum SP"
+cheat54_code = "820120D4+03E7"
+cheat54_enable = false
+
+cheat55_desc = "7th Unit Infinite EN"
+cheat55_code = "820137D0+0215"
+cheat55_enable = false
+
+cheat56_desc = "7th Unit Infinite HP"
+cheat56_code = "820137C8+22DD"
+cheat56_enable = false
+
+cheat57_desc = "7th Unit Max Upgrades"
+cheat57_code = "820137CE+FFFF"
+cheat57_enable = false
+
+cheat58_desc = "7th Unit Maximum EN"
+cheat58_code = "320137CD+00FF"
+cheat58_enable = false
+
+cheat59_desc = "7th Unit Maximum HP"
+cheat59_code = "320137CC+00FF"
+cheat59_enable = false
+
+cheat60_desc = "8th Unit Infinite EN"
+cheat60_code = "82014774+02E2"
+cheat60_enable = false
+
+cheat61_desc = "8th Unit Infinite HP"
+cheat61_code = "8201476C+4FB0"
+cheat61_enable = false
+
+cheat62_desc = "8th Unit Max Movement"
+cheat62_code = "320126F8+0004"
+cheat62_enable = false
+
+cheat63_desc = "8th Unit Max Stats"
+cheat63_code = "82012702+FFFF+42012708+FFFF+00000006+0002"
+cheat63_enable = false
+
+cheat64_desc = "8th Unit Max Upgrades"
+cheat64_code = "82014772+FFFF"
+cheat64_enable = false
+
+cheat65_desc = "8th Unit Maximum EN"
+cheat65_code = "32014771+00FF"
+cheat65_enable = false
+
+cheat66_desc = "8th Unit Maximum HP"
+cheat66_code = "32014770+00FF"
+cheat66_enable = false
+
+cheat67_desc = "8th Unit Maximum SP"
+cheat67_code = "82012704+03E7"
+cheat67_enable = false
+
+cheat68_desc = "9th Unit Infinite EN"
+cheat68_code = "82013B78+0215"
+cheat68_enable = false
+
+cheat69_desc = "9th Unit Infinite HP"
+cheat69_code = "82013B70+22DD"
+cheat69_enable = false
+
+cheat70_desc = "9th Unit Max Movement"
+cheat70_code = "32012110+0004"
+cheat70_enable = false
+
+cheat71_desc = "9th Unit Max Stats"
+cheat71_code = "8201211A+FFFF+42012120+FFFF+00000006+0002"
+cheat71_enable = false
+
+cheat72_desc = "9th Unit Max Upgrades"
+cheat72_code = "82013B76+FFFF"
+cheat72_enable = false
+
+cheat73_desc = "9th Unit Maximum EN"
+cheat73_code = "32013B75+00FF"
+cheat73_enable = false
+
+cheat74_desc = "9th Unit Maximum HP"
+cheat74_code = "32013B74+00FF"
+cheat74_enable = false
+
+cheat75_desc = "9th Unit Maximum SP"
+cheat75_code = "8201211C+03E7"
+cheat75_enable = false
+
+cheat76_desc = "Infinite Att. Points"
+cheat76_code = "820173A8+0000+820173AA+0000"
+cheat76_enable = false
+
+cheat77_desc = "Infinite Funds"
+cheat77_code = "820010D0+967F+820010D2+0098"
+cheat77_enable = false
+
+cheat78_desc = "Infinite Moves (Main Units)"
+cheat78_code = "42016062+0001+0000000C+003C"
+cheat78_enable = false
+
+cheat79_desc = "Inflict 50,000 Damage"
+cheat79_code = "82000AA4+C350"
+cheat79_enable = false
+
+cheat80_desc = "Max Exp. Gain"
+cheat80_code = "820173DA+2710"
+cheat80_enable = false
+
+cheat81_desc = "Max Funds Gain"
+cheat81_code = "82016EE0+C350"
+cheat81_enable = false
+
+cheat82_desc = "Take No Damage"
+cheat82_code = "82000A64+0000"
+cheat82_enable = false

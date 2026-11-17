@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Infinite Tokens"
+cheat0_code = "820261EC+03E7"
+cheat0_enable = false
+
+cheat1_desc = "Select+B-End Quarter"
+cheat1_code = "72008BB0+FC06+82027B70+0000"
+cheat1_enable = false
+
+cheat2_desc = "Select+Down-away Wins"
+cheat2_code = "72008BB0+FC84+3201DE64+0000+72008BB0+FC84+3201FFB4+0063"
+cheat2_enable = false
+
+cheat3_desc = "Select+Left-1st Down"
+cheat3_code = "72008BB0+FC24+320280D0+0001"
+cheat3_enable = false
+
+cheat4_desc = "Select+Right-4th Down"
+cheat4_code = "72008BB0+FC14+320280D0+0004"
+cheat4_enable = false
+
+cheat5_desc = "Select+Up-home Wins"
+cheat5_code = "72008BB0+FC44+3201DE64+0063+72008BB0+FC44+3201FFB4+0000"
+cheat5_enable = false

@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Open All Movies+Missions"
+cheat0_code = "330050B8+001E"
+cheat0_enable = false
+
+cheat1_desc = "Pause Timer [Press Select+Up]"
+cheat1_code = "74000130+03BB+83003A00+0002+73003A00+0002+330041EC+0030"
+cheat1_enable = false
+
+cheat2_desc = "Resume Timer [Press Select+Down]"
+cheat2_code = "74000130+037B+83003A00+0001"
+cheat2_enable = false

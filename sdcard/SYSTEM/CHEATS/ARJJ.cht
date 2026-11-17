@@ -1,0 +1,49 @@
+cheats = 12
+
+cheat0_desc = "Have All Arena's"
+cheat0_code = "4200C366+0101+00000026+0002"
+cheat0_enable = false
+
+cheat1_desc = "Have All Bodies"
+cheat1_code = "4200C208+0101+00000022+0002"
+cheat1_enable = false
+
+cheat2_desc = "Have All Bombs"
+cheat2_code = "4200C29C+0101+00000029+0002"
+cheat2_enable = false
+
+cheat3_desc = "Have All Chips"
+cheat3_code = "4200C350+0101+00000008+0002"
+cheat3_enable = false
+
+cheat4_desc = "Have All Guns"
+cheat4_code = "4200C252+0101+00000022+0002"
+cheat4_enable = false
+
+cheat5_desc = "Have All Subs"
+cheat5_code = "4200C2F4+0101+0000002B+0002"
+cheat5_enable = false
+
+cheat6_desc = "Infinite HP"
+cheat6_code = "72038C32+0001+82038C34+0258"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Money"
+cheat7_code = "8200C1D4+967F+8200C1D6+0098"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Special"
+cheat8_code = "320392F2+0064"
+cheat8_enable = false
+
+cheat9_desc = "Max Gun Shots"
+cheat9_code = "82038CC8+0006+82038CCA+0006"
+cheat9_enable = false
+
+cheat10_desc = "No Knock Downs"
+cheat10_code = "72038C32+0001+82038C2E+2F00+72038C32+0001+82038C36+2F00"
+cheat10_enable = false
+
+cheat11_desc = "Press Select For Opponent Sudden Death"
+cheat11_code = "D0000020+0004+82039424+0000"
+cheat11_enable = false

@@ -1,0 +1,965 @@
+cheats = 241
+
+cheat0_desc = "Air Shoes"
+cheat0_code = "32007890+0063"
+cheat0_enable = false
+
+cheat1_desc = "AirMan"
+cheat1_code = "320078E9+0063"
+cheat1_enable = false
+
+cheat2_desc = "Another Mind"
+cheat2_code = "32007887+0063"
+cheat2_enable = false
+
+cheat3_desc = "Aqua +40"
+cheat3_code = "320078BA+0063"
+cheat3_enable = false
+
+cheat4_desc = "Aqua Aura"
+cheat4_code = "320078A7+0063"
+cheat4_enable = false
+
+cheat5_desc = "Aqua Balloon"
+cheat5_code = "3200787E+0063"
+cheat5_enable = false
+
+cheat6_desc = "Aqua Blade"
+cheat6_code = "32007831+0063"
+cheat6_enable = false
+
+cheat7_desc = "Aqua Custom"
+cheat7_code = "32007901+0063"
+cheat7_enable = false
+
+cheat8_desc = "Aqua Sword"
+cheat8_code = "3200782E+0063"
+cheat8_enable = false
+
+cheat9_desc = "Area Steal"
+cheat9_code = "320078CA+0063"
+cheat9_enable = false
+
+cheat10_desc = "Arumi Stage"
+cheat10_code = "320078CE+0063"
+cheat10_enable = false
+
+cheat11_desc = "Attack +10"
+cheat11_code = "320078B6+0063"
+cheat11_enable = false
+
+cheat12_desc = "Attack +20"
+cheat12_code = "320078B7+0063"
+cheat12_enable = false
+
+cheat13_desc = "Attack +30"
+cheat13_code = "320078B8+0063"
+cheat13_enable = false
+
+cheat14_desc = "Bad Medicine"
+cheat14_code = "320078B5+0063"
+cheat14_enable = false
+
+cheat15_desc = "Bad Spice 1"
+cheat15_code = "32007858+0063"
+cheat15_enable = false
+
+cheat16_desc = "Bad Spice 2"
+cheat16_code = "32007859+0063"
+cheat16_enable = false
+
+cheat17_desc = "Bad Spice 3"
+cheat17_code = "3200785A+0063"
+cheat17_enable = false
+
+cheat18_desc = "Barrier"
+cheat18_code = "320078A4+0063"
+cheat18_enable = false
+
+cheat19_desc = "BeastMan"
+cheat19_code = "320078F8+0063"
+cheat19_enable = false
+
+cheat20_desc = "Big Bomb"
+cheat20_code = "32007826+0063"
+cheat20_enable = false
+
+cheat21_desc = "Black Bomb"
+cheat21_code = "320078C3+0063"
+cheat21_enable = false
+
+cheat22_desc = "Black Hole"
+cheat22_code = "3200786D+0063"
+cheat22_enable = false
+
+cheat23_desc = "Blues"
+cheat23_code = "320078DE+0063"
+cheat23_enable = false
+
+cheat24_desc = "Break Hammer"
+cheat24_code = "32007864+0063"
+cheat24_enable = false
+
+cheat25_desc = "Bronze Fist"
+cheat25_code = "32007867+0063"
+cheat25_enable = false
+
+cheat26_desc = "Bubble Cross"
+cheat26_code = "3200781D+0063"
+cheat26_enable = false
+
+cheat27_desc = "Bubble Shot"
+cheat27_code = "3200781B+0063"
+cheat27_enable = false
+
+cheat28_desc = "Bubble Spread"
+cheat28_code = "3200781E+0063"
+cheat28_enable = false
+
+cheat29_desc = "Bubble V"
+cheat29_code = "3200781C+0063"
+cheat29_enable = false
+
+cheat30_desc = "Bubble Wrap"
+cheat30_code = "320078A5+0063"
+cheat30_enable = false
+
+cheat31_desc = "Burning Body"
+cheat31_code = "32007851+0063"
+cheat31_enable = false
+
+cheat32_desc = "Cannon"
+cheat32_code = "32007814+0063"
+cheat32_enable = false
+
+cheat33_desc = "Catch Machine"
+cheat33_code = "32007886+0063"
+cheat33_enable = false
+
+cheat34_desc = "Charge Spark"
+cheat34_code = "320078C1+0063"
+cheat34_enable = false
+
+cheat35_desc = "Chip Deck"
+cheat35_code = "3200747A+00FF+3200747B+00FF+3200747C+00FF+3200747D+00FF+3200747E+00FF+3200747F+00FF+32007480+00FF+32007481+00FF+32007482+00FF+32007483+00FF+32007484+00FF+32007485+00FF+32007486+00FF+32007487+00FF+32007488+00FF+32007489+00FF"
+cheat35_enable = false
+
+cheat36_desc = "Chips Slot-In"
+cheat36_code = "3200747D+0063"
+cheat36_enable = false
+
+cheat37_desc = "Cloud"
+cheat37_code = "32007875+0063"
+cheat37_enable = false
+
+cheat38_desc = "Cold Punch"
+cheat38_code = "32007842+0063"
+cheat38_enable = false
+
+cheat39_desc = "ColoredMan"
+cheat39_code = "320078F5+0063"
+cheat39_enable = false
+
+cheat40_desc = "Count Bomb 1"
+cheat40_code = "32007872+0063"
+cheat40_enable = false
+
+cheat41_desc = "Count Bomb 2"
+cheat41_code = "32007873+0063"
+cheat41_enable = false
+
+cheat42_desc = "Count Bomb 3"
+cheat42_code = "32007874+0063"
+cheat42_enable = false
+
+cheat43_desc = "Cross Bomb"
+cheat43_code = "32007825+0063"
+cheat43_enable = false
+
+cheat44_desc = "Cross Gun"
+cheat44_code = "32007819+0063"
+cheat44_enable = false
+
+cheat45_desc = "Curse Shield 1"
+cheat45_code = "32007861+0063"
+cheat45_enable = false
+
+cheat46_desc = "Curse Shield 2"
+cheat46_code = "32007862+0063"
+cheat46_enable = false
+
+cheat47_desc = "Curse Shield 3"
+cheat47_code = "32007863+0063"
+cheat47_enable = false
+
+cheat48_desc = "Custom Sword"
+cheat48_code = "32007837+0063"
+cheat48_enable = false
+
+cheat49_desc = "Daikouzui"
+cheat49_code = "320078B1+0063"
+cheat49_enable = false
+
+cheat50_desc = "Dash Attack"
+cheat50_code = "32007843+0063"
+cheat50_enable = false
+
+cheat51_desc = "Data Chip 1"
+cheat51_code = "320078D2+0063"
+cheat51_enable = false
+
+cheat52_desc = "Data Chip 2"
+cheat52_code = "320078D3+0063"
+cheat52_enable = false
+
+cheat53_desc = "Data Chip 3"
+cheat53_code = "320078D4+0063"
+cheat53_enable = false
+
+cheat54_desc = "Data Chip 4"
+cheat54_code = "320078DA+0063"
+cheat54_enable = false
+
+cheat55_desc = "Deathmatch"
+cheat55_code = "320078CF+0063"
+cheat55_enable = false
+
+cheat56_desc = "Double Needle"
+cheat56_code = "32007846+0063"
+cheat56_enable = false
+
+cheat57_desc = "Double Sensor"
+cheat57_code = "3200787A+0063"
+cheat57_enable = false
+
+cheat58_desc = "Dream Aura 1"
+cheat58_code = "320078AB+0063"
+cheat58_enable = false
+
+cheat59_desc = "Dream Aura 2"
+cheat59_code = "320078AC+0063"
+cheat59_enable = false
+
+cheat60_desc = "Dream Aura 3"
+cheat60_code = "320078AD+0063"
+cheat60_enable = false
+
+cheat61_desc = "Dynawave"
+cheat61_code = "3200783D+0063"
+cheat61_enable = false
+
+cheat62_desc = "Earthquake 1"
+cheat62_code = "3200783E+0063"
+cheat62_enable = false
+
+cheat63_desc = "Earthquake 2"
+cheat63_code = "3200783F+0063"
+cheat63_enable = false
+
+cheat64_desc = "Earthquake 3"
+cheat64_code = "32007840+0063"
+cheat64_enable = false
+
+cheat65_desc = "Elec +40"
+cheat65_code = "320078BC+0063"
+cheat65_enable = false
+
+cheat66_desc = "Elec Aura"
+cheat66_code = "320078AA+0063"
+cheat66_enable = false
+
+cheat67_desc = "Elec Balloon"
+cheat67_code = "3200787F+0063"
+cheat67_enable = false
+
+cheat68_desc = "Elec Blade"
+cheat68_code = "32007832+0063"
+cheat68_enable = false
+
+cheat69_desc = "Elec Brother"
+cheat69_code = "320078FF+0063"
+cheat69_enable = false
+
+cheat70_desc = "Elec Sword"
+cheat70_code = "3200782F+0063"
+cheat70_enable = false
+
+cheat71_desc = "ElecMan"
+cheat71_code = "320078E5+0063"
+cheat71_enable = false
+
+cheat72_desc = "Fighter Sword"
+cheat72_code = "320078C4+0063"
+cheat72_enable = false
+
+cheat73_desc = "Fire +40"
+cheat73_code = "320078B9+0063"
+cheat73_enable = false
+
+cheat74_desc = "FireMan"
+cheat74_code = "320078E4+0063"
+cheat74_enable = false
+
+cheat75_desc = "Flame Aura"
+cheat75_code = "320078A8+0063"
+cheat75_enable = false
+
+cheat76_desc = "Flame Blade"
+cheat76_code = "32007830+0063"
+cheat76_enable = false
+
+cheat77_desc = "Flame Sword"
+cheat77_code = "3200782D+0063"
+cheat77_enable = false
+
+cheat78_desc = "FlameMan"
+cheat78_code = "320078FA+0063"
+cheat78_enable = false
+
+cheat79_desc = "FlashMan"
+cheat79_code = "320078F7+0063"
+cheat79_enable = false
+
+cheat80_desc = "Forest Bomb 1"
+cheat80_code = "32007827+0063"
+cheat80_enable = false
+
+cheat81_desc = "Forest Bomb 2"
+cheat81_code = "32007828+0063"
+cheat81_enable = false
+
+cheat82_desc = "Forest Bomb 3"
+cheat82_code = "32007829+0063"
+cheat82_enable = false
+
+cheat83_desc = "Forte"
+cheat83_code = "320078E2+0063"
+cheat83_enable = false
+
+cheat84_desc = "ForteGS"
+cheat84_code = "320078E1+0063"
+cheat84_enable = false
+
+cheat85_desc = "Freeze Bomb"
+cheat85_code = "320078C0+0063"
+cheat85_enable = false
+
+cheat86_desc = "FreezeMan"
+cheat86_code = "320078F1+0063"
+cheat86_enable = false
+
+cheat87_desc = "Front Sensor"
+cheat87_code = "32007879+0063"
+cheat87_enable = false
+
+cheat88_desc = "Fumikomizan"
+cheat88_code = "32007833+0063"
+cheat88_enable = false
+
+cheat89_desc = "Gaea Sword"
+cheat89_code = "320078C2+0063"
+cheat89_enable = false
+
+cheat90_desc = "GateMan"
+cheat90_code = "320078EC+0063"
+cheat90_enable = false
+
+cheat91_desc = "Gauge 100%"
+cheat91_code = "32005174+0064"
+cheat91_enable = false
+
+cheat92_desc = "God Stone"
+cheat92_code = "32007883+0063"
+cheat92_enable = false
+
+cheat93_desc = "Gold Fist"
+cheat93_code = "32007869+0063"
+cheat93_enable = false
+
+cheat94_desc = "Guts Punch"
+cheat94_code = "32007841+0063"
+cheat94_enable = false
+
+cheat95_desc = "GutsMan"
+cheat95_code = "320078DD+0063"
+cheat95_enable = false
+
+cheat96_desc = "Have All Chips (See Note)"
+cheat96_code = "32007813+0063"
+cheat96_enable = false
+
+cheat97_desc = "Heat Balloon"
+cheat97_code = "32007880+0063"
+cheat97_enable = false
+
+cheat98_desc = "Heat Cross"
+cheat98_code = "32007821+0063"
+cheat98_enable = false
+
+cheat99_desc = "Heat Guts"
+cheat99_code = "320078FE+0063"
+cheat99_enable = false
+
+cheat100_desc = "Heat Shot"
+cheat100_code = "3200781F+0063"
+cheat100_enable = false
+
+cheat101_desc = "Heat Spread"
+cheat101_code = "32007822+0063"
+cheat101_enable = false
+
+cheat102_desc = "Heat V"
+cheat102_code = "32007820+0063"
+cheat102_enable = false
+
+cheat103_desc = "HeatMan"
+cheat103_code = "320078F4+0063"
+cheat103_enable = false
+
+cheat104_desc = "Heavy Gauge"
+cheat104_code = "32007866+0063"
+cheat104_enable = false
+
+cheat105_desc = "Hi Cannon"
+cheat105_code = "32007815+0063"
+cheat105_enable = false
+
+cheat106_desc = "Hiraishin"
+cheat106_code = "320078B0+0063"
+cheat106_enable = false
+
+cheat107_desc = "Hougan"
+cheat107_code = "32007845+0063"
+cheat107_enable = false
+
+cheat108_desc = "Iai Form"
+cheat108_code = "3200783A+0063"
+cheat108_enable = false
+
+cheat109_desc = "Ice Stage"
+cheat109_code = "320078CC+0063"
+cheat109_enable = false
+
+cheat110_desc = "IceMan"
+cheat110_code = "320078E3+0063"
+cheat110_enable = false
+
+cheat111_desc = "Instant Win"
+cheat111_code = "3200B8C2+0000"
+cheat111_enable = false
+
+cheat112_desc = "Invisible 1"
+cheat112_code = "3200789A+0063"
+cheat112_enable = false
+
+cheat113_desc = "Invisible 2"
+cheat113_code = "3200789B+0063"
+cheat113_enable = false
+
+cheat114_desc = "Invisible 3"
+cheat114_code = "3200789C+0063"
+cheat114_enable = false
+
+cheat115_desc = "Jealousy"
+cheat115_code = "320078AE+0063"
+cheat115_enable = false
+
+cheat116_desc = "Kagebunshin 1"
+cheat116_code = "320078A0+0063"
+cheat116_enable = false
+
+cheat117_desc = "Kagebunshin 2"
+cheat117_code = "320078A1+0063"
+cheat117_enable = false
+
+cheat118_desc = "Kagebunshin 3"
+cheat118_code = "320078A2+0063"
+cheat118_enable = false
+
+cheat119_desc = "Kakigenkin"
+cheat119_code = "320078AF+0063"
+cheat119_enable = false
+
+cheat120_desc = "Kanketsusen"
+cheat120_code = "32007881+0063"
+cheat120_enable = false
+
+cheat121_desc = "Kawarimi"
+cheat121_code = "320078B2+0063"
+cheat121_enable = false
+
+cheat122_desc = "KingMan"
+cheat122_code = "320078FC+0063"
+cheat122_enable = false
+
+cheat123_desc = "Knight Sword"
+cheat123_code = "320078C5+0063"
+cheat123_enable = false
+
+cheat124_desc = "KnightMan"
+cheat124_code = "320078EF+0063"
+cheat124_enable = false
+
+cheat125_desc = "Kogarashi"
+cheat125_code = "3200784F+0063"
+cheat125_enable = false
+
+cheat126_desc = "Kusamura Stage"
+cheat126_code = "320078CD+0063"
+cheat126_enable = false
+
+cheat127_desc = "Leaf Shield"
+cheat127_code = "320078A6+0063"
+cheat127_enable = false
+
+cheat128_desc = "Long Sword"
+cheat128_code = "3200782C+0063"
+cheat128_enable = false
+
+cheat129_desc = "MagicMan"
+cheat129_code = "320078F6+0063"
+cheat129_enable = false
+
+cheat130_desc = "Magma Dragon"
+cheat130_code = "32007882+0063"
+cheat130_enable = false
+
+cheat131_desc = "Magma Stage"
+cheat131_code = "320078CB+0063"
+cheat131_enable = false
+
+cheat132_desc = "Magnet Bomb 1"
+cheat132_code = "3200785B+0063"
+cheat132_enable = false
+
+cheat133_desc = "Magnet Bomb 2"
+cheat133_code = "3200785C+0063"
+cheat133_enable = false
+
+cheat134_desc = "Magnet Bomb 3"
+cheat134_code = "3200785D+0063"
+cheat134_enable = false
+
+cheat135_desc = "MagnetMan"
+cheat135_code = "320078F0+0063"
+cheat135_enable = false
+
+cheat136_desc = "Mega Cannon"
+cheat136_code = "32007816+0063"
+cheat136_enable = false
+
+cheat137_desc = "MetalMan"
+cheat137_code = "320078FB+0063"
+cheat137_enable = false
+
+cheat138_desc = "Meteo 3"
+cheat138_code = "3200786E+0063"
+cheat138_enable = false
+
+cheat139_desc = "Meteo 4"
+cheat139_code = "3200786F+0063"
+cheat139_enable = false
+
+cheat140_desc = "Meteo 5"
+cheat140_code = "32007870+0063"
+cheat140_enable = false
+
+cheat141_desc = "Meteo 6"
+cheat141_code = "32007871+0063"
+cheat141_enable = false
+
+cheat142_desc = "Metguard"
+cheat142_code = "32007885+0063"
+cheat142_enable = false
+
+cheat143_desc = "Mini Bomb"
+cheat143_code = "32007823+0063"
+cheat143_enable = false
+
+cheat144_desc = "More Cloud"
+cheat144_code = "32007876+0063"
+cheat144_enable = false
+
+cheat145_desc = "Most Cloud"
+cheat145_code = "32007877+0063"
+cheat145_enable = false
+
+cheat146_desc = "Muramasa"
+cheat146_code = "32007838+0063"
+cheat146_enable = false
+
+cheat147_desc = "Navi +20"
+cheat147_code = "320078BD+0063"
+cheat147_enable = false
+
+cheat148_desc = "Navi +40"
+cheat148_code = "320078BE+0063"
+cheat148_enable = false
+
+cheat149_desc = "Navi Type A"
+cheat149_code = "32007908+0063"
+cheat149_enable = false
+
+cheat150_desc = "Navi Type E"
+cheat150_code = "3200790A+0063"
+cheat150_enable = false
+
+cheat151_desc = "Navi Type F"
+cheat151_code = "32007907+0063"
+cheat151_enable = false
+
+cheat152_desc = "Navi Type W"
+cheat152_code = "32007909+0063"
+cheat152_enable = false
+
+cheat153_desc = "Neppuu"
+cheat153_code = "32007850+0063"
+cheat153_enable = false
+
+cheat154_desc = "Normal Navi"
+cheat154_code = "32007902+0063"
+cheat154_enable = false
+
+cheat155_desc = "Normal Navi V2"
+cheat155_code = "32007903+0063"
+cheat155_enable = false
+
+cheat156_desc = "Normal Navi V3"
+cheat156_code = "32007904+0063"
+cheat156_enable = false
+
+cheat157_desc = "Normal Navi V4"
+cheat157_code = "32007905+0063"
+cheat157_enable = false
+
+cheat158_desc = "Normal Navi V5"
+cheat158_code = "32007906+0063"
+cheat158_enable = false
+
+cheat159_desc = "NumberMan"
+cheat159_code = "320078E8+0063"
+cheat159_enable = false
+
+cheat160_desc = "Ojizousan"
+cheat160_code = "32007896+0063"
+cheat160_enable = false
+
+cheat161_desc = "Old Wood"
+cheat161_code = "32007884+0063"
+cheat161_enable = false
+
+cheat162_desc = "Ooakatsunami"
+cheat162_code = "320078BF+0063"
+cheat162_enable = false
+
+cheat163_desc = "Paladin Sword"
+cheat163_code = "320078C6+0063"
+cheat163_enable = false
+
+cheat164_desc = "Panel Out"
+cheat164_code = "320078D0+0063"
+cheat164_enable = false
+
+cheat165_desc = "Panel Return"
+cheat165_code = "320078D1+0063"
+cheat165_enable = false
+
+cheat166_desc = "Panel Steal"
+cheat166_code = "320078C9+0063"
+cheat166_enable = false
+
+cheat167_desc = "PlantMan"
+cheat167_code = "320078F9+0063"
+cheat167_enable = false
+
+cheat168_desc = "Poison Anubis"
+cheat168_code = "32007899+0063"
+cheat168_enable = false
+
+cheat169_desc = "Poison Face"
+cheat169_code = "3200786B+0063"
+cheat169_enable = false
+
+cheat170_desc = "Poison Mask"
+cheat170_code = "3200786A+0063"
+cheat170_enable = false
+
+cheat171_desc = "Poltergeist"
+cheat171_code = "320078C8+0063"
+cheat171_enable = false
+
+cheat172_desc = "Press L For Library Complete"
+cheat172_code = "74000130+01FF+32007621+0083+74000130+01FF+42007622+8181+0000007B+0002+74000130+01FF+32007718+0081"
+cheat172_enable = false
+
+cheat173_desc = "Press Select For 1 HP Enemy"
+cheat173_code = "74000130+03FB+8200B8C2+0001"
+cheat173_enable = false
+
+cheat174_desc = "Prism"
+cheat174_code = "32007895+0063"
+cheat174_enable = false
+
+cheat175_desc = "Quick Gauge"
+cheat175_code = "320078B4+0063"
+cheat175_enable = false
+
+cheat176_desc = "QuickMan"
+cheat176_code = "320078EA+0063"
+cheat176_enable = false
+
+cheat177_desc = "Rabiring 1"
+cheat177_code = "32007852+0063"
+cheat177_enable = false
+
+cheat178_desc = "Rabiring 2"
+cheat178_code = "32007853+0063"
+cheat178_enable = false
+
+cheat179_desc = "Rabiring 3"
+cheat179_code = "32007854+0063"
+cheat179_enable = false
+
+cheat180_desc = "Ratton 1"
+cheat180_code = "3200784A+0063"
+cheat180_enable = false
+
+cheat181_desc = "Ratton 2"
+cheat181_code = "3200784B+0063"
+cheat181_enable = false
+
+cheat182_desc = "Ratton 3"
+cheat182_code = "3200784C+0063"
+cheat182_enable = false
+
+cheat183_desc = "Ratton Hanabi"
+cheat183_code = "3200784D+0063"
+cheat183_enable = false
+
+cheat184_desc = "Remo-kogoroo 1"
+cheat184_code = "3200787B+0063"
+cheat184_enable = false
+
+cheat185_desc = "Remo-kogoroo 2"
+cheat185_code = "3200787C+0063"
+cheat185_enable = false
+
+cheat186_desc = "Remo-kogoroo 3"
+cheat186_code = "3200787D+0063"
+cheat186_enable = false
+
+cheat187_desc = "Rimoroosoku 1"
+cheat187_code = "32007891+0063"
+cheat187_enable = false
+
+cheat188_desc = "Rimoroosoku 2"
+cheat188_code = "32007892+0063"
+cheat188_enable = false
+
+cheat189_desc = "Rimoroosoku 3"
+cheat189_code = "32007893+0063"
+cheat189_enable = false
+
+cheat190_desc = "Ring"
+cheat190_code = "320078E0+0063"
+cheat190_enable = false
+
+cheat191_desc = "Rockman"
+cheat191_code = "320078DB+0063"
+cheat191_enable = false
+
+cheat192_desc = "Roll"
+cheat192_code = "320078DC+0063"
+cheat192_enable = false
+
+cheat193_desc = "Ryoutekinai 3"
+cheat193_code = "32007836+0063"
+cheat193_enable = false
+
+cheat194_desc = "Ryoutekunai 1"
+cheat194_code = "32007834+0063"
+cheat194_enable = false
+
+cheat195_desc = "Ryoutekunai 2"
+cheat195_code = "32007835+0063"
+cheat195_enable = false
+
+cheat196_desc = "Ryuuseigun"
+cheat196_code = "320078C7+0063"
+cheat196_enable = false
+
+cheat197_desc = "Saito Style"
+cheat197_code = "320078FD+0063"
+cheat197_enable = false
+
+cheat198_desc = "Satelite 1"
+cheat198_code = "32007855+0063"
+cheat198_enable = false
+
+cheat199_desc = "Satelite 2"
+cheat199_code = "32007856+0063"
+cheat199_enable = false
+
+cheat200_desc = "Satelite 3"
+cheat200_code = "32007857+0063"
+cheat200_enable = false
+
+cheat201_desc = "ShadowMan"
+cheat201_code = "320078EE+0063"
+cheat201_enable = false
+
+cheat202_desc = "SharkMan"
+cheat202_code = "320078ED+0063"
+cheat202_enable = false
+
+cheat203_desc = "Shirahadori"
+cheat203_code = "320078B3+0063"
+cheat203_enable = false
+
+cheat204_desc = "Shockwave"
+cheat204_code = "3200783B+0063"
+cheat204_enable = false
+
+cheat205_desc = "Shotgun"
+cheat205_code = "32007817+0063"
+cheat205_enable = false
+
+cheat206_desc = "Silver Fist"
+cheat206_code = "32007868+0063"
+cheat206_enable = false
+
+cheat207_desc = "SkullMan"
+cheat207_code = "320078E7+0063"
+cheat207_enable = false
+
+cheat208_desc = "Small Bomb"
+cheat208_code = "32007824+0063"
+cheat208_enable = false
+
+cheat209_desc = "SnakeMan"
+cheat209_code = "320078F2+0063"
+cheat209_enable = false
+
+cheat210_desc = "Sonicwave"
+cheat210_code = "3200783C+0063"
+cheat210_enable = false
+
+cheat211_desc = "Spread Gun"
+cheat211_code = "3200781A+0063"
+cheat211_enable = false
+
+cheat212_desc = "Stealth Mine"
+cheat212_code = "32007878+0063"
+cheat212_enable = false
+
+cheat213_desc = "Stone Body"
+cheat213_code = "3200789F+0063"
+cheat213_enable = false
+
+cheat214_desc = "Stone Cube"
+cheat214_code = "32007894+0063"
+cheat214_enable = false
+
+cheat215_desc = "Suikomi"
+cheat215_code = "32007898+0063"
+cheat215_enable = false
+
+cheat216_desc = "Sword"
+cheat216_code = "3200782A+0063"
+cheat216_enable = false
+
+cheat217_desc = "Tekkyuu"
+cheat217_code = "32007844+0063"
+cheat217_enable = false
+
+cheat218_desc = "Tenjouura"
+cheat218_code = "3200789D+0063"
+cheat218_enable = false
+
+cheat219_desc = "Tetra Needle"
+cheat219_code = "32007848+0063"
+cheat219_enable = false
+
+cheat220_desc = "ThunderMan"
+cheat220_code = "320078EB+0063"
+cheat220_enable = false
+
+cheat221_desc = "ToadMan"
+cheat221_code = "320078F3+0063"
+cheat221_enable = false
+
+cheat222_desc = "Toppuu"
+cheat222_code = "32007897+0063"
+cheat222_enable = false
+
+cheat223_desc = "Tornado"
+cheat223_code = "3200784E+0063"
+cheat223_enable = false
+
+cheat224_desc = "Trident"
+cheat224_code = "32007849+0063"
+cheat224_enable = false
+
+cheat225_desc = "Triple Needle"
+cheat225_code = "32007847+0063"
+cheat225_enable = false
+
+cheat226_desc = "TurboMan"
+cheat226_code = "320078DF+0063"
+cheat226_enable = false
+
+cheat227_desc = "Undershirt"
+cheat227_code = "320078A3+0063"
+cheat227_enable = false
+
+cheat228_desc = "Uzushio"
+cheat228_code = "3200786C+0063"
+cheat228_enable = false
+
+cheat229_desc = "V Gun"
+cheat229_code = "32007818+0063"
+cheat229_enable = false
+
+cheat230_desc = "Variable Sword"
+cheat230_code = "32007839+0063"
+cheat230_enable = false
+
+cheat231_desc = "Wide Sword"
+cheat231_code = "3200782B+0063"
+cheat231_enable = false
+
+cheat232_desc = "Wood +40"
+cheat232_code = "320078BB+0063"
+cheat232_enable = false
+
+cheat233_desc = "Wood Aura"
+cheat233_code = "320078A9+0063"
+cheat233_enable = false
+
+cheat234_desc = "Wood Shield"
+cheat234_code = "32007900+0063"
+cheat234_enable = false
+
+cheat235_desc = "WoodMan"
+cheat235_code = "320078E6+0063"
+cheat235_enable = false
+
+cheat236_desc = "Yo-yo 1"
+cheat236_code = "3200785E+0063"
+cheat236_enable = false
+
+cheat237_desc = "Yo-yo 2"
+cheat237_code = "3200785F+0063"
+cheat237_enable = false
+
+cheat238_desc = "Yo-yo 3"
+cheat238_code = "32007860+0063"
+cheat238_enable = false
+
+cheat239_desc = "Yukashita"
+cheat239_code = "3200789E+0063"
+cheat239_enable = false
+
+cheat240_desc = "Zeus Hammer"
+cheat240_code = "32007865+0063"
+cheat240_enable = false

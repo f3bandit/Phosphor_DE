@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Max Cookies"
+cheat0_code = "32004864+0063"
+cheat0_enable = false
+
+cheat1_desc = "Full Life"
+cheat1_code = "82004862+0004"
+cheat1_enable = false

@@ -1,0 +1,37 @@
+cheats = 9
+
+cheat0_desc = "End Race [Press Select+L]"
+cheat0_code = "74000130+01FB+33004059+000B"
+cheat0_enable = false
+
+cheat1_desc = "Extra Nitro Boost"
+cheat1_code = "73005D06+0008+83005D06+000E"
+cheat1_enable = false
+
+cheat2_desc = "Have 200 Cup Points"
+cheat2_code = "33005BD4+00C8"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Gas"
+cheat3_code = "83005D5A+1600"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Nitros"
+cheat4_code = "33005D52+0063"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Retries"
+cheat5_code = "33005BEC+0009"
+cheat5_enable = false
+
+cheat6_desc = "Start With 5000 AP"
+cheat6_code = "73005D60+0000+83005D60+1388"
+cheat6_enable = false
+
+cheat7_desc = "Unlock All Cups"
+cheat7_code = "43006D4C+FFFF+00000002+0002"
+cheat7_enable = false
+
+cheat8_desc = "Unlock All Players"
+cheat8_code = "33006D40+0003"
+cheat8_enable = false

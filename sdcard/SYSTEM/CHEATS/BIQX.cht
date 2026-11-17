@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Infinite Lives"
+cheat0_code = "3201DE0F+0009"
+cheat0_enable = false
+
+cheat1_desc = "Jump higher"
+cheat1_code = "8801CA0C+FA00+8801CCB4+FA00+8801DF8C+FA00"
+cheat1_enable = false

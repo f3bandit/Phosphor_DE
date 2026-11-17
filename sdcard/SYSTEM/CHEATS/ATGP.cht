@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Have All Weapons"
+cheat0_code = "33000AF0+0005"
+cheat0_enable = false

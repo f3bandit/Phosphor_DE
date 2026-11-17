@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "All Tasks Complete [Select+L]"
+cheat0_code = "74000130+01FB+3300089C+001F"
+cheat0_enable = false
+
+cheat1_desc = "End Mission [Select+R]"
+cheat1_code = "74000130+02FB+330008A8+0002"
+cheat1_enable = false
+
+cheat2_desc = "Jump in Midair"
+cheat2_code = "8862310A+DA07"
+cheat2_enable = false

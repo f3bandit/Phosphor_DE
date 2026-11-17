@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Infinite Cash"
+cheat0_code = "83000100+4E20"
+cheat0_enable = false
+
+cheat1_desc = "Stop Idle Timer"
+cheat1_code = "33003204+0000"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Health"
+cheat2_code = "83003220+0000"
+cheat2_enable = false
+
+cheat3_desc = "Press Select+L To Freeze Opponent"
+cheat3_code = "74000130+01FB+83003464+0060"
+cheat3_enable = false
+
+cheat4_desc = "Have All Parts Repaired"
+cheat4_code = "43000162+0000+00000010+0002"
+cheat4_enable = false
+
+cheat5_desc = "Have All Arena's"
+cheat5_code = "3300010E+0004"
+cheat5_enable = false
+
+cheat6_desc = "Have Stage 3 Parts"
+cheat6_code = "330001A5+0003"
+cheat6_enable = false

@@ -1,0 +1,77 @@
+cheats = 19
+
+cheat0_desc = "1 Hit Kill"
+cheat0_code = "88013B0E+38FF"
+cheat0_enable = false
+
+cheat1_desc = "Enemies Don't Attack After A Photo"
+cheat1_code = "88013DF2+2100"
+cheat1_enable = false
+
+cheat2_desc = "Enemies Never Attack"
+cheat2_code = "88013D56+20A1"
+cheat2_enable = false
+
+cheat3_desc = "Everything Complete (All Events)"
+cheat3_code = "42004730+FFFF+00000040+0002+82003E12+03FF"
+cheat3_enable = false
+
+cheat4_desc = "Fast Fire"
+cheat4_code = "88007E8E+2646+8800A0AA+2000"
+cheat4_enable = false
+
+cheat5_desc = "Have 9 keys"
+cheat5_code = "32003E14+0009"
+cheat5_enable = false
+
+cheat6_desc = "Have All Quest Items"
+cheat6_code = "42004730+FFFF+00000002+0004+82004732+3FFF+32003E13+0003"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Balloons"
+cheat7_code = "32003E06+0063"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Camera Photos"
+cheat8_code = "32003E0C+0063"
+cheat8_enable = false
+
+cheat9_desc = "Infinite Camera Shot Time"
+cheat9_code = "88013D5A+3800"
+cheat9_enable = false
+
+cheat10_desc = "Infinite Energy"
+cheat10_code = "82003E9E+0000+32003EA0+0000"
+cheat10_enable = false
+
+cheat11_desc = "Infinite Marbles"
+cheat11_code = "32003E0A+0063"
+cheat11_enable = false
+
+cheat12_desc = "Infinite Syrup"
+cheat12_code = "32003E08+0063"
+cheat12_enable = false
+
+cheat13_desc = "Infinite Water"
+cheat13_code = "820037D0+0320+820037D2+04B0+820037D4+0320"
+cheat13_enable = false
+
+cheat14_desc = "Invincible"
+cheat14_code = "88006F38+203C+88006F3C+3800"
+cheat14_enable = false
+
+cheat15_desc = "Invisible To Some Monsters"
+cheat15_code = "720037D6+0100+320037D6+0000+720037D6+0000+320037D6+0001"
+cheat15_enable = false
+
+cheat16_desc = "Maximum Energy"
+cheat16_code = "32003DE9+0007"
+cheat16_enable = false
+
+cheat17_desc = "No Blackouts"
+cheat17_code = "32003ADA+0010"
+cheat17_enable = false
+
+cheat18_desc = "All Maps"
+cheat18_code = "82004736+0FFE"
+cheat18_enable = false

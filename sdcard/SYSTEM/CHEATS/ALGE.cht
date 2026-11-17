@@ -1,0 +1,81 @@
+cheats = 20
+
+cheat0_desc = "Have All Attacks"
+cheat0_code = "3300004D+00FF"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Flight Charges"
+cheat1_code = "330007AD+0063"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Flight Power"
+cheat2_code = "62006E0C+F715"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Fly Power"
+cheat3_code = "830007AC+4646"
+cheat3_enable = false
+
+cheat4_desc = "Infinite KI"
+cheat4_code = "82013278+3880+8201327A+0001"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Magic"
+cheat5_code = "82013278+C350+8201327A+0000"
+cheat5_enable = false
+
+cheat6_desc = "Instant Text Display"
+cheat6_code = "88009464+46C0"
+cheat6_enable = false
+
+cheat7_desc = "Max Experience"
+cheat7_code = "820132A8+E0FF+820132AA+05F5"
+cheat7_enable = false
+
+cheat8_desc = "Max HP"
+cheat8_code = "82013274+C350+82013276+0000"
+cheat8_enable = false
+
+cheat9_desc = "Max Magic"
+cheat9_code = "8201327C+C350+8201327E+0000"
+cheat9_enable = false
+
+cheat10_desc = "Walk Thru Walls (Press L And The Direction You Want To Go)"
+cheat10_code = "74000130+01BF+E30007C2+FFEF+74000130+017F+E30007C2+0010+74000130+01DF+E30007C0+FFEF+74000130+01EF+E30007C0+0010"
+cheat10_enable = false
+
+cheat11_desc = "Weak Enemies: Frieza"
+cheat11_code = "820134EA+0000"
+cheat11_enable = false
+
+cheat12_desc = "Weak Enemies: Ginyu Squad"
+cheat12_code = "82014B20+0000+82014D98+0000+82014140+0000+82014630+0000"
+cheat12_enable = false
+
+cheat13_desc = "Weak Enemies: Nappa"
+cheat13_code = "820134E8+0000"
+cheat13_enable = false
+
+cheat14_desc = "Weak Enemies: Vegeta"
+cheat14_code = "82013760+0000"
+cheat14_enable = false
+
+cheat15_desc = "Infinite HP"
+cheat15_code = "82013270+FFFF"
+cheat15_enable = false
+
+cheat16_desc = "Hella KI"
+cheat16_code = "82013278+FFFF"
+cheat16_enable = false
+
+cheat17_desc = "Quick Level Gain"
+cheat17_code = "820132A8+FFFF"
+cheat17_enable = false
+
+cheat18_desc = "Have Saiyan Hair"
+cheat18_code = "8200389C+1F64+83000A00+A9F4"
+cheat18_enable = false
+
+cheat19_desc = "Have All Powers"
+cheat19_code = "8300004C+0729"
+cheat19_enable = false

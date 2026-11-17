@@ -1,0 +1,37 @@
+cheats = 9
+
+cheat0_desc = "Infinite Balls"
+cheat0_code = "82000030+0003"
+cheat0_enable = false
+
+cheat1_desc = "Max Score"
+cheat1_code = "82000044+423F+82000046+000F"
+cheat1_enable = false
+
+cheat2_desc = "Max Coins"
+cheat2_code = "82000192+0163"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Time"
+cheat3_code = "82000296+19B2"
+cheat3_enable = false
+
+cheat4_desc = "Ball Saver Always On"
+cheat4_code = "32000724+00FC"
+cheat4_enable = false
+
+cheat5_desc = "Always Have Pikachu & Pichu"
+cheat5_code = "820001E2+0102"
+cheat5_enable = false
+
+cheat6_desc = "Always Have Pika Kickback Charged"
+cheat6_code = "820001C6+00A8"
+cheat6_enable = false
+
+cheat7_desc = "Have Complete Pokedex"
+cheat7_code = "4200B134+0404+00000066+0002"
+cheat7_enable = false
+
+cheat8_desc = "Tap L For Ball Control Mode, R For Normal Play CBA"
+cheat8_code = "74000130+01FF+3200B0CF+0004+74000130+02FF+3200B0CF+0000"
+cheat8_enable = false

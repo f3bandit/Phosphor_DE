@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Walk Through Walls"
+cheat0_code = "8801789C+D4FF+880175AA+2000+8801793E+D4FF+8801766E+2200"
+cheat0_enable = false

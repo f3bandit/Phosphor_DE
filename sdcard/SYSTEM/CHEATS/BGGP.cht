@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "50,000 Credit"
+cheat0_code = "83003544+C350"
+cheat0_enable = false
+
+cheat1_desc = "Cancel Debt"
+cheat1_code = "83003498+0000"
+cheat1_enable = false
+
+cheat2_desc = "Max Bet $25,000"
+cheat2_code = "83003754+61A8"
+cheat2_enable = false
+
+cheat3_desc = "Start With $25,000"
+cheat3_code = "73004030+07D0+83004030+61A8"
+cheat3_enable = false

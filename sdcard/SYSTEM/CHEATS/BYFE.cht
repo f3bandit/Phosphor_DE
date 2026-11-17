@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "End Quarter [Press Select+Up]"
+cheat0_code = "74000130+03BB+320006A2+0000"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Skill Points"
+cheat1_code = "7201675A+007B+32016754+000F"
+cheat1_enable = false
+
+cheat2_desc = "Max Stats Custom Plyr"
+cheat2_code = "4200070A+AAAA+00000002+0002"
+cheat2_enable = false

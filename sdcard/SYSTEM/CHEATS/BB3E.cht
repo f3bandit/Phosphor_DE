@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Access Test Level"
+cheat0_code = "330017FC+0011"
+cheat0_enable = false
+
+cheat1_desc = "Activate Debug Mode"
+cheat1_code = "330017FC+0002"
+cheat1_enable = false
+
+cheat2_desc = "Health Meter has Maximum Hearts"
+cheat2_code = "33006BA8+0006"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health"
+cheat3_code = "33006BC8+0006"
+cheat3_enable = false
+
+cheat4_desc = "Invincible After 1st Hit"
+cheat4_code = "33006BAC+00C3"
+cheat4_enable = false
+
+cheat5_desc = "Only 1 Butterlfy Needed to win Mini-Game"
+cheat5_code = "33006D06+0000+33006D26+0000"
+cheat5_enable = false
+
+cheat6_desc = "Power-Up Modifier"
+cheat6_code = "330003F0+0000"
+cheat6_enable = false

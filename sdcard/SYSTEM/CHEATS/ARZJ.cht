@@ -1,0 +1,49 @@
+cheats = 12
+
+cheat0_desc = "1-HP For Enemy 1"
+cheat0_code = "82008B54+0001"
+cheat0_enable = false
+
+cheat1_desc = "1-HP For Enemy 2"
+cheat1_code = "82008C14+0001"
+cheat1_enable = false
+
+cheat2_desc = "1-HP For Enemy 3"
+cheat2_code = "82008CD4+0001"
+cheat2_enable = false
+
+cheat3_desc = "Always S Level"
+cheat3_code = "3202B718+0006"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Health"
+cheat4_code = "3202B62C+0010"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Health (In-Battle)"
+cheat5_code = "82008A94+270F"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Lives"
+cheat6_code = "3202A5D0+0009"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Time"
+cheat7_code = "82022CDC+2A19"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Zenny"
+cheat8_code = "82000E34+FFFF"
+cheat8_enable = false
+
+cheat9_desc = "Invincible"
+cheat9_code = "3202B634+0032"
+cheat9_enable = false
+
+cheat10_desc = "Max Zenny"
+cheat10_code = "82000E34+423F+82000E36+000F"
+cheat10_enable = false
+
+cheat11_desc = "Moon Jump (Hold A)"
+cheat11_code = "72004CA4+FC01+3202B5F8+0000"
+cheat11_enable = false

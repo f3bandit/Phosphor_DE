@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Max Coins"
+cheat0_code = "330008B5+001E"
+cheat0_enable = false
+
+cheat1_desc = "Max Stars"
+cheat1_code = "330008B4+0003"
+cheat1_enable = false

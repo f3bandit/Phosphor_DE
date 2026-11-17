@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Aquarium Completed"
+cheat0_code = "4200C646+0100+0000000C+0004+4200C648+FF00+0000000C+0004"
+cheat0_enable = false
+
+cheat1_desc = "Challenges Completed"
+cheat1_code = "8200C636+FFFF"
+cheat1_enable = false

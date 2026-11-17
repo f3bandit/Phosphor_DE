@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Access All Stages"
+cheat0_code = "3300554E+000D"
+cheat0_enable = false
+
+cheat1_desc = "Have 100 Tickets"
+cheat1_code = "32000F74+0064"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Health"
+cheat2_code = "82000F60+1000"
+cheat2_enable = false
+
+cheat3_desc = "Unlock Paddleball"
+cheat3_code = "33005553+0001"
+cheat3_enable = false
+
+cheat4_desc = "Unlock Skee-Ball"
+cheat4_code = "33005552+0001"
+cheat4_enable = false
+
+cheat5_desc = "Unlock Wack-A-Bee"
+cheat5_code = "33005551+0001"
+cheat5_enable = false

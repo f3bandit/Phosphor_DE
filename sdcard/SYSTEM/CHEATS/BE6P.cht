@@ -1,0 +1,61 @@
+cheats = 15
+
+cheat0_desc = "Have All Camps"
+cheat0_code = "82002D60+FFFF"
+cheat0_enable = false
+
+cheat1_desc = "Have All Items"
+cheat1_code = "42002D5C+FFFF+00000002+0002"
+cheat1_enable = false
+
+cheat2_desc = "Have All Weapons"
+cheat2_code = "42002D3C+FFFF+0000000F+0002"
+cheat2_enable = false
+
+cheat3_desc = "Have Health Book"
+cheat3_code = "82002D2C+03E7"
+cheat3_enable = false
+
+cheat4_desc = "Have Time Mantra"
+cheat4_code = "82002D2E+03E7"
+cheat4_enable = false
+
+cheat5_desc = "Max Abilities"
+cheat5_code = "320031B7+0004+420031B8+0404+00000003+0002"
+cheat5_enable = false
+
+cheat6_desc = "Max ability"
+cheat6_code = "320031CA+0005"
+cheat6_enable = false
+
+cheat7_desc = "Max Ability Gauge"
+cheat7_code = "320031B6+0005"
+cheat7_enable = false
+
+cheat8_desc = "Max Attack"
+cheat8_code = "72003148+2BE8+82003174+03E7"
+cheat8_enable = false
+
+cheat9_desc = "Max Defense"
+cheat9_code = "72003148+2BE8+82003176+03E7"
+cheat9_enable = false
+
+cheat10_desc = "Max kills"
+cheat10_code = "820031C0+270F"
+cheat10_enable = false
+
+cheat11_desc = "Max Movement"
+cheat11_code = "72003148+2BE8+82003178+03E7"
+cheat11_enable = false
+
+cheat12_desc = "Max Skills"
+cheat12_code = "42003194+03E7+00000003+0002"
+cheat12_enable = false
+
+cheat13_desc = "Maximum KOs"
+cheat13_code = "820031AC+270F"
+cheat13_enable = false
+
+cheat14_desc = "Maximum Life"
+cheat14_code = "8200316E+03E7"
+cheat14_enable = false

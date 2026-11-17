@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "All Extras In 'Flix Mode' Unlocked"
+cheat0_code = "4202036A+FFFF+0000000A+0002"
+cheat0_enable = false
+
+cheat1_desc = "Character Modifier"
+cheat1_code = "32020351+0000+32020353+0000+32020355+0000"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Air"
+cheat2_code = "3202035C+001F"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health"
+cheat3_code = "3202035A+000A"
+cheat3_enable = false
+
+cheat4_desc = "Stage Modifier"
+cheat4_code = "72030144+0300+820151EA+BE00"
+cheat4_enable = false
+
+cheat5_desc = "Untouchable"
+cheat5_code = "32020350+0001+320259A0+00FF"
+cheat5_enable = false

@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Hit Anywhere"
+cheat0_code = "8802953A+68B8+8802953C+2800+8802953E+DC52"
+cheat0_enable = false

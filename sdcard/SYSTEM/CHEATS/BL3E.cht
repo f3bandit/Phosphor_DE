@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Access All Games"
+cheat0_code = "420344B6+FFFF+00000028+0002"
+cheat0_enable = false
+
+cheat1_desc = "Have 999 Tokens"
+cheat1_code = "42002BB6+03E7+00000003+0010"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Chances"
+cheat2_code = "33000150+0009"
+cheat2_enable = false
+
+cheat3_desc = "Start With Hi-Score"
+cheat3_code = "73000154+0000+83000154+270F"
+cheat3_enable = false

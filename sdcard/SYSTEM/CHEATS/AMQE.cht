@@ -1,0 +1,33 @@
+cheats = 8
+
+cheat0_desc = "Have All Cars"
+cheat0_code = "83001FF0+0101+83001FF2+0101+83001FF4+0101+83001FF6+0101+83001FF8+0101+83001FFA+0101+83001FFC+0101+83001FFE+0101+83002000+0101+83002002+0101+83002004+0101+83002006+0101+83002008+0101+8300200A+0101+8300200C+0101+8300200E+0101+83002010+0101+83002012+0101+83002014+0101+83002016+0101+83002018+0101"
+cheat0_enable = false
+
+cheat1_desc = "Low Time"
+cheat1_code = "33004780+0000"
+cheat1_enable = false
+
+cheat2_desc = "Never Any Traffic"
+cheat2_code = "33005C58+0000"
+cheat2_enable = false
+
+cheat3_desc = "No Damage"
+cheat3_code = "33004FEB+0000"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Boosts"
+cheat4_code = "33004FEE+0004"
+cheat4_enable = false
+
+cheat5_desc = "Unlock All Cars"
+cheat5_code = "43001FF0+0101+00000015+0002"
+cheat5_enable = false
+
+cheat6_desc = "Unlock London"
+cheat6_code = "33001FA9+0001"
+cheat6_enable = false
+
+cheat7_desc = "Unlock All Events"
+cheat7_code = "43001F90+0101+00000019+0002"
+cheat7_enable = false

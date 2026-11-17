@@ -1,0 +1,69 @@
+cheats = 17
+
+cheat0_desc = "Access BMD [Press Select+Right]"
+cheat0_code = "74000130+03EB+3200A500+0001+74000130+03EB+4200A52C+87C4+00000002+0008+74000130+03EB+4200A52E+0875+00000003+0004+74000130+03EB+8200A530+85A0+74000130+03EB+8200A600+0080+74000130+03EB+8200A558+00FF"
+cheat0_enable = false
+
+cheat1_desc = "Access GMD [Press Select+Down]"
+cheat1_code = "74000130+037B+8200A500+1801+74000130+037B+4200A52C+87C4+00000002+0008+74000130+037B+4200A52E+0875+00000003+0004+74000130+037B+8200A530+85A0+74000130+037B+8200A600+0080+74000130+037B+8200A558+00FF"
+cheat1_enable = false
+
+cheat2_desc = "Buster Level S"
+cheat2_code = "3203582E+000B"
+cheat2_enable = false
+
+cheat3_desc = "Cheap Chip Trader"
+cheat3_code = "3200B1C0+0000"
+cheat3_enable = false
+
+cheat4_desc = "Chips Deal 5000 Damage"
+cheat4_code = "42035CBE+1388+00000005+0002"
+cheat4_enable = false
+
+cheat5_desc = "Custom Gauge Full"
+cheat5_code = "32036415+0040"
+cheat5_enable = false
+
+cheat6_desc = "Delete Enemies [Press Select+Up]"
+cheat6_code = "74000130+03BB+32035815+0000"
+cheat6_enable = false
+
+cheat7_desc = "Free Net Deals"
+cheat7_code = "7200A512+0002+4201A006+0000+00000005+0008"
+cheat7_enable = false
+
+cheat8_desc = "Infinite HP"
+cheat8_code = "8203B1A4+270F+82035844+270F"
+cheat8_enable = false
+
+cheat9_desc = "Low Delete Time"
+cheat9_code = "72035842+0003+82035850+0000"
+cheat9_enable = false
+
+cheat10_desc = "Max Bug Frags After Battle"
+cheat10_code = "8203B840+FE00"
+cheat10_enable = false
+
+cheat11_desc = "Quick Weapon Charge"
+cheat11_code = "72035B52+0001+32035B52+0081"
+cheat11_enable = false
+
+cheat12_desc = "Quick Zenny Gain"
+cheat12_code = "7200A534+8996+8200A554+C350"
+cheat12_enable = false
+
+cheat13_desc = "Rapid Fire"
+cheat13_code = "72035B2A+0300+32035B64+0028"
+cheat13_enable = false
+
+cheat14_desc = "Skip Battle Scene"
+cheat14_code = "72035810+0000+82035810+0408+7200A7AC+0100+8200A7A6+0100+7200A7A0+0801+8200A7A6+0000"
+cheat14_enable = false
+
+cheat15_desc = "Transparent"
+cheat15_code = "72035810+0C04+32039A28+000C"
+cheat15_enable = false
+
+cheat16_desc = "[M] Must Be On"
+cheat16_code = "00006D59+000A+1000036C+0007+82001790+0000+82001792+0000"
+cheat16_enable = false

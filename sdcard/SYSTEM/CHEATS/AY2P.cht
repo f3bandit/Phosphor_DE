@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Always Win Toss"
+cheat0_code = "3201357C+0001"
+cheat0_enable = false
+
+cheat1_desc = "Press Select+Down To Resume Timer"
+cheat1_code = "74000130+037B+33005000+0000"
+cheat1_enable = false
+
+cheat2_desc = "Press Select+Up To Pause Timer"
+cheat2_code = "74000130+03BB+33005000+0001+73005000+0001+3200CD19+0000"
+cheat2_enable = false

@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Infinite Force"
+cheat0_code = "72025F68+0001+32025FC5+00FF+72025D38+0001+32025D95+00FF+72025D58+0001+32025DB5+00FF"
+cheat0_enable = false
+
+cheat1_desc = "Max Force"
+cheat1_code = "72025F68+0001+32025FD9+00FF+72025D38+0001+32025DA9+00FF+72025D58+0001+32025DC9+00FF"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Health"
+cheat2_code = "72025F68+0001+32025FC9+00FF+72025D38+0001+32025D99+00FF+72025D58+0001+32025DB9+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Max Health"
+cheat3_code = "72025F68+0001+32025FC0+00FF+72025D38+0001+32025D90+00FF+72025D58+0001+32025DB0+00FF"
+cheat3_enable = false
+
+cheat4_desc = "Powers Use No Force"
+cheat4_code = "72025F68+0001+82025FCC+0000+72025D38+0001+82025D9C+0000+72025D58+0001+32025DBC+0000"
+cheat4_enable = false
+
+cheat5_desc = "Move Super Fast"
+cheat5_code = "72025F68+0001+82025F88+0300+72025D38+0001+82025D58+0300+72025D58+0001+82025D78+0300"
+cheat5_enable = false
+
+cheat6_desc = "All Jedi Powers"
+cheat6_code = "3201B0B8+0007"
+cheat6_enable = false

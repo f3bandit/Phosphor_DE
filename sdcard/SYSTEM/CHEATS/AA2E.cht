@@ -1,0 +1,225 @@
+cheats = 56
+
+cheat0_desc = "X Co-ords of Mario And Luigi On The Map"
+cheat0_code = "330042AC+0000+330042AE+0000"
+cheat0_enable = false
+
+cheat1_desc = "X Co-ords Right For Mario And Luigi Together"
+cheat1_code = "330042AC+0001+330042AE+0000"
+cheat1_enable = false
+
+cheat2_desc = "Y Co-ords Correct For Mario And Luigi Together"
+cheat2_code = "830042B0+000E+830042B2+000E"
+cheat2_enable = false
+
+cheat3_desc = "Y Co-ords of Mario And Luigi On The Map"
+cheat3_code = "830042B0+000A+830042B2+000A"
+cheat3_enable = false
+
+cheat4_desc = "1 B. Star For Bonus"
+cheat4_code = "330042FD+0063"
+cheat4_enable = false
+
+cheat5_desc = "1 Bonus Star For Bonus"
+cheat5_code = "881D5B3C+139E"
+cheat5_enable = false
+
+cheat6_desc = "1 Coin For 1-Up"
+cheat6_code = "330042FF+0063"
+cheat6_enable = false
+
+cheat7_desc = "9999990 Points In SMW Mode"
+cheat7_code = "83004288+423F+8300428A+000F"
+cheat7_enable = false
+
+cheat8_desc = "Always Have Fireball"
+cheat8_code = "8806F1AE+46C0+8806F17C+E03D"
+cheat8_enable = false
+
+cheat9_desc = "Always Have Star Power"
+cheat9_code = "330054D0+00FF"
+cheat9_enable = false
+
+cheat10_desc = "Always Luigi"
+cheat10_code = "330042FC+0001"
+cheat10_enable = false
+
+cheat11_desc = "Always Mario"
+cheat11_code = "330042FC+0000"
+cheat11_enable = false
+
+cheat12_desc = "Always Phase Number ??"
+cheat12_code = "33004648+0000"
+cheat12_enable = false
+
+cheat13_desc = "Always Ride Invisible Yoshi (Can't Use Tongue)"
+cheat13_code = "33005472+0001"
+cheat13_enable = false
+
+cheat14_desc = "Always Star Power"
+cheat14_code = "330054D0+00DF"
+cheat14_enable = false
+
+cheat15_desc = "Always Start Level With Yoshi"
+cheat15_code = "33004302+0001"
+cheat15_enable = false
+
+cheat16_desc = "Balloon Mode Off [Press Down+L]"
+cheat16_code = "74000130+017F+82000202+0000+74000130+017F+8300369E+0001"
+cheat16_enable = false
+
+cheat17_desc = "Balloon Mode On [Press Up+L]"
+cheat17_code = "74000130+01BF+82000202+0001+72000202+0001+8300369E+00C0+72000202+0001+83003AFA+007D+72000202+0001+83003AFC+000B"
+cheat17_enable = false
+
+cheat18_desc = "Bounce Off Enemies"
+cheat18_code = "33003FA0+0000"
+cheat18_enable = false
+
+cheat19_desc = "Charged Constant Super Jump"
+cheat19_code = "33001C7F+003C"
+cheat19_enable = false
+
+cheat20_desc = "Donut Plains 1 Coin Challenge Met"
+cheat20_code = "83004328+0258"
+cheat20_enable = false
+
+cheat21_desc = "Eat One Enemy For Yoshi To Grow"
+cheat21_code = "33003A41+0004"
+cheat21_enable = false
+
+cheat22_desc = "Every Pink Berry Makes Yoshi Lay A Cloud"
+cheat22_code = "330036CE+0001"
+cheat22_enable = false
+
+cheat23_desc = "Every Red Berry Makes Yoshi Lay A Egg"
+cheat23_code = "330036CD+0004"
+cheat23_enable = false
+
+cheat24_desc = "Exit Level, Normal Exit"
+cheat24_code = "330054C5+0000+330055C7+0000+330055C8+0001"
+cheat24_enable = false
+
+cheat25_desc = "Exit Level, Second Exit"
+cheat25_code = "330054C5+0001+330055C7+0000+330055C8+0001"
+cheat25_enable = false
+
+cheat26_desc = "GS Button For Mega Jump"
+cheat26_code = "330042BC+0062"
+cheat26_enable = false
+
+cheat27_desc = "Have 5 Dragon Coins"
+cheat27_code = "330054CB+0005"
+cheat27_enable = false
+
+cheat28_desc = "Have In Reserve Modifier"
+cheat28_code = "33004301+0001"
+cheat28_enable = false
+
+cheat29_desc = "Have Yoshi Modifier"
+cheat29_code = "3300433E+0000"
+cheat29_enable = false
+
+cheat30_desc = "Hungry Yoshi (Do Not Use Tongue On)"
+cheat30_code = "330036AA+0038"
+cheat30_enable = false
+
+cheat31_desc = "If Mario is small, he'll become Cape Mario"
+cheat31_code = "73004300+0000+33004300+0002"
+cheat31_enable = false
+
+cheat32_desc = "Infinite Lives (Can Gain Lives)"
+cheat32_code = "C30042BC+0004+330042BC+0004"
+cheat32_enable = false
+
+cheat33_desc = "Infinite POW Blocks"
+cheat33_code = "8300593C+B0AF+83005E3C+B0AF"
+cheat33_enable = false
+
+cheat34_desc = "Invincibility"
+cheat34_code = "33006045+0001"
+cheat34_enable = false
+
+cheat35_desc = "Invincible Off [Press L+A]"
+cheat35_code = "74000130+01FE+82000200+0000+72000200+0000+830054D0+FF00"
+cheat35_enable = false
+
+cheat36_desc = "Invincible On [Press L+B]"
+cheat36_code = "74000130+01FD+82000200+0001+72000200+0001+830054D0+FFF0"
+cheat36_enable = false
+
+cheat37_desc = "Jesus Mode"
+cheat37_code = "8806C5D2+D202+8806C5D4+E014"
+cheat37_enable = false
+
+cheat38_desc = "Level Memory Modifier"
+cheat38_code = "330042C0+0028"
+cheat38_enable = false
+
+cheat39_desc = "Map Modifier"
+cheat39_code = "330042FE+0000"
+cheat39_enable = false
+
+cheat40_desc = "Map Time 00:00:00"
+cheat40_code = "330042F8+0000+330042F9+0000+330042FA+0000"
+cheat40_enable = false
+
+cheat41_desc = "Max Coins"
+cheat41_code = "330042FF+0064"
+cheat41_enable = false
+
+cheat42_desc = "Max Speed"
+cheat42_code = "33003FE6+0070"
+cheat42_enable = false
+
+cheat43_desc = "Maximum Score"
+cheat43_code = "83004288+967F+8300428A+0098"
+cheat43_enable = false
+
+cheat44_desc = "Moon Jump"
+cheat44_code = "74000130+03FE+33003FAD+00C0"
+cheat44_enable = false
+
+cheat45_desc = "Moon Jump [Press A]"
+cheat45_code = "D0000020+0001+33003FAD+00C0"
+cheat45_enable = false
+
+cheat46_desc = "Open All Levels [Press Start+L+R]"
+cheat46_code = "74000130+00F7+43004226+FFFF+0000002E+0002+430042D2+FFFF+00000007+0002"
+cheat46_enable = false
+
+cheat47_desc = "Phase 50"
+cheat47_code = "33004648+0063"
+cheat47_enable = false
+
+cheat48_desc = "Press Select For 4 Dragon Coins"
+cheat48_code = "74000130+03FB+330054CB+0004"
+cheat48_enable = false
+
+cheat49_desc = "Press Select For 99 Bonus Stars"
+cheat49_code = "74000130+03FB+330042FD+0063"
+cheat49_enable = false
+
+cheat50_desc = "Press Select+L+R To End Level"
+cheat50_code = "74000130+00FB+330055C8+00FF"
+cheat50_enable = false
+
+cheat51_desc = "Record Having Gotten All Dragon Coins When You Beat A Level"
+cheat51_code = "33005529+0005"
+cheat51_enable = false
+
+cheat52_desc = "Small Mario becomes Fire Mario"
+cheat52_code = "C3004300+0001+33004300+0003"
+cheat52_enable = false
+
+cheat53_desc = "Stop Timer"
+cheat53_code = "330054E4+0009"
+cheat53_enable = false
+
+cheat54_desc = "Top Score Modifier"
+cheat54_code = "83001130+0001"
+cheat54_enable = false
+
+cheat55_desc = "Yoshi Always Has Broken Wings (Doesn't Act Like The Normal Wings)"
+cheat55_code = "33004014+0002"
+cheat55_enable = false

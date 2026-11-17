@@ -1,0 +1,121 @@
+cheats = 30
+
+cheat0_desc = "0 LP For Opponent"
+cheat0_code = "8202425A+0000"
+cheat0_enable = false
+
+cheat1_desc = "1 Hit Kills Opponent"
+cheat1_code = "8202425A+0000+82021C1C+0000"
+cheat1_enable = false
+
+cheat2_desc = "9999 Deck Capacity"
+cheat2_code = "82021C1C+270F"
+cheat2_enable = false
+
+cheat3_desc = "9999 Duelist Level"
+cheat3_code = "82021C20+270F"
+cheat3_enable = false
+
+cheat4_desc = "All Cards Face-Down"
+cheat4_code = "42023F14+0000+00000005+0008"
+cheat4_enable = false
+
+cheat5_desc = "Duelist LVL 999"
+cheat5_code = "82021C20+03E7"
+cheat5_enable = false
+
+cheat6_desc = "Heaps of Domino"
+cheat6_code = "82021DD0+E0FF+82021DD2+05F5"
+cheat6_enable = false
+
+cheat7_desc = "Hold Select For Infinite Tribute"
+cheat7_code = "74000130+03FB+32024200+0003"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Attack"
+cheat8_code = "42023F14+0000+00000005+0004"
+cheat8_enable = false
+
+cheat9_desc = "Infinite Life Points P1"
+cheat9_code = "82024258+FFFE"
+cheat9_enable = false
+
+cheat10_desc = "Infinite Sacrifices"
+cheat10_code = "32024200+0003"
+cheat10_enable = false
+
+cheat11_desc = "Infinite Summoning"
+cheat11_code = "42023F64+0000+00000005+0004"
+cheat11_enable = false
+
+cheat12_desc = "Infinite Summons"
+cheat12_code = "42023F64+0000+00000005+0008"
+cheat12_enable = false
+
+cheat13_desc = "Instant Win [Press Select+Up]"
+cheat13_code = "74000130+03BB+320240E0+0001+74000130+03BB+82024196+FFFF"
+cheat13_enable = false
+
+cheat14_desc = "Max Trunk Capacity"
+cheat14_code = "82021C1C+FFFE"
+cheat14_enable = false
+
+cheat15_desc = "Max/Infinite Domino"
+cheat15_code = "82021DD0+EA60+82021DD2+0000"
+cheat15_enable = false
+
+cheat16_desc = "Monsters On Field"
+cheat16_code = "82023F10+0001+82023F18+0001+82023F20+0001+82023F28+0001+82023F30+0001"
+cheat16_enable = false
+
+cheat17_desc = "Opponent Starts With 4,000 LP"
+cheat17_code = "7202422C+00F8+8202425A+0FA0"
+cheat17_enable = false
+
+cheat18_desc = "Press R+B To Activate Infinite Deck Cards Mode (In-Game)"
+cheat18_code = "74000130+03ED+82020ECC+0050"
+cheat18_enable = false
+
+cheat19_desc = "Press Select To Make Enemy Life Points 1"
+cheat19_code = "74000130+03FB+8202425A+0001"
+cheat19_enable = false
+
+cheat20_desc = "Remove Rival Cards [Press Select+Down]"
+cheat20_code = "74000130+037B+42023EC0+0000+0000000A+0008"
+cheat20_enable = false
+
+cheat21_desc = "Reveal Rival Cards [Press Select+Left]"
+cheat21_code = "74000130+03DB+42023EC4+0012+0000000A+0008"
+cheat21_enable = false
+
+cheat22_desc = "Spell/Trap On Field"
+cheat22_code = "82023F38+0000+82023F40+0000+82023F48+0000+82023F50+0000+82023F58+0000"
+cheat22_enable = false
+
+cheat23_desc = "Start With God Cards"
+cheat23_code = "82023F10+0138+82023F12+0138+82023F18+02B9+82023F1A+02B9+82023F20+00EA+82023F22+00EA+82023F28+019C+82023F2A+019C+82023F30+00F0+82023F32+00F0+82023F38+0156+82023F3A+0156"
+cheat23_enable = false
+
+cheat24_desc = "Start With Max LP"
+cheat24_code = "7202422C+00F8+82024254+270F"
+cheat24_enable = false
+
+cheat25_desc = "Walk Through Walls"
+cheat25_code = "880519BC+46C0+880519DE+46C0+88051A12+46C0"
+cheat25_enable = false
+
+cheat26_desc = "Walk Thru Walls (Hold R+Direction)"
+cheat26_code = "74000130+02EF+E2024284+0001+74000130+02DF+E2024284+FFFF+74000130+027F+E2024286+0001+74000130+02BF+E2024286+FFFF"
+cheat26_enable = false
+
+cheat27_desc = "Infinite Money"
+cheat27_code = "82021DD0+FFFF"
+cheat27_enable = false
+
+cheat28_desc = "Have All Cards"
+cheat28_code = "42021791+6363+00000190+0002"
+cheat28_enable = false
+
+cheat29_desc = "Max Deck Capacity"
+cheat29_code = "82021C1C+423F+82021C1E+000F"
+cheat29_enable = false

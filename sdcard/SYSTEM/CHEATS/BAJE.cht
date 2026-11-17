@@ -1,0 +1,33 @@
+cheats = 8
+
+cheat0_desc = "Have 990 Pages"
+cheat0_code = "8203C7F6+03DE"
+cheat0_enable = false
+
+cheat1_desc = "Have All Trophies"
+cheat1_code = "8203C796+FFFF+3203C798+00FF+4203C7B8+1313+00000005+0002"
+cheat1_enable = false
+
+cheat2_desc = "Have All Unlocked"
+cheat2_code = "4203C788+FFFF+0000000A+0002+3203C9B8+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health"
+cheat3_code = "82018F90+FFFF"
+cheat3_enable = false
+
+cheat4_desc = "Unlock All Characters"
+cheat4_code = "3203C792+00FF"
+cheat4_enable = false
+
+cheat5_desc = "Unlock All Cups"
+cheat5_code = "8203C794+FFFF"
+cheat5_enable = false
+
+cheat6_desc = "Unlock All Tracks"
+cheat6_code = "3203C9B8+00FF"
+cheat6_enable = false
+
+cheat7_desc = "Win Race [Press Select+A]"
+cheat7_code = "74000130+03FA+3201749C+0009+74000130+03FA+32018F87+0004"
+cheat7_enable = false

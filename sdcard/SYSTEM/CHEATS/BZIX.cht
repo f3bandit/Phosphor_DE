@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Gallery Complete"
+cheat0_code = "43001DCC+FFFF+00000002+0002"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Sharks"
+cheat1_code = "73004222+0002+33004222+0003"
+cheat1_enable = false
+
+cheat2_desc = "Invincible"
+cheat2_code = "7300406A+0014+33003FF6+0002"
+cheat2_enable = false
+
+cheat3_desc = "Moon Jump"
+cheat3_code = "73003FE4+FF0C+33003FE5+00FE"
+cheat3_enable = false
+
+cheat4_desc = "No Black Outs"
+cheat4_code = "73003E6C+9F40+33003E6D+001F"
+cheat4_enable = false
+
+cheat5_desc = "Progress Complete"
+cheat5_code = "43001DC8+FFFF+00000002+0002"
+cheat5_enable = false

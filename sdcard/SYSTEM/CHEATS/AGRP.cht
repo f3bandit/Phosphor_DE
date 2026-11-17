@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "1 Stroke All Holes (Press Start+L)"
+cheat0_code = "74000130+01F7+4203F110+0001+00000012+0002"
+cheat0_enable = false
+
+cheat1_desc = "Access All Courses"
+cheat1_code = "33002551+00FF"
+cheat1_enable = false
+
+cheat2_desc = "Start On 18th Hole"
+cheat2_code = "73002542+0000+33002543+0011"
+cheat2_enable = false

@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "50:50 Lifeline Removes All Wrong Answers"
+cheat0_code = "88004B26+2300"
+cheat0_enable = false
+
+cheat1_desc = "Always Correct"
+cheat1_code = "88004C80+E000"
+cheat1_enable = false

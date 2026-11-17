@@ -1,0 +1,85 @@
+cheats = 21
+
+cheat0_desc = "Access All Pictures"
+cheat0_code = "83001274+6401"
+cheat0_enable = false
+
+cheat1_desc = "Access Replay Mode"
+cheat1_code = "730077A6+0000+830077A6+0064"
+cheat1_enable = false
+
+cheat2_desc = "Have Blaster [Press L+B]"
+cheat2_code = "74000130+01FD+33007741+0000"
+cheat2_enable = false
+
+cheat3_desc = "Have Keycard"
+cheat3_code = "330077A8+0004"
+cheat3_enable = false
+
+cheat4_desc = "Have Lightsaber [Press R+B]"
+cheat4_code = "74000130+02FD+33007741+0010"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Boost For Ship"
+cheat5_code = "33004431+0064"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Force"
+cheat6_code = "330077A5+000F"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Health"
+cheat7_code = "330077EA+0028"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Health Ship"
+cheat8_code = "33004433+0064"
+cheat8_enable = false
+
+cheat9_desc = "Infinite Lives (Leia)"
+cheat9_code = "330077A8+0005"
+cheat9_enable = false
+
+cheat10_desc = "Infinite Lives (R2-D2)"
+cheat10_code = "330077E6+00F2"
+cheat10_enable = false
+
+cheat11_desc = "Maximum Health"
+cheat11_code = "330077E9+0028"
+cheat11_enable = false
+
+cheat12_desc = "No Random Attacks"
+cheat12_code = "73002B14+005B+33002B14+000B+330077FA+00FF"
+cheat12_enable = false
+
+cheat13_desc = "Pres Select For Low Boss Energy"
+cheat13_code = "74000130+03FB+330077EB+0001"
+cheat13_enable = false
+
+cheat14_desc = "Infinite Health Player & Ship 2"
+cheat14_code = "330477EA+005A"
+cheat14_enable = false
+
+cheat15_desc = "Max Health Bar"
+cheat15_code = "330477E9+005A"
+cheat15_enable = false
+
+cheat16_desc = "Infinite R2-D2's On Ship"
+cheat16_code = "33004432+0003+330477E1+0003"
+cheat16_enable = false
+
+cheat17_desc = "Infinite Force Bar"
+cheat17_code = "330477A5+000F"
+cheat17_enable = false
+
+cheat18_desc = "Have All Force Powers/Saber/Invincible"
+cheat18_code = "830477DE+FFFF"
+cheat18_enable = false
+
+cheat19_desc = "Infinite Ammo"
+cheat19_code = "330477E5+000A"
+cheat19_enable = false
+
+cheat20_desc = "Infinite Health (R2-D2)"
+cheat20_code = "330477E6+0030"
+cheat20_enable = false

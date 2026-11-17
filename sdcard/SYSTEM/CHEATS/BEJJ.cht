@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Max Damage"
+cheat0_code = "82032918+03E7+82032818+03E7+82032798+03E7+82032898+03E7"
+cheat0_enable = false

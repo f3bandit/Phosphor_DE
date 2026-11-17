@@ -1,0 +1,77 @@
+cheats = 19
+
+cheat0_desc = "999 PP"
+cheat0_code = "42018B34+03E7+00000030+0034"
+cheat0_enable = false
+
+cheat1_desc = "Gain 50 Pilot Pt"
+cheat1_code = "72001968+2BC0+320019D0+0032"
+cheat1_enable = false
+
+cheat2_desc = "Gain 50,000 Cash"
+cheat2_code = "72001968+2BC0+820019CC+C350"
+cheat2_enable = false
+
+cheat3_desc = "Gain 50,000 Exp"
+cheat3_code = "72001968+2BC0+820019C8+C350"
+cheat3_enable = false
+
+cheat4_desc = "Have All Parts"
+cheat4_code = "420038E0+0909+0000002C+0004"
+cheat4_enable = false
+
+cheat5_desc = "Have All Weapons X4"
+cheat5_code = "74000130+00FB+4200BC40+0211+00010033+0010+74000130+00FB+4200BC44+0211+00010033+0010+74000130+00FB+4200BC48+0211+00010033+0010+74000130+00FB+4200BC4C+0211+00010033+0010"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Cash"
+cheat6_code = "82019BB4+E0FF+82019BB6+05F5"
+cheat6_enable = false
+
+cheat7_desc = "Max Weapon Stats"
+cheat7_code = "74000130+00FB+4200BC42+0AFF+000000CC+0004"
+cheat7_enable = false
+
+cheat8_desc = "Maximum Beat"
+cheat8_code = "42018B32+03E7+00000030+0034"
+cheat8_enable = false
+
+cheat9_desc = "Maximum Def"
+cheat9_code = "42018B2E+03E7+00000030+0034"
+cheat9_enable = false
+
+cheat10_desc = "Maximum Evd"
+cheat10_code = "42018B2A+03E7+00000030+0034"
+cheat10_enable = false
+
+cheat11_desc = "Maximum Hit"
+cheat11_code = "42018B2C+03E7+00000030+0034"
+cheat11_enable = false
+
+cheat12_desc = "Maximum HP/EN"
+cheat12_code = "420175E4+0A0A+00000030+0044"
+cheat12_enable = false
+
+cheat13_desc = "Maximum Man"
+cheat13_code = "42018B30+03E7+00000030+0034"
+cheat13_enable = false
+
+cheat14_desc = "Maximum Mbl/Arm"
+cheat14_code = "420175E6+0A0A+00000030+0044"
+cheat14_enable = false
+
+cheat15_desc = "Maximum Mel"
+cheat15_code = "42018B26+03E7+00000030+0034"
+cheat15_enable = false
+
+cheat16_desc = "Maximum Rng"
+cheat16_code = "42018B28+03E7+00000030+0034"
+cheat16_enable = false
+
+cheat17_desc = "Only 1 Turn Taken"
+cheat17_code = "32019BAA+0000"
+cheat17_enable = false
+
+cheat18_desc = "Reduce Enemy HP [Press Select+L]"
+cheat18_code = "74000130+01FB+420182AC+0001+00000020+0044"
+cheat18_enable = false

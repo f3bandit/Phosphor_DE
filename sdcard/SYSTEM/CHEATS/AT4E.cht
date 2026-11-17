@@ -1,0 +1,93 @@
+cheats = 23
+
+cheat0_desc = "3-Way Gun"
+cheat0_code = "3300503C+0001"
+cheat0_enable = false
+
+cheat1_desc = "Burner"
+cheat1_code = "3300503F+0001"
+cheat1_enable = false
+
+cheat2_desc = "Eagle"
+cheat2_code = "3300503B+0001"
+cheat2_enable = false
+
+cheat3_desc = "Eraser"
+cheat3_code = "3300503D+0001"
+cheat3_enable = false
+
+cheat4_desc = "Flame Thrower"
+cheat4_code = "33005037+0001"
+cheat4_enable = false
+
+cheat5_desc = "Flame Thrower/Burner"
+cheat5_code = "3300504C+00C8"
+cheat5_enable = false
+
+cheat6_desc = "Gatling Gun"
+cheat6_code = "3300503E+0001"
+cheat6_enable = false
+
+cheat7_desc = "Gatling Gun/Minimi"
+cheat7_code = "3300504A+00C8"
+cheat7_enable = false
+
+cheat8_desc = "Have Mini-M1"
+cheat8_code = "33005036+0001"
+cheat8_enable = false
+
+cheat9_desc = "Have Shot-G"
+cheat9_code = "33005035+0001"
+cheat9_enable = false
+
+cheat10_desc = "Have Sub-Machine Gun"
+cheat10_code = "33005034+0001"
+cheat10_enable = false
+
+cheat11_desc = "Homing"
+cheat11_code = "33005041+0001"
+cheat11_enable = false
+
+cheat12_desc = "Infinite Ammo Sub-Machine Gun"
+cheat12_code = "33005046+00C8"
+cheat12_enable = false
+
+cheat13_desc = "Infinite Stars"
+cheat13_code = "33005031+0009"
+cheat13_enable = false
+
+cheat14_desc = "Invincible"
+cheat14_code = "330050A2+0002"
+cheat14_enable = false
+
+cheat15_desc = "Laser"
+cheat15_code = "33005038+0001"
+cheat15_enable = false
+
+cheat16_desc = "Laser/X-Bound"
+cheat16_code = "3300504E+00C8"
+cheat16_enable = false
+
+cheat17_desc = "Press A For Moon Jump"
+cheat17_code = "D0000020+0001+830050B2+FDC8"
+cheat17_enable = false
+
+cheat18_desc = "Rapid Fire"
+cheat18_code = "3300518C+0000"
+cheat18_enable = false
+
+cheat19_desc = "Rocket Launcher"
+cheat19_code = "33005039+0001"
+cheat19_enable = false
+
+cheat20_desc = "Rocket Launcher/Homing"
+cheat20_code = "33005050+00C8"
+cheat20_enable = false
+
+cheat21_desc = "Shot Gun/Eraser"
+cheat21_code = "33005048+00C8"
+cheat21_enable = false
+
+cheat22_desc = "X-Bound"
+cheat22_code = "33005040+0001"
+cheat22_enable = false

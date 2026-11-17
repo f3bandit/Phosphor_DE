@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Buy and rest even without gold at the store"
+cheat0_code = "88042196+E00C"
+cheat0_enable = false
+
+cheat1_desc = "Level up even without EXP"
+cheat1_code = "8805CCC6+46C0"
+cheat1_enable = false

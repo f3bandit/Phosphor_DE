@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Infinite Health"
+cheat0_code = "330010A1+0004"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Hearts"
+cheat1_code = "33004EA3+0004"
+cheat1_enable = false
+
+cheat2_desc = "Profiles Complete"
+cheat2_code = "430014A8+FFFF+00000005+0002"
+cheat2_enable = false

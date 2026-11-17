@@ -1,0 +1,149 @@
+cheats = 37
+
+cheat0_desc = "All Batteries"
+cheat0_code = "3203DCD0+007F"
+cheat0_enable = false
+
+cheat1_desc = "All Frames"
+cheat1_code = "3203DCC8+00FF+3203DCC9+00FF+3203DCCA+00FF+3203DCCB+0003"
+cheat1_enable = false
+
+cheat2_desc = "All Lenses"
+cheat2_code = "3203DCC4+00FF+3203DCC5+00FF+3203DCC6+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Gun Never Overheat"
+cheat3_code = "8203D85E+0000"
+cheat3_enable = false
+
+cheat4_desc = "Have All Grenades"
+cheat4_code = "4203D80A+0063+00000007+0002"
+cheat4_enable = false
+
+cheat5_desc = "Have All Items"
+cheat5_code = "3203DC18+002A+4203DC1A+0000+0001002A+0002"
+cheat5_enable = false
+
+cheat6_desc = "Infinite All Grenades"
+cheat6_code = "3203D80A+0063+3203D80C+0063+3203D80E+0063+3203D810+0063+3203D812+0063+3203D814+0063"
+cheat6_enable = false
+
+cheat7_desc = "Infinite All Items"
+cheat7_code = "3203DC18+002A+3203DC1A+0000+3203DC1C+0001+3203DC1E+0002+3203DC20+0003+3203DC22+0004+3203DC24+0005+3203DC26+0006+3203DC28+0007+3203DC2A+0008+3203DC2C+0009+3203DC2E+000A+3203DC30+000B+3203DC32+000C+3203DC34+000D+3203DC36+000E+3203DC38+000F+3203DC3A+0010+3203DC3C+0011+3203DC3E+0012+3203DC40+0013+3203DC42+0014+3203DC44+0015+3203DC46+0016+3203DC48+0017+3203DC4A+0018+3203DC4C+0019+3203DC4E+001A+3203DC50+001B+3203DC52+001C+3203DC54+001D+3203DC56+001E+3203DC58+001F+3203DC5A+0020+3203DC5C+0021+3203DC5E+0022+3203DC60+0023+3203DC62+0024+3203DC64+0025+3203DC66+0026+3203DC68+0027+3203DC6A+0028+3203DC6C+0029+3203DC6E+0063+3203DC70+0063+3203DC72+0063+3203DC74+0063+3203DC76+0063+3203DC78+0063+3203DC7A+0063+3203DC7C+0063+3203DC7E+0063+3203DC80+0063+3203DC82+0063+3203DC84+0063+3203DC86+0063+3203DC88+0063+3203DC8A+0063+3203DC8C+0063+3203DC8E+0063+3203DC90+0063+3203DC92+0063+3203DC94+0063+3203DC96+0063+3203DC98+0063+3203DC9A+0063+3203DC9C+0063+3203DC9E+0063+3203DCA0+0063+3203DCA2+0063+3203DCA4+0063+3203DCA6+0063+3203DCA8+0063+3203DCAA+0063+3203DCAC+0063+3203DCAE+0063+3203DCB0+0063+3203DCB2+0063+3203DCB4+0063+3203DCB6+0063+3203DCB8+0063+3203DCBA+0063+3203DCBC+0063+3203DCBE+0063+3203DCC0+0063"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Energy"
+cheat8_code = "4203D818+1400+00000007+0002"
+cheat8_enable = false
+
+cheat9_desc = "Infinite Item Timer"
+cheat9_code = "73001C70+0384+83001C60+0385"
+cheat9_enable = false
+
+cheat10_desc = "Infinite Items"
+cheat10_code = "4203DC6E+0009+00000029+0002"
+cheat10_enable = false
+
+cheat11_desc = "Infinite Sun"
+cheat11_code = "33001C58+0001"
+cheat11_enable = false
+
+cheat12_desc = "Max Gun Energy"
+cheat12_code = "8203D818+0400"
+cheat12_enable = false
+
+cheat13_desc = "Max Health Bar"
+cheat13_code = "8203D840+2710"
+cheat13_enable = false
+
+cheat14_desc = "Maximum Health"
+cheat14_code = "72003E78+32B1+8203D840+2710+72003E78+38C1+8203D840+6970+72003E78+32B1+8203D8FA+2710"
+cheat14_enable = false
+
+cheat15_desc = "Maximum Sunlight"
+cheat15_code = "74000130+01EF+33001C68+0001"
+cheat15_enable = false
+
+cheat16_desc = "No Overheating"
+cheat16_code = "8203D870+0000"
+cheat16_enable = false
+
+cheat17_desc = "Quick Health Refill"
+cheat17_code = "320034F2+000F"
+cheat17_enable = false
+
+cheat18_desc = "Unlock Hard Mode"
+cheat18_code = "7200B10A+0003+3200B10A+0004"
+cheat18_enable = false
+
+cheat19_desc = "Unlock Sound Test"
+cheat19_code = "7200356C+0004+3200356C+0005"
+cheat19_enable = false
+
+cheat20_desc = "Infinite Light"
+cheat20_code = "8203D818+03E8"
+cheat20_enable = false
+
+cheat21_desc = "Max HP"
+cheat21_code = "8203D840+6388"
+cheat21_enable = false
+
+cheat22_desc = "Infinite Life"
+cheat22_code = "8203D8FA+0FFF"
+cheat22_enable = false
+
+cheat23_desc = "Infinite Green Apple"
+cheat23_code = "8203DC6E+0063"
+cheat23_enable = false
+
+cheat24_desc = "Infinite Red Apple"
+cheat24_code = "8203DC70+0063"
+cheat24_enable = false
+
+cheat25_desc = "Infinite Life Fruit"
+cheat25_code = "8203DC72+0063"
+cheat25_enable = false
+
+cheat26_desc = "Have All Lenses"
+cheat26_code = "8203DCB4+003F"
+cheat26_enable = false
+
+cheat27_desc = "Have All Gun Frames (Including Beatmania Frame!)"
+cheat27_code = "8203DCB8+1113+3203DCBA+0080"
+cheat27_enable = false
+
+cheat28_desc = "Max All Items/Keys"
+cheat28_code = "4203DC6E+0063+0000002A+0002"
+cheat28_enable = false
+
+cheat29_desc = "Have All Batteries"
+cheat29_code = "3203DCD0+00FF"
+cheat29_enable = false
+
+cheat30_desc = "Have Astro Battery"
+cheat30_code = "82009DC2+0200+8203D8B0+056B+8203D8B2+6E61"
+cheat30_enable = false
+
+cheat31_desc = "Invincibility"
+cheat31_code = "33001C41+0001"
+cheat31_enable = false
+
+cheat32_desc = "No Overheat"
+cheat32_code = "8203D86C+0000+8203D86E+0000+8203D872+0000+8203D874+0000"
+cheat32_enable = false
+
+cheat33_desc = "Max Sun Meter"
+cheat33_code = "33001C2C+0008"
+cheat33_enable = false
+
+cheat34_desc = "Infinite Grenade Effect"
+cheat34_code = "33001C55+0006"
+cheat34_enable = false
+
+cheat35_desc = "Infinite Item Effect"
+cheat35_code = "33001C61+0006"
+cheat35_enable = false
+
+cheat36_desc = "Have All Lens (Level 1)"
+cheat36_code = "3203DCC2+0014+8203DCC4+9249+3203DCC6+0024"
+cheat36_enable = false

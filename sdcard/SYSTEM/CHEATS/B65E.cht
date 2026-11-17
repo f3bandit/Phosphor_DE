@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Infinite Time"
+cheat0_code = "83001140+0001+83001142+0000"
+cheat0_enable = false

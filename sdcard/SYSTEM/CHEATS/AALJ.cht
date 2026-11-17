@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Infinite Concentration"
+cheat0_code = "83002E78+0014"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Physical"
+cheat1_code = "83002E76+0032"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Points"
+cheat2_code = "83003AD8+FFFF"
+cheat2_enable = false

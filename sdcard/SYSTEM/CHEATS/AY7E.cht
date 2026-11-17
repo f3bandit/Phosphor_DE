@@ -1,0 +1,97 @@
+cheats = 24
+
+cheat0_desc = "1-Hit Duel"
+cheat0_code = "82023150+0000+8202347E+0000"
+cheat0_enable = false
+
+cheat1_desc = "All Cards"
+cheat1_code = "32020771+00C8+32020DB1+0000"
+cheat1_enable = false
+
+cheat2_desc = "All Cards Face Down 1"
+cheat2_code = "820231B4+0000+820231BC+0000+820231C4+0000+820231CC+0000+820231D4+0000"
+cheat2_enable = false
+
+cheat3_desc = "Destroy All Opponent's Cards [Press Select+Down]"
+cheat3_code = "74000130+037B+42023170+0000+00000010+0004"
+cheat3_enable = false
+
+cheat4_desc = "Have All Cards"
+cheat4_code = "32020771+0063+42020772+6363+000001C1+0002+32020AF4+0063"
+cheat4_enable = false
+
+cheat5_desc = "Have All Cards In Trunk [Press Select+L+R]"
+cheat5_code = "74000130+00FB+420203E0+0909+0000038B+0002+74000130+00FB+32020C58+0000+74000130+00FB+42020C5A+0000+00000028+0002"
+cheat5_enable = false
+
+cheat6_desc = "Hold Select For Infinite Tribute"
+cheat6_code = "74000130+03FB+32023448+0006"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Sacrifices"
+cheat7_code = "32023448+0006"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Summons"
+cheat8_code = "42023204+0000+00000005+0008"
+cheat8_enable = false
+
+cheat9_desc = "Instant Win [Press Select+Up]"
+cheat9_code = "74000130+03BB+32023380+0001+74000130+03BB+82023434+0000"
+cheat9_enable = false
+
+cheat10_desc = "Magic & Trap Cards"
+cheat10_code = "820231D8+0000+820231E0+0000+820231E8+0000+820231F0+0000+820231F8+0000"
+cheat10_enable = false
+
+cheat11_desc = "Max LP"
+cheat11_code = "8202347C+270F"
+cheat11_enable = false
+
+cheat12_desc = "Monster Cards On Field"
+cheat12_code = "820231B0+0000+820231B8+0000+820231C0+0000+820231C8+0000+820231D0+0000"
+cheat12_enable = false
+
+cheat13_desc = "No Sacrifice Needed (Basic Cards)"
+cheat13_code = "32023448+0002"
+cheat13_enable = false
+
+cheat14_desc = "Opponent No LP"
+cheat14_code = "8202347E+0000"
+cheat14_enable = false
+
+cheat15_desc = "Opponent Starts With 4,000 LP"
+cheat15_code = "72023460+00F8+8202347E+0FA0"
+cheat15_enable = false
+
+cheat16_desc = "Reveal All Opponent's Cards [Press Select+Left]"
+cheat16_code = "74000130+03DB+42023174+0012+00000008+0008"
+cheat16_enable = false
+
+cheat17_desc = "Start With Gods"
+cheat17_code = "820231B0+0340+820231B8+0341+820231C0+0342+820231C8+0379+820231D0+037A+820231D8+02A0+820231E0+0151+820231E8+0156"
+cheat17_enable = false
+
+cheat18_desc = "Start With Max LP"
+cheat18_code = "72023460+00F8+8202347C+270F"
+cheat18_enable = false
+
+cheat19_desc = "Infinite Money"
+cheat19_code = "82020DA0+E0FF+82020DA2+05F5"
+cheat19_enable = false
+
+cheat20_desc = "Infinite Deck Capacity"
+cheat20_code = "82020C3C+270F"
+cheat20_enable = false
+
+cheat21_desc = "Max Duelist Level"
+cheat21_code = "82020C40+03E7"
+cheat21_enable = false
+
+cheat22_desc = "Infinite Summonings"
+cheat22_code = "42023204+0000+00000005+0004"
+cheat22_enable = false
+
+cheat23_desc = "All Cards Face Down"
+cheat23_code = "420231B4+0000+00000005+0004"
+cheat23_enable = false

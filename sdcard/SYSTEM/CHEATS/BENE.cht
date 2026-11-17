@@ -1,0 +1,69 @@
+cheats = 17
+
+cheat0_desc = "Access Cheat Menu [Press Select+L+R]"
+cheat0_code = "74000130+00FB+33005660+0004"
+cheat0_enable = false
+
+cheat1_desc = "Access Debug/Cheat Menu (Press L to activate)"
+cheat1_code = "730051C4+0200+83005660+0004"
+cheat1_enable = false
+
+cheat2_desc = "Have $50,000"
+cheat2_code = "830050E0+C350"
+cheat2_enable = false
+
+cheat3_desc = "Have All 'Consumable' Items"
+cheat3_code = "430050F0+6363+00000032+0001+33005122+0063"
+cheat3_enable = false
+
+cheat4_desc = "Have All 'Craft' Items"
+cheat4_code = "43005124+6363+0000002D+0001+33005123+0063"
+cheat4_enable = false
+
+cheat5_desc = "Have All 'Forge' Items"
+cheat5_code = "430050E4+FFFF+0000000B+0001"
+cheat5_enable = false
+
+cheat6_desc = "Have All Consumables"
+cheat6_code = "430050F0+0909+0000001A+0002"
+cheat6_enable = false
+
+cheat7_desc = "Have All Crafts"
+cheat7_code = "43005124+0909+00000017+0002"
+cheat7_enable = false
+
+cheat8_desc = "Have All Equipment"
+cheat8_code = "43004C22+0300+00000103+0004"
+cheat8_enable = false
+
+cheat9_desc = "Have All Forges"
+cheat9_code = "430050E4+1111+00000006+0002"
+cheat9_enable = false
+
+cheat10_desc = "Have All Items"
+cheat10_code = "43005030+00C8+0000002C+0004"
+cheat10_enable = false
+
+cheat11_desc = "Infinite Focus Points"
+cheat11_code = "83004A06+03E7"
+cheat11_enable = false
+
+cheat12_desc = "Instant Victory"
+cheat12_code = "73005660+0010+33005660+0016"
+cheat12_enable = false
+
+cheat13_desc = "Maximum Focus Levels"
+cheat13_code = "430049FC+0064+00000005+0002+43004A5C+0064+00000005+0002+43004ABC+0064+00000005+0002"
+cheat13_enable = false
+
+cheat14_desc = "Maximum Stats"
+cheat14_code = "430049E4+270F+00000009+0002+43004A44+270F+00000009+0002+43004AA4+270F+00000009+0002"
+cheat14_enable = false
+
+cheat15_desc = "Maximum XP"
+cheat15_code = "43004A0A+FFFF+00000003+0060"
+cheat15_enable = false
+
+cheat16_desc = "Movement Speed modifier"
+cheat16_code = "3200F6EA+0002"
+cheat16_enable = false

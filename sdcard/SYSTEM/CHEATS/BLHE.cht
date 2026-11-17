@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Infinite Bombs"
+cheat0_code = "73000C08+0D00+3300401C+0005"
+cheat0_enable = false
+
+cheat1_desc = "Invincible"
+cheat1_code = "73000C08+0C10+33004CDA+0001+73000C08+0C10+33004CE8+0003"
+cheat1_enable = false
+
+cheat2_desc = "Jump in Midair"
+cheat2_code = "880188BE+2000+8805388C+2000"
+cheat2_enable = false
+
+cheat3_desc = "Skip Level [Press Select]"
+cheat3_code = "D0000020+0004+33000C14+0001"
+cheat3_enable = false

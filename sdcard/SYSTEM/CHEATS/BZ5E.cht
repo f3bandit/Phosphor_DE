@@ -1,0 +1,561 @@
+cheats = 140
+
+cheat0_desc = "Access Music Menu [Press Select+L+R]"
+cheat0_code = "74000130+00FB+320096E0+000D"
+cheat0_enable = false
+
+cheat1_desc = "Air Ship flies higher"
+cheat1_code = "7200E2CC+9E18+3200E2CD+00BB"
+cheat1_enable = false
+
+cheat2_desc = "All Characters Have All Abilities (Exact)"
+cheat2_code = "8200E050+7676+8200E052+7676+4200E054+FF41+00000004+0020+4200E056+BFFF+00000004+0020+4200E058+FF2F+00000004+0020+4200E05A+FFFF+00000004+0020+4200E05C+3FFF+00000004+0020+4200E05E+FF80+00000004+0020+4200E060+0007+00000004+0020+4200E064+FFFF+00000004+0020+4200E066+FFFF+00000004+0020+4200E068+007F+00000004+0020"
+cheat2_enable = false
+
+cheat3_desc = "All Jobs Unlocked"
+cheat3_code = "8200DF7C+FFFF+8200DF7E+FFFF"
+cheat3_enable = false
+
+cheat4_desc = "Always Run"
+cheat4_code = "3200E2D5+0001"
+cheat4_enable = false
+
+cheat5_desc = "Battle BG Modifier"
+cheat5_code = "32009706+0000"
+cheat5_enable = false
+
+cheat6_desc = "Change Hero Name [Press Select+R+Down]"
+cheat6_code = "74000130+027B+320096E0+000E"
+cheat6_enable = false
+
+cheat7_desc = "Character Graphics Modifier"
+cheat7_code = "3200E2B4+0000"
+cheat7_enable = false
+
+cheat8_desc = "Character Graphics Modifier 2"
+cheat8_code = "3200E2B6+0000"
+cheat8_enable = false
+
+cheat9_desc = "Earn 1000 ABP (Alt)"
+cheat9_code = "4200DB02+03E8+00000004+0064"
+cheat9_enable = false
+
+cheat10_desc = "Earn 25,000 Exp (Full Party)"
+cheat10_code = "7201E290+6B00+4201FD58+0000+00000002+0002+7201E290+6B00+32020A34+001F+7201E290+6B00+4201F0C8+8236+00000003+0094"
+cheat10_enable = false
+
+cheat11_desc = "Earn 50,000 Gil"
+cheat11_code = "8201F0CA+C350+8201F15E+0000+8201F1F2+0000"
+cheat11_enable = false
+
+cheat12_desc = "Earn Maximum ABP"
+cheat12_code = "7201E290+6B00+4201E210+1BAA+E6560002+0002"
+cheat12_enable = false
+
+cheat13_desc = "Earn Maximum ABP (Fixed?)"
+cheat13_code = "7201E4D4+55F0+4201E210+FDF6+0A1E0002+0002"
+cheat13_enable = false
+
+cheat14_desc = "Earn Maximum Exp"
+cheat14_code = "7201E290+6B00+4201FD58+0000+00000002+0002+7201E290+6B00+32020A34+001F+7201E290+6B00+4201F0C8+FFFF+00000003+0094"
+cheat14_enable = false
+
+cheat15_desc = "Empty Last Item Slot"
+cheat15_code = "8200DE6A+0000"
+cheat15_enable = false
+
+cheat16_desc = "Event Activator and Modifier (L+R to activate)"
+cheat16_code = "720095A8+0300+8200E2D6+0002+8200E2DA+006A"
+cheat16_enable = false
+
+cheat17_desc = "For A Timer Based Event (Add This To The Above Code)"
+cheat17_code = "8200E2D8+0000"
+cheat17_enable = false
+
+cheat18_desc = "Have 50,000 Gil"
+cheat18_code = "8200E0D4+C350"
+cheat18_enable = false
+
+cheat19_desc = "Have All Abilites"
+cheat19_code = "4200E054+FFFF+0000003B+0002"
+cheat19_enable = false
+
+cheat20_desc = "Have All Items"
+cheat20_code = "4200DC4C+0002+00010052+0002+4200DCEE+0055+00010024+0002+4200DD36+0081+0001005A+0002+4200DDEA+00E0+00010024+0002+4200DE6C+6363+0000007A+0002"
+cheat20_enable = false
+
+cheat21_desc = "Have All Magic"
+cheat21_code = "4200E0DE+FFFF+00000010+0002"
+cheat21_enable = false
+
+cheat22_desc = "Have Maximum Gil"
+cheat22_code = "8200E0D4+967F+8200E0D6+0098"
+cheat22_enable = false
+
+cheat23_desc = "Infinite ABS (Everyone)"
+cheat23_code = "4200DB02+03E7+00000004+0064"
+cheat23_enable = false
+
+cheat24_desc = "Infinite ABS Character Slot 1"
+cheat24_code = "8200DB02+03E7"
+cheat24_enable = false
+
+cheat25_desc = "Infinite ABS Character Slot 2"
+cheat25_code = "8200DB66+03E7"
+cheat25_enable = false
+
+cheat26_desc = "Infinite ABS Character Slot 3"
+cheat26_code = "8200DBCA+03E7"
+cheat26_enable = false
+
+cheat27_desc = "Infinite ABS Character Slot 4"
+cheat27_code = "8200DC2E+03E7"
+cheat27_enable = false
+
+cheat28_desc = "Infinite HP (Everyone)"
+cheat28_code = "4201E1A0+270F+00000004+0008"
+cheat28_enable = false
+
+cheat29_desc = "Infinite HP Slot 1"
+cheat29_code = "8201E1A0+270F"
+cheat29_enable = false
+
+cheat30_desc = "Infinite HP Slot 2"
+cheat30_code = "8201E1A8+270F"
+cheat30_enable = false
+
+cheat31_desc = "Infinite HP Slot 3"
+cheat31_code = "8201E1B0+270F"
+cheat31_enable = false
+
+cheat32_desc = "Infinite HP Slot 4"
+cheat32_code = "8201E1B8+270F"
+cheat32_enable = false
+
+cheat33_desc = "Infinite MP (Everyone)"
+cheat33_code = "4201E1A4+03E7+00000004+0008"
+cheat33_enable = false
+
+cheat34_desc = "Infinite MP Slot 1"
+cheat34_code = "8201E1A4+03E7"
+cheat34_enable = false
+
+cheat35_desc = "Infinite MP Slot 2"
+cheat35_code = "8201E1AC+03E7"
+cheat35_enable = false
+
+cheat36_desc = "Infinite MP Slot 3"
+cheat36_code = "8201E1B4+03E7"
+cheat36_enable = false
+
+cheat37_desc = "Infinite MP Slot 4"
+cheat37_code = "8201E1BC+03E7"
+cheat37_enable = false
+
+cheat38_desc = "Initiate Battle with ???? (Press Select to Activate)"
+cheat38_code = "720095A8+0004+3200E334+0001+82009704+0000"
+cheat38_enable = false
+
+cheat39_desc = "Instant win in battle"
+cheat39_code = "720095A8+0300+82020A08+0080"
+cheat39_enable = false
+
+cheat40_desc = "Item Slot 1"
+cheat40_code = "82009708+0000"
+cheat40_enable = false
+
+cheat41_desc = "Item Slot 2"
+cheat41_code = "8200970A+0000"
+cheat41_enable = false
+
+cheat42_desc = "Item Slot 3"
+cheat42_code = "8200970C+0000"
+cheat42_enable = false
+
+cheat43_desc = "Item Slot 4"
+cheat43_code = "8200970E+0000"
+cheat43_enable = false
+
+cheat44_desc = "Item Slot 5"
+cheat44_code = "82009710+0000"
+cheat44_enable = false
+
+cheat45_desc = "Item Slot 6"
+cheat45_code = "82009712+0000"
+cheat45_enable = false
+
+cheat46_desc = "Item Slot 7"
+cheat46_code = "82009714+0000"
+cheat46_enable = false
+
+cheat47_desc = "Item Slot 8"
+cheat47_code = "82009716+0000"
+cheat47_enable = false
+
+cheat48_desc = "Low Game Time"
+cheat48_code = "8200E0D8+1200+8200E0DA+0000"
+cheat48_enable = false
+
+cheat49_desc = "Max/Infinite Gil"
+cheat49_code = "8200E0D4+423F+8200E0D6+000F"
+cheat49_enable = false
+
+cheat50_desc = "Mode Modifier"
+cheat50_code = "320096E0+000A"
+cheat50_enable = false
+
+cheat51_desc = "Monster Slot 1 Attack Power"
+cheat51_code = "3201F09B+0000+3201F0C2+0000"
+cheat51_enable = false
+
+cheat52_desc = "Monster Slot 1 Current HP"
+cheat52_code = "8201F054+0000"
+cheat52_enable = false
+
+cheat53_desc = "Monster Slot 1 Current MP"
+cheat53_code = "8201F058+0000"
+cheat53_enable = false
+
+cheat54_desc = "Monster Slot 1 Dropped Gold"
+cheat54_code = "8201F0CA+0000"
+cheat54_enable = false
+
+cheat55_desc = "Monster Slot 1 Experience"
+cheat55_code = "8201F0C8+0000"
+cheat55_enable = false
+
+cheat56_desc = "Monster Slot 1 Level"
+cheat56_code = "3201F04E+0000"
+cheat56_enable = false
+
+cheat57_desc = "Monster Slot 1 Maximum HP"
+cheat57_code = "8201F056+0000"
+cheat57_enable = false
+
+cheat58_desc = "Monster Slot 1 Maximum MP"
+cheat58_code = "8201F05A+0000"
+cheat58_enable = false
+
+cheat59_desc = "Monster Slot 1 Status Modifier?"
+cheat59_code = "3201F0D1+0000"
+cheat59_enable = false
+
+cheat60_desc = "Monster Slot 1 X or Y Modifier"
+cheat60_code = "8201FD36+0000"
+cheat60_enable = false
+
+cheat61_desc = "Monster Slot 2 Attack Power"
+cheat61_code = "3201F12F+0000+3201F0C2+0000"
+cheat61_enable = false
+
+cheat62_desc = "Monster Slot 2 Current HP"
+cheat62_code = "8201F0E8+0000"
+cheat62_enable = false
+
+cheat63_desc = "Monster Slot 2 Current MP"
+cheat63_code = "8201F0EC+0000"
+cheat63_enable = false
+
+cheat64_desc = "Monster Slot 2 Dropped Gold"
+cheat64_code = "8201F15E+0000"
+cheat64_enable = false
+
+cheat65_desc = "Monster Slot 2 Experience"
+cheat65_code = "8201F15C+0000"
+cheat65_enable = false
+
+cheat66_desc = "Monster Slot 2 Level"
+cheat66_code = "3201F0E2+0000"
+cheat66_enable = false
+
+cheat67_desc = "Monster Slot 2 Maximum HP"
+cheat67_code = "8201F0EA+0000"
+cheat67_enable = false
+
+cheat68_desc = "Monster Slot 2 Maximum MP"
+cheat68_code = "8201F0EE+0000"
+cheat68_enable = false
+
+cheat69_desc = "Monster Slot 2 Status Modifier"
+cheat69_code = "3201F165+0000"
+cheat69_enable = false
+
+cheat70_desc = "Monster Slot 3 Attack Power"
+cheat70_code = "3201F1C3+0000+3201F0C2+0000"
+cheat70_enable = false
+
+cheat71_desc = "Monster Slot 3 Current HP"
+cheat71_code = "8201F17C+0000"
+cheat71_enable = false
+
+cheat72_desc = "Monster Slot 3 Current MP"
+cheat72_code = "8201F180+0000"
+cheat72_enable = false
+
+cheat73_desc = "Monster Slot 3 Dropped Gold"
+cheat73_code = "8201F1F2+0000"
+cheat73_enable = false
+
+cheat74_desc = "Monster Slot 3 Experience"
+cheat74_code = "8201F1F0+0000"
+cheat74_enable = false
+
+cheat75_desc = "Monster Slot 3 Level"
+cheat75_code = "3201F176+0000"
+cheat75_enable = false
+
+cheat76_desc = "Monster Slot 3 Maximum HP"
+cheat76_code = "8201F17E+0000"
+cheat76_enable = false
+
+cheat77_desc = "Monster Slot 3 Maximum MP"
+cheat77_code = "8201F182+0000"
+cheat77_enable = false
+
+cheat78_desc = "Monster Slot 3 Status Modifier"
+cheat78_code = "3201F1F9+0000"
+cheat78_enable = false
+
+cheat79_desc = "Monster Slot 4 Attack Power"
+cheat79_code = "3201F257+0000+3201F0C2+0000"
+cheat79_enable = false
+
+cheat80_desc = "Monster Slot 4 Current HP"
+cheat80_code = "8201F210+0000"
+cheat80_enable = false
+
+cheat81_desc = "Monster Slot 4 Current MP"
+cheat81_code = "8201F214+0000"
+cheat81_enable = false
+
+cheat82_desc = "Monster Slot 4 Dropped Gold"
+cheat82_code = "8201F286+0000"
+cheat82_enable = false
+
+cheat83_desc = "Monster Slot 4 Experience"
+cheat83_code = "8201F284+0000"
+cheat83_enable = false
+
+cheat84_desc = "Monster Slot 4 Level"
+cheat84_code = "3201F20A+0000"
+cheat84_enable = false
+
+cheat85_desc = "Monster Slot 4 Maximum HP"
+cheat85_code = "8201F212+0000"
+cheat85_enable = false
+
+cheat86_desc = "Monster Slot 4 Maximum MP"
+cheat86_code = "8201F216+0000"
+cheat86_enable = false
+
+cheat87_desc = "Monster Slot 4 Status Modifier"
+cheat87_code = "3201F28D+0000"
+cheat87_enable = false
+
+cheat88_desc = "Monster Slot 5 Attack Power"
+cheat88_code = "3201F2EB+0000+3201F0C2+0000"
+cheat88_enable = false
+
+cheat89_desc = "Monster Slot 5 Current HP"
+cheat89_code = "8201F2A4+0000"
+cheat89_enable = false
+
+cheat90_desc = "Monster Slot 5 Current MP"
+cheat90_code = "8201F2A8+0000"
+cheat90_enable = false
+
+cheat91_desc = "Monster Slot 5 Dropped Gold"
+cheat91_code = "8201F31A+0000"
+cheat91_enable = false
+
+cheat92_desc = "Monster Slot 5 Experience"
+cheat92_code = "8201F318+0000"
+cheat92_enable = false
+
+cheat93_desc = "Monster Slot 5 Level"
+cheat93_code = "3201F29E+0000"
+cheat93_enable = false
+
+cheat94_desc = "Monster Slot 5 Maximum HP"
+cheat94_code = "8201F2A6+0000"
+cheat94_enable = false
+
+cheat95_desc = "Monster Slot 5 Maximum MP"
+cheat95_code = "8201F2AA+0000"
+cheat95_enable = false
+
+cheat96_desc = "Monster Slot 5 Status Modifier"
+cheat96_code = "3201F321+0000"
+cheat96_enable = false
+
+cheat97_desc = "Monster Slot 6 Attack Power"
+cheat97_code = "3201F37F+0000+3201F0C2+0000"
+cheat97_enable = false
+
+cheat98_desc = "Monster Slot 6 Current HP"
+cheat98_code = "8201F338+0000"
+cheat98_enable = false
+
+cheat99_desc = "Monster Slot 6 Current MP"
+cheat99_code = "8201F33C+0000"
+cheat99_enable = false
+
+cheat100_desc = "Monster Slot 6 Dropped Gold"
+cheat100_code = "8201F3AE+0000"
+cheat100_enable = false
+
+cheat101_desc = "Monster Slot 6 Experience"
+cheat101_code = "8201F3AC+0000"
+cheat101_enable = false
+
+cheat102_desc = "Monster Slot 6 Level"
+cheat102_code = "3201F332+0000"
+cheat102_enable = false
+
+cheat103_desc = "Monster Slot 6 Maximum HP"
+cheat103_code = "8201F33A+0000"
+cheat103_enable = false
+
+cheat104_desc = "Monster Slot 6 Maximum MP"
+cheat104_code = "8201F33E+0000"
+cheat104_enable = false
+
+cheat105_desc = "Monster Slot 6 Status Modifier"
+cheat105_code = "3201F3B5+0000"
+cheat105_enable = false
+
+cheat106_desc = "Monster Slot 7 Attack Power"
+cheat106_code = "3201F413+0000+3201F0C2+0000"
+cheat106_enable = false
+
+cheat107_desc = "Monster Slot 7 Current HP"
+cheat107_code = "8201F3CC+0000"
+cheat107_enable = false
+
+cheat108_desc = "Monster Slot 7 Current MP"
+cheat108_code = "8201F3D0+0000"
+cheat108_enable = false
+
+cheat109_desc = "Monster Slot 7 Dropped Gold"
+cheat109_code = "8201F442+0000"
+cheat109_enable = false
+
+cheat110_desc = "Monster Slot 7 Experience"
+cheat110_code = "8201F440+0000"
+cheat110_enable = false
+
+cheat111_desc = "Monster Slot 7 Level"
+cheat111_code = "3201F3C6+0000"
+cheat111_enable = false
+
+cheat112_desc = "Monster Slot 7 Maximum HP"
+cheat112_code = "8201F3CE+0000"
+cheat112_enable = false
+
+cheat113_desc = "Monster Slot 7 Maximum MP"
+cheat113_code = "8201F3D2+0000"
+cheat113_enable = false
+
+cheat114_desc = "Monster Slot 7 Status Modifier"
+cheat114_code = "3201F449+0000"
+cheat114_enable = false
+
+cheat115_desc = "Monster Slot 8 Attack Power"
+cheat115_code = "3201F4A7+0000+3201F0C2+0000"
+cheat115_enable = false
+
+cheat116_desc = "Monster Slot 8 Current HP"
+cheat116_code = "8201F460+0000"
+cheat116_enable = false
+
+cheat117_desc = "Monster Slot 8 Current MP"
+cheat117_code = "8201F464+0000"
+cheat117_enable = false
+
+cheat118_desc = "Monster Slot 8 Dropped Gold"
+cheat118_code = "8201F4D6+0000"
+cheat118_enable = false
+
+cheat119_desc = "Monster Slot 8 Experience"
+cheat119_code = "8201F4D4+0000"
+cheat119_enable = false
+
+cheat120_desc = "Monster Slot 8 Level"
+cheat120_code = "3201F45A+0000"
+cheat120_enable = false
+
+cheat121_desc = "Monster Slot 8 Maximum HP"
+cheat121_code = "8201F462+0000"
+cheat121_enable = false
+
+cheat122_desc = "Monster Slot 8 Maximum MP"
+cheat122_code = "8201F466+0000"
+cheat122_enable = false
+
+cheat123_desc = "Monster Slot 8 Status Modifier"
+cheat123_code = "3201F4DD+0000"
+cheat123_enable = false
+
+cheat124_desc = "Never get attacked by Gil Turtle in cave near Bal"
+cheat124_code = "3200F06E+0000"
+cheat124_enable = false
+
+cheat125_desc = "No Random Battles (Alternative)"
+cheat125_code = "3200E1E7+0080"
+cheat125_enable = false
+
+cheat126_desc = "Number of times Party has escaped from battle"
+cheat126_code = "3200E149+0000"
+cheat126_enable = false
+
+cheat127_desc = "Press and hold L then select 'Attack' in battle to use Finisher! (All Characters)"
+cheat127_code = "720095A8+0200+3201EE62+0062+3201EEF6+0062+3201EF8A+0062+3201F01E+0062"
+cheat127_enable = false
+
+cheat128_desc = "Room Modifier"
+cheat128_code = "8200E2AE+0000"
+cheat128_enable = false
+
+cheat129_desc = "Save Anywhere"
+cheat129_code = "320096ED+0080"
+cheat129_enable = false
+
+cheat130_desc = "Ship Into Airship"
+cheat130_code = "7200E2B6+0005+3200E2B6+0006"
+cheat130_enable = false
+
+cheat131_desc = "Shop Caller (Press L+Select to Activate)"
+cheat131_code = "720095A8+0204+820096E0+070F+320096ED+0000"
+cheat131_enable = false
+
+cheat132_desc = "Stop Detonation Timer"
+cheat132_code = "7200E2DA+0657+8200E2D8+8CA0"
+cheat132_enable = false
+
+cheat133_desc = "Stop Turn Timer"
+cheat133_code = "3201FBCD+0032+3201FBD8+0032+3201FBE3+0032+3201FBEE+0032"
+cheat133_enable = false
+
+cheat134_desc = "Weak Enemies"
+cheat134_code = "7201E4D4+55F0+4201F056+0001+00000007+0094"
+cheat134_enable = false
+
+cheat135_desc = "Full Beastiary (None Seen)"
+cheat135_code = "4200F4C2+8063+000001FF+0002"
+cheat135_enable = false
+
+cheat136_desc = "Full Beastiary (All Seen)"
+cheat136_code = "4200F4C2+0063+000001FF+0002"
+cheat136_enable = false
+
+cheat137_desc = "Have 99 of All Items"
+cheat137_code = "4200DE6C+6363+00000103+0002+4200DC4C+0001+00010103+0002"
+cheat137_enable = false
+
+cheat138_desc = "Have All Abilities"
+cheat138_code = "4200E054+FFFF+00000007+0002+4200E064+FFFF+00000003+0002"
+cheat138_enable = false
+
+cheat139_desc = "No Random Battles"
+cheat139_code = "3200E32E+0000+3200E334+0000+8200F070+0000"
+cheat139_enable = false

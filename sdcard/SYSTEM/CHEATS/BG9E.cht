@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Access All Stages"
+cheat0_code = "32035168+000B+32035193+0001"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Health"
+cheat1_code = "32000551+0005"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Lives"
+cheat2_code = "320083AC+0009"
+cheat2_enable = false
+
+cheat3_desc = "Invincible"
+cheat3_code = "32000553+0002"
+cheat3_enable = false
+
+cheat4_desc = "Jump in Midair"
+cheat4_code = "8203FF00+4906+8203FF02+B402+8203FF04+B404+8203FF06+1C29+8203FF08+3148+8203FF0A+2200+8203FF0C+3A0F+8203FF0E+800A+8203FF10+BC04+8203FF12+1880+8203FF14+6800+8203FF16+2120+8203FF18+4008+8203FF1A+BD00+8203FF1C+7309+8203FF1E+0800+88007300+4900+88007302+4708+88007304+FF01+88007306+0203"
+cheat4_enable = false
+
+cheat5_desc = "Multi Jump"
+cheat5_code = "D0000020+0001+82000528+FFF8"
+cheat5_enable = false
+
+cheat6_desc = "Skip Stage [Press Select+R]"
+cheat6_code = "74000130+02FB+32007FAE+0002"
+cheat6_enable = false

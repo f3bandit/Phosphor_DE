@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Select And Place Any Cards on Pile"
+cheat0_code = "880164D2+46C0+880228EC+46C0"
+cheat0_enable = false

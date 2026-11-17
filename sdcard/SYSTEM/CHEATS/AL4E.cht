@@ -1,0 +1,249 @@
+cheats = 62
+
+cheat0_desc = "1st Ally: Infinite HP"
+cheat0_code = "820364F8+03E7"
+cheat0_enable = false
+
+cheat1_desc = "1st Ally: Infinite MP"
+cheat1_code = "820364FA+03E7"
+cheat1_enable = false
+
+cheat2_desc = "1st Ally: Max ATK"
+cheat2_code = "33001A6F+00FF"
+cheat2_enable = false
+
+cheat3_desc = "1st Ally: Max DEF"
+cheat3_code = "33001A70+00FF"
+cheat3_enable = false
+
+cheat4_desc = "1st Ally: Max LCK"
+cheat4_code = "33001A74+00FF"
+cheat4_enable = false
+
+cheat5_desc = "1st Ally: Max MGC"
+cheat5_code = "33001A71+00FF"
+cheat5_enable = false
+
+cheat6_desc = "1st Ally: Max RES"
+cheat6_code = "33001A72+00FF"
+cheat6_enable = false
+
+cheat7_desc = "1st Ally: Max SPD"
+cheat7_code = "33001A73+00FF"
+cheat7_enable = false
+
+cheat8_desc = "1st Ally: Maximum HP"
+cheat8_code = "820364F4+03E7"
+cheat8_enable = false
+
+cheat9_desc = "1st Ally: Maximum MP"
+cheat9_code = "820364F6+03E7"
+cheat9_enable = false
+
+cheat10_desc = "2nd Ally: Infinite HP"
+cheat10_code = "8203654C+03E7"
+cheat10_enable = false
+
+cheat11_desc = "2nd Ally: Infinite MP"
+cheat11_code = "8203654E+03E7"
+cheat11_enable = false
+
+cheat12_desc = "2nd Ally: Max ATK"
+cheat12_code = "33001AAB+00FF"
+cheat12_enable = false
+
+cheat13_desc = "2nd Ally: Max DEF"
+cheat13_code = "33001AAC+00FF"
+cheat13_enable = false
+
+cheat14_desc = "2nd Ally: Max LCK"
+cheat14_code = "33001AB0+00FF"
+cheat14_enable = false
+
+cheat15_desc = "2nd Ally: Max MGC"
+cheat15_code = "33001AAD+00FF"
+cheat15_enable = false
+
+cheat16_desc = "2nd Ally: Max RES"
+cheat16_code = "33001AAE+00FF"
+cheat16_enable = false
+
+cheat17_desc = "2nd Ally: Max SPD"
+cheat17_code = "33001AAF+00FF"
+cheat17_enable = false
+
+cheat18_desc = "2nd Ally: Maximum HP"
+cheat18_code = "82036548+03E7"
+cheat18_enable = false
+
+cheat19_desc = "2nd Ally: Maximum MP"
+cheat19_code = "8203654A+03E7"
+cheat19_enable = false
+
+cheat20_desc = "3rd Ally: Infinite HP"
+cheat20_code = "820365A0+03E7"
+cheat20_enable = false
+
+cheat21_desc = "3rd Ally: Infinite MP"
+cheat21_code = "820365A2+03E7"
+cheat21_enable = false
+
+cheat22_desc = "3rd Ally: Max ATK"
+cheat22_code = "33001AE7+00FF"
+cheat22_enable = false
+
+cheat23_desc = "3rd Ally: Max DEF"
+cheat23_code = "33001AE8+00FF"
+cheat23_enable = false
+
+cheat24_desc = "3rd Ally: Max LCK"
+cheat24_code = "33001AEC+00FF"
+cheat24_enable = false
+
+cheat25_desc = "3rd Ally: Max MGC"
+cheat25_code = "33001AE9+00FF"
+cheat25_enable = false
+
+cheat26_desc = "3rd Ally: Max RES"
+cheat26_code = "33001AEA+00FF"
+cheat26_enable = false
+
+cheat27_desc = "3rd Ally: Max SPD"
+cheat27_code = "33001AEB+00FF"
+cheat27_enable = false
+
+cheat28_desc = "3rd Ally: Maximum HP"
+cheat28_code = "8203659C+03E7"
+cheat28_enable = false
+
+cheat29_desc = "3rd Ally: Maximum MP"
+cheat29_code = "8203659E+03E7"
+cheat29_enable = false
+
+cheat30_desc = "4th Ally: Infinite HP"
+cheat30_code = "820365F4+03E7"
+cheat30_enable = false
+
+cheat31_desc = "4th Ally: Infinite MP"
+cheat31_code = "820365F6+03E7"
+cheat31_enable = false
+
+cheat32_desc = "4th Ally: Max ATK"
+cheat32_code = "33001B23+00FF"
+cheat32_enable = false
+
+cheat33_desc = "4th Ally: Max DEF"
+cheat33_code = "33001B24+00FF"
+cheat33_enable = false
+
+cheat34_desc = "4th Ally: Max LCK"
+cheat34_code = "33001B28+00FF"
+cheat34_enable = false
+
+cheat35_desc = "4th Ally: Max MGC"
+cheat35_code = "33001B25+00FF"
+cheat35_enable = false
+
+cheat36_desc = "4th Ally: Max RES"
+cheat36_code = "33001B26+00FF"
+cheat36_enable = false
+
+cheat37_desc = "4th Ally: Max SPD"
+cheat37_code = "33001B27+00FF"
+cheat37_enable = false
+
+cheat38_desc = "4th Ally: Maximum HP"
+cheat38_code = "820365F0+03E7"
+cheat38_enable = false
+
+cheat39_desc = "4th Ally: Maximum MP"
+cheat39_code = "820365F2+03E7"
+cheat39_enable = false
+
+cheat40_desc = "50,000 Exp. Earnt"
+cheat40_code = "72028EB0+0401+83007C8C+C350"
+cheat40_enable = false
+
+cheat41_desc = "50,000 Macca Earnt"
+cheat41_code = "72028EB0+0401+83007C8E+C350"
+cheat41_enable = false
+
+cheat42_desc = "Complete Demonary"
+cheat42_code = "43001368+FFFF+000000B3+0002+430014DC+FFFF+00000008+0002"
+cheat42_enable = false
+
+cheat43_desc = "Have All Attack Items"
+cheat43_code = "33001639+000E+4300165E+000B+0001000E+0002+43001542+6363+00000008+0002"
+cheat43_enable = false
+
+cheat44_desc = "Have All Boost Items"
+cheat44_code = "3300163A+000C+4300167E+0019+0001000C+0002+43001550+6363+00000007+0002"
+cheat44_enable = false
+
+cheat45_desc = "Have All CD's"
+cheat45_code = "3300183E+00FF"
+cheat45_enable = false
+
+cheat46_desc = "Have All Heal Items"
+cheat46_code = "33001638+000A+4300163E+0000+0001000A+0002+43001538+6363+00000006+0002"
+cheat46_enable = false
+
+cheat47_desc = "Have All Maps"
+cheat47_code = "83001846+FFFF+33001848+00FF"
+cheat47_enable = false
+
+cheat48_desc = "Have All Other Items"
+cheat48_code = "3300163B+0007+4300169E+0025+00010007+0002+4300155C+6363+00000004+0002"
+cheat48_enable = false
+
+cheat49_desc = "Have All Power Units"
+cheat49_code = "3300183F+00FF+43001840+FFFF+00000003+0002"
+cheat49_enable = false
+
+cheat50_desc = "Have All Relic Items"
+cheat50_code = "3300163D+0014+4300177E+0100+00010014+0002+430015BA+6363+0000000A+0002"
+cheat50_enable = false
+
+cheat51_desc = "Have All Skill Items"
+cheat51_code = "3300163C+003C+430016BE+0035+0001003C+0002+4300156C+6363+00000020+0002"
+cheat51_enable = false
+
+cheat52_desc = "Infinite All Attack Items"
+cheat52_code = "33001543+0063+33001544+0063+33001545+0063+33001546+0063+33001547+0063+33001548+0063+33001549+0063+3300154A+0063+3300154B+0063+3300154C+0063+3300154D+0063+3300154E+0063+3300154F+0063+33001550+0063+33001562+0063+33001563+0063+33001639+0010+4300165E+000B+0001000E+0002+8300167A+002A+8300167C+002B"
+cheat52_enable = false
+
+cheat53_desc = "Infinite All Boost Items"
+cheat53_code = "33001551+0063+33001552+0063+33001553+0063+33001554+0063+33001555+0063+33001557+0063+33001558+0063+33001559+0063+3300155A+0063+3300155B+0063+3300155C+0063+3300163A+000B+4300167E+0019+00010005+0002+43001688+001F+00010006+0002"
+cheat53_enable = false
+
+cheat54_desc = "Infinite All Heal Items"
+cheat54_code = "33001538+0063+33001539+0063+3300153A+0063+3300153B+0063+3300153C+0063+3300153D+0063+3300153E+0063+3300153F+0063+33001540+0063+33001541+0063+33001542+0063+33001638+000B+4300163E+0000+0001000B+0002"
+cheat54_enable = false
+
+cheat55_desc = "Infinite All Other Items"
+cheat55_code = "33001556+0063+3300155D+0063+3300155E+0063+3300155F+0063+33001560+0063+33001561+0063+3300163B+0006+8300169E+001E+430016A0+0025+00010005+0002"
+cheat55_enable = false
+
+cheat56_desc = "Infinite All Relic Items"
+cheat56_code = "330015BA+0063+330015BB+0063+330015BC+0063+330015BD+0063+330015BE+0063+330015BF+0063+330015C0+0063+330015C1+0063+330015C2+0063+330015C3+0063+330015C4+0063+330015C5+0063+330015C6+0063+330015C7+0063+330015C8+0063+330015C9+0063+330015CA+0063+330015CB+0063+330015CC+0063+330015CD+0063+330015CE+0063+330015CF+0063+330015D0+0063+330015D1+0063+330015D2+0063+330015D3+0063+330015D4+0063+330015D5+0063+330015D6+0063+330015D7+0063+330015D8+0063+330015D9+0063+330015DA+0063+330015DB+0063+330015DC+0063+330015DD+0063+330015DE+0063+330015DF+0063+330015E0+0063+330015E1+0063+330015E2+0063+330015E3+0063+330015E4+0063+330015E5+0063+330015E6+0063+330015E7+0063+330015E8+0063+330015E9+0063+330015EA+0063+330015EB+0063+3300163D+0028+4300177E+0082+00010014+0002+430017A6+00A0+00010014+0002"
+cheat56_enable = false
+
+cheat57_desc = "Infinite Mecca"
+cheat57_code = "830010EC+E0FF+830010EE+05F5"
+cheat57_enable = false
+
+cheat58_desc = "Jin Max Experience"
+cheat58_code = "830010B4+E0FF+830010B6+05F5"
+cheat58_enable = false
+
+cheat59_desc = "Jin Max Level"
+cheat59_code = "830010B0+01A5"
+cheat59_enable = false
+
+cheat60_desc = "No Random Battles"
+cheat60_code = "33001294+000F"
+cheat60_enable = false
+
+cheat61_desc = "Relic Fusion Result Modifier"
+cheat61_code = "73007C24+8000+83007DEC+0000"
+cheat61_enable = false

@@ -1,0 +1,53 @@
+cheats = 13
+
+cheat0_desc = "Access All Cars"
+cheat0_code = "73005AAC+00FF+8200081E+FFFF"
+cheat0_enable = false
+
+cheat1_desc = "Access All Chapters"
+cheat1_code = "82000AF4+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "Access All Events"
+cheat2_code = "82000B18+FFFF"
+cheat2_enable = false
+
+cheat3_desc = "End Race [Press Select+L]"
+cheat3_code = "74000130+01FB+330058E0+0001+D0000020+0001+330058E0+0000"
+cheat3_enable = false
+
+cheat4_desc = "Have 50,000 Points"
+cheat4_code = "82000818+C350"
+cheat4_enable = false
+
+cheat5_desc = "Have 50,000 Rep Points"
+cheat5_code = "82000814+C350"
+cheat5_enable = false
+
+cheat6_desc = "Max Race Points"
+cheat6_code = "33005898+0064"
+cheat6_enable = false
+
+cheat7_desc = "No Opponents"
+cheat7_code = "330058E4+0000"
+cheat7_enable = false
+
+cheat8_desc = "No Police"
+cheat8_code = "33005970+0000"
+cheat8_enable = false
+
+cheat9_desc = "No Traffic"
+cheat9_code = "33005770+0000"
+cheat9_enable = false
+
+cheat10_desc = "Performance"
+cheat10_code = "42000820+FFFF+0000000E+0002"
+cheat10_enable = false
+
+cheat11_desc = "Stop Timer"
+cheat11_code = "83005964+0000"
+cheat11_enable = false
+
+cheat12_desc = "Visual"
+cheat12_code = "4200083C+FFFF+00000007+0002"
+cheat12_enable = false

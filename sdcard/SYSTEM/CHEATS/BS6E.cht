@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Have 99 Skill Points"
+cheat0_code = "330006C0+0063"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Juice"
+cheat1_code = "3200185D+00C5"
+cheat1_enable = false
+
+cheat2_desc = "Max Stats All Players"
+cheat2_code = "420009AC+000A+00000046+0004"
+cheat2_enable = false
+
+cheat3_desc = "Speed Burst [Press R+B+A]"
+cheat3_code = "74000130+02FC+32000C11+000A"
+cheat3_enable = false
+
+cheat4_desc = "Trick List Complete"
+cheat4_code = "42000AD0+FFFF+00000008+0002"
+cheat4_enable = false
+
+cheat5_desc = "Unlock All Levels"
+cheat5_code = "42000AE8+0000+00000002+0002+32000AE4+00FF"
+cheat5_enable = false
+
+cheat6_desc = "Unlock All Players"
+cheat6_code = "42000AC8+FFFF+00000003+0002"
+cheat6_enable = false

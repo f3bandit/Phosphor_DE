@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Always Choose Auction"
+cheat0_code = "7200BB40+0001+3200BB44+0001"
+cheat0_enable = false
+
+cheat1_desc = "Can't Place Bid"
+cheat1_code = "7200BB4C+0001+3200BB4E+0001+3200BB5C+0001"
+cheat1_enable = false
+
+cheat2_desc = "Quick Decision"
+cheat2_code = "73000384+0168+83000384+0000"
+cheat2_enable = false

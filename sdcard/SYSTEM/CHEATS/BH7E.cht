@@ -1,0 +1,21 @@
+cheats = 5
+
+cheat0_desc = "Access All Courses"
+cheat0_code = "320076EC+0023+420076CE+0101+00000009+0002"
+cheat0_enable = false
+
+cheat1_desc = "Access All Players"
+cheat1_code = "420076C2+0101+00000006+0002"
+cheat1_enable = false
+
+cheat2_desc = "Access Sound Test"
+cheat2_code = "320076DF+0001"
+cheat2_enable = false
+
+cheat3_desc = "Always Super Par"
+cheat3_code = "32007748+0001"
+cheat3_enable = false
+
+cheat4_desc = "Have 9999 Nuts"
+cheat4_code = "820076FC+270F"
+cheat4_enable = false

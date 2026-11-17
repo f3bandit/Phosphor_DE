@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "All 53 Gash Collection Unlocked"
+cheat0_code = "4201319C+FFFF+00000004+0002"
+cheat0_enable = false
+
+cheat1_desc = "All Characters Unlocked"
+cheat1_code = "820130B0+FFFF+820130B2+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "All Mini-Games Unlocked"
+cheat2_code = "820130B6+FFFF"
+cheat2_enable = false
+
+cheat3_desc = "Always Max Charge"
+cheat3_code = "32011C9E+0064"
+cheat3_enable = false
+
+cheat4_desc = "Infinite HP"
+cheat4_code = "32011C98+0064"
+cheat4_enable = false
+
+cheat5_desc = "Timer Set To 99"
+cheat5_code = "32012255+0063"
+cheat5_enable = false

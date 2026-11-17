@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "All Tasks Complete"
+cheat0_code = "33000DEC+0000"
+cheat0_enable = false
+
+cheat1_desc = "Have 999 Coins"
+cheat1_code = "8300549E+03E7"
+cheat1_enable = false
+
+cheat2_desc = "Have Shield Orb"
+cheat2_code = "330054A6+0001"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Neutrons"
+cheat3_code = "33005499+0014"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Shield"
+cheat4_code = "330054A7+0001+330054D3+000F"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Special"
+cheat5_code = "83005498+3000"
+cheat5_enable = false
+
+cheat6_desc = "Multi Jump"
+cheat6_code = "D0000020+0001+83005532+0003"
+cheat6_enable = false

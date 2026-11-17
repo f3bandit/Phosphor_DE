@@ -1,0 +1,245 @@
+cheats = 61
+
+cheat0_desc = "100,000 Cash (In Bank)"
+cheat0_code = "83003E08+0070"
+cheat0_enable = false
+
+cheat1_desc = "999 Skill Points"
+cheat1_code = "83003D50+03E7"
+cheat1_enable = false
+
+cheat2_desc = "999 Status Points"
+cheat2_code = "83003D4C+03E7"
+cheat2_enable = false
+
+cheat3_desc = "All Skills Maxed"
+cheat3_code = "43003D54+0005+00000000+0000"
+cheat3_enable = false
+
+cheat4_desc = "Dungeon Level Modifier"
+cheat4_code = "3300397E+0000"
+cheat4_enable = false
+
+cheat5_desc = "Infinite SP"
+cheat5_code = "830045F8+03E7"
+cheat5_enable = false
+
+cheat6_desc = "Mastered Axe"
+cheat6_code = "3201879C+0005"
+cheat6_enable = false
+
+cheat7_desc = "Mastered Cold Resistance"
+cheat7_code = "320187B0+0005"
+cheat7_enable = false
+
+cheat8_desc = "Mastered Defense Build-Up"
+cheat8_code = "320187A4+0005"
+cheat8_enable = false
+
+cheat9_desc = "Mastered Efficancy"
+cheat9_code = "320187A8+0005"
+cheat9_enable = false
+
+cheat10_desc = "Mastered Fire Resistance"
+cheat10_code = "320187B8+0005"
+cheat10_enable = false
+
+cheat11_desc = "Mastered Mental Power"
+cheat11_code = "320187AC+0005"
+cheat11_enable = false
+
+cheat12_desc = "Mastered Spear"
+cheat12_code = "320187A0+0005"
+cheat12_enable = false
+
+cheat13_desc = "Mastered Sword"
+cheat13_code = "32018798+0005"
+cheat13_enable = false
+
+cheat14_desc = "Mastered Thunder Resistance"
+cheat14_code = "320187B4+0005"
+cheat14_enable = false
+
+cheat15_desc = "Max Attack"
+cheat15_code = "330045C8+00FF"
+cheat15_enable = false
+
+cheat16_desc = "Max Cold Resistance"
+cheat16_code = "330045B8+00FF"
+cheat16_enable = false
+
+cheat17_desc = "Max Defense"
+cheat17_code = "330045CA+00FF"
+cheat17_enable = false
+
+cheat18_desc = "Max Dex"
+cheat18_code = "3201396A+00C8"
+cheat18_enable = false
+
+cheat19_desc = "Max Fire Resistance"
+cheat19_code = "330045B6+00FF"
+cheat19_enable = false
+
+cheat20_desc = "Max Gold [Withdrawel]"
+cheat20_code = "830005EC+4240+830005EE+000F"
+cheat20_enable = false
+
+cheat21_desc = "Max Intelligence"
+cheat21_code = "3201396C+00C8"
+cheat21_enable = false
+
+cheat22_desc = "Max Resistance: Fire"
+cheat22_code = "33003D3E+0064"
+cheat22_enable = false
+
+cheat23_desc = "Max Resistance: Ice"
+cheat23_code = "33003D40+0064"
+cheat23_enable = false
+
+cheat24_desc = "Max Resistance: Zap"
+cheat24_code = "33003D42+0064"
+cheat24_enable = false
+
+cheat25_desc = "Max Stats"
+cheat25_code = "830045B6+270F+830045B8+270F+830045BA+270F+830045C8+270F+830045CA+270F"
+cheat25_enable = false
+
+cheat26_desc = "Max Stats: DEX"
+cheat26_code = "33003D36+00FF"
+cheat26_enable = false
+
+cheat27_desc = "Max Stats: INT"
+cheat27_code = "33003D38+00FF"
+cheat27_enable = false
+
+cheat28_desc = "Max Stats: STR"
+cheat28_code = "33003D34+00FF"
+cheat28_enable = false
+
+cheat29_desc = "Max Stats: VIT"
+cheat29_code = "33003D3A+00FF"
+cheat29_enable = false
+
+cheat30_desc = "Max Strength"
+cheat30_code = "32013968+00C8"
+cheat30_enable = false
+
+cheat31_desc = "Max Thunder Resistance"
+cheat31_code = "330045BA+00FF"
+cheat31_enable = false
+
+cheat32_desc = "Max Vitality"
+cheat32_code = "3201396E+00C8"
+cheat32_enable = false
+
+cheat33_desc = "Maximum Level"
+cheat33_code = "33003D48+00F4"
+cheat33_enable = false
+
+cheat34_desc = "Maximum Souls"
+cheat34_code = "33003D96+0063"
+cheat34_enable = false
+
+cheat35_desc = "Slot #1"
+cheat35_code = "83003D98+0000"
+cheat35_enable = false
+
+cheat36_desc = "Slot #10"
+cheat36_code = "83003DBC+0000"
+cheat36_enable = false
+
+cheat37_desc = "Slot #11"
+cheat37_code = "83003DC0+0000"
+cheat37_enable = false
+
+cheat38_desc = "Slot #12"
+cheat38_code = "83003DC4+0000"
+cheat38_enable = false
+
+cheat39_desc = "Slot #13"
+cheat39_code = "83003DC8+0000"
+cheat39_enable = false
+
+cheat40_desc = "Slot #14"
+cheat40_code = "83003DCC+0000"
+cheat40_enable = false
+
+cheat41_desc = "Slot #15"
+cheat41_code = "83003DD0+0000"
+cheat41_enable = false
+
+cheat42_desc = "Slot #16"
+cheat42_code = "83003DD4+0000"
+cheat42_enable = false
+
+cheat43_desc = "Slot #17"
+cheat43_code = "83003DD8+0000"
+cheat43_enable = false
+
+cheat44_desc = "Slot #18"
+cheat44_code = "83003DDC+0000"
+cheat44_enable = false
+
+cheat45_desc = "Slot #19"
+cheat45_code = "83003DE0+0000"
+cheat45_enable = false
+
+cheat46_desc = "Slot #2"
+cheat46_code = "83003D9C+0000"
+cheat46_enable = false
+
+cheat47_desc = "Slot #20"
+cheat47_code = "83003DE4+0000"
+cheat47_enable = false
+
+cheat48_desc = "Slot #21"
+cheat48_code = "83003DE8+0000"
+cheat48_enable = false
+
+cheat49_desc = "Slot #22"
+cheat49_code = "83003DEC+0000"
+cheat49_enable = false
+
+cheat50_desc = "Slot #23"
+cheat50_code = "83003DF0+0000"
+cheat50_enable = false
+
+cheat51_desc = "Slot #24"
+cheat51_code = "83003DF4+0000"
+cheat51_enable = false
+
+cheat52_desc = "Slot #25"
+cheat52_code = "83003DF8+0000"
+cheat52_enable = false
+
+cheat53_desc = "Slot #3"
+cheat53_code = "83003DA0+0000"
+cheat53_enable = false
+
+cheat54_desc = "Slot #4"
+cheat54_code = "83003DA4+0000"
+cheat54_enable = false
+
+cheat55_desc = "Slot #5"
+cheat55_code = "83003DA8+0000"
+cheat55_enable = false
+
+cheat56_desc = "Slot #6"
+cheat56_code = "83003DAC+0000"
+cheat56_enable = false
+
+cheat57_desc = "Slot #7"
+cheat57_code = "83003DB0+0000"
+cheat57_enable = false
+
+cheat58_desc = "Slot #8"
+cheat58_code = "83003DB4+0000"
+cheat58_enable = false
+
+cheat59_desc = "Slot #9"
+cheat59_code = "83003DB8+0000"
+cheat59_enable = false
+
+cheat60_desc = "Walk Through Walls"
+cheat60_code = "8800B7F6+D0FF+8800B846+46C0+8800B848+3001"
+cheat60_enable = false

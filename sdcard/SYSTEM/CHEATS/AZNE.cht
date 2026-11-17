@@ -1,0 +1,45 @@
+cheats = 11
+
+cheat0_desc = "Have All Weapons"
+cheat0_code = "430000D2+FFFF+00000005+0002"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Bombs"
+cheat1_code = "33001114+0009"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Energy"
+cheat2_code = "33000EB8+0028"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Lives"
+cheat3_code = "33002D60+0009"
+cheat3_enable = false
+
+cheat4_desc = "Invincible"
+cheat4_code = "73001710+0001+33001710+0000"
+cheat4_enable = false
+
+cheat5_desc = "Music Full Volume [Press Select+R+Up]"
+cheat5_code = "74000130+01BB+330040D0+007F"
+cheat5_enable = false
+
+cheat6_desc = "Music Half Volume [Press Select+R+Down]"
+cheat6_code = "74000130+017B+330040D0+003F"
+cheat6_enable = false
+
+cheat7_desc = "Skip Planet [Press Select+L+R]"
+cheat7_code = "74000130+00FB+33001710+0004"
+cheat7_enable = false
+
+cheat8_desc = "Start With Hi-Score"
+cheat8_code = "73002D22+0000+33002D23+0005"
+cheat8_enable = false
+
+cheat9_desc = "Turn Music Off [Press Select+Down]"
+cheat9_code = "74000130+037B+33002D0C+0001"
+cheat9_enable = false
+
+cheat10_desc = "Turn Music On [Press Select+Up]"
+cheat10_code = "74000130+03BB+33002D0C+0000"
+cheat10_enable = false

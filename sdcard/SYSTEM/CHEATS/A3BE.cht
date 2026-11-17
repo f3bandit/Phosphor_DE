@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Access All Stages"
+cheat0_code = "83001E70+FFFF+33001E74+00FF"
+cheat0_enable = false
+
+cheat1_desc = "Have All Spells"
+cheat1_code = "33001E7D+0006"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Magic"
+cheat2_code = "33001E83+0009"
+cheat2_enable = false
+
+cheat3_desc = "Maximum Health"
+cheat3_code = "33001E80+0005+33001E7F+0005"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Health"
+cheat4_code = "83003E92+0003"
+cheat4_enable = false
+
+cheat5_desc = "Walk Through Walls"
+cheat5_code = "8803D01A+46C0"
+cheat5_enable = false

@@ -1,0 +1,133 @@
+cheats = 33
+
+cheat0_desc = "1HitKill"
+cheat0_code = "8800F3E8+E010"
+cheat0_enable = false
+
+cheat1_desc = "Untouchable"
+cheat1_code = "8800923E+46C0"
+cheat1_enable = false
+
+cheat2_desc = "Bowling Ball"
+cheat2_code = "330052B5+0001"
+cheat2_enable = false
+
+cheat3_desc = "Bubble Gun"
+cheat3_code = "330052C9+0006"
+cheat3_enable = false
+
+cheat4_desc = "Extinguisher"
+cheat4_code = "330052C5+0005"
+cheat4_enable = false
+
+cheat5_desc = "Flame Thower"
+cheat5_code = "330052EC+0008"
+cheat5_enable = false
+
+cheat6_desc = "Hammer"
+cheat6_code = "330052B9+0002"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Ammo"
+cheat7_code = "430052EE+0064+00000005+0002"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Health"
+cheat8_code = "3300528E+0003"
+cheat8_enable = false
+
+cheat9_desc = "Infinite Lives"
+cheat9_code = "3300528D+0003"
+cheat9_enable = false
+
+cheat10_desc = "Magnet"
+cheat10_code = "330052BD+0003"
+cheat10_enable = false
+
+cheat11_desc = "Multi Jump"
+cheat11_code = "D0000020+0001+83005230+FC80+D0000020+0001+83005232+FFFF"
+cheat11_enable = false
+
+cheat12_desc = "Paint Gun"
+cheat12_code = "330052C1+0004"
+cheat12_enable = false
+
+cheat13_desc = "Infinite Features"
+cheat13_code = "32005000+0063"
+cheat13_enable = false
+
+cheat14_desc = "Invincible"
+cheat14_code = "32004FCC+0031"
+cheat14_enable = false
+
+cheat15_desc = "Infinite Pixie Dust"
+cheat15_code = "8200B1E8+0640"
+cheat15_enable = false
+
+cheat16_desc = "Start With 1 Life"
+cheat16_code = "72005008+0005+32005008+0001"
+cheat16_enable = false
+
+cheat17_desc = "Start With 3 Lives"
+cheat17_code = "72005008+0005+32005008+0003"
+cheat17_enable = false
+
+cheat18_desc = "Press Select For 9 Lives"
+cheat18_code = "D0000020+0004+32005008+0009"
+cheat18_enable = false
+
+cheat19_desc = "Press Select For 20 Lives"
+cheat19_code = "D0000020+0004+32005008+0014"
+cheat19_enable = false
+
+cheat20_desc = "Press Select For 50 Lives"
+cheat20_code = "D0000020+0004+32005008+0032"
+cheat20_enable = false
+
+cheat21_desc = "Press Select For 1 Continue"
+cheat21_code = "D0000020+0004+32004F90+0001"
+cheat21_enable = false
+
+cheat22_desc = "Press Select For 9 Continues"
+cheat22_code = "D0000020+0004+32004F90+0009"
+cheat22_enable = false
+
+cheat23_desc = "Press Select For 20 Continues"
+cheat23_code = "D0000020+0004+32004F90+0014"
+cheat23_enable = false
+
+cheat24_desc = "Press Select For 50 Continues"
+cheat24_code = "D0000020+0004+32004F90+0032"
+cheat24_enable = false
+
+cheat25_desc = "Infinite Continues"
+cheat25_code = "32004F90+0009"
+cheat25_enable = false
+
+cheat26_desc = "Unlock Movie 1"
+cheat26_code = "32005440+0001"
+cheat26_enable = false
+
+cheat27_desc = "Unlock Movie 2"
+cheat27_code = "32005441+0001"
+cheat27_enable = false
+
+cheat28_desc = "Unlock Movie 3"
+cheat28_code = "32005442+0001"
+cheat28_enable = false
+
+cheat29_desc = "Unlock Movie 4"
+cheat29_code = "32005443+0001"
+cheat29_enable = false
+
+cheat30_desc = "Unlock All Movies"
+cheat30_code = "82005440+0101+82005442+0101"
+cheat30_enable = false
+
+cheat31_desc = "Have All Keys"
+cheat31_code = "42005010+0001+00000003+0002"
+cheat31_enable = false
+
+cheat32_desc = "Have All Instruments"
+cheat32_code = "32002D6C+0003"
+cheat32_enable = false

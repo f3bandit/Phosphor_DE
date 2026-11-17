@@ -1,0 +1,41 @@
+cheats = 10
+
+cheat0_desc = "0% Damage Received"
+cheat0_code = "820028A0+012C"
+cheat0_enable = false
+
+cheat1_desc = "100% Damage Inflicted"
+cheat1_code = "82001098+0000"
+cheat1_enable = false
+
+cheat2_desc = "Have All Awards"
+cheat2_code = "320001D0+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Have All Charts"
+cheat3_code = "4200F0BC+0101+00000003+0002"
+cheat3_enable = false
+
+cheat4_desc = "Have Upgrade: Iron Clad-Armor"
+cheat4_code = "32002880+0005"
+cheat4_enable = false
+
+cheat5_desc = "Have Upgrade: Leviathan Class-Cargo Hold"
+cheat5_code = "32002884+0005"
+cheat5_enable = false
+
+cheat6_desc = "Have Upgrade: Salty Dogs-Crew Training"
+cheat6_code = "3200287C+0005"
+cheat6_enable = false
+
+cheat7_desc = "Have Upgrade: Tsunami Class-Cannon"
+cheat7_code = "32002878+0005"
+cheat7_enable = false
+
+cheat8_desc = "Have Upgrade: Typhoon Class-Sail"
+cheat8_code = "32002874+0005"
+cheat8_enable = false
+
+cheat9_desc = "Iron Clad-Armor"
+cheat9_code = "8200C5E8+874A"
+cheat9_enable = false

@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "All Weapons+Ammo"
+cheat0_code = "74000130+00FD+83007E82+E04F"
+cheat0_enable = false
+
+cheat1_desc = "Full Automap"
+cheat1_code = "33000330+0001"
+cheat1_enable = false
+
+cheat2_desc = "God Mode"
+cheat2_code = "74000130+00FF+83007E82+E06F"
+cheat2_enable = false

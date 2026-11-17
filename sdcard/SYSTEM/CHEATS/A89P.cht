@@ -1,0 +1,61 @@
+cheats = 15
+
+cheat0_desc = "Gauge Always 0"
+cheat0_code = "32005174+0064"
+cheat0_enable = false
+
+cheat1_desc = "Have Complete Library"
+cheat1_code = "42007620+8282+0000007C+0002+32007718+0082"
+cheat1_enable = false
+
+cheat2_desc = "Have Complete Pack"
+cheat2_code = "320070A2+00F8+32007719+0001+4200771A+0302+020200AA+0002+32007810+00F8+42007812+6363+0000007D+0002"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Chip HP"
+cheat3_code = "4200B842+270F+0000000B+000C"
+cheat3_enable = false
+
+cheat4_desc = "Infinite HP"
+cheat4_code = "8200B832+270F"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Zenny"
+cheat5_code = "82007110+967F+82007112+0098"
+cheat5_enable = false
+
+cheat6_desc = "Maximum AP"
+cheat6_code = "8200B836+270F+8200B834+270F"
+cheat6_enable = false
+
+cheat7_desc = "Maximum Chip AP"
+cheat7_code = "4200B83E+270F+0000000B+000C"
+cheat7_enable = false
+
+cheat8_desc = "Maximum HP"
+cheat8_code = "82005170+270F"
+cheat8_enable = false
+
+cheat9_desc = "Maximum MB"
+cheat9_code = "8200747A+033D"
+cheat9_enable = false
+
+cheat10_desc = "Rival: Chips Have No AP"
+cheat10_code = "4200B8CE+0000+0000000B+000C"
+cheat10_enable = false
+
+cheat11_desc = "Rival: Chips Have No HP"
+cheat11_code = "4200B8D2+0000+0000000B+000C"
+cheat11_enable = false
+
+cheat12_desc = "Rival: Has No AP"
+cheat12_code = "8200B8C6+0000+8200B8C4+0000"
+cheat12_enable = false
+
+cheat13_desc = "Rival: Has No HP"
+cheat13_code = "8200B8C2+0000"
+cheat13_enable = false
+
+cheat14_desc = "Slot Max 99MB"
+cheat14_code = "3200747C+0063"
+cheat14_enable = false

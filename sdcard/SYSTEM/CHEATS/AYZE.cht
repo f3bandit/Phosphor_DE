@@ -1,0 +1,53 @@
+cheats = 13
+
+cheat0_desc = "Den Of Rocky"
+cheat0_code = "73003BC4+B18C+33003BC2+0005"
+cheat0_enable = false
+
+cheat1_desc = "Have All Abilities"
+cheat1_code = "3203FF61+00FF"
+cheat1_enable = false
+
+cheat2_desc = "Have All Levels Open"
+cheat2_code = "3203FFF5+00FF+3203FFF7+00FF+3203FFF8+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Have All Lums+Cages Collected"
+cheat3_code = "4203FF70+0000+00000042+0002"
+cheat3_enable = false
+
+cheat4_desc = "Heart Of The Ancients"
+cheat4_code = "73003BE8+B18C+33003BE6+0005"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Health"
+cheat5_code = "33003DBE+0005"
+cheat5_enable = false
+
+cheat6_desc = "Mega Jump"
+cheat6_code = "33003D1D+0000"
+cheat6_enable = false
+
+cheat7_desc = "River Of Fire"
+cheat7_code = "73003D60+B18C+33003D5E+0005+73003DB4+B18C+33003DB2+0005"
+cheat7_enable = false
+
+cheat8_desc = "Swamp Of Begoniax"
+cheat8_code = "73003D60+7F18+33003D5E+0005"
+cheat8_enable = false
+
+cheat9_desc = "Swamp Of Begoniax 2"
+cheat9_code = "73003E00+7F18+33003DFE+0005"
+cheat9_enable = false
+
+cheat10_desc = "Void Of Bones"
+cheat10_code = "73003F68+B18C+33003F66+0005+73003EA4+B18C+33003EA2+0005"
+cheat10_enable = false
+
+cheat11_desc = "Infinite Lives"
+cheat11_code = "3203FFF6+0063"
+cheat11_enable = false
+
+cheat12_desc = "Infinite Power"
+cheat12_code = "8203FF66+019A"
+cheat12_enable = false

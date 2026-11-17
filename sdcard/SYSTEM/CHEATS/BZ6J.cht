@@ -1,0 +1,157 @@
+cheats = 39
+
+cheat0_desc = "All Key Items"
+cheat0_code = "82001EBA+FFFF+32001EBC+0009"
+cheat0_enable = false
+
+cheat1_desc = "Armor Modifier"
+cheat1_code = "32001622+0000"
+cheat1_enable = false
+
+cheat2_desc = "Complete Beastiary"
+cheat2_code = "42039800+0063+000001A3+0002"
+cheat2_enable = false
+
+cheat3_desc = "Equipped Esper Modifier"
+cheat3_code = "3200161E+0000"
+cheat3_enable = false
+
+cheat4_desc = "First Stat"
+cheat4_code = "3200161A+00FF"
+cheat4_enable = false
+
+cheat5_desc = "Fly On Daryl's Airship"
+cheat5_code = "32001E94+00FF+320011FA+0003"
+cheat5_enable = false
+
+cheat6_desc = "Fourth Stat"
+cheat6_code = "3200161D+00FF"
+cheat6_enable = false
+
+cheat7_desc = "Have All Items"
+cheat7_code = "42039130+6363+000000FF+0001+42039010+0100+010100FF+0001"
+cheat7_enable = false
+
+cheat8_desc = "Have All Magicite"
+cheat8_code = "82039000+FFFF+82039002+7FFF"
+cheat8_enable = false
+
+cheat9_desc = "Have Kefka And Leo In Party"
+cheat9_code = "8200185E+5951"
+cheat9_enable = false
+
+cheat10_desc = "Have Sprint Shoes and Moogle Charm Effects"
+cheat10_code = "320011DF+0022"
+cheat10_enable = false
+
+cheat11_desc = "Helm Modifier"
+cheat11_code = "32001621+0000"
+cheat11_enable = false
+
+cheat12_desc = "Infinite Health Everyone (In Battle Only)"
+cheat12_code = "42002E78+270F+00000004+0002"
+cheat12_enable = false
+
+cheat13_desc = "Infinite Health Slot 1"
+cheat13_code = "82002E78+270F"
+cheat13_enable = false
+
+cheat14_desc = "Infinite Health Slot 2"
+cheat14_code = "82002E7A+270F"
+cheat14_enable = false
+
+cheat15_desc = "Infinite Health Slot 3"
+cheat15_code = "82002E7C+270F"
+cheat15_enable = false
+
+cheat16_desc = "Infinite Health Slot 4"
+cheat16_code = "82002E7E+270F"
+cheat16_enable = false
+
+cheat17_desc = "Infinite High Gil"
+cheat17_code = "32001862+0097"
+cheat17_enable = false
+
+cheat18_desc = "Infinite Maximum Gil"
+cheat18_code = "82001860+967F+32001862+0098"
+cheat18_enable = false
+
+cheat19_desc = "Left Hand Item Modifier"
+cheat19_code = "32001620+0000"
+cheat19_enable = false
+
+cheat20_desc = "Map Modifier"
+cheat20_code = "74000130+02FF+82001F64+0000+74000130+02FF+82000082+0000"
+cheat20_enable = false
+
+cheat21_desc = "Mog Has All Dances"
+cheat21_code = "32001D4C+00FF"
+cheat21_enable = false
+
+cheat22_desc = "Monster Group Modifier"
+cheat22_code = "820011E0+027D"
+cheat22_enable = false
+
+cheat23_desc = "Morph Time Maxed For Every Battle"
+cheat23_code = "32001CF6+00FF"
+cheat23_enable = false
+
+cheat24_desc = "No Random Battles (World Map Only)"
+cheat24_code = "82001F6E+0000"
+cheat24_enable = false
+
+cheat25_desc = "Press Down+Select At The Status Screen To Change That Character's Commands As If They Were Gogo"
+cheat25_code = "74000130+037B+32020C2E+0003"
+cheat25_enable = false
+
+cheat26_desc = "Press Down+Select At The Status Screen To Enable All Abilities For Selection"
+cheat26_code = "74000130+037B+4202625E+0201+0202000F+0002+3202627C+001F"
+cheat26_enable = false
+
+cheat27_desc = "Press L+A At Main Menu To Enter Party Select Menu"
+cheat27_code = "74000130+01FE+32020C34+000D"
+cheat27_enable = false
+
+cheat28_desc = "Press L+Up To Instantly Win Battle"
+cheat28_code = "74000130+01BB+32003A77+0000"
+cheat28_enable = false
+
+cheat29_desc = "Press Up+Select While In Battle At The Coliseum To Take Control of Your Character"
+cheat29_code = "74000130+03BB+32007B95+0004+74000130+03BB+32003A97+0000"
+cheat29_enable = false
+
+cheat30_desc = "Relic Slot 1 Modifier"
+cheat30_code = "32001623+0000"
+cheat30_enable = false
+
+cheat31_desc = "Relic Slot 2 Modifier"
+cheat31_code = "32001624+0000"
+cheat31_enable = false
+
+cheat32_desc = "Right Hand Item Modifier"
+cheat32_code = "3200161F+0000"
+cheat32_enable = false
+
+cheat33_desc = "Room Modifier"
+cheat33_code = "32001F64+0000"
+cheat33_enable = false
+
+cheat34_desc = "Save Anywhere"
+cheat34_code = "32001EB7+0080"
+cheat34_enable = false
+
+cheat35_desc = "Saved Game Has Been Beaten"
+cheat35_code = "3203900A+0001"
+cheat35_enable = false
+
+cheat36_desc = "Second Stat"
+cheat36_code = "3200161B+00FF"
+cheat36_enable = false
+
+cheat37_desc = "Shop Modifier"
+cheat37_code = "32000201+0000"
+cheat37_enable = false
+
+cheat38_desc = "Third Stat"
+cheat38_code = "3200161C+00FF"
+cheat38_enable = false

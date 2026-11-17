@@ -1,0 +1,97 @@
+cheats = 24
+
+cheat0_desc = "Force At Maximum Always"
+cheat0_code = "8200DCE8+1388"
+cheat0_enable = false
+
+cheat1_desc = "Have 50'000 Funds"
+cheat1_code = "83006EC8+C350+83006ECC+03E7"
+cheat1_enable = false
+
+cheat2_desc = "Have All DS Plans"
+cheat2_code = "43006EEA+FFFF+00000007+0002"
+cheat2_enable = false
+
+cheat3_desc = "Have Speed x2"
+cheat3_code = "330033FC+00FF"
+cheat3_enable = false
+
+cheat4_desc = "Have Strength x2"
+cheat4_code = "330033FB+00FF"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Force For Story E1/Free Mode E2 And E3"
+cheat5_code = "8200DCE8+2710"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Force For Story E2 And E3/Free Mode E1"
+cheat6_code = "820090BC+2710"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Health For Story E1/Free Mode E2 And E3"
+cheat7_code = "8200DCD4+03E8"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Health For Story E2 And E3/Free Mode E1"
+cheat8_code = "820090A8+03E8"
+cheat8_enable = false
+
+cheat9_desc = "Level Modifier (Raw Code)"
+cheat9_code = "33006DB2+0000"
+cheat9_enable = false
+
+cheat10_desc = "Max. Amount of Lasers Deflected"
+cheat10_code = "83006ECE+03E7"
+cheat10_enable = false
+
+cheat11_desc = "Max. Force For Story E1/Free Mode E2 And E3"
+cheat11_code = "8200DCEA+2710"
+cheat11_enable = false
+
+cheat12_desc = "Max. Force For Story E2 And E3/Free Mode E1"
+cheat12_code = "820090BE+2710"
+cheat12_enable = false
+
+cheat13_desc = "Max. Health For Story E1/Free Mode E2 And E3"
+cheat13_code = "8200DCD6+03E8"
+cheat13_enable = false
+
+cheat14_desc = "Max. Kills"
+cheat14_code = "83006ED0+03E7"
+cheat14_enable = false
+
+cheat15_desc = "Max. Lego Pieces Collected (During The Level)"
+cheat15_code = "83006ECC+03E7"
+cheat15_enable = false
+
+cheat16_desc = "Overall Score"
+cheat16_code = "83006AA0+0320"
+cheat16_enable = false
+
+cheat17_desc = "Slot #1"
+cheat17_code = "330033EC+0000"
+cheat17_enable = false
+
+cheat18_desc = "Slot #2"
+cheat18_code = "330033ED+0000"
+cheat18_enable = false
+
+cheat19_desc = "Slot #3"
+cheat19_code = "330033EE+0000"
+cheat19_enable = false
+
+cheat20_desc = "Slot #4"
+cheat20_code = "330033EF+0000"
+cheat20_enable = false
+
+cheat21_desc = "Take objects and hit enemies anywhere"
+cheat21_code = "83000760+0051+83000762+AA00+83000784+0044+83000786+1A00+830007A4+0039+830007A6+0A00+83000844+0011+83000846+BA00+83000858+000C+8300085A+BA00+74000130+01FF+83000760+0000+74000130+01FF+83000762+E1A0+74000130+01FF+83000784+0000+74000130+01FF+83000786+E1A0+74000130+01FF+830007A4+0000+74000130+01FF+830007A6+E1A0+74000130+01FF+83000844+0000+74000130+01FF+83000846+E1A0+74000130+01FF+83000858+0000+74000130+01FF+8300085A+E1A0"
+cheat21_enable = false
+
+cheat22_desc = "Unlock All Characters"
+cheat22_code = "83006F62+FFFF"
+cheat22_enable = false
+
+cheat23_desc = "Unlock All Stages"
+cheat23_code = "83006F5C+FFFF"
+cheat23_enable = false

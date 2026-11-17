@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Open All Missions"
+cheat0_code = "83007700+BFFF"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Ammo"
+cheat1_code = "8300770A+0999"
+cheat1_enable = false
+
+cheat2_desc = "No Alarms Tripped"
+cheat2_code = "3300766C+0000"
+cheat2_enable = false

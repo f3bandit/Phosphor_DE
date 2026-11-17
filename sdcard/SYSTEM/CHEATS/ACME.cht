@@ -1,0 +1,57 @@
+cheats = 14
+
+cheat0_desc = "Axles"
+cheat0_code = "330055F1+0000+32028759+0000"
+cheat0_enable = false
+
+cheat1_desc = "Body"
+cheat1_code = "330055EC+0000+32028754+0000"
+cheat1_enable = false
+
+cheat2_desc = "Brakes"
+cheat2_code = "330055EB+0000+32028753+0000"
+cheat2_enable = false
+
+cheat3_desc = "Diff."
+cheat3_code = "330055EA+0000+32028752+0000"
+cheat3_enable = false
+
+cheat4_desc = "DriveShaft"
+cheat4_code = "330055F0+0000+32028758+0000"
+cheat4_enable = false
+
+cheat5_desc = "Electrics"
+cheat5_code = "330055EE+0000+32028756+0000"
+cheat5_enable = false
+
+cheat6_desc = "Exhaust"
+cheat6_code = "330055EF+0000+32028757+0000"
+cheat6_enable = false
+
+cheat7_desc = "Gearbox"
+cheat7_code = "330055E7+0000+3202874F+0000"
+cheat7_enable = false
+
+cheat8_desc = "Low Stage Time (Always Place 1st)"
+cheat8_code = "83004C84+0000"
+cheat8_enable = false
+
+cheat9_desc = "Press Select+L To End Stage"
+cheat9_code = "74000130+01FB+33003E22+000A+74000130+01FB+33004B14+00FF"
+cheat9_enable = false
+
+cheat10_desc = "Steering"
+cheat10_code = "330055ED+0000+32028755+0000"
+cheat10_enable = false
+
+cheat11_desc = "Susp."
+cheat11_code = "330055E9+0000+32028751+0000"
+cheat11_enable = false
+
+cheat12_desc = "Turbo"
+cheat12_code = "330055E8+0000+32028750+0000"
+cheat12_enable = false
+
+cheat13_desc = "Unlock All Cars"
+cheat13_code = "820280DE+62D7+82028248+7990+8202824A+0001+4202824C+7990+00000017+0004+4202824E+0000+00000017+0004+820282D8+070F"
+cheat13_enable = false

@@ -1,0 +1,37 @@
+cheats = 9
+
+cheat0_desc = "Easy Scripture Tests"
+cheat0_code = "33003BE0+0001+33003BEC+0001"
+cheat0_enable = false
+
+cheat1_desc = "Have 50,000 Points"
+cheat1_code = "83003BFC+C350"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Bibles"
+cheat2_code = "330043E4+0009"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Crosses"
+cheat3_code = "330043D4+0063"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Health"
+cheat4_code = "830049CC+012C"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Holy Water"
+cheat5_code = "3300498C+0063"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Keys"
+cheat6_code = "330049E0+0009"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Lives"
+cheat7_code = "33004980+0063"
+cheat7_enable = false
+
+cheat8_desc = "Lots Of Scrolls"
+cheat8_code = "330043E4+0063"
+cheat8_enable = false

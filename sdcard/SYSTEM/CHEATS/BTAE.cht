@@ -1,0 +1,121 @@
+cheats = 30
+
+cheat0_desc = "Access All Events"
+cheat0_code = "43000018+FFFF+00000010+0002"
+cheat0_enable = false
+
+cheat1_desc = "Access All Stages"
+cheat1_code = "430012AC+FFFF+00000004+0002"
+cheat1_enable = false
+
+cheat2_desc = "Access Sound/Event Tests"
+cheat2_code = "33000044+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Access Stage Select"
+cheat3_code = "330012BB+0002"
+cheat3_enable = false
+
+cheat4_desc = "Always Low Time"
+cheat4_code = "830027D8+0088"
+cheat4_enable = false
+
+cheat5_desc = "Complete Character List"
+cheat5_code = "43000048+1111+00000017+0002"
+cheat5_enable = false
+
+cheat6_desc = "Full EX Gauge"
+cheat6_code = "83002808+FFFF"
+cheat6_enable = false
+
+cheat7_desc = "Have All Characters (Omega Factor Grid)"
+cheat7_code = "4300282A+1111+00000017+0002"
+cheat7_enable = false
+
+cheat8_desc = "Hit Anywhere"
+cheat8_code = "88069BA6+E00A"
+cheat8_enable = false
+
+cheat9_desc = "Infinite Life"
+cheat9_code = "33002802+0064"
+cheat9_enable = false
+
+cheat10_desc = "Infinite Super"
+cheat10_code = "3300280A+0063"
+cheat10_enable = false
+
+cheat11_desc = "Invincible"
+cheat11_code = "330027FA+0003"
+cheat11_enable = false
+
+cheat12_desc = "Max All Stats"
+cheat12_code = "43002858+0707+00000003+0002"
+cheat12_enable = false
+
+cheat13_desc = "Max Jets"
+cheat13_code = "3300285C+0006"
+cheat13_enable = false
+
+cheat14_desc = "Max Laser"
+cheat14_code = "3300285A+0007"
+cheat14_enable = false
+
+cheat15_desc = "Max Life"
+cheat15_code = "33002858+0007"
+cheat15_enable = false
+
+cheat16_desc = "Max Punch"
+cheat16_code = "33002859+0007"
+cheat16_enable = false
+
+cheat17_desc = "Max Score"
+cheat17_code = "83002824+967F+83002826+0098"
+cheat17_enable = false
+
+cheat18_desc = "Max Score Multiplier"
+cheat18_code = "330027F9+0063"
+cheat18_enable = false
+
+cheat19_desc = "Max Sensor"
+cheat19_code = "3300285D+0004"
+cheat19_enable = false
+
+cheat20_desc = "Max Shot"
+cheat20_code = "3300285B+0007"
+cheat20_enable = false
+
+cheat21_desc = "Maximum Life"
+cheat21_code = "33002804+0064"
+cheat21_enable = false
+
+cheat22_desc = "Stop Timer"
+cheat22_code = "830027D8+0000"
+cheat22_enable = false
+
+cheat23_desc = "Unlock All Character Bios"
+cheat23_code = "33000049+0007+4300004A+0707+00000017+0002"
+cheat23_enable = false
+
+cheat24_desc = "Unlock All Character Profiles"
+cheat24_code = "4300004A+0707+00000017+0004+33000049+0007"
+cheat24_enable = false
+
+cheat25_desc = "Unlock All Events (Event Test)"
+cheat25_code = "43000014+FFFF+00000018+0002"
+cheat25_enable = false
+
+cheat26_desc = "Unlock All Levels & Mid-Battle Stage Select"
+cheat26_code = "830012BA+0200+430012AC+FFFF+00000004+0002"
+cheat26_enable = false
+
+cheat27_desc = "Unlock Mid-Battle Stage Select Only"
+cheat27_code = "830012BA+0200"
+cheat27_enable = false
+
+cheat28_desc = "Infinite Health"
+cheat28_code = "33002802+012C"
+cheat28_enable = false
+
+cheat29_desc = "Press Start + Down To Access Debug Menu"
+cheat29_code = "83003F40+B40F+83003F44+4807+83003F46+8800+83003F48+4907+83003F4A+4288+83003F4C+D106+83003F50+4806+83003F52+6800+83003F54+4906+83003F56+1809+83003F58+4806+83003F5A+6008+83003F5C+BC0F+83003F5E+1889+83003F60+6808+83003F62+4700+83003F64+0130+83003F66+0400+83003F68+0377+83003F6C+287C+83003F6E+0300+83003F70+01B4+83003F74+0503+830029D0+3000+830029D2+E59F+830029D4+FF13+830029D6+E12F+830029D8+3F41+830029DA+0300"
+cheat29_enable = false

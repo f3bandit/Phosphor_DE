@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Gold Modifier"
+cheat0_code = "82004080+0000+82004082+0000"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Stamina"
+cheat1_code = "820041F4+4B00"
+cheat1_enable = false
+
+cheat2_desc = "Slot 1 Modifier"
+cheat2_code = "82004238+0100"
+cheat2_enable = false
+
+cheat3_desc = "Slot 2 Modifier"
+cheat3_code = "8200423A+0100"
+cheat3_enable = false

@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Access All Players"
+cheat0_code = "330005DE+0002"
+cheat0_enable = false
+
+cheat1_desc = "All Worlds Complete"
+cheat1_code = "33000638+007D+430005F4+0001+00000004+0002+430005FC+0505+00000016+0002"
+cheat1_enable = false
+
+cheat2_desc = "Have 5 Gold Hearts"
+cheat2_code = "33000564+0005"
+cheat2_enable = false
+
+cheat3_desc = "Have All Abilities"
+cheat3_code = "330005D8+00FF"
+cheat3_enable = false
+
+cheat4_desc = "Have All Rip-Zippers"
+cheat4_code = "830005E0+FFFF+830005E2+FFFF"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Health"
+cheat5_code = "33000564+0006"
+cheat5_enable = false
+
+cheat6_desc = "Skip Level [Press Select]"
+cheat6_code = "D0000020+0004+83000514+0011"
+cheat6_enable = false

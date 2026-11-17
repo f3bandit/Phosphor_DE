@@ -1,0 +1,37 @@
+cheats = 9
+
+cheat0_desc = "99 Special Spuds"
+cheat0_code = "33002811+0063"
+cheat0_enable = false
+
+cheat1_desc = "End Road [Press Select]"
+cheat1_code = "D0000020+0004+8300598C+0001"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Busses"
+cheat2_code = "33002812+0064"
+cheat2_enable = false
+
+cheat3_desc = "Max Score"
+cheat3_code = "33004EC8+00FF+33004EC9+00E0+33004ECA+00F5+33004ECB+0005"
+cheat3_enable = false
+
+cheat4_desc = "Start With Hi-Score"
+cheat4_code = "73004EC8+0000+83004EC8+1388"
+cheat4_enable = false
+
+cheat5_desc = "Unlock All Mission Games"
+cheat5_code = "43002470+0000+00000005+0002"
+cheat5_enable = false
+
+cheat6_desc = "Unlock All Score Games"
+cheat6_code = "43002482+0000+00000004+0002"
+cheat6_enable = false
+
+cheat7_desc = "Max Special Spuds"
+cheat7_code = "33002811+0064"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Lives"
+cheat8_code = "83002812+2364"
+cheat8_enable = false

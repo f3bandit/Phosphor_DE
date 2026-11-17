@@ -1,0 +1,553 @@
+cheats = 138
+
+cheat0_desc = "50,000 Battle Points"
+cheat0_code = "820232C0+C350"
+cheat0_enable = false
+
+cheat1_desc = "50,000 Shop Points"
+cheat1_code = "8200C420+C350"
+cheat1_enable = false
+
+cheat2_desc = "All 3P Maps"
+cheat2_code = "82028048+FFFF+8202804A+FFFF"
+cheat2_enable = false
+
+cheat3_desc = "All 4P Maps"
+cheat3_code = "8202804E+FFFF"
+cheat3_enable = false
+
+cheat4_desc = "All Battle Maps"
+cheat4_code = "42028040+FFFF+0000000D+0002"
+cheat4_enable = false
+
+cheat5_desc = "All COs Unlocked"
+cheat5_code = "8202805A+FFFF"
+cheat5_enable = false
+
+cheat6_desc = "All Pre-Deployed Maps"
+cheat6_code = "82028048+FFFF"
+cheat6_enable = false
+
+cheat7_desc = "All Units - HP Regen"
+cheat7_code = "32022694+00E4+320226A0+00E4+320226AC+00E4+320226B8+00E4+320226C4+00E4+320226D0+00E4+320226DC+00E4+320226E8+00E4+320226F4+00E4+32022700+00E4+3202270C+00E4+32022718+00E4+32022724+00E4+32022730+00E4+3202273C+00E4+32022748+00E4+32022754+00E4+32022760+00E4+3202276C+00E4+32022778+00E4+32022784+00E4+32022790+00E4+3202279C+00E4+320227A8+00E4+320227B4+00E4+320227C0+00E4+320227CC+00E4+320227D8+00E4+320227E4+00E4+320227F0+00E4+320227FC+00E4+32022808+00E4+32022814+00E4+32022820+00E4+3202282C+00E4+32022838+00E4+32022844+00E4+32022850+00E4+3202285C+00E4+32022868+00E4+32022874+00E4+32022880+00E4+3202288C+00E4+32022898+00E4+320228A4+00E4+320228B0+00E4+320228BC+00E4+320228C8+00E4+320228D4+00E4+320228E0+00E4"
+cheat7_enable = false
+
+cheat8_desc = "All Units - Infinite Fuel"
+cheat8_code = "32022696+0063+320226A2+0063+320226AE+0063+320226BA+0063+320226C6+0063+320226D2+0063+320226DE+0063+320226EA+0063+320226F6+0063+32022702+0063+3202270E+0063+3202271A+0063+32022726+0063+32022732+0063+3202273E+0063+3202274A+0063+32022756+0063+32022762+0063+3202276E+0063+3202277A+0063+32022786+0063+32022792+0063+3202279E+0063+320227AA+0063+320227B6+0063+320227C2+0063+320227CE+0063+320227DA+0063+320227E6+0063+320227F2+0063+320227FE+0063+3202280A+0063+32022816+0063+32022822+0063+3202282E+0063+3202283A+0063+32022846+0063+32022852+0063+3202285E+0063+3202286A+0063+32022876+0063+32022882+0063+3202288E+0063+3202289A+0063+320228A6+0063+320228B2+0063+320228BE+0063+320228CA+0063+320228D6+0063+320228E2+0063"
+cheat8_enable = false
+
+cheat9_desc = "All Units - Infinite Health/Rounds"
+cheat9_code = "42022694+94E4+00000032+000C"
+cheat9_enable = false
+
+cheat10_desc = "All Units - Infinite Rations"
+cheat10_code = "42022696+0063+00000032+000C"
+cheat10_enable = false
+
+cheat11_desc = "All Vs Maps"
+cheat11_code = "82028046+FFFF"
+cheat11_enable = false
+
+cheat12_desc = "All War Room Maps"
+cheat12_code = "82028052+FFFF"
+cheat12_enable = false
+
+cheat13_desc = "Always Day 1"
+cheat13_code = "33004080+0001"
+cheat13_enable = false
+
+cheat14_desc = "Always Get S Rank"
+cheat14_code = "320232F3+0005"
+cheat14_enable = false
+
+cheat15_desc = "Army #2 Flag Modifier"
+cheat15_code = "32023316+0000"
+cheat15_enable = false
+
+cheat16_desc = "Army #3 Flag Modifier"
+cheat16_code = "32023352+0000"
+cheat16_enable = false
+
+cheat17_desc = "Army #4 Flag Modifier"
+cheat17_code = "3202338E+0000"
+cheat17_enable = false
+
+cheat18_desc = "Blue Team - Max Power"
+cheat18_code = "3202331F+0002"
+cheat18_enable = false
+
+cheat19_desc = "Blue Team - No Power"
+cheat19_code = "8202331C+0000"
+cheat19_enable = false
+
+cheat20_desc = "CO Power Maxed"
+cheat20_code = "320232E3+0003"
+cheat20_enable = false
+
+cheat21_desc = "Collect 1,000 Points per Win"
+cheat21_code = "820232F8+03E8"
+cheat21_enable = false
+
+cheat22_desc = "Full C.O. Meter"
+cheat22_code = "320232E1+00FF+320232E2+0001"
+cheat22_enable = false
+
+cheat23_desc = "Green Team - Infinite Funds"
+cheat23_code = "82023338+C350"
+cheat23_enable = false
+
+cheat24_desc = "Green Team - Max Power"
+cheat24_code = "3202335B+0002"
+cheat24_enable = false
+
+cheat25_desc = "Green Team - No Funds"
+cheat25_code = "82023338+0000"
+cheat25_enable = false
+
+cheat26_desc = "Green Team - No Power"
+cheat26_code = "82023358+0000"
+cheat26_enable = false
+
+cheat27_desc = "Infinite Funds Team 2"
+cheat27_code = "820232FC+FFFF"
+cheat27_enable = false
+
+cheat28_desc = "Infinite Funds Team 4"
+cheat28_code = "82023374+C350"
+cheat28_enable = false
+
+cheat29_desc = "Infinite G"
+cheat29_code = "820232C0+423F+820232C2+000F"
+cheat29_enable = false
+
+cheat30_desc = "Infinite Health/Rounds Team 3"
+cheat30_code = "82022C94+94E4+82022CA0+94E4+82022CAC+94E4+82022CB8+94E4+82022CC4+94E4+82022CD0+94E4+82022CDC+94E4+82022CE8+94E4+82022CF4+94E4+82022D00+94E4+82022D0C+94E4+82022D18+94E4+82022D24+94E4+82022D30+94E4+82022D3C+94E4+82022D48+94E4+82022D54+94E4+82022D60+94E4+82022D6C+94E4+82022D78+94E4"
+cheat30_enable = false
+
+cheat31_desc = "Infinite Health/Rounds Team 4"
+cheat31_code = "82022F94+94E4+82022FA0+94E4+82022FAC+94E4+82022FB8+94E4+82022FC4+94E4+82022FD0+94E4+82022FDC+94E4+82022FE8+94E4+82022FF4+94E4+82023000+94E4+8202300C+94E4+82023018+94E4+82023024+94E4+82023030+94E4+8202303C+94E4+82023048+94E4+82023054+94E4+82023060+94E4+8202306C+94E4+82023078+94E4"
+cheat31_enable = false
+
+cheat32_desc = "Infinite Money Team 1"
+cheat32_code = "320232C0+00FF"
+cheat32_enable = false
+
+cheat33_desc = "Infinite Rations Team 3"
+cheat33_code = "82022C96+0063+82022CA2+0063+82022CAE+0063+82022CBA+0063+82022CC6+0063+82022CD2+0063+82022CDE+0063+82022CEA+0063+82022CF6+0063+82022D02+0063+82022D0E+0063+82022D1A+0063+82022D26+0063+82022D32+0063+82022D3E+0063+82022D4A+0063+82022D56+0063+82022D62+0063+82022D6E+0063+82022D7A+0063"
+cheat33_enable = false
+
+cheat34_desc = "Infinite Rations Team 4"
+cheat34_code = "82022F96+0063+82022FA2+0063+82022FAE+0063+82022FBA+0063+82022FC6+0063+82022FD2+0063+82022FDE+0063+82022FEA+0063+82022FF6+0063+82023002+0063+8202300E+0063+8202301A+0063+82023026+0063+82023032+0063+8202303E+0063+8202304A+0063+82023056+0063+82023062+0063+8202306E+0063+8202307A+0063"
+cheat34_enable = false
+
+cheat35_desc = "Infinite Stock"
+cheat35_code = "82017C78+FDE8+82017C7C+FDE8"
+cheat35_enable = false
+
+cheat36_desc = "Max Stars"
+cheat36_code = "320232E1+00FF+320232E2+00FF"
+cheat36_enable = false
+
+cheat37_desc = "Max Stars (Opponent)"
+cheat37_code = "3202331D+00FF+3202331E+00FF"
+cheat37_enable = false
+
+cheat38_desc = "No Fog of War"
+cheat38_code = "33003FCD+0000"
+cheat38_enable = false
+
+cheat39_desc = "No Funds Team 2"
+cheat39_code = "820232FC+0000"
+cheat39_enable = false
+
+cheat40_desc = "No Funds Team 4"
+cheat40_code = "82023374+0000"
+cheat40_enable = false
+
+cheat41_desc = "No Rations Team 2"
+cheat41_code = "82022696+0000+820226A2+0000+820226AE+0000+820226BA+0000+820226C6+0000+820226D2+0000+820226DE+0000+820226EA+0000+820226F6+0000+82022702+0000+8202270E+0000+8202271A+0000+82022726+0000+82022732+0000+8202273E+0000+8202274A+0000+82022756+0000+82022762+0000+8202276E+0000+8202277A+0000"
+cheat41_enable = false
+
+cheat42_desc = "No Rations Team 3"
+cheat42_code = "82022C96+0000+82022CA2+0000+82022CAE+0000+82022CBA+0000+82022CC6+0000+82022CD2+0000+82022CDE+0000+82022CEA+0000+82022CF6+0000+82022D02+0000+82022D0E+0000+82022D1A+0000+82022D26+0000+82022D32+0000+82022D3E+0000+82022D4A+0000+82022D56+0000+82022D62+0000+82022D6E+0000+82022D7A+0000"
+cheat42_enable = false
+
+cheat43_desc = "No Rations Team 4"
+cheat43_code = "82022F96+0000+82022FA2+0000+82022FAE+0000+82022FBA+0000+82022FC6+0000+82022FD2+0000+82022FDE+0000+82022FEA+0000+82022FF6+0000+82023002+0000+8202300E+0000+8202301A+0000+82023026+0000+82023032+0000+8202303E+0000+8202304A+0000+82023056+0000+82023062+0000+8202306E+0000+8202307A+0000"
+cheat43_enable = false
+
+cheat44_desc = "No Stars"
+cheat44_code = "320232E1+0000"
+cheat44_enable = false
+
+cheat45_desc = "No Stars (Opponent)"
+cheat45_code = "3202331D+0000"
+cheat45_enable = false
+
+cheat46_desc = "Super CO Power Always In Effect"
+cheat46_code = "820232DE+0202"
+cheat46_enable = false
+
+cheat47_desc = "Total Points"
+cheat47_code = "8200D9CC+869F+8200D9CE+0001"
+cheat47_enable = false
+
+cheat48_desc = "Unit #1 - Infinite Health"
+cheat48_code = "32022694+00E4"
+cheat48_enable = false
+
+cheat49_desc = "Unit #1 - Infinite Rations"
+cheat49_code = "32022696+0063"
+cheat49_enable = false
+
+cheat50_desc = "Unit #1 - Infinite Rounds"
+cheat50_code = "32022695+0094"
+cheat50_enable = false
+
+cheat51_desc = "Unit #1 - Infinite Turns"
+cheat51_code = "73003334+0006+32022691+0000"
+cheat51_enable = false
+
+cheat52_desc = "Unit #10 - Infinite Health"
+cheat52_code = "32022700+00E4"
+cheat52_enable = false
+
+cheat53_desc = "Unit #10 - Infinite Rations"
+cheat53_code = "32022702+0063"
+cheat53_enable = false
+
+cheat54_desc = "Unit #10 - Infinite Turns"
+cheat54_code = "73003334+0006+320226FD+0000"
+cheat54_enable = false
+
+cheat55_desc = "Unit #11 - Infinite Health"
+cheat55_code = "3202270C+00E4"
+cheat55_enable = false
+
+cheat56_desc = "Unit #11 - Infinite Rations"
+cheat56_code = "3202270E+0063"
+cheat56_enable = false
+
+cheat57_desc = "Unit #11 - Infinite Rounds"
+cheat57_code = "3202270D+0094"
+cheat57_enable = false
+
+cheat58_desc = "Unit #11 - Infinite Turns"
+cheat58_code = "73003334+0006+32022709+0000"
+cheat58_enable = false
+
+cheat59_desc = "Unit #12 - Infinite Health"
+cheat59_code = "32022718+00E4"
+cheat59_enable = false
+
+cheat60_desc = "Unit #12 - Infinite Rations"
+cheat60_code = "3202271A+0063"
+cheat60_enable = false
+
+cheat61_desc = "Unit #12 - Infinite Rounds"
+cheat61_code = "32022719+0094"
+cheat61_enable = false
+
+cheat62_desc = "Unit #12 - Infinite Turns"
+cheat62_code = "73003334+0006+32022715+0000"
+cheat62_enable = false
+
+cheat63_desc = "Unit #13 - Infinite Health"
+cheat63_code = "32022724+00E4"
+cheat63_enable = false
+
+cheat64_desc = "Unit #13 - Infinite Rations"
+cheat64_code = "32022726+0063"
+cheat64_enable = false
+
+cheat65_desc = "Unit #13 - Infinite Rounds"
+cheat65_code = "32022725+0094"
+cheat65_enable = false
+
+cheat66_desc = "Unit #13 - Infinite Turns"
+cheat66_code = "73003334+0006+32022721+0000"
+cheat66_enable = false
+
+cheat67_desc = "Unit #14 - Infinite Health"
+cheat67_code = "32022730+00E4"
+cheat67_enable = false
+
+cheat68_desc = "Unit #14 - Infinite Rations"
+cheat68_code = "32022732+0063"
+cheat68_enable = false
+
+cheat69_desc = "Unit #14 - Infinite Rounds"
+cheat69_code = "32022731+0094"
+cheat69_enable = false
+
+cheat70_desc = "Unit #14 - Infinite Turns"
+cheat70_code = "73003334+0006+3202272D+0000"
+cheat70_enable = false
+
+cheat71_desc = "Unit #15 - Infinite Health"
+cheat71_code = "3202273C+00E4"
+cheat71_enable = false
+
+cheat72_desc = "Unit #15 - Infinite Rations"
+cheat72_code = "3202273E+0063"
+cheat72_enable = false
+
+cheat73_desc = "Unit #15 - Infinite Rounds"
+cheat73_code = "3202273D+0094"
+cheat73_enable = false
+
+cheat74_desc = "Unit #15 - Infinite Turns"
+cheat74_code = "73003334+0006+32022739+0000"
+cheat74_enable = false
+
+cheat75_desc = "Unit #16 - Infinite Health"
+cheat75_code = "32022748+00E4"
+cheat75_enable = false
+
+cheat76_desc = "Unit #16 - Infinite Rations"
+cheat76_code = "3202274A+0063"
+cheat76_enable = false
+
+cheat77_desc = "Unit #16 - Infinite Rounds"
+cheat77_code = "32022749+0094"
+cheat77_enable = false
+
+cheat78_desc = "Unit #16 - Infinite Turns"
+cheat78_code = "73003334+0006+32022745+0000"
+cheat78_enable = false
+
+cheat79_desc = "Unit #17 - Infinite Health"
+cheat79_code = "32022754+00E4"
+cheat79_enable = false
+
+cheat80_desc = "Unit #17 - Infinite Rations"
+cheat80_code = "32022756+0063"
+cheat80_enable = false
+
+cheat81_desc = "Unit #17 - Infinite Rounds"
+cheat81_code = "32022755+0094"
+cheat81_enable = false
+
+cheat82_desc = "Unit #17 - Infinite Turns"
+cheat82_code = "73003334+0006+32022751+0000"
+cheat82_enable = false
+
+cheat83_desc = "Unit #18 - Infinite Health"
+cheat83_code = "32022760+00E4"
+cheat83_enable = false
+
+cheat84_desc = "Unit #18 - Infinite Rations"
+cheat84_code = "32022762+0063"
+cheat84_enable = false
+
+cheat85_desc = "Unit #18 - Infinite Rounds"
+cheat85_code = "32022761+0094"
+cheat85_enable = false
+
+cheat86_desc = "Unit #18 - Infinite Turns"
+cheat86_code = "73003334+0006+3202275D+0000"
+cheat86_enable = false
+
+cheat87_desc = "Unit #19 - Infinite Health"
+cheat87_code = "3202276C+00E4"
+cheat87_enable = false
+
+cheat88_desc = "Unit #19 - Infinite Rations"
+cheat88_code = "3202276E+0063"
+cheat88_enable = false
+
+cheat89_desc = "Unit #19 - Infinite Rounds"
+cheat89_code = "3202276D+0094"
+cheat89_enable = false
+
+cheat90_desc = "Unit #19 - Infinite Turns"
+cheat90_code = "73003334+0006+32022769+0000"
+cheat90_enable = false
+
+cheat91_desc = "Unit #2 - Infinite Health"
+cheat91_code = "320226A0+00E4"
+cheat91_enable = false
+
+cheat92_desc = "Unit #2 - Infinite Rations"
+cheat92_code = "320226A2+0063"
+cheat92_enable = false
+
+cheat93_desc = "Unit #2 - Infinite Rounds"
+cheat93_code = "320226A1+0094"
+cheat93_enable = false
+
+cheat94_desc = "Unit #2 - Infinite Turns"
+cheat94_code = "73003334+0006+3202269D+0000"
+cheat94_enable = false
+
+cheat95_desc = "Unit #20 - Infinite Health"
+cheat95_code = "32022778+00E4"
+cheat95_enable = false
+
+cheat96_desc = "Unit #20 - Infinite Rations"
+cheat96_code = "3202277A+0063"
+cheat96_enable = false
+
+cheat97_desc = "Unit #20 - Infinite Rounds"
+cheat97_code = "32022779+0094"
+cheat97_enable = false
+
+cheat98_desc = "Unit #20 - Infinite Turns"
+cheat98_code = "73003334+0006+32022775+0000"
+cheat98_enable = false
+
+cheat99_desc = "Unit #3 - Infinite Health"
+cheat99_code = "320226AC+00E4"
+cheat99_enable = false
+
+cheat100_desc = "Unit #3 - Infinite Rations"
+cheat100_code = "320226AE+0063"
+cheat100_enable = false
+
+cheat101_desc = "Unit #3 - Infinite Rounds"
+cheat101_code = "320226AD+0094"
+cheat101_enable = false
+
+cheat102_desc = "Unit #3 - Infinite Turns"
+cheat102_code = "73003334+0006+320226A9+0000"
+cheat102_enable = false
+
+cheat103_desc = "Unit #4 - Infinite Health"
+cheat103_code = "320226B8+00E4"
+cheat103_enable = false
+
+cheat104_desc = "Unit #4 - Infinite Rations"
+cheat104_code = "320226BA+0063"
+cheat104_enable = false
+
+cheat105_desc = "Unit #4 - Infinite Rounds"
+cheat105_code = "320226B9+0094"
+cheat105_enable = false
+
+cheat106_desc = "Unit #4 - Infinite Turns"
+cheat106_code = "73003334+0006+320226B5+0000"
+cheat106_enable = false
+
+cheat107_desc = "Unit #5 - Infinite Health"
+cheat107_code = "320226C4+00E4"
+cheat107_enable = false
+
+cheat108_desc = "Unit #5 - Infinite Rations"
+cheat108_code = "320226C6+0063"
+cheat108_enable = false
+
+cheat109_desc = "Unit #5 - Infinite Rounds"
+cheat109_code = "320226C5+0094"
+cheat109_enable = false
+
+cheat110_desc = "Unit #5 - Infinite Turns"
+cheat110_code = "73003334+0006+320226C1+0000"
+cheat110_enable = false
+
+cheat111_desc = "Unit #6 - Infinite Health"
+cheat111_code = "320226D0+00E4"
+cheat111_enable = false
+
+cheat112_desc = "Unit #6 - Infinite Rations"
+cheat112_code = "320226D2+0063"
+cheat112_enable = false
+
+cheat113_desc = "Unit #6 - Infinite Rounds"
+cheat113_code = "320226D1+0094"
+cheat113_enable = false
+
+cheat114_desc = "Unit #6 - Infinite Turns"
+cheat114_code = "73003334+0006+320226CD+0000"
+cheat114_enable = false
+
+cheat115_desc = "Unit #7 - Infinite Health"
+cheat115_code = "320226DC+00E4"
+cheat115_enable = false
+
+cheat116_desc = "Unit #7 - Infinite Rations"
+cheat116_code = "320226DE+0063"
+cheat116_enable = false
+
+cheat117_desc = "Unit #7 - Infinite Rounds"
+cheat117_code = "320226DD+0094"
+cheat117_enable = false
+
+cheat118_desc = "Unit #7 - Infinite Turns"
+cheat118_code = "73003334+0006+320226D9+0000"
+cheat118_enable = false
+
+cheat119_desc = "Unit #8 - Infinite Health"
+cheat119_code = "320226E8+00E4"
+cheat119_enable = false
+
+cheat120_desc = "Unit #8 - Infinite Rations"
+cheat120_code = "320226EA+0063"
+cheat120_enable = false
+
+cheat121_desc = "Unit #8 - Infinite Rounds"
+cheat121_code = "320226E9+0094"
+cheat121_enable = false
+
+cheat122_desc = "Unit #8 - Infinite Turns"
+cheat122_code = "73003334+0006+320226E5+0000"
+cheat122_enable = false
+
+cheat123_desc = "Unit #9 - Infinite Health"
+cheat123_code = "320226F4+00E4"
+cheat123_enable = false
+
+cheat124_desc = "Unit #9 - Infinite Rations"
+cheat124_code = "320226F6+0063"
+cheat124_enable = false
+
+cheat125_desc = "Unit #9 - Infinite Rounds"
+cheat125_code = "320226F5+0094"
+cheat125_enable = false
+
+cheat126_desc = "Unit #9 - Infinite Turns"
+cheat126_code = "73003334+0006+320226F1+0000"
+cheat126_enable = false
+
+cheat127_desc = "Unlock Hard Campaign"
+cheat127_code = "32028030+0001"
+cheat127_enable = false
+
+cheat128_desc = "Unlock Sound Room"
+cheat128_code = "32028031+0001"
+cheat128_enable = false
+
+cheat129_desc = "Weak Units Team 2"
+cheat129_code = "82022694+0001+820226A0+0001+820226AC+0001+820226B8+0001+820226C4+0001+820226D0+0001+820226DC+0001+820226E8+0001+820226F4+0001+82022700+0001+8202270C+0001+82022718+0001+82022724+0001+82022730+0001+8202273C+0001+82022748+0001+82022754+0001+82022760+0001+8202276C+0001+82022778+0001"
+cheat129_enable = false
+
+cheat130_desc = "Weak Units Team 3"
+cheat130_code = "82022C94+0001+82022CA0+0001+82022CAC+0001+82022CB8+0001+82022CC4+0001+82022CD0+0001+82022CDC+0001+82022CE8+0001+82022CF4+0001+82022D00+0001+82022D0C+0001+82022D18+0001+82022D24+0001+82022D30+0001+82022D3C+0001+82022D48+0001+82022D54+0001+82022D60+0001+82022D6C+0001+82022D78+0001"
+cheat130_enable = false
+
+cheat131_desc = "Weak Units Team 4"
+cheat131_code = "82022F94+0001+82022FA0+0001+82022FAC+0001+82022FB8+0001+82022FC4+0001+82022FD0+0001+82022FDC+0001+82022FE8+0001+82022FF4+0001+82023000+0001+8202300C+0001+82023018+0001+82023024+0001+82023030+0001+8202303C+0001+82023048+0001+82023054+0001+82023060+0001+8202306C+0001+82023078+0001"
+cheat131_enable = false
+
+cheat132_desc = "Yellow Team - Max Power"
+cheat132_code = "32023397+0002"
+cheat132_enable = false
+
+cheat133_desc = "Yellow Team - No Power"
+cheat133_code = "82023394+0000"
+cheat133_enable = false
+
+cheat134_desc = "Press B+Up To Activate Power Mode"
+cheat134_code = "74000130+03BD+820232DE+0101"
+cheat134_enable = false
+
+cheat135_desc = "Press B+Down To Activate Super Mode"
+cheat135_code = "74000130+037D+820232DE+0202"
+cheat135_enable = false
+
+cheat136_desc = "Have All Color Edits"
+cheat136_code = "8202805C+FFFF+8202805E+FFFF"
+cheat136_enable = false
+
+cheat137_desc = "War Room Mastered"
+cheat137_code = "4200C078+0101+0000001E+0014+4200C07A+12C0+0000001E+0014"
+cheat137_enable = false

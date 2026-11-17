@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Stunt School Complete"
+cheat0_code = "430021D8+0001+0000002E+0004"
+cheat0_enable = false
+
+cheat1_desc = "Unlock All Arcade Races"
+cheat1_code = "430022C8+0000+0000000B+0004"
+cheat1_enable = false
+
+cheat2_desc = "Unlock All Game Show Races"
+cheat2_code = "330011F5+0006"
+cheat2_enable = false
+
+cheat3_desc = "Unlock All Vehicles"
+cheat3_code = "43002290+0000+0000000D+0004"
+cheat3_enable = false

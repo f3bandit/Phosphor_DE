@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Have 50,000 Tickets"
+cheat0_code = "8300169C+C350"
+cheat0_enable = false
+
+cheat1_desc = "Have All Change Rooms"
+cheat1_code = "43001644+0001+00000006+0004"
+cheat1_enable = false

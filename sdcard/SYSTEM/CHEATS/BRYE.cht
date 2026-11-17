@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "All Areas Open (New Game Save Slot #4)"
+cheat0_code = "72002BCA+0100+42002BCA+0100+00000013+0004"
+cheat0_enable = false
+
+cheat1_desc = "All Lums Collected"
+cheat1_code = "320030CC+0000"
+cheat1_enable = false
+
+cheat2_desc = "All Teensies Rescued"
+cheat2_code = "320030C8+0000"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Power"
+cheat3_code = "320030F4+001D"
+cheat3_enable = false
+
+cheat4_desc = "Max Score"
+cheat4_code = "820030BC+869F+820030BE+0001"
+cheat4_enable = false
+
+cheat5_desc = "Start With Hi-Score"
+cheat5_code = "720030BC+0000+820030BC+C350"
+cheat5_enable = false
+
+cheat6_desc = "Walk Normally When Holding B Button"
+cheat6_code = "880E7F64+4C41"
+cheat6_enable = false

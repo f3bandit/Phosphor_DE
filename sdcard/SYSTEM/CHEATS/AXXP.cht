@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Infinite Health"
+cheat0_code = "32000070+0003"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Lives"
+cheat1_code = "320000D0+0003"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Shield"
+cheat2_code = "32003BE9+0001"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Snowballs"
+cheat3_code = "32003BDD+0001"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Stars"
+cheat4_code = "320000B0+0063"
+cheat4_enable = false
+
+cheat5_desc = "Moon Jump"
+cheat5_code = "72003BD0+0001+32003BD0+0040"
+cheat5_enable = false
+
+cheat6_desc = "Press Select+L To End Stage"
+cheat6_code = "74000130+01FB+3200005C+0001"
+cheat6_enable = false

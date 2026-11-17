@@ -1,0 +1,273 @@
+cheats = 68
+
+cheat0_desc = "1st Character: Inf/Max MP"
+cheat0_code = "820203FA+FE7F"
+cheat0_enable = false
+
+cheat1_desc = "1st Character: Infinite HP"
+cheat1_code = "820203F8+9FE7"
+cheat1_enable = false
+
+cheat2_desc = "1st Character: Max AGI"
+cheat2_code = "32020400+003F"
+cheat2_enable = false
+
+cheat3_desc = "1st Character: Max DEF"
+cheat3_code = "320203FD+00FF"
+cheat3_enable = false
+
+cheat4_desc = "1st Character: Max Exp."
+cheat4_code = "82020440+967F+32020442+0098"
+cheat4_enable = false
+
+cheat5_desc = "1st Character: Max INT"
+cheat5_code = "320203FE+00FF"
+cheat5_enable = false
+
+cheat6_desc = "1st Character: Max Magic Level"
+cheat6_code = "82020422+8306+82020424+0C01+82020426+8306+82020428+1801"
+cheat6_enable = false
+
+cheat7_desc = "1st Character: Max MND"
+cheat7_code = "320203FF+00FF"
+cheat7_enable = false
+
+cheat8_desc = "1st Character: Max POW"
+cheat8_code = "320203FC+00FF"
+cheat8_enable = false
+
+cheat9_desc = "1st Character: Max Power"
+cheat9_code = "320203F5+000F"
+cheat9_enable = false
+
+cheat10_desc = "1st Character: Max Weapon Level"
+cheat10_code = "320203F3+00E0+820203F6+0700+8202040E+0183+82020410+8306+82020412+00C1+82020414+0003"
+cheat10_enable = false
+
+cheat11_desc = "1st Character: Maximum HP"
+cheat11_code = "8202040C+07CE"
+cheat11_enable = false
+
+cheat12_desc = "2nd Character: Inf/Max MP"
+cheat12_code = "82020452+FE7F"
+cheat12_enable = false
+
+cheat13_desc = "2nd Character: Infinite HP"
+cheat13_code = "82020450+9FE7"
+cheat13_enable = false
+
+cheat14_desc = "2nd Character: Max AGI"
+cheat14_code = "32020458+003F"
+cheat14_enable = false
+
+cheat15_desc = "2nd Character: Max DEF"
+cheat15_code = "32020455+00FF"
+cheat15_enable = false
+
+cheat16_desc = "2nd Character: Max Exp."
+cheat16_code = "82020498+967F+3202049A+0098"
+cheat16_enable = false
+
+cheat17_desc = "2nd Character: Max INT"
+cheat17_code = "32020456+00FF"
+cheat17_enable = false
+
+cheat18_desc = "2nd Character: Max Magic Level"
+cheat18_code = "8202047A+8306+8202047C+0C01+8202047E+8306+82020480+1801"
+cheat18_enable = false
+
+cheat19_desc = "2nd Character: Max MND"
+cheat19_code = "32020457+00FF"
+cheat19_enable = false
+
+cheat20_desc = "2nd Character: Max POW"
+cheat20_code = "32020454+00FF"
+cheat20_enable = false
+
+cheat21_desc = "2nd Character: Max Power"
+cheat21_code = "3202044D+000F"
+cheat21_enable = false
+
+cheat22_desc = "2nd Character: Max Weapon Level"
+cheat22_code = "3202044B+00E0+8202044E+0700+82020466+0183+82020468+8306+8202046A+00C1+8202046C+0003"
+cheat22_enable = false
+
+cheat23_desc = "2nd Character: Maximum HP"
+cheat23_code = "82020464+07CE"
+cheat23_enable = false
+
+cheat24_desc = "All Enemy Data"
+cheat24_code = "42020F38+0063+0000007A+0002"
+cheat24_enable = false
+
+cheat25_desc = "Always Have Level Up In Menu"
+cheat25_code = "320203F2+008B"
+cheat25_enable = false
+
+cheat26_desc = "Character Modifier"
+cheat26_code = "320203F0+0052"
+cheat26_enable = false
+
+cheat27_desc = "Character Sprite Swap"
+cheat27_code = "3200169E+0000"
+cheat27_enable = false
+
+cheat28_desc = "Class Fix"
+cheat28_code = "82020D34+0001"
+cheat28_enable = false
+
+cheat29_desc = "Complete Memo"
+cheat29_code = "4201492C+FFFF+00000003+0002"
+cheat29_enable = false
+
+cheat30_desc = "Gaia"
+cheat30_code = "82020EC8+6363"
+cheat30_enable = false
+
+cheat31_desc = "Have All Accessories"
+cheat31_code = "42020E20+0063+00000018+0002"
+cheat31_enable = false
+
+cheat32_desc = "Have All Cards"
+cheat32_code = "42020EBE+0063+00000009+0002+32020D23+0012+32020D27+0083+32020D35+0000"
+cheat32_enable = false
+
+cheat33_desc = "Have All Items And Medallions"
+cheat33_code = "32020D58+0063+32020D59+0064+32020D5A+0065+32020D5B+0066+32020D5C+0067+32020D5D+0068+32020D5E+0069+32020D5F+006A+32020D60+006B+32020D61+006C+32020D62+006D+32020D63+006E+32020D64+006F+32020D65+0070+32020D66+0071+32020D67+0072+32020D68+0073+32020D69+0074+32020D6A+0075+32020D6B+0076+32020D6C+0077+32020D6D+0078+32020D6E+0079+32020D6F+007A+32020D70+007B+32020D71+007C+32020D72+007D+32020D73+007E+32020D74+007F+32020D75+0080+32020D76+0081+32020D77+0082+32020D78+0083+32020D79+0084+32020D7A+0085+32020D7B+0086+32020D7C+0087+32020D7D+0088+32020D7E+0089+32020D7F+008A+32020D80+008B+32020D81+008C+32020D82+008D+32020D83+008E+32020D84+008F+32020D85+0090+32020D86+0091+32020D87+0092+32020D88+0093+32020D89+0094+32020D8A+0095+32020D8B+0096+32020D8C+0097+32020D8D+0098+32020D8E+0099+32020D8F+009A+32020D90+009B+32020D91+009C+32020D92+009D+32020D93+009E+32020D94+009F+32020D95+00A0+32020D96+00A1+32020D97+00A2+32020D98+00A3+32020D99+00A4+32020D9A+00A5+32020D9B+00A6+32020D9C+00A7+32020D9D+00A8+32020D9E+00A9+32020D9F+00AA+32020DA0+00AB+32020DA1+00AC+32020DA2+00AD+32020DA3+00AE+32020DA4+00AF+32020DA5+00B0+32020DA6+00B1+32020DA7+00B2+32020DA8+00B3+32020DA9+00B4+32020DAA+00B5+32020DAB+00B6+32020DAC+00B7+32020DAD+00B8+32020DAE+00B9+32020DAF+00BA+32020DB0+00BB+32020DB1+00BC+32020DB2+00BD+32020DB3+00BE+32020DB4+00BF+32020DB5+00C0+32020DB6+00C1+32020DB7+00C2+32020DB8+00C3+32020DB9+00C4+32020DBA+00C5+32020DBB+00C6+32020E50+0063+32020E51+0064+32020E52+0065+32020E53+0066+32020E54+0067+32020E55+0068+32020E56+0069+32020E57+006A+32020E58+006B+32020E59+006C+32020E5A+006D+32020E5B+006E+32020E5C+006F+32020E5D+0070+32020E5E+0071+32020E5F+0072+32020E60+0073+32020E20+0063+32020E21+0064+32020E22+0065+32020E23+0066+32020E24+0067+32020E25+0068+32020E26+0069+32020E27+006A+32020E28+006B+32020E29+006C+32020E2A+006D+32020E2B+006E+32020E2C+006F+32020E2D+0070+32020E2E+0071+32020E2F+0072+32020E30+0073+32020E31+0074+32020E32+0075+32020E33+0076+32020E34+0077+32020E35+0078+32020E36+0079+32020E37+007A"
+cheat33_enable = false
+
+cheat34_desc = "Have All Magic"
+cheat34_code = "8202043C+FF84"
+cheat34_enable = false
+
+cheat35_desc = "Have All Weapons"
+cheat35_code = "32020D2B+00F9+32020D2C+003F"
+cheat35_enable = false
+
+cheat36_desc = "Have Jump Ability"
+cheat36_code = "32020D26+0004"
+cheat36_enable = false
+
+cheat37_desc = "Hit Anywhere"
+cheat37_code = "8800F6EC+E000+8800F760+E000"
+cheat37_enable = false
+
+cheat38_desc = "Hold B & Any Direction To Walk Thru Walls"
+cheat38_code = "74000130+03DD+E2001660+FFFE+74000130+03ED+E2001660+0002+74000130+03BD+E2001662+FFFE+74000130+037D+E2001662+0002"
+cheat38_enable = false
+
+cheat39_desc = "Horizontal"
+cheat39_code = "82001660+0000"
+cheat39_enable = false
+
+cheat40_desc = "Infinite Cash"
+cheat40_code = "82025A70+C350"
+cheat40_enable = false
+
+cheat41_desc = "Infinite Health And Magic (Boy)"
+cheat41_code = "820203F8+FFE7+820203FA+FE7E+8202040C+0FCF"
+cheat41_enable = false
+
+cheat42_desc = "Infinite Health And Magic (Girl)"
+cheat42_code = "82020450+FFE7+82020452+FEFE+82020464+0FCF"
+cheat42_enable = false
+
+cheat43_desc = "Infinite Hp&Mp (Hero)"
+cheat43_code = "820203F8+9FE7+820203FA+FE7F+8202040C+0FCF"
+cheat43_enable = false
+
+cheat44_desc = "Infinite Hp&Mp (Heroine)"
+cheat44_code = "82020450+9FE7+82020452+FE7F+82020464+0FCF"
+cheat44_enable = false
+
+cheat45_desc = "Infinite Lucre"
+cheat45_code = "82020D20+FDE8"
+cheat45_enable = false
+
+cheat46_desc = "Map Revealed"
+cheat46_code = "4201491C+FFFF+00000004+0002"
+cheat46_enable = false
+
+cheat47_desc = "Matilda"
+cheat47_code = "82020ECA+6363"
+cheat47_enable = false
+
+cheat48_desc = "Max Lucre"
+cheat48_code = "82025A70+869F+82025A72+0001"
+cheat48_enable = false
+
+cheat49_desc = "Max Stats (Boy)"
+cheat49_code = "32025A10+00FF+32025A12+0000+32025A14+0001+32025A16+0002+32025A18+0003+82020410+FF1D+82020412+FFC6+32020414+000E+320203F3+0063+320203F6+0018+8202040E+FF8F+82020422+FF1E+32020421+0030+82020424+FC7A+82020426+FF1D+82020428+F8FA+320203F2+0063"
+cheat49_enable = false
+
+cheat50_desc = "Max Stats (Girl)"
+cheat50_code = "32025A1C+00FF+32025A1E+0000+32025A20+0001+32025A22+0002+32025A24+0003+3202044A+0063+82020468+FF1D+8202046A+FFC6+82020466+FF8F+3202046C+000E+3202044A+0063+32020479+00F0+8202047C+FC7A+8202047E+FF1D+8202047A+FF1D+82020480+F8FA"
+cheat50_enable = false
+
+cheat51_desc = "Monster Album Complete"
+cheat51_code = "42020F38+0001+0000007A+0002"
+cheat51_enable = false
+
+cheat52_desc = "Olbohn"
+cheat52_code = "82020EC6+6363"
+cheat52_enable = false
+
+cheat53_desc = "Party Member Modifier"
+cheat53_code = "32020D22+0000"
+cheat53_enable = false
+
+cheat54_desc = "Pokiehl"
+cheat54_code = "82020EC0+6363"
+cheat54_enable = false
+
+cheat55_desc = "Press Select & Down To Deactivate Fight Mode"
+cheat55_code = "74000130+037B+820003E4+0000"
+cheat55_enable = false
+
+cheat56_desc = "Press Select & Up To Activate Fight Mode"
+cheat56_code = "74000130+03BB+820003E4+0001"
+cheat56_enable = false
+
+cheat57_desc = "Press Select For Sword Limit"
+cheat57_code = "74000130+03FB+320203F5+000F"
+cheat57_enable = false
+
+cheat58_desc = "Press Select+Right For 5 Level Up Points"
+cheat58_code = "74000130+03EB+320203F4+0005"
+cheat58_enable = false
+
+cheat59_desc = "Room/Area Modifier"
+cheat59_code = "820003B4+0000"
+cheat59_enable = false
+
+cheat60_desc = "Rosiotti"
+cheat60_code = "82020EC4+6363"
+cheat60_enable = false
+
+cheat61_desc = "Selva"
+cheat61_code = "82020EBE+6363"
+cheat61_enable = false
+
+cheat62_desc = "Tote"
+cheat62_code = "82020EC2+6363"
+cheat62_enable = false
+
+cheat63_desc = "Vertical"
+cheat63_code = "82001662+0000"
+cheat63_enable = false
+
+cheat64_desc = "Weapon Modifier, B Is For Monsters.."
+cheat64_code = "32001772+000B"
+cheat64_enable = false
+
+cheat65_desc = "Infinite Money"
+cheat65_code = "82020D20+FFFF"
+cheat65_enable = false
+
+cheat66_desc = "Have All Items"
+cheat66_code = "42020D58+0063+00000064+0002+42000E50+0063+00000011+0002"
+cheat66_enable = false
+
+cheat67_desc = "Unlimited Wisdom Use"
+cheat67_code = "82020D23+0012+82020D27+0000+82020D35+0000"
+cheat67_enable = false

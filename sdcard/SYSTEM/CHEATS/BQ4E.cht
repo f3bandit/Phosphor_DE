@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Max Lives"
+cheat0_code = "320017FE+0009+33006FE0+0009"
+cheat0_enable = false
+
+cheat1_desc = "Need To Collect Only 1 Hot Rod Part"
+cheat1_code = "3200183A+0005"
+cheat1_enable = false

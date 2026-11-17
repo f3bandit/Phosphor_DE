@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Max Wheels"
+cheat0_code = "820005F4+0063"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Time"
+cheat1_code = "82002F78+0009+82002F7A+0005+82002F7C+0009"
+cheat1_enable = false
+
+cheat2_desc = "Max Special Meter"
+cheat2_code = "82003834+0045"
+cheat2_enable = false

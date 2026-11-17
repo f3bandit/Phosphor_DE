@@ -1,0 +1,61 @@
+cheats = 15
+
+cheat0_desc = "Get Best Time For The End Of A Zone"
+cheat0_code = "83005034+0001"
+cheat0_enable = false
+
+cheat1_desc = "Have All Chaos Emeralds"
+cheat1_code = "3300517C+007F"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Rings (Chao Mode)"
+cheat2_code = "830046B4+270F"
+cheat2_enable = false
+
+cheat3_desc = "Lightning Shield Effects"
+cheat3_code = "33005A56+0008"
+cheat3_enable = false
+
+cheat4_desc = "Max Rings (Special Stage)"
+cheat4_code = "33005078+00FF"
+cheat4_enable = false
+
+cheat5_desc = "Max Score"
+cheat5_code = "83005030+967F+83005032+0098"
+cheat5_enable = false
+
+cheat6_desc = "Normal Shield Effects"
+cheat6_code = "33005A46+0001"
+cheat6_enable = false
+
+cheat7_desc = "Quick Score Gain"
+cheat7_code = "83005030+FFFF"
+cheat7_enable = false
+
+cheat8_desc = "Quick Stat Level Up"
+cheat8_code = "820044A6+2063"
+cheat8_enable = false
+
+cheat9_desc = "Infinite Rings"
+cheat9_code = "83004FEC+03E7"
+cheat9_enable = false
+
+cheat10_desc = "Infinite Lives"
+cheat10_code = "33005024+000A"
+cheat10_enable = false
+
+cheat11_desc = "Play As Sonic"
+cheat11_code = "33005084+0000"
+cheat11_enable = false
+
+cheat12_desc = "Play As Tails"
+cheat12_code = "33005084+0001"
+cheat12_enable = false
+
+cheat13_desc = "Play As Knuckles"
+cheat13_code = "33005084+0002"
+cheat13_enable = false
+
+cheat14_desc = "Play As Amy"
+cheat14_code = "33005084+0003"
+cheat14_enable = false

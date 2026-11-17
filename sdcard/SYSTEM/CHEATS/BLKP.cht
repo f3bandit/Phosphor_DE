@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Have 40 Bugs"
+cheat0_code = "72004AB0+0200+32002B08+0028"
+cheat0_enable = false
+
+cheat1_desc = "Have 40/40 Bugs All Levels"
+cheat1_code = "42005BCC+0028+00000021+0010"
+cheat1_enable = false
+
+cheat2_desc = "Unlock All Levels+Movies"
+cheat2_code = "42005BD4+0101+00000024+0010"
+cheat2_enable = false

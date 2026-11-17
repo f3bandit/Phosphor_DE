@@ -1,0 +1,37 @@
+cheats = 9
+
+cheat0_desc = "Infinite Health"
+cheat0_code = "32000954+007F"
+cheat0_enable = false
+
+cheat1_desc = "Max DNA Blue Gem"
+cheat1_code = "32000950+0063+33007018+0063"
+cheat1_enable = false
+
+cheat2_desc = "Max Green Gem"
+cheat2_code = "32000953+0063+3300701B+0063"
+cheat2_enable = false
+
+cheat3_desc = "Max Red Gem"
+cheat3_code = "32000951+0063+33007019+0063"
+cheat3_enable = false
+
+cheat4_desc = "Max Yellow Gem"
+cheat4_code = "32000952+0063+3300701A+0063"
+cheat4_enable = false
+
+cheat5_desc = "Max Blue DNA Particles"
+cheat5_code = "33007008+0063"
+cheat5_enable = false
+
+cheat6_desc = "Max Red DNA Particles"
+cheat6_code = "33007009+0063"
+cheat6_enable = false
+
+cheat7_desc = "Max Orange DNA Particles"
+cheat7_code = "3300700A+0063"
+cheat7_enable = false
+
+cheat8_desc = "Max Green DNA Particles"
+cheat8_code = "3300700B+0063"
+cheat8_enable = false

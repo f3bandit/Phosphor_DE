@@ -1,0 +1,137 @@
+cheats = 34
+
+cheat0_desc = "100 Points"
+cheat0_code = "33005C72+0064"
+cheat0_enable = false
+
+cheat1_desc = "Brake Modifier (00-07)"
+cheat1_code = "32000F38+0000"
+cheat1_enable = false
+
+cheat2_desc = "Car Modifier (00-1F)"
+cheat2_code = "32000F34+0000"
+cheat2_enable = false
+
+cheat3_desc = "Engine Modifier (00-17)"
+cheat3_code = "32000F37+0000"
+cheat3_enable = false
+
+cheat4_desc = "Have $50,000 Cash"
+cheat4_code = "82000F30+C350"
+cheat4_enable = false
+
+cheat5_desc = "Have All Awards"
+cheat5_code = "4200192C+0101+00000004+0002"
+cheat5_enable = false
+
+cheat6_desc = "Have All Brakes"
+cheat6_code = "42000FB0+2525+00000004+0002"
+cheat6_enable = false
+
+cheat7_desc = "Have All Engines"
+cheat7_code = "42000F98+2525+0000000C+0002"
+cheat7_enable = false
+
+cheat8_desc = "Have All Floats"
+cheat8_code = "42000F78+2525+00000004+0002"
+cheat8_enable = false
+
+cheat9_desc = "Have All Gauges"
+cheat9_code = "42000FC8+2525+0000000C+0002"
+cheat9_enable = false
+
+cheat10_desc = "Have All Horns"
+cheat10_code = "42000FE0+2525+00000008+0002"
+cheat10_enable = false
+
+cheat11_desc = "Have All Jets"
+cheat11_code = "42000F80+2525+00000004+0002"
+cheat11_enable = false
+
+cheat12_desc = "Have All Paints"
+cheat12_code = "42000FF0+2525+00000008+0002"
+cheat12_enable = false
+
+cheat13_desc = "Have All Parts"
+cheat13_code = "42000F48+2525+0000005C+0002"
+cheat13_enable = false
+
+cheat14_desc = "Have All Steering Wheels"
+cheat14_code = "42000FC0+2525+00000004+0002"
+cheat14_enable = false
+
+cheat15_desc = "Have All Tires"
+cheat15_code = "42000F68+2525+00000008+0002"
+cheat15_enable = false
+
+cheat16_desc = "Have All Transmissions"
+cheat16_code = "42000FB8+2525+00000004+0002"
+cheat16_enable = false
+
+cheat17_desc = "Have All Vehicles"
+cheat17_code = "42000F48+2525+00000010+0002"
+cheat17_enable = false
+
+cheat18_desc = "Have All Wings"
+cheat18_code = "42000F88+2525+00000008+0002"
+cheat18_enable = false
+
+cheat19_desc = "Horn Modifier (00-0F)"
+cheat19_code = "32000F3C+0000"
+cheat19_enable = false
+
+cheat20_desc = "Instant Win [Press Select]"
+cheat20_code = "D0000020+0004+32013D30+000F+D0000020+0004+32013D33+0002"
+cheat20_enable = false
+
+cheat21_desc = "Low Time & Always Place 1st"
+cheat21_code = "83005C0C+0000"
+cheat21_enable = false
+
+cheat22_desc = "Max Money"
+cheat22_code = "82000F30+423F+82000F32+000F"
+cheat22_enable = false
+
+cheat23_desc = "Meter Modifier (00-17)"
+cheat23_code = "32000F3B+0000"
+cheat23_enable = false
+
+cheat24_desc = "Steering Modifier (00-07)"
+cheat24_code = "32000F3A+0000"
+cheat24_enable = false
+
+cheat25_desc = "Transmission Modifier (00-07)"
+cheat25_code = "32000F39+0000"
+cheat25_enable = false
+
+cheat26_desc = "Unlock All Battle Races"
+cheat26_code = "4200103A+3D3D+00000005+0002"
+cheat26_enable = false
+
+cheat27_desc = "Unlock All Grand Prix Races"
+cheat27_code = "42001056+3D3D+00000008+0002"
+cheat27_enable = false
+
+cheat28_desc = "Unlock All Races"
+cheat28_code = "42001022+3D3D+00000054+0002"
+cheat28_enable = false
+
+cheat29_desc = "Unlock All Road Trips"
+cheat29_code = "42001044+3D3D+00000009+0002"
+cheat29_enable = false
+
+cheat30_desc = "Unlock All Sprint Races"
+cheat30_code = "42001022+3D3D+0000000C+0002"
+cheat30_enable = false
+
+cheat31_desc = "Unlock Grand Prix"
+cheat31_code = "3200101A+000A"
+cheat31_enable = false
+
+cheat32_desc = "Weapon Modifier"
+cheat32_code = "32013DE0+0000"
+cheat32_enable = false
+
+cheat33_desc = "Wing Modifier (00-0F)"
+cheat33_code = "32000F36+0000"
+cheat33_enable = false

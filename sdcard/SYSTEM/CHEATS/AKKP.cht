@@ -1,0 +1,53 @@
+cheats = 13
+
+cheat0_desc = "Flags"
+cheat0_code = "830055A0+0062"
+cheat0_enable = false
+
+cheat1_desc = "Gloves"
+cheat1_code = "830036E0+0062"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Health"
+cheat2_code = "33001C60+000E"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Lives"
+cheat3_code = "33001800+0063"
+cheat3_enable = false
+
+cheat4_desc = "Max Coins"
+cheat4_code = "8300184C+0076"
+cheat4_enable = false
+
+cheat5_desc = "Invincible"
+cheat5_code = "330037A0+0001"
+cheat5_enable = false
+
+cheat6_desc = "Max Flags"
+cheat6_code = "330055A0+0063"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Gloves"
+cheat7_code = "330036E0+0063"
+cheat7_enable = false
+
+cheat8_desc = "1-Hit Death (Bosses)"
+cheat8_code = "330035D0+0000"
+cheat8_enable = false
+
+cheat9_desc = "Super Speed"
+cheat9_code = "330037BA+000F"
+cheat9_enable = false
+
+cheat10_desc = "Push Select For More Time (Bonus Level)"
+cheat10_code = "D0000020+0004+3300387E+0000+D0000020+0004+330037BA+0000"
+cheat10_enable = false
+
+cheat11_desc = "Have Bonus Key Full"
+cheat11_code = "33002998+0004"
+cheat11_enable = false
+
+cheat12_desc = "Press Select To Fly"
+cheat12_code = "74000130+03FB+830037DA+00FF"
+cheat12_enable = false

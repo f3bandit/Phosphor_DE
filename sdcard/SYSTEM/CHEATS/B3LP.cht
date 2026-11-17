@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Infinite Foul Shots"
+cheat0_code = "33006128+0002"
+cheat0_enable = false
+
+cheat1_desc = "Unlock All Players"
+cheat1_code = "43001030+0101+00000008+0002"
+cheat1_enable = false
+
+cheat2_desc = "Your Turn Again"
+cheat2_code = "73003E70+0001+33003E70+0000"
+cheat2_enable = false

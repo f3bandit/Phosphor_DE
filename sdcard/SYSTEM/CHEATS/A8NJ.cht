@@ -1,0 +1,101 @@
+cheats = 25
+
+cheat0_desc = "Always Have 50 Logs"
+cheat0_code = "32039DA9+0032"
+cheat0_enable = false
+
+cheat1_desc = "Bow & Arrow"
+cheat1_code = "32039D8F+0001"
+cheat1_enable = false
+
+cheat2_desc = "Broom"
+cheat2_code = "32039D8A+0001"
+cheat2_enable = false
+
+cheat3_desc = "Fishing Pole"
+cheat3_code = "32039D90+0001"
+cheat3_enable = false
+
+cheat4_desc = "Have All Backpack Items"
+cheat4_code = "42039D62+0101+0000000B+0002"
+cheat4_enable = false
+
+cheat5_desc = "Have All CDs"
+cheat5_code = "32039E53+0001+42039E54+0101+00000005+0002"
+cheat5_enable = false
+
+cheat6_desc = "Have All Clothing Items"
+cheat6_code = "42039CA2+0101+00000073+0002"
+cheat6_enable = false
+
+cheat7_desc = "Have All Flowers"
+cheat7_code = "42039DBE+0101+00000010+0002"
+cheat7_enable = false
+
+cheat8_desc = "Have All Ground Items"
+cheat8_code = "32039DE1+0001+42039DE2+0101+0000001A+0002+32039E16+0001"
+cheat8_enable = false
+
+cheat9_desc = "Have All Handheld Items"
+cheat9_code = "42039D44+0101+0000000D+0002+3203D960+0001"
+cheat9_enable = false
+
+cheat10_desc = "Have All Hats"
+cheat10_code = "42039CF4+0101+0000000D+0002+32039D10+0001"
+cheat10_enable = false
+
+cheat11_desc = "Have All Necklaces"
+cheat11_code = "32039D2B+0001+42039D2C+0101+0000000A+0002+32039D42+0001"
+cheat11_enable = false
+
+cheat12_desc = "Have All Ribbons"
+cheat12_code = "42039CD6+0101+00000015+0002+32039CF2+0001"
+cheat12_enable = false
+
+cheat13_desc = "Have All Shirts"
+cheat13_code = "32039CA3+0001+42039CA4+0101+00000018+0002+32039CD4+0001"
+cheat13_enable = false
+
+cheat14_desc = "Have All Sunglasses"
+cheat14_code = "42039D12+0101+0000000B+0002"
+cheat14_enable = false
+
+cheat15_desc = "Have All Tails"
+cheat15_code = "42039D7C+0101+00000005+0002+32039D88+0001"
+cheat15_enable = false
+
+cheat16_desc = "Infinite J (Money)"
+cheat16_code = "82039B8C+FFFF"
+cheat16_enable = false
+
+cheat17_desc = "Max J (Money)"
+cheat17_code = "82039B8C+967F+82039B8E+0098"
+cheat17_enable = false
+
+cheat18_desc = "Mop"
+cheat18_code = "32039D8B+0001"
+cheat18_enable = false
+
+cheat19_desc = "No Debt"
+cheat19_code = "82039B00+0000+82039B02+0000"
+cheat19_enable = false
+
+cheat20_desc = "Sandpaper?"
+cheat20_code = "32039D8E+0001"
+cheat20_enable = false
+
+cheat21_desc = "Saw/Hammer"
+cheat21_code = "32039D8D+0001"
+cheat21_enable = false
+
+cheat22_desc = "Screwdriver/Wrench"
+cheat22_code = "32039D8C+0001"
+cheat22_enable = false
+
+cheat23_desc = "Sound Recorder"
+cheat23_code = "32039D89+0001"
+cheat23_enable = false
+
+cheat24_desc = "Voice Hunter 100%"
+cheat24_code = "42039E18+0101+0000001D+0002+32039E52+0001"
+cheat24_enable = false

@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Arrangements - Lives"
+cheat0_code = "3201AD7E+0007"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Pacs - Pac Attack"
+cheat1_code = "3200F0D8+0005"
+cheat1_enable = false
+
+cheat2_desc = "Pacman - Infinite Lives"
+cheat2_code = "3200CF48+0006"
+cheat2_enable = false

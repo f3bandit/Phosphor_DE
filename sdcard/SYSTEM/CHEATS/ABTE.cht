@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Infinite Batarangs"
+cheat0_code = "33000021+0009"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Batgrapple"
+cheat1_code = "33000023+0009"
+cheat1_enable = false
+
+cheat2_desc = "Infinite First Aid"
+cheat2_code = "33000024+0009"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health"
+cheat3_code = "82000334+020A"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Smoke Pellets"
+cheat4_code = "33000022+0009"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Time"
+cheat5_code = "33004310+0009"
+cheat5_enable = false
+
+cheat6_desc = "Invincible"
+cheat6_code = "82000342+0A00"
+cheat6_enable = false

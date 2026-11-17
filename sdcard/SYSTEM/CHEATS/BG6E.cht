@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Access All Battles"
+cheat0_code = "330041E0+000F"
+cheat0_enable = false
+
+cheat1_desc = "Access Supplies"
+cheat1_code = "33005AA8+0004"
+cheat1_enable = false
+
+cheat2_desc = "Complete Mission [Press Select+Up]"
+cheat2_code = "74000130+03BB+33003FE0+0040"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Ammo"
+cheat3_code = "330001D8+0009"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Lives"
+cheat4_code = "33005ABC+0003"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Specials"
+cheat5_code = "330059D8+0002+330059E8+0024"
+cheat5_enable = false
+
+cheat6_desc = "Rapid Fire"
+cheat6_code = "330001D4+0008+330001DA+0000"
+cheat6_enable = false

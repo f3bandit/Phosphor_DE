@@ -1,0 +1,21 @@
+cheats = 5
+
+cheat0_desc = "Hit Anywhere All"
+cheat0_code = "8800032A+E005"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Health (some levels)"
+cheat1_code = "320061D4+0064"
+cheat1_enable = false
+
+cheat2_desc = "One Hit Kills"
+cheat2_code = "88008FA8+2000+88008F7C+2000"
+cheat2_enable = false
+
+cheat3_desc = "R & Stand to Rocket Jump (multiple levels)"
+cheat3_code = "74000130+02FF+32006259+0006+74000130+02FF+32006215+0006"
+cheat3_enable = false
+
+cheat4_desc = "R to moon jump (multiple levels)"
+cheat4_code = "D0000020+0100+32006259+0003+D0000020+0100+32006215+0003"
+cheat4_enable = false

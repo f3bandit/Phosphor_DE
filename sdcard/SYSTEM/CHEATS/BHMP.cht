@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Invulnerable - Jeb (the goat)"
+cheat0_code = "88018DA8+46C0+88018DB0+2050+88018DF6+2100"
+cheat0_enable = false
+
+cheat1_desc = "Invulnerable Buck - during runs"
+cheat1_code = "88006982+46C0+8800699E+2000+880069A6+2050"
+cheat1_enable = false
+
+cheat2_desc = "Jump in midair - Jeb (the goat)"
+cheat2_code = "88018498+46C0+880184A2+46C0"
+cheat2_enable = false
+
+cheat3_desc = "Skip Buck's racing levels"
+cheat3_code = "88006F1E+46C0"
+cheat3_enable = false
+
+cheat4_desc = "Take cans anywhere - Jeb (the goat)"
+cheat4_code = "8801C492+46C0"
+cheat4_enable = false
+
+cheat5_desc = "Untouchable - Buck (the horse)"
+cheat5_code = "8801BBB4+E02B+8801BC12+2203"
+cheat5_enable = false

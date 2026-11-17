@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Access Gallery"
+cheat0_code = "74000130+03FA+83005F4C+A01C+74000130+03FA+83005F4E+0803+33003FD2+000A"
+cheat0_enable = false
+
+cheat1_desc = "German"
+cheat1_code = "43002180+0101+00000003+0002+33002184+0001"
+cheat1_enable = false
+
+cheat2_desc = "Guns Won't Jam"
+cheat2_code = "33002E5E+0000"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Fuel"
+cheat3_code = "83003E34+6440"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Health"
+cheat4_code = "33002DDE+009B"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Points"
+cheat5_code = "33002899+00FF"
+cheat5_enable = false
+
+cheat6_desc = "Rapid Fire"
+cheat6_code = "83002E50+0000"
+cheat6_enable = false

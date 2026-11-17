@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Opponent don't move"
+cheat0_code = "8800F038+E000"
+cheat0_enable = false

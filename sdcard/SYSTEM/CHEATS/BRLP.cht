@@ -1,0 +1,81 @@
+cheats = 20
+
+cheat0_desc = "Infinite AP"
+cheat0_code = "3200F452+0063"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Courage"
+cheat1_code = "3200F472+0063"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Health"
+cheat2_code = "3200F454+0063"
+cheat2_enable = false
+
+cheat3_desc = "Max Ap"
+cheat3_code = "3200F453+0063"
+cheat3_enable = false
+
+cheat4_desc = "Max Courage"
+cheat4_code = "32017D69+0063"
+cheat4_enable = false
+
+cheat5_desc = "Max Experience"
+cheat5_code = "32017D7F+00FA"
+cheat5_enable = false
+
+cheat6_desc = "Max Health"
+cheat6_code = "3200F455+0063"
+cheat6_enable = false
+
+cheat7_desc = "Max Intelligence"
+cheat7_code = "32017D6C+0063"
+cheat7_enable = false
+
+cheat8_desc = "Max Level"
+cheat8_code = "32017D80+0012"
+cheat8_enable = false
+
+cheat9_desc = "Max Perception"
+cheat9_code = "32017D6A+0063"
+cheat9_enable = false
+
+cheat10_desc = "Max Speed"
+cheat10_code = "32017D67+0063"
+cheat10_enable = false
+
+cheat11_desc = "Max Strength"
+cheat11_code = "32017D66+0063"
+cheat11_enable = false
+
+cheat12_desc = "Weapon Slot #1"
+cheat12_code = "320105FD+0019"
+cheat12_enable = false
+
+cheat13_desc = "Weapon Slot #2"
+cheat13_code = "3201060D+0019"
+cheat13_enable = false
+
+cheat14_desc = "Weapon Slot #3"
+cheat14_code = "3201061D+0019"
+cheat14_enable = false
+
+cheat15_desc = "Weapon Slot #4"
+cheat15_code = "3201062D+0019"
+cheat15_enable = false
+
+cheat16_desc = "Weapon Slot #5"
+cheat16_code = "3201063D+0019"
+cheat16_enable = false
+
+cheat17_desc = "Weapon Slot #6"
+cheat17_code = "3201064D+0019"
+cheat17_enable = false
+
+cheat18_desc = "Weapon Slot #7"
+cheat18_code = "3201065D+0019"
+cheat18_enable = false
+
+cheat19_desc = "Weapon Slot #8"
+cheat19_code = "3201066D+0019"
+cheat19_enable = false

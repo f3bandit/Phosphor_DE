@@ -1,0 +1,525 @@
+cheats = 131
+
+cheat0_desc = "Abductor"
+cheat0_code = "3203EE54+0063"
+cheat0_enable = false
+
+cheat1_desc = "Ace Hooves"
+cheat1_code = "3203EE60+0063"
+cheat1_enable = false
+
+cheat2_desc = "Air Rifle"
+cheat2_code = "3203ED80+0063"
+cheat2_enable = false
+
+cheat3_desc = "All Repair"
+cheat3_code = "3203ECF8+0063"
+cheat3_enable = false
+
+cheat4_desc = "Antenna"
+cheat4_code = "3203ECC4+0063"
+cheat4_enable = false
+
+cheat5_desc = "Battle Rifle"
+cheat5_code = "3203EE00+0063"
+cheat5_enable = false
+
+cheat6_desc = "Blastgun"
+cheat6_code = "3203ED14+0063"
+cheat6_enable = false
+
+cheat7_desc = "Canceller"
+cheat7_code = "3203ED60+0063"
+cheat7_enable = false
+
+cheat8_desc = "Catch"
+cheat8_code = "3203ED68+0063"
+cheat8_enable = false
+
+cheat9_desc = "Cheap Trap"
+cheat9_code = "3203EDF0+0063"
+cheat9_enable = false
+
+cheat10_desc = "Cheapertrap"
+cheat10_code = "3203ED70+0063"
+cheat10_enable = false
+
+cheat11_desc = "Clearshield"
+cheat11_code = "3203ED28+0063"
+cheat11_enable = false
+
+cheat12_desc = "Clinch Wave"
+cheat12_code = "3203ED98+0063"
+cheat12_enable = false
+
+cheat13_desc = "Cover-up"
+cheat13_code = "3203ECF4+0063"
+cheat13_enable = false
+
+cheat14_desc = "Crime Stick"
+cheat14_code = "3203EE20+0063"
+cheat14_enable = false
+
+cheat15_desc = "Cure Hand"
+cheat15_code = "3203ED78+0063"
+cheat15_enable = false
+
+cheat16_desc = "Death Laser"
+cheat16_code = "3203EDD8+0063"
+cheat16_enable = false
+
+cheat17_desc = "Deathbreak"
+cheat17_code = "3203ECD8+0063"
+cheat17_enable = false
+
+cheat18_desc = "Deathcrawler"
+cheat18_code = "3203EE58+0063"
+cheat18_enable = false
+
+cheat19_desc = "Deathmissile"
+cheat19_code = "3203ED58+0063"
+cheat19_enable = false
+
+cheat20_desc = "Desire Bison"
+cheat20_code = "3203EDE4+0063"
+cheat20_enable = false
+
+cheat21_desc = "Dogu"
+cheat21_code = "3203ED24+0063"
+cheat21_enable = false
+
+cheat22_desc = "Dohtack"
+cheat22_code = "3203EDA4+0063"
+cheat22_enable = false
+
+cheat23_desc = "Dohtatack"
+cheat23_code = "3203EE24+0063"
+cheat23_enable = false
+
+cheat24_desc = "Dokan"
+cheat24_code = "3203EEA4+0063"
+cheat24_enable = false
+
+cheat25_desc = "Dondon Punch"
+cheat25_code = "3203EDB0+0063"
+cheat25_enable = false
+
+cheat26_desc = "Donor"
+cheat26_code = "3203ED4C+0063"
+cheat26_enable = false
+
+cheat27_desc = "Dopa Punch"
+cheat27_code = "3203EE30+0063"
+cheat27_enable = false
+
+cheat28_desc = "Experiencelode"
+cheat28_code = "3203EE34+0063"
+cheat28_enable = false
+
+cheat29_desc = "Fire Gun"
+cheat29_code = "3203ED94+0063"
+cheat29_enable = false
+
+cheat30_desc = "Fireworks"
+cheat30_code = "3203EEB4+0063"
+cheat30_enable = false
+
+cheat31_desc = "Fishtail"
+cheat31_code = "3203EE98+0063"
+cheat31_enable = false
+
+cheat32_desc = "Flame Gun"
+cheat32_code = "3203EE14+0063"
+cheat32_enable = false
+
+cheat33_desc = "Flap"
+cheat33_code = "3203ED7C+0063"
+cheat33_enable = false
+
+cheat34_desc = "Flaregather"
+cheat34_code = "3203EE48+0063"
+cheat34_enable = false
+
+cheat35_desc = "Flavor"
+cheat35_code = "3203EE7C+0063"
+cheat35_enable = false
+
+cheat36_desc = "Flexor Sword"
+cheat36_code = "3203ED50+0063"
+cheat36_enable = false
+
+cheat37_desc = "Flip"
+cheat37_code = "3203ECFC+0063"
+cheat37_enable = false
+
+cheat38_desc = "Flop"
+cheat38_code = "3203EDFC+0063"
+cheat38_enable = false
+
+cheat39_desc = "Fracture"
+cheat39_code = "3203ECDC+0063"
+cheat39_enable = false
+
+cheat40_desc = "Gigalaser"
+cheat40_code = "3203EDEC+0063"
+cheat40_enable = false
+
+cheat41_desc = "Grave Lane"
+cheat41_code = "3203ED20+0063"
+cheat41_enable = false
+
+cheat42_desc = "Greatsheild"
+cheat42_code = "3203EE28+0063"
+cheat42_enable = false
+
+cheat43_desc = "Guardian"
+cheat43_code = "3203ECE0+0063"
+cheat43_enable = false
+
+cheat44_desc = "Guidemissle"
+cheat44_code = "3203EE04+0063"
+cheat44_enable = false
+
+cheat45_desc = "Hatchin"
+cheat45_code = "3203ECE8+0063"
+cheat45_enable = false
+
+cheat46_desc = "Have All Medals Maxed"
+cheat46_code = "4203EC30+0063+0000000C+000C"
+cheat46_enable = false
+
+cheat47_desc = "Have All Parts"
+cheat47_code = "4203ECC0+0001+0000007E+0004"
+cheat47_enable = false
+
+cheat48_desc = "Head Cannon"
+cheat48_code = "3203ED00+0063"
+cheat48_enable = false
+
+cheat49_desc = "Helchaus"
+cheat49_code = "3203EE90+0063"
+cheat49_enable = false
+
+cheat50_desc = "Helmet"
+cheat50_code = "3203ED10+0063"
+cheat50_enable = false
+
+cheat51_desc = "Helmight"
+cheat51_code = "3203ED90+0063"
+cheat51_enable = false
+
+cheat52_desc = "Helming"
+cheat52_code = "3203EE10+0063"
+cheat52_enable = false
+
+cheat53_desc = "Holyhelm"
+cheat53_code = "3203ECCC+0063"
+cheat53_enable = false
+
+cheat54_desc = "Howzer"
+cheat54_code = "3203EE80+0063"
+cheat54_enable = false
+
+cheat55_desc = "Hunter"
+cheat55_code = "3203ECD0+0063"
+cheat55_enable = false
+
+cheat56_desc = "Ignition"
+cheat56_code = "3203EDB4+0063"
+cheat56_enable = false
+
+cheat57_desc = "Infinite Health (Leader)"
+cheat57_code = "32010012+002D+32010014+002D+32010016+002D+32010018+002D"
+cheat57_enable = false
+
+cheat58_desc = "Infinite Health (Partner)"
+cheat58_code = "3201032A+002D+3201032C+002D+3201032E+002D+32010330+002D"
+cheat58_enable = false
+
+cheat59_desc = "Intermissile"
+cheat59_code = "3203ED84+0063"
+cheat59_enable = false
+
+cheat60_desc = "Judge Shield"
+cheat60_code = "3203EDA0+0063"
+cheat60_enable = false
+
+cheat61_desc = "Keen"
+cheat61_code = "3203EE2C+0063"
+cheat61_enable = false
+
+cheat62_desc = "Knightshield"
+cheat62_code = "3203EDA8+0063"
+cheat62_enable = false
+
+cheat63_desc = "Leader: Infinite Health"
+cheat63_code = "42010012+00FF+00000004+0002"
+cheat63_enable = false
+
+cheat64_desc = "Leader: Max Medaforce"
+cheat64_code = "320100B0+0033"
+cheat64_enable = false
+
+cheat65_desc = "Leader: Max/Infinite Rounds"
+cheat65_code = "8201003A+0A0A"
+cheat65_enable = false
+
+cheat66_desc = "Leader: Parts Charged"
+cheat66_code = "42010032+0140+00000003+0002"
+cheat66_enable = false
+
+cheat67_desc = "Light Jab"
+cheat67_code = "3203ED8C+0063"
+cheat67_enable = false
+
+cheat68_desc = "Lightblow"
+cheat68_code = "3203EE0C+0063"
+cheat68_enable = false
+
+cheat69_desc = "Lightcircuit"
+cheat69_code = "3203ED0C+0063"
+cheat69_enable = false
+
+cheat70_desc = "Limp Tank"
+cheat70_code = "3203EE84+0063"
+cheat70_enable = false
+
+cheat71_desc = "Megalaser"
+cheat71_code = "3203ED6C+0063"
+cheat71_enable = false
+
+cheat72_desc = "Minus Driver"
+cheat72_code = "3203EE1C+0063"
+cheat72_enable = false
+
+cheat73_desc = "Missile"
+cheat73_code = "3203ECC0+0063"
+cheat73_enable = false
+
+cheat74_desc = "Missile Base"
+cheat74_code = "3203ED04+0063"
+cheat74_enable = false
+
+cheat75_desc = "Multi-leg"
+cheat75_code = "3203EE70+0063"
+cheat75_enable = false
+
+cheat76_desc = "New Wave"
+cheat76_code = "3203ED18+0063"
+cheat76_enable = false
+
+cheat77_desc = "Nibble Wave"
+cheat77_code = "3203EE18+0063"
+cheat77_enable = false
+
+cheat78_desc = "Ninja Blade"
+cheat78_code = "3203EDF4+0063"
+cheat78_enable = false
+
+cheat79_desc = "Ninja Dagger"
+cheat79_code = "3203ED74+0063"
+cheat79_enable = false
+
+cheat80_desc = "Ochitsuka"
+cheat80_code = "3203EE40+0063"
+cheat80_enable = false
+
+cheat81_desc = "Pan"
+cheat81_code = "3203ED2C+0063"
+cheat81_enable = false
+
+cheat82_desc = "Partner: Infinite Health"
+cheat82_code = "4201032A+00FF+00000004+0002"
+cheat82_enable = false
+
+cheat83_desc = "Partner: Max Medaforce"
+cheat83_code = "320103C8+0033"
+cheat83_enable = false
+
+cheat84_desc = "Partner: Max/Infinite Rounds"
+cheat84_code = "82010352+0A0A"
+cheat84_enable = false
+
+cheat85_desc = "Partner: Parts Always Charged"
+cheat85_code = "4201034A+0140+00000003+0002"
+cheat85_enable = false
+
+cheat86_desc = "Past Feel"
+cheat86_code = "3203EDDC+0063"
+cheat86_enable = false
+
+cheat87_desc = "Past Touch"
+cheat87_code = "3203ED5C+0063"
+cheat87_enable = false
+
+cheat88_desc = "Paterivulcan"
+cheat88_code = "3203ED48+0063"
+cheat88_enable = false
+
+cheat89_desc = "Peck Strike"
+cheat89_code = "3203ED30+0063"
+cheat89_enable = false
+
+cheat90_desc = "Petticoat"
+cheat90_code = "3203EE4C+0063"
+cheat90_enable = false
+
+cheat91_desc = "Pipo Hammer"
+cheat91_code = "3203EDC4+0063"
+cheat91_enable = false
+
+cheat92_desc = "Plus Driver"
+cheat92_code = "3203ED9C+0063"
+cheat92_enable = false
+
+cheat93_desc = "Power Driver"
+cheat93_code = "3203ED1C+0063"
+cheat93_enable = false
+
+cheat94_desc = "Prettyface"
+cheat94_code = "3203ECE4+0063"
+cheat94_enable = false
+
+cheat95_desc = "Pride Viper"
+cheat95_code = "3203ED64+0063"
+cheat95_enable = false
+
+cheat96_desc = "Prominence"
+cheat96_code = "3203ED34+0063"
+cheat96_enable = false
+
+cheat97_desc = "Protoauto"
+cheat97_code = "3203EEA0+0063"
+cheat97_enable = false
+
+cheat98_desc = "Pun"
+cheat98_code = "3203EDAC+0063"
+cheat98_enable = false
+
+cheat99_desc = "Purple Fin"
+cheat99_code = "3203EE78+0063"
+cheat99_enable = false
+
+cheat100_desc = "Queendresser"
+cheat100_code = "3203EE64+0063"
+cheat100_enable = false
+
+cheat101_desc = "Range Shooter"
+cheat101_code = "3203EDD4+0063"
+cheat101_enable = false
+
+cheat102_desc = "Recovery"
+cheat102_code = "3203EDE0+0063"
+cheat102_enable = false
+
+cheat103_desc = "Red Tail"
+cheat103_code = "3203EE94+0063"
+cheat103_enable = false
+
+cheat104_desc = "Repair Arm"
+cheat104_code = "3203EDF8+0063"
+cheat104_enable = false
+
+cheat105_desc = "Revolver"
+cheat105_code = "3203ED40+0063"
+cheat105_enable = false
+
+cheat106_desc = "Roller Tank"
+cheat106_code = "3203EE6C+0063"
+cheat106_enable = false
+
+cheat107_desc = "Sala-arm"
+cheat107_code = "3203EE08+0063"
+cheat107_enable = false
+
+cheat108_desc = "Sala-hand"
+cheat108_code = "3203ED88+0063"
+cheat108_enable = false
+
+cheat109_desc = "Sala-head"
+cheat109_code = "3203ED08+0063"
+cheat109_enable = false
+
+cheat110_desc = "Sala-tail"
+cheat110_code = "3203EE88+0063"
+cheat110_enable = false
+
+cheat111_desc = "Sharp Edge"
+cheat111_code = "3203EE50+0063"
+cheat111_enable = false
+
+cheat112_desc = "Shoot Barrel"
+cheat112_code = "3203ED54+0063"
+cheat112_enable = false
+
+cheat113_desc = "Short Shot"
+cheat113_code = "3203EDC8+0063"
+cheat113_enable = false
+
+cheat114_desc = "Smacker"
+cheat114_code = "3203EE9C+0063"
+cheat114_enable = false
+
+cheat115_desc = "Spydertrap"
+cheat115_code = "3203ECF0+0063"
+cheat115_enable = false
+
+cheat116_desc = "Squash Basher"
+cheat116_code = "3203EEAC+0063"
+cheat116_enable = false
+
+cheat117_desc = "Straw Hammer"
+cheat117_code = "3203EDD0+0063"
+cheat117_enable = false
+
+cheat118_desc = "Submachine Gun"
+cheat118_code = "3203EDC0+0063"
+cheat118_enable = false
+
+cheat119_desc = "Swick"
+cheat119_code = "3203EE68+0063"
+cheat119_enable = false
+
+cheat120_desc = "Sword"
+cheat120_code = "3203ED44+0063"
+cheat120_enable = false
+
+cheat121_desc = "Tatacker"
+cheat121_code = "3203EE44+0063"
+cheat121_enable = false
+
+cheat122_desc = "Tension Up"
+cheat122_code = "3203ECD4+0063"
+cheat122_enable = false
+
+cheat123_desc = "Tiptoe"
+cheat123_code = "3203EE74+0063"
+cheat123_enable = false
+
+cheat124_desc = "Translate"
+cheat124_code = "3203EDCC+0063"
+cheat124_enable = false
+
+cheat125_desc = "Trojan Horse"
+cheat125_code = "3203EEA8+0063"
+cheat125_enable = false
+
+cheat126_desc = "Twist"
+cheat126_code = "3203EDE8+0063"
+cheat126_enable = false
+
+cheat127_desc = "Tyranolaser"
+cheat127_code = "3203ECEC+0063"
+cheat127_enable = false
+
+cheat128_desc = "Umbilical"
+cheat128_code = "3203EE5C+0063"
+cheat128_enable = false
+
+cheat129_desc = "Variablehair"
+cheat129_code = "3203ECC8+0063"
+cheat129_enable = false
+
+cheat130_desc = "Wanafly"
+cheat130_code = "3203EEB0+0063"
+cheat130_enable = false

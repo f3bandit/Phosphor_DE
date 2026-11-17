@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Have 99 Coins"
+cheat0_code = "3300242A+0062"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Ammo"
+cheat1_code = "3300242F+0005"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Health"
+cheat2_code = "3300243A+0005"
+cheat2_enable = false

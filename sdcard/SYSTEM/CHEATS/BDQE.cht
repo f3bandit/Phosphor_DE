@@ -1,0 +1,81 @@
+cheats = 20
+
+cheat0_desc = "Access All Areas"
+cheat0_code = "430004C0+AAAA+00000006+0002"
+cheat0_enable = false
+
+cheat1_desc = "Access All Challenges"
+cheat1_code = "330004FA+00FF"
+cheat1_enable = false
+
+cheat2_desc = "Access All Extras"
+cheat2_code = "33000509+0001"
+cheat2_enable = false
+
+cheat3_desc = "Access Music Menu"
+cheat3_code = "7300054E+000E+8300054E+0012"
+cheat3_enable = false
+
+cheat4_desc = "Always Have Partner"
+cheat4_code = "3300045B+0001+3300045D+0000"
+cheat4_enable = false
+
+cheat5_desc = "Complete Funky Missions Automatically"
+cheat5_code = "880914A2+E000"
+cheat5_enable = false
+
+cheat6_desc = "Have 200 Bear Coins"
+cheat6_code = "330004E4+00C8"
+cheat6_enable = false
+
+cheat7_desc = "Have 99 Lives"
+cheat7_code = "33000458+0063"
+cheat7_enable = false
+
+cheat8_desc = "Have All Banana Birds"
+cheat8_code = "33000501+00FF+83000502+FFFF"
+cheat8_enable = false
+
+cheat9_desc = "Have All Bonus Coins"
+cheat9_code = "330004E5+00FF+430004E6+FFFF+00000006+0002"
+cheat9_enable = false
+
+cheat10_desc = "Have All Cogs"
+cheat10_code = "330004F8+00FF"
+cheat10_enable = false
+
+cheat11_desc = "Have All DK Coins"
+cheat11_code = "430004F2+FFFF+00000003+0002"
+cheat11_enable = false
+
+cheat12_desc = "Have All Unused Items"
+cheat12_code = "330004FC+000C+830004FE+800D+33000500+00FF"
+cheat12_enable = false
+
+cheat13_desc = "Have All Used Items"
+cheat13_code = "830004FC+FFFF+830004FE+FFFF+33000500+00FF"
+cheat13_enable = false
+
+cheat14_desc = "Have Kong Letters"
+cheat14_code = "430003C4+0002+00000004+0004"
+cheat14_enable = false
+
+cheat15_desc = "Invincibility"
+cheat15_code = "8801D6D4+0D2E"
+cheat15_enable = false
+
+cheat16_desc = "Invinicible"
+cheat16_code = "89B1230E+6BC7"
+cheat16_enable = false
+
+cheat17_desc = "Max Sliver Coins"
+cheat17_code = "330004E4+0063"
+cheat17_enable = false
+
+cheat18_desc = "Quick Coin Collect Game"
+cheat18_code = "330004B0+0000"
+cheat18_enable = false
+
+cheat19_desc = "Max Bananas"
+cheat19_code = "830004AE+03E7"
+cheat19_enable = false

@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "All areas unlocked and have all colored gems"
+cheat0_code = "32000172+00EF"
+cheat0_enable = false
+
+cheat1_desc = "All levels 100% completed"
+cheat1_code = "32000174+000B+32000178+000B+3200017C+000F+32000180+000B+32000184+000B+32000188+000F+3200018C+000B+32000190+000F+32000194+000B+32000198+000B+3200019C+000B+320001A0+000F+320001A4+000B+320001A8+000B+320001AC+000B+320001B0+000B+320001B4+000B+320001B8+000B+320001BC+000B+320001C0+000B"
+cheat1_enable = false
+
+cheat2_desc = "Always have 2 Aku Aku mask"
+cheat2_code = "3200009C+0002"
+cheat2_enable = false
+
+cheat3_desc = "Always have 3 Aku Aku mask (ASM)"
+cheat3_code = "8800B12C+2103+880231F4+E008"
+cheat3_enable = false
+
+cheat4_desc = "Always have 3 Aku Aku mask (RAM)"
+cheat4_code = "3200009C+0003"
+cheat4_enable = false
+
+cheat5_desc = "Get One Crate to Have Gem"
+cheat5_code = "88022FFE+46C0"
+cheat5_enable = false
+
+cheat6_desc = "Time stays freezed"
+cheat6_code = "320000C4+00FF"
+cheat6_enable = false

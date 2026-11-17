@@ -1,0 +1,213 @@
+cheats = 53
+
+cheat0_desc = "Access All Bonus Games"
+cheat0_code = "42007FD8+0001+00000005+0014"
+cheat0_enable = false
+
+cheat1_desc = "Access All Books/Chapters"
+cheat1_code = "42007D94+0101+00000005+0014+42007E08+0101+00000005+0014+42007E7C+0101+00000005+0014+42007EF0+0101+00000005+0014+42007F64+0101+00000005+0014"
+cheat1_enable = false
+
+cheat2_desc = "Book 1 - Chapter 1: Infinite Health"
+cheat2_code = "72028908+B714+3202891C+0006"
+cheat2_enable = false
+
+cheat3_desc = "Book 1 - Chapter 1: Moon Jump"
+cheat3_code = "720288AC+FC3E+82028A10+F900"
+cheat3_enable = false
+
+cheat4_desc = "Book 1 - Chapter 2: Infinite Health"
+cheat4_code = "72017D7C+C18C+32017D90+0004"
+cheat4_enable = false
+
+cheat5_desc = "Book 1 - Chapter 2: Moon Jump"
+cheat5_code = "72017D20+FB5C+82017E74+F900"
+cheat5_enable = false
+
+cheat6_desc = "Book 1 - Chapter 3: Infinite Health"
+cheat6_code = "7202A140+B714+3202A154+0006+72029B28+C18C+32029B3C+0004"
+cheat6_enable = false
+
+cheat7_desc = "Book 1 - Chapter 3: Moon Jump"
+cheat7_code = "7202A0E4+FC3E+8202A248+F900+72029ACC+FB5C+82029C20+F900"
+cheat7_enable = false
+
+cheat8_desc = "Book 1 - Chapter 4: Infinite Health"
+cheat8_code = "7202B208+B714+3202B21C+0006+7202AE14+C18C+3202AE28+0004"
+cheat8_enable = false
+
+cheat9_desc = "Book 1 - Chapter 4: Moon Jump"
+cheat9_code = "7202B1AC+FC3E+8202B310+F900+7202ADB8+FB5C+8202AF0C+F900"
+cheat9_enable = false
+
+cheat10_desc = "Book 1 - Chapter 5: Infinite Health"
+cheat10_code = "72011CFC+B714+32011D10+0006"
+cheat10_enable = false
+
+cheat11_desc = "Book 1 - Chapter 5: Moon Jump"
+cheat11_code = "72011CA0+FC3E+82011E04+F900"
+cheat11_enable = false
+
+cheat12_desc = "Book 2 - Chapter 1: Infinite Health"
+cheat12_code = "72019F60+B714+32019F74+0006"
+cheat12_enable = false
+
+cheat13_desc = "Book 2 - Chapter 1: Moon Jump"
+cheat13_code = "72019F04+FC3E+8201A068+F900"
+cheat13_enable = false
+
+cheat14_desc = "Book 2 - Chapter 2: Infinite Health"
+cheat14_code = "7202F0E4+C18C+3202F0F8+0004"
+cheat14_enable = false
+
+cheat15_desc = "Book 2 - Chapter 2: Moon Jump"
+cheat15_code = "7202F088+FB5C+8202F1DC+F900"
+cheat15_enable = false
+
+cheat16_desc = "Book 2 - Chapter 3: Moon Jump"
+cheat16_code = "720301B8+FC3E+8203031C+F900+7202FDC4+FB5C+8202FF18+F900"
+cheat16_enable = false
+
+cheat17_desc = "Book 2 - Chapter 4: Infinite Health"
+cheat17_code = "7202AC6C+B714+3202AC80+0006+7202A3EC+C18C+3202A400+0004"
+cheat17_enable = false
+
+cheat18_desc = "Book 2 - Chapter 4: Moon Jump"
+cheat18_code = "7202AC10+FC3E+8202AD74+F900+7202A390+FB5C+8202A4E4+F900"
+cheat18_enable = false
+
+cheat19_desc = "Book 2 - Chapter 5: Infinite Health"
+cheat19_code = "72010B68+B714+32010B7C+0006"
+cheat19_enable = false
+
+cheat20_desc = "Book 2 - Chapter 5: Moon Jump"
+cheat20_code = "72010B0C+FC3E+82010C70+F900"
+cheat20_enable = false
+
+cheat21_desc = "Book 3 - Chapter 1: Infinite Health"
+cheat21_code = "72030030+C4D4+32030044+0006"
+cheat21_enable = false
+
+cheat22_desc = "Book 3 - Chapter 1: Moon Jump"
+cheat22_code = "7202FFD4+FB5C+82030134+F900"
+cheat22_enable = false
+
+cheat23_desc = "Book 3 - Chapter 2: Infinite Health"
+cheat23_code = "7202BB84+B714+3202BB98+0006+7202B784+C4D4+3202B798+0004+7202B390+C18C+3202B3A4+0004"
+cheat23_enable = false
+
+cheat24_desc = "Book 3 - Chapter 2: Moon Jump"
+cheat24_code = "7202BB28+FC3E+8202BC8C+F900+7202B728+FB5C+8202B888+F900+7202B334+FB5C+8202B488+F900"
+cheat24_enable = false
+
+cheat25_desc = "Book 3 - Chapter 3: Infinite Health"
+cheat25_code = "7202AE14+B714+3202AE28+0006+7202B238+C4D4+3202B24C+0004"
+cheat25_enable = false
+
+cheat26_desc = "Book 3 - Chapter 3: Moon Jump"
+cheat26_code = "7202ADB8+FC3E+8202AF1C+F900+7202B1DC+FB5C+8202B33C+F900"
+cheat26_enable = false
+
+cheat27_desc = "Book 3 - Chapter 4: Infinite Health"
+cheat27_code = "7201A44C+C4D4+3201A460+0006"
+cheat27_enable = false
+
+cheat28_desc = "Book 3 - Chapter 4: Moon Jump"
+cheat28_code = "7201A3F0+FB5C+8201A550+F900"
+cheat28_enable = false
+
+cheat29_desc = "Book 3 - Chapter 5: Infinite Health"
+cheat29_code = "72032B7C+C18C+32032B90+0004"
+cheat29_enable = false
+
+cheat30_desc = "Book 3 - Chapter 5: Moon Jump"
+cheat30_code = "72032B20+FB5C+82032C74+F900"
+cheat30_enable = false
+
+cheat31_desc = "Book 4 - Chapter 1: Infinite Health"
+cheat31_code = "7203576C+BB24+32035780+0006"
+cheat31_enable = false
+
+cheat32_desc = "Book 4 - Chapter 1: Moon Jump"
+cheat32_code = "72035710+FB5C+82035874+F900"
+cheat32_enable = false
+
+cheat33_desc = "Book 4 - Chapter 2: Infinite Health"
+cheat33_code = "7202CDF0+C4D4+3202CE04+0004"
+cheat33_enable = false
+
+cheat34_desc = "Book 4 - Chapter 2: Moon Jump"
+cheat34_code = "7202CD94+FB5C+8202CEF4+F900"
+cheat34_enable = false
+
+cheat35_desc = "Book 4 - Chapter 3: Infinite Health"
+cheat35_code = "7202F0D4+BE6C+3202F0E8+0003"
+cheat35_enable = false
+
+cheat36_desc = "Book 4 - Chapter 3: Moon Jump"
+cheat36_code = "7202F078+FA79+8202F1CC+F900"
+cheat36_enable = false
+
+cheat37_desc = "Book 4 - Chapter 4: Infinite Health"
+cheat37_code = "72026C50+BE6C+32026C64+0003"
+cheat37_enable = false
+
+cheat38_desc = "Book 4 - Chapter 4: Moon Jump"
+cheat38_code = "72026BF4+FA79+82026D48+F900"
+cheat38_enable = false
+
+cheat39_desc = "Book 4 - Chapter 5: Infinite Health"
+cheat39_code = "72028BC0+BE6C+32028BD4+0003"
+cheat39_enable = false
+
+cheat40_desc = "Book 4 - Chapter 5: Moon Jump"
+cheat40_code = "72028B64+FA79+82028CB8+F900"
+cheat40_enable = false
+
+cheat41_desc = "Book 5 - Chapter 1: Infinite Health"
+cheat41_code = "72010014+BE6C+32010028+0003"
+cheat41_enable = false
+
+cheat42_desc = "Book 5 - Chapter 1: Moon Jump"
+cheat42_code = "7200FFB8+FA79+8201010C+F900"
+cheat42_enable = false
+
+cheat43_desc = "Book 5 - Chapter 2: Infinite Health"
+cheat43_code = "72029228+BB24+3202923C+0006"
+cheat43_enable = false
+
+cheat44_desc = "Book 5 - Chapter 2: Moon Jump"
+cheat44_code = "720291CC+FB5C+82029330+F900"
+cheat44_enable = false
+
+cheat45_desc = "Book 5 - Chapter 3: Infinite Health"
+cheat45_code = "720288E0+BB24+320288F4+0006+72029170+BE6C+32029184+0003+72029564+C4D4+32029578+0004"
+cheat45_enable = false
+
+cheat46_desc = "Book 5 - Chapter 3: Moon Jump"
+cheat46_code = "72028884+FB5C+820289E8+F900+72029114+FA79+82029268+F900+72029508+FB5C+82029668+F900"
+cheat46_enable = false
+
+cheat47_desc = "Book 5 - Chapter 4: Infinite Health"
+cheat47_code = "720234A4+BB24+320234B8+0006+72022398+BE6C+320223AC+0003+7202278C+C4D4+320227A0+0004"
+cheat47_enable = false
+
+cheat48_desc = "Book 5 - Chapter 5: Infinite Health"
+cheat48_code = "72010A90+B714+32010AA4+0006"
+cheat48_enable = false
+
+cheat49_desc = "Book 5 - Chapter 5: Moon Jump"
+cheat49_code = "72010A34+FC3E+82010B98+F900"
+cheat49_enable = false
+
+cheat50_desc = "Have 99 Gold Coins"
+cheat50_code = "32002EB8+0063"
+cheat50_enable = false
+
+cheat51_desc = "Have All Coins In Level"
+cheat51_code = "32002EF8+0028"
+cheat51_enable = false
+
+cheat52_desc = "Infinite Health"
+cheat52_code = "8800EBAE+6002"
+cheat52_enable = false

@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Access All BM Options"
+cheat0_code = "42007D20+FFFF+00000005+0002"
+cheat0_enable = false
+
+cheat1_desc = "Have All Outfits"
+cheat1_code = "32007C9D+00FF+82007C9E+FFFF+32007CA0+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Fuel"
+cheat2_code = "32000347+0080"
+cheat2_enable = false
+
+cheat3_desc = "Stop Timer"
+cheat3_code = "32000B0D+0006"
+cheat3_enable = false

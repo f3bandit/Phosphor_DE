@@ -1,0 +1,37 @@
+cheats = 9
+
+cheat0_desc = "Engine Upgrade #1"
+cheat0_code = "820380C8+0140+82038128+0120"
+cheat0_enable = false
+
+cheat1_desc = "Engine Upgrade #2"
+cheat1_code = "820380C8+01C0+82038128+01A0"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Ammo"
+cheat2_code = "32037E58+0012"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health"
+cheat3_code = "8203791A+0100"
+cheat3_enable = false
+
+cheat4_desc = "No Mission Timer"
+cheat4_code = "82037E5C+0000"
+cheat4_enable = false
+
+cheat5_desc = "Quick Fire"
+cheat5_code = "320352DE+0000"
+cheat5_enable = false
+
+cheat6_desc = "Unlock All Episodes"
+cheat6_code = "420346C0+FFFF+00000002+0002"
+cheat6_enable = false
+
+cheat7_desc = "Unlock All Game Modes"
+cheat7_code = "820346C4+FFFF"
+cheat7_enable = false
+
+cheat8_desc = "Unlock All Vehicles"
+cheat8_code = "820346BC+FFFF+320346BE+00FF"
+cheat8_enable = false

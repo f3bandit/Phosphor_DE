@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Infinite Skill Points"
+cheat0_code = "830010F4+0063"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Gold"
+cheat1_code = "83002154+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "Max Gold"
+cheat2_code = "83002154+E0FF+83002156+05F5"
+cheat2_enable = false

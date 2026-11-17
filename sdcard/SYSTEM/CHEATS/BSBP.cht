@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Infinite HP"
+cheat0_code = "33001CFF+0064"
+cheat0_enable = false
+
+cheat1_desc = "Max Power Bar"
+cheat1_code = "33001CD3+0048"
+cheat1_enable = false
+
+cheat2_desc = "Hold A To Float Upwards"
+cheat2_code = "73001D08+0001+83001C70+0060"
+cheat2_enable = false

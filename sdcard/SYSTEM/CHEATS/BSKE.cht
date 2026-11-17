@@ -1,0 +1,761 @@
+cheats = 190
+
+cheat0_desc = "1 EXP For 1 Level Up"
+cheat0_code = "82001050+0001"
+cheat0_enable = false
+
+cheat1_desc = "65535 Fishing Points"
+cheat1_code = "82001572+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "Access All Extras"
+cheat2_code = "730000DC+00F0+830003DA+FFFF"
+cheat2_enable = false
+
+cheat3_desc = "Access All Teleports"
+cheat3_code = "320006A4+00FF"
+cheat3_enable = false
+
+cheat4_desc = "Access Extras Menu"
+cheat4_code = "73000024+0001+33000024+0002"
+cheat4_enable = false
+
+cheat5_desc = "Adaman 0re"
+cheat5_code = "3200146C+0063"
+cheat5_enable = false
+
+cheat6_desc = "Adaman Boots"
+cheat6_code = "320014B2+0000"
+cheat6_enable = false
+
+cheat7_desc = "Adaman Bracelet"
+cheat7_code = "320014A3+0000"
+cheat7_enable = false
+
+cheat8_desc = "Adaman Ore"
+cheat8_code = "3200146C+0000"
+cheat8_enable = false
+
+cheat9_desc = "Adaman Ring"
+cheat9_code = "32001494+0000"
+cheat9_enable = false
+
+cheat10_desc = "Angel Ice Statue"
+cheat10_code = "32001483+0000"
+cheat10_enable = false
+
+cheat11_desc = "Anti-Demon 0re"
+cheat11_code = "3200146E+0063"
+cheat11_enable = false
+
+cheat12_desc = "Anti-Demon Ore"
+cheat12_code = "3200146E+0000"
+cheat12_enable = false
+
+cheat13_desc = "Aqua 0re"
+cheat13_code = "32001461+0063"
+cheat13_enable = false
+
+cheat14_desc = "Aqua Ore"
+cheat14_code = "32001461+0000"
+cheat14_enable = false
+
+cheat15_desc = "Aqua Ring"
+cheat15_code = "3200149D+0000"
+cheat15_enable = false
+
+cheat16_desc = "Bestiary Complete"
+cheat16_code = "42001514+FFFF+00000008+0002"
+cheat16_enable = false
+
+cheat17_desc = "BlackDragon Fang"
+cheat17_code = "3200147F+0000"
+cheat17_enable = false
+
+cheat18_desc = "Blaze 0re"
+cheat18_code = "32001463+0063"
+cheat18_enable = false
+
+cheat19_desc = "Blaze Ore"
+cheat19_code = "32001463+0000"
+cheat19_enable = false
+
+cheat20_desc = "BurgunBerry"
+cheat20_code = "3200143F+0063"
+cheat20_enable = false
+
+cheat21_desc = "Bushido Scroll"
+cheat21_code = "32001484+0000"
+cheat21_enable = false
+
+cheat22_desc = "Cat Paw Figurine"
+cheat22_code = "32001482+0000"
+cheat22_enable = false
+
+cheat23_desc = "Character Modifier (In Battle)"
+cheat23_code = "32000140+00BE"
+cheat23_enable = false
+
+cheat24_desc = "Character Portait Modifier"
+cheat24_code = "32001001+0000"
+cheat24_enable = false
+
+cheat25_desc = "Character Sprite Modifier"
+cheat25_code = "32000100+0000"
+cheat25_enable = false
+
+cheat26_desc = "Charged 0re"
+cheat26_code = "3200145E+0063"
+cheat26_enable = false
+
+cheat27_desc = "Charged Ore"
+cheat27_code = "3200145E+0000"
+cheat27_enable = false
+
+cheat28_desc = "Chicken Shoes"
+cheat28_code = "320014B8+0000"
+cheat28_enable = false
+
+cheat29_desc = "Crimson Horn"
+cheat29_code = "32001476+0000"
+cheat29_enable = false
+
+cheat30_desc = "Crystal Boots"
+cheat30_code = "320014B3+0000"
+cheat30_enable = false
+
+cheat31_desc = "Crystal Bracelet"
+cheat31_code = "320014A4+0000"
+cheat31_enable = false
+
+cheat32_desc = "Crystal Ring"
+cheat32_code = "32001495+0000"
+cheat32_enable = false
+
+cheat33_desc = "Demon Horn"
+cheat33_code = "32001473+0000"
+cheat33_enable = false
+
+cheat34_desc = "Diplo Bracelet"
+cheat34_code = "320014A2+0000"
+cheat34_enable = false
+
+cheat35_desc = "Diplo Ring"
+cheat35_code = "32001493+0000"
+cheat35_enable = false
+
+cheat36_desc = "Doji Soulstone"
+cheat36_code = "3200147B+0000"
+cheat36_enable = false
+
+cheat37_desc = "Dragon Boots"
+cheat37_code = "320014B4+0000"
+cheat37_enable = false
+
+cheat38_desc = "Dragon Bracelet"
+cheat38_code = "320014A5+0000"
+cheat38_enable = false
+
+cheat39_desc = "Dragon Ring"
+cheat39_code = "32001496+0000"
+cheat39_enable = false
+
+cheat40_desc = "Earn 50,000 Exp"
+cheat40_code = "73006182+0500+83001538+C350"
+cheat40_enable = false
+
+cheat41_desc = "Earn 50,000 Money"
+cheat41_code = "73006182+0500+83001540+C350"
+cheat41_enable = false
+
+cheat42_desc = "Enduro Boots"
+cheat42_code = "320014B7+0000"
+cheat42_enable = false
+
+cheat43_desc = "Enemies Have No DP"
+cheat43_code = "73006180+0000+43000950+0000+00000004+032C"
+cheat43_enable = false
+
+cheat44_desc = "Enemy Modifier (In Battle)"
+cheat44_code = "32000142+00BE"
+cheat44_enable = false
+
+cheat45_desc = "Equipped Weapon AGL"
+cheat45_code = "3200103C+00FF"
+cheat45_enable = false
+
+cheat46_desc = "Equipped Weapon ATK"
+cheat46_code = "32001028+00FF"
+cheat46_enable = false
+
+cheat47_desc = "Equipped Weapon DEF"
+cheat47_code = "32001032+00FF"
+cheat47_enable = false
+
+cheat48_desc = "Eye of Truth"
+cheat48_code = "3200147C+0000"
+cheat48_enable = false
+
+cheat49_desc = "Fangy Shoes"
+cheat49_code = "320014B5+0000"
+cheat49_enable = false
+
+cheat50_desc = "Feather Boots"
+cheat50_code = "320014AF+0000"
+cheat50_enable = false
+
+cheat51_desc = "Fine Boots"
+cheat51_code = "320014B0+0000"
+cheat51_enable = false
+
+cheat52_desc = "Fire Ring"
+cheat52_code = "3200149C+0000"
+cheat52_enable = false
+
+cheat53_desc = "Flare Bracelet"
+cheat53_code = "320014AC+0000"
+cheat53_enable = false
+
+cheat54_desc = "Gain 999 allocate points after battle"
+cheat54_code = "82001046+03E7"
+cheat54_enable = false
+
+cheat55_desc = "Gale 0re"
+cheat55_code = "32001464+0063"
+cheat55_enable = false
+
+cheat56_desc = "Gale Boots"
+cheat56_code = "320014BA+0000"
+cheat56_enable = false
+
+cheat57_desc = "Gale Ore"
+cheat57_code = "32001464+0000"
+cheat57_enable = false
+
+cheat58_desc = "Gem of Light"
+cheat58_code = "3200147E+0000"
+cheat58_enable = false
+
+cheat59_desc = "Hard Shell"
+cheat59_code = "3200146B+0000"
+cheat59_enable = false
+
+cheat60_desc = "HardBoiled Egg"
+cheat60_code = "3200142E+0063"
+cheat60_enable = false
+
+cheat61_desc = "Have 9999 Fishing Points"
+cheat61_code = "82001572+270F"
+cheat61_enable = false
+
+cheat62_desc = "Have All Accessories"
+cheat62_code = "3200148F+0063+42001490+6363+00000016+0002"
+cheat62_enable = false
+
+cheat63_desc = "Have All Extra Modes"
+cheat63_code = "820001A8+FFFF+33000024+0002"
+cheat63_enable = false
+
+cheat64_desc = "Have All Forge Options"
+cheat64_code = "32001002+00FF"
+cheat64_enable = false
+
+cheat65_desc = "Have All Materials"
+cheat65_code = "3200145D+0063+4200145E+6363+00000013+0002+32001484+0063"
+cheat65_enable = false
+
+cheat66_desc = "Have All Techniques"
+cheat66_code = "420014FA+FFFF+0000000D+0002"
+cheat66_enable = false
+
+cheat67_desc = "Have Base Materials"
+cheat67_code = "42001390+C801+01000005+0018"
+cheat67_enable = false
+
+cheat68_desc = "Have Maximum Money"
+cheat68_code = "82001524+967F+82001526+0098"
+cheat68_enable = false
+
+cheat69_desc = "HeartBeat Berry"
+cheat69_code = "3200143E+0063"
+cheat69_enable = false
+
+cheat70_desc = "Heartleaf Berry"
+cheat70_code = "3200143E+0000"
+cheat70_enable = false
+
+cheat71_desc = "HeartLeaf Potion"
+cheat71_code = "3200142D+0063"
+cheat71_enable = false
+
+cheat72_desc = "Heavy Metal 0re"
+cheat72_code = "32001460+0063"
+cheat72_enable = false
+
+cheat73_desc = "Heavy Metal Ore"
+cheat73_code = "32001460+0000"
+cheat73_enable = false
+
+cheat74_desc = "Hematite Armlet"
+cheat74_code = "320014A1+0000"
+cheat74_enable = false
+
+cheat75_desc = "Hematite Ring"
+cheat75_code = "32001492+0000"
+cheat75_enable = false
+
+cheat76_desc = "Hero's Badge"
+cheat76_code = "32001471+0000"
+cheat76_enable = false
+
+cheat77_desc = "Hit Anywhere For All"
+cheat77_code = "88031302+E01B+880312BE+46C0"
+cheat77_enable = false
+
+cheat78_desc = "Horn Bracelet"
+cheat78_code = "320014A6+0000"
+cheat78_enable = false
+
+cheat79_desc = "Horn Ring"
+cheat79_code = "32001497+0000"
+cheat79_enable = false
+
+cheat80_desc = "Infinite DP"
+cheat80_code = "73006180+0000+43000624+2710+00000003+0018"
+cheat80_enable = false
+
+cheat81_desc = "Infinite Magic"
+cheat81_code = "73006180+0000+4300067E+0909+00000002+0002"
+cheat81_enable = false
+
+cheat82_desc = "Infinite Summons"
+cheat82_code = "73006180+0000+33000607+0006"
+cheat82_enable = false
+
+cheat83_desc = "Instant Text Display"
+cheat83_code = "8800C290+46C0"
+cheat83_enable = false
+
+cheat84_desc = "Iron Bracelet"
+cheat84_code = "3200149F+0000"
+cheat84_enable = false
+
+cheat85_desc = "Iron Ring"
+cheat85_code = "32001490+0000"
+cheat85_enable = false
+
+cheat86_desc = "Kishin Horn"
+cheat86_code = "32001479+0000"
+cheat86_enable = false
+
+cheat87_desc = "Leafwyrm"
+cheat87_code = "3200145F+0063"
+cheat87_enable = false
+
+cheat88_desc = "Leafwyrm Thorn"
+cheat88_code = "3200145F+0000"
+cheat88_enable = false
+
+cheat89_desc = "Level Modifier"
+cheat89_code = "32001000+0000"
+cheat89_enable = false
+
+cheat90_desc = "Light Metal 0re"
+cheat90_code = "32001466+0063"
+cheat90_enable = false
+
+cheat91_desc = "Light Metal Ore"
+cheat91_code = "32001466+0000"
+cheat91_enable = false
+
+cheat92_desc = "Lion's Crest"
+cheat92_code = "32001474+0000"
+cheat92_enable = false
+
+cheat93_desc = "Machinery Scroll"
+cheat93_code = "32001475+0000"
+cheat93_enable = false
+
+cheat94_desc = "Magic Ring"
+cheat94_code = "3200149A+0000"
+cheat94_enable = false
+
+cheat95_desc = "Mark of Courage"
+cheat95_code = "32001472+0000"
+cheat95_enable = false
+
+cheat96_desc = "Max CraftKnight Rank"
+cheat96_code = "32001002+0004"
+cheat96_enable = false
+
+cheat97_desc = "Max HP"
+cheat97_code = "8200101E+270F"
+cheat97_enable = false
+
+cheat98_desc = "Max Weapon Stats"
+cheat98_code = "42001022+FFFF+0000000F+0002"
+cheat98_enable = false
+
+cheat99_desc = "Maximum DP"
+cheat99_code = "73006180+0000+43000628+2710+00000003+0018"
+cheat99_enable = false
+
+cheat100_desc = "Maximum HP"
+cheat100_code = "73006180+0000+83000610+270F"
+cheat100_enable = false
+
+cheat101_desc = "Maximum Stats"
+cheat101_code = "42001022+03E7+0000000F+0002"
+cheat101_enable = false
+
+cheat102_desc = "Mechanical Box"
+cheat102_code = "32001481+0000"
+cheat102_enable = false
+
+cheat103_desc = "Miner's Boots"
+cheat103_code = "320014AD+0000"
+cheat103_enable = false
+
+cheat104_desc = "Monger Bracer"
+cheat104_code = "320014A8+0000"
+cheat104_enable = false
+
+cheat105_desc = "Movement Speed Modifier (In Battle)"
+cheat105_code = "83000584+0000"
+cheat105_enable = false
+
+cheat106_desc = "Name Slot 1"
+cheat106_code = "82001004+0000"
+cheat106_enable = false
+
+cheat107_desc = "Name Slot 10"
+cheat107_code = "82001016+0000"
+cheat107_enable = false
+
+cheat108_desc = "Name Slot 11"
+cheat108_code = "82001018+0000"
+cheat108_enable = false
+
+cheat109_desc = "Name Slot 12"
+cheat109_code = "8200101A+0000"
+cheat109_enable = false
+
+cheat110_desc = "Name Slot 2"
+cheat110_code = "82001006+0000"
+cheat110_enable = false
+
+cheat111_desc = "Name Slot 3"
+cheat111_code = "82001008+0000"
+cheat111_enable = false
+
+cheat112_desc = "Name Slot 4"
+cheat112_code = "8200100A+0000"
+cheat112_enable = false
+
+cheat113_desc = "Name Slot 5"
+cheat113_code = "8200100C+0000"
+cheat113_enable = false
+
+cheat114_desc = "Name Slot 6"
+cheat114_code = "8200100E+0000"
+cheat114_enable = false
+
+cheat115_desc = "Name Slot 7"
+cheat115_code = "82001010+0000"
+cheat115_enable = false
+
+cheat116_desc = "Name Slot 8"
+cheat116_code = "82001012+0000"
+cheat116_enable = false
+
+cheat117_desc = "Name Slot 9"
+cheat117_code = "82001014+0000"
+cheat117_enable = false
+
+cheat118_desc = "Ninja Bracelet"
+cheat118_code = "320014A7+0000"
+cheat118_enable = false
+
+cheat119_desc = "Ninja Ring"
+cheat119_code = "32001498+0000"
+cheat119_enable = false
+
+cheat120_desc = "Ninja Sandles"
+cheat120_code = "320014B6+0000"
+cheat120_enable = false
+
+cheat121_desc = "Ninja Scroll I"
+cheat121_code = "32001477+0000"
+cheat121_enable = false
+
+cheat122_desc = "Ninja Scroll II"
+cheat122_code = "32001478+0000"
+cheat122_enable = false
+
+cheat123_desc = "No Random Battles"
+cheat123_code = "A3006180+0000+3200FDF8+0000"
+cheat123_enable = false
+
+cheat124_desc = "Onyx Lifestone"
+cheat124_code = "32001480+0000"
+cheat124_enable = false
+
+cheat125_desc = "Ore Ring"
+cheat125_code = "3200149E+0000"
+cheat125_enable = false
+
+cheat126_desc = "Proper Have All Items [Including Red Daemon Gems]"
+cheat126_code = "4200142A+0063+00000096+0001"
+cheat126_enable = false
+
+cheat127_desc = "Proper Have All Items [Without Red Daemon Gems]"
+cheat127_code = "4200142A+0063+00000009+0001+4200143A+6363+00000087+0001"
+cheat127_enable = false
+
+cheat128_desc = "Rabbit Boots"
+cheat128_code = "320014BB+0000"
+cheat128_enable = false
+
+cheat129_desc = "Red Daemon Gem [2, Charged]"
+cheat129_code = "32001436+0000"
+cheat129_enable = false
+
+cheat130_desc = "Red Daemon Gem [2, Not Charged]"
+cheat130_code = "32001437+0000"
+cheat130_enable = false
+
+cheat131_desc = "Red Daemon Gem [3, Charged]"
+cheat131_code = "32001438+0000"
+cheat131_enable = false
+
+cheat132_desc = "Red Daemon Gem [3, Not Charged]"
+cheat132_code = "32001439+0000"
+cheat132_enable = false
+
+cheat133_desc = "Red Daemon Gem [Charged]"
+cheat133_code = "32001434+0000"
+cheat133_enable = false
+
+cheat134_desc = "Red Daemon Gem [Not Charged]"
+cheat134_code = "32001435+0000"
+cheat134_enable = false
+
+cheat135_desc = "Red Ring"
+cheat135_code = "32001491+0000"
+cheat135_enable = false
+
+cheat136_desc = "Repellant Amulet"
+cheat136_code = "3200143B+0000"
+cheat136_enable = false
+
+cheat137_desc = "Repellent Amulet"
+cheat137_code = "3200143B+0063"
+cheat137_enable = false
+
+cheat138_desc = "Rigid Boots"
+cheat138_code = "320014B1+0000"
+cheat138_enable = false
+
+cheat139_desc = "Ruby Bracelet"
+cheat139_code = "320014A0+0000"
+cheat139_enable = false
+
+cheat140_desc = "SandStone 0re"
+cheat140_code = "32001469+0063"
+cheat140_enable = false
+
+cheat141_desc = "Sandstone Ore"
+cheat141_code = "32001469+0000"
+cheat141_enable = false
+
+cheat142_desc = "Simple Ring"
+cheat142_code = "3200148F+0000"
+cheat142_enable = false
+
+cheat143_desc = "Spark Bracelet"
+cheat143_code = "320014AB+0000"
+cheat143_enable = false
+
+cheat144_desc = "Srinky Syrup"
+cheat144_code = "3200144A+0063"
+cheat144_enable = false
+
+cheat145_desc = "Steelplated Boots"
+cheat145_code = "320014AE+0000"
+cheat145_enable = false
+
+cheat146_desc = "Stinky Garlic"
+cheat146_code = "3200144A+0000"
+cheat146_enable = false
+
+cheat147_desc = "Super Ring"
+cheat147_code = "32001499+0000"
+cheat147_enable = false
+
+cheat148_desc = "Thunder Bracelet"
+cheat148_code = "320014AA+0000"
+cheat148_enable = false
+
+cheat149_desc = "Trainee Bracer"
+cheat149_code = "320014A9+0000"
+cheat149_enable = false
+
+cheat150_desc = "Tyrant Soulstone"
+cheat150_code = "3200147A+0000"
+cheat150_enable = false
+
+cheat151_desc = "Walk On Ice"
+cheat151_code = "8200FD68+0000"
+cheat151_enable = false
+
+cheat152_desc = "Water Ring"
+cheat152_code = "3200149B+0000"
+cheat152_enable = false
+
+cheat153_desc = "Weak Enemies"
+cheat153_code = "73006180+0000+43000938+0000+00000004+032C"
+cheat153_enable = false
+
+cheat154_desc = "Weapon 1 AGL"
+cheat154_code = "32001036+00FF"
+cheat154_enable = false
+
+cheat155_desc = "Weapon 1 ATK"
+cheat155_code = "32001022+00FF"
+cheat155_enable = false
+
+cheat156_desc = "Weapon 1 DEF"
+cheat156_code = "3200102C+00FF"
+cheat156_enable = false
+
+cheat157_desc = "Weapon 2 AGL"
+cheat157_code = "32001038+00FF"
+cheat157_enable = false
+
+cheat158_desc = "Weapon 2 ATK"
+cheat158_code = "32001024+00FF"
+cheat158_enable = false
+
+cheat159_desc = "Weapon 2 DEF"
+cheat159_code = "3200102E+00FF"
+cheat159_enable = false
+
+cheat160_desc = "Weapon 3 AGL"
+cheat160_code = "3200103A+00FF"
+cheat160_enable = false
+
+cheat161_desc = "Weapon 3 ATK"
+cheat161_code = "32001026+00FF"
+cheat161_enable = false
+
+cheat162_desc = "Weapon 3 DEF"
+cheat162_code = "32001030+00FF"
+cheat162_enable = false
+
+cheat163_desc = "Wind Boots"
+cheat163_code = "320014B9+0000"
+cheat163_enable = false
+
+cheat164_desc = "Witchstone"
+cheat164_code = "3200147D+0000"
+cheat164_enable = false
+
+cheat165_desc = "[Unnamed &quot;Weapon&quot; 10]"
+cheat165_code = "32001487+0000"
+cheat165_enable = false
+
+cheat166_desc = "[Unnamed &quot;Weapon&quot; 11]"
+cheat166_code = "32001488+0000"
+cheat166_enable = false
+
+cheat167_desc = "[Unnamed &quot;Weapon&quot; 12]"
+cheat167_code = "32001489+0000"
+cheat167_enable = false
+
+cheat168_desc = "[Unnamed &quot;Weapon&quot; 13]"
+cheat168_code = "3200148A+0000"
+cheat168_enable = false
+
+cheat169_desc = "[Unnamed &quot;Weapon&quot; 14]"
+cheat169_code = "3200148B+0000"
+cheat169_enable = false
+
+cheat170_desc = "[Unnamed &quot;Weapon&quot; 15]"
+cheat170_code = "3200148C+0000"
+cheat170_enable = false
+
+cheat171_desc = "[Unnamed &quot;Weapon&quot; 16]"
+cheat171_code = "3200148D+0000"
+cheat171_enable = false
+
+cheat172_desc = "[Unnamed &quot;Weapon&quot; 17]"
+cheat172_code = "3200148E+0000"
+cheat172_enable = false
+
+cheat173_desc = "[Unnamed &quot;Weapon&quot; 18]"
+cheat173_code = "320014BC+0000"
+cheat173_enable = false
+
+cheat174_desc = "[Unnamed &quot;Weapon&quot; 19]"
+cheat174_code = "320014BD+0000"
+cheat174_enable = false
+
+cheat175_desc = "[Unnamed &quot;Weapon&quot; 1]"
+cheat175_code = "32001456+0000"
+cheat175_enable = false
+
+cheat176_desc = "[Unnamed &quot;Weapon&quot; 20]"
+cheat176_code = "320014BE+0000"
+cheat176_enable = false
+
+cheat177_desc = "[Unnamed &quot;Weapon&quot; 21]"
+cheat177_code = "320014BF+0000"
+cheat177_enable = false
+
+cheat178_desc = "[Unnamed &quot;Weapon&quot; 22]"
+cheat178_code = "320014C0+0000"
+cheat178_enable = false
+
+cheat179_desc = "[Unnamed &quot;Weapon&quot; 2]"
+cheat179_code = "32001457+0000"
+cheat179_enable = false
+
+cheat180_desc = "[Unnamed &quot;Weapon&quot; 3]"
+cheat180_code = "32001458+0000"
+cheat180_enable = false
+
+cheat181_desc = "[Unnamed &quot;Weapon&quot; 4]"
+cheat181_code = "32001459+0000"
+cheat181_enable = false
+
+cheat182_desc = "[Unnamed &quot;Weapon&quot; 5]"
+cheat182_code = "3200145A+0000"
+cheat182_enable = false
+
+cheat183_desc = "[Unnamed &quot;Weapon&quot; 6]"
+cheat183_code = "3200145B+0000"
+cheat183_enable = false
+
+cheat184_desc = "[Unnamed &quot;Weapon&quot; 7]"
+cheat184_code = "3200145C+0000"
+cheat184_enable = false
+
+cheat185_desc = "[Unnamed &quot;Weapon&quot; 8]"
+cheat185_code = "32001485+0000"
+cheat185_enable = false
+
+cheat186_desc = "[Unnamed &quot;Weapon&quot; 9]"
+cheat186_code = "32001486+0000"
+cheat186_enable = false
+
+cheat187_desc = "Infinite HP"
+cheat187_code = "82001020+270F"
+cheat187_enable = false
+
+cheat188_desc = "1-Hit Kill Enemy 1"
+cheat188_code = "83000938+0001"
+cheat188_enable = false
+
+cheat189_desc = "Have All Items"
+cheat189_code = "4200142A+6363+00000005+0002+4200143A+6363+0000000E+0002+4200145C+6363+0000000B+0002"
+cheat189_enable = false

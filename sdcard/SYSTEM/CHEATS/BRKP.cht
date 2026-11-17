@@ -1,0 +1,113 @@
+cheats = 28
+
+cheat0_desc = "10 Chips In-Battle"
+cheat0_code = "3203C88A+000A"
+cheat0_enable = false
+
+cheat1_desc = "99 Regular Mem"
+cheat1_code = "320052B1+0063"
+cheat1_enable = false
+
+cheat2_desc = "Always Berserk Mode"
+cheat2_code = "320340D9+0002"
+cheat2_enable = false
+
+cheat3_desc = "Always Dark Mode"
+cheat3_code = "3203C88E+0000"
+cheat3_enable = false
+
+cheat4_desc = "Always Full-Synchro"
+cheat4_code = "3203C88E+00FF"
+cheat4_enable = false
+
+cheat5_desc = "Always Rank S"
+cheat5_code = "32034AAE+000B"
+cheat5_enable = false
+
+cheat6_desc = "Cheap Chip Trader"
+cheat6_code = "8200B920+0001"
+cheat6_enable = false
+
+cheat7_desc = "Chips Do 5000 Damage"
+cheat7_code = "42034E2E+1388+00000005+0002"
+cheat7_enable = false
+
+cheat8_desc = "Dark Chips"
+cheat8_code = "74000130+00F9+42003770+6363+0000000C+000C"
+cheat8_enable = false
+
+cheat9_desc = "Delete Enemies [Press Select]"
+cheat9_code = "D0000020+0004+4203B2FC+0000+00000004+00D8"
+cheat9_enable = false
+
+cheat10_desc = "Full Custom Gauge"
+cheat10_code = "82035700+4000"
+cheat10_enable = false
+
+cheat11_desc = "Giga Chips"
+cheat11_code = "74000130+00F9+42003CC8+0063+0000000E+000C"
+cheat11_enable = false
+
+cheat12_desc = "Have All Navi Blocks"
+cheat12_code = "42001156+0000+0000005D+0002+42003E36+0909+0000005D+0002+42005BF6+6F6F+0000005D+0002"
+cheat12_enable = false
+
+cheat13_desc = "Have All Souls"
+cheat13_code = "320029F8+00FF"
+cheat13_enable = false
+
+cheat14_desc = "Have All Standard Chips"
+cheat14_code = "74000130+00F9+42002EB8+6363+000000B4+000C+74000130+00F9+42002EBA+6363+000000B4+000C"
+cheat14_enable = false
+
+cheat15_desc = "Have All Subchips"
+cheat15_code = "42001140+0000+00000003+0002+42003E20+0404+00000004+0002+42005BE0+6F6F+00000003+0002"
+cheat15_enable = false
+
+cheat16_desc = "Have Library+PA Entries"
+cheat16_code = "42001440+0000+000000AF+0002+42002CC8+FFFF+00000016+0002+42005CC4+8181+000000AF+0002"
+cheat16_enable = false
+
+cheat17_desc = "Have Max Bug Frags"
+cheat17_code = "8200266C+0000+8200266E+0000+820029A0+869F+820029A2+0001+820060D4+869F+820060D6+0001"
+cheat17_enable = false
+
+cheat18_desc = "Have Max Zenny"
+cheat18_code = "82000180+0000+82000182+0000+8200299C+423F+8200299E+000F+820060CC+423F+820060CE+000F"
+cheat18_enable = false
+
+cheat19_desc = "Have Navi Customizer"
+cheat19_code = "32002C98+00FF"
+cheat19_enable = false
+
+cheat20_desc = "Infinite Data Gems"
+cheat20_code = "8200AC1C+0000"
+cheat20_enable = false
+
+cheat21_desc = "Infinite HP"
+cheat21_code = "8203B224+270F"
+cheat21_enable = false
+
+cheat22_desc = "Invincible"
+cheat22_code = "32038CC7+0000"
+cheat22_enable = false
+
+cheat23_desc = "Maximum Stats"
+cheat23_code = "320052A9+0062+820052AA+6262"
+cheat23_enable = false
+
+cheat24_desc = "Mega Chips"
+cheat24_code = "74000130+00F9+42003818+6363+00000050+000C"
+cheat24_enable = false
+
+cheat25_desc = "No Random Battles"
+cheat25_code = "820029BE+0000"
+cheat25_enable = false
+
+cheat26_desc = "Quick Charge"
+cheat26_code = "320340AB+0064"
+cheat26_enable = false
+
+cheat27_desc = "Walk Thru Walls"
+cheat27_code = "82013774+0000"
+cheat27_enable = false

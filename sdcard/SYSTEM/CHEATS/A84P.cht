@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Have 8 Ham-Hams [Press Select+L]"
+cheat0_code = "74000130+01FB+33001F23+0008+74000130+01FB+43001F7C+0000+00010008+0040+74000130+01FB+43001F7E+0000+00000008+0040"
+cheat0_enable = false
+
+cheat1_desc = "Have 999 Seeds"
+cheat1_code = "8300160E+03E7"
+cheat1_enable = false
+
+cheat2_desc = "Have All Items"
+cheat2_code = "42001E78+0000+00010030+0004+42001E7A+0001+00000030+0004"
+cheat2_enable = false
+
+cheat3_desc = "Have All Stickers"
+cheat3_code = "720124C4+289C+32012513+0001+720124C4+289C+42012514+0101+000000E1+0002"
+cheat3_enable = false

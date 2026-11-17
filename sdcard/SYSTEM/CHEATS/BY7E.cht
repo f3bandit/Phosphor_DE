@@ -1,0 +1,109 @@
+cheats = 27
+
+cheat0_desc = "1 Tribute Needed"
+cheat0_code = "72025C52+0050+32025C52+0080"
+cheat0_enable = false
+
+cheat1_desc = "50,000 Damage Inflicted Opponent"
+cheat1_code = "8202337C+C350"
+cheat1_enable = false
+
+cheat2_desc = "50,000 Monsters Destroyed"
+cheat2_code = "82023386+C350"
+cheat2_enable = false
+
+cheat3_desc = "65,535 LP"
+cheat3_code = "82020AA0+FFFF"
+cheat3_enable = false
+
+cheat4_desc = "9999 DPS"
+cheat4_code = "82001808+270F"
+cheat4_enable = false
+
+cheat5_desc = "Access All Boosters"
+cheat5_code = "82019FF4+0C00+42019FF8+0000+0008000A+0008+4201A048+0051+00080004+0008+4201A068+0070+00080003+0008+4201A080+0089+0008000F+0008+4201A0F8+0002+00080010+0008+420018D8+6363+00000018+0002"
+cheat5_enable = false
+
+cheat6_desc = "All Cards"
+cheat6_code = "42000008+0782+000003E8+0004"
+cheat6_enable = false
+
+cheat7_desc = "Avoid Direct Attacks"
+cheat7_code = "820204B0+0000"
+cheat7_enable = false
+
+cheat8_desc = "Change of Heart [Press L+R+Left]"
+cheat8_code = "74000130+00DF+8201FCB4+0001+7201FCBE+0005+8201FCB4+0000+74000130+00DF+8201F770+0000+74000130+00DF+82020ACC+0212"
+cheat8_enable = false
+
+cheat9_desc = "Cheap Ritual Offering"
+cheat9_code = "3201FCCE+0000"
+cheat9_enable = false
+
+cheat10_desc = "Earn 50,000 DP"
+cheat10_code = "83003AC4+C350"
+cheat10_enable = false
+
+cheat11_desc = "Have 50,000 DP"
+cheat11_code = "82001808+C350"
+cheat11_enable = false
+
+cheat12_desc = "Have All Trophies"
+cheat12_code = "8200180C+FFFF"
+cheat12_enable = false
+
+cheat13_desc = "Have Loads of DP"
+cheat13_code = "82001808+E0FF+8200180A+05F5"
+cheat13_enable = false
+
+cheat14_desc = "In-Battle"
+cheat14_code = "82023380+C350"
+cheat14_enable = false
+
+cheat15_desc = "Infinite LP"
+cheat15_code = "82020AB0+1F40"
+cheat15_enable = false
+
+cheat16_desc = "Inflict 5000 Direct Damage"
+cheat16_code = "820204C8+1388"
+cheat16_enable = false
+
+cheat17_desc = "Instant Win [Press Select+Down]"
+cheat17_code = "74000130+037B+82023374+0000"
+cheat17_enable = false
+
+cheat18_desc = "Max DPS"
+cheat18_code = "82001808+007F+8200180A+9896"
+cheat18_enable = false
+
+cheat19_desc = "Max/Infinite Duel Points"
+cheat19_code = "82001808+4240+8200180A+000F"
+cheat19_enable = false
+
+cheat20_desc = "One Hit Kills Enemy"
+cheat20_code = "B2023374+0032+82023374+0032"
+cheat20_enable = false
+
+cheat21_desc = "Place Another Card [Press Select+Left]"
+cheat21_code = "74000130+03DB+32023364+0000"
+cheat21_enable = false
+
+cheat22_desc = "Raigeki [Press L+R+Up]"
+cheat22_code = "74000130+00BF+8201FCB4+0001+7201FCBE+0005+8201FCB4+0000+74000130+00BF+8201F770+0000+74000130+00BF+82020ACC+00C6"
+cheat22_enable = false
+
+cheat23_desc = "Regional Tournament"
+cheat23_code = "73003ACA+0028+83003ACA+1800+720189EE+0034+320189EE+0038+720189EE+0035+320189EE+0039"
+cheat23_enable = false
+
+cheat24_desc = "Repeat Draw Phase [Press Select+Up]"
+cheat24_code = "74000130+03BB+3201A460+0002"
+cheat24_enable = false
+
+cheat25_desc = "Weekend Tournament"
+cheat25_code = "73003ACA+0028+83003ACA+1800+720189EE+0035+320189EE+0039+720189EE+006B+320189EE+006F"
+cheat25_enable = false
+
+cheat26_desc = "Infinite HP"
+cheat26_code = "82020AB0+FFFF"
+cheat26_enable = false

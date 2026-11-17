@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Infinite Lives"
+cheat0_code = "3201DE0F+0009"
+cheat0_enable = false
+
+cheat1_desc = "Jump higher"
+cheat1_code = "8801CA0C+FA00+8801CCB4+FA00+8801DF8C+FA00"
+cheat1_enable = false
+
+cheat2_desc = "All Cheats Activated"
+cheat2_code = "8201DD0E+07F8"
+cheat2_enable = false
+
+cheat3_desc = "Huge Score"
+cheat3_code = "8201DE14+FA00"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Energy"
+cheat4_code = "3201E589+0050"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Health"
+cheat5_code = "3201E587+0050"
+cheat5_enable = false
+
+cheat6_desc = "Start With Hi-Score"
+cheat6_code = "7201DE14+0000+8201DE14+C350"
+cheat6_enable = false

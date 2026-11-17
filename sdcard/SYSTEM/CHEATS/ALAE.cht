@@ -1,0 +1,21 @@
+cheats = 5
+
+cheat0_desc = "Infinite Health"
+cheat0_code = "3300241B+00C0"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Lives"
+cheat1_code = "33004FC3+0003"
+cheat1_enable = false
+
+cheat2_desc = "Max Treestars Collected"
+cheat2_code = "83002B88+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Multi Jump"
+cheat3_code = "D0000020+0001+430022F4+FA00+05FF0002+0002"
+cheat3_enable = false
+
+cheat4_desc = "Start With Hi-Score"
+cheat4_code = "73002B9C+0000+83002B9C+C350"
+cheat4_enable = false

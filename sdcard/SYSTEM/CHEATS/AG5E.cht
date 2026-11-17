@@ -1,0 +1,89 @@
+cheats = 22
+
+cheat0_desc = "Always Have Armor"
+cheat0_code = "3202044A+0002"
+cheat0_enable = false
+
+cheat1_desc = "Armor Modifier"
+cheat1_code = "320214BA+0000"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Credits"
+cheat2_code = "32001718+0009"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Time"
+cheat3_code = "32000A2A+0009"
+cheat3_enable = false
+
+cheat4_desc = "Invincible"
+cheat4_code = "32001388+0002"
+cheat4_enable = false
+
+cheat5_desc = "Max Score"
+cheat5_code = "820016F2+0909+820016F4+0909"
+cheat5_enable = false
+
+cheat6_desc = "Mega Jump"
+cheat6_code = "D0000020+0001+32020455+0000"
+cheat6_enable = false
+
+cheat7_desc = "Rapid Fire"
+cheat7_code = "320202B7+0001+32021A9B+0005"
+cheat7_enable = false
+
+cheat8_desc = "Hit Anywhere Both Players"
+cheat8_code = "8800F29E+E000+8800F720+E000"
+cheat8_enable = false
+
+cheat9_desc = "Invincibility P1"
+cheat9_code = "8800F226+42AC+8805E24A+D0FF+8800F656+454D+8800F658+DC00"
+cheat9_enable = false
+
+cheat10_desc = "Max Super Meter P2"
+cheat10_code = "7201AD4A+1CF0"
+cheat10_enable = false
+
+cheat11_desc = "Max Vs Points"
+cheat11_code = "820071C8+270F"
+cheat11_enable = false
+
+cheat12_desc = "P1 Infinite Super"
+cheat12_code = "330066D4+0030"
+cheat12_enable = false
+
+cheat13_desc = "P2 Infinite Super"
+cheat13_code = "33006AE4+0030"
+cheat13_enable = false
+
+cheat14_desc = "P2 No Super"
+cheat14_code = "33006AE4+0000"
+cheat14_enable = false
+
+cheat15_desc = "Press Select For 1-Hit Death P1"
+cheat15_code = "1D082CEF+D008+A2013AB8+5F64"
+cheat15_enable = false
+
+cheat16_desc = "Infinite Health"
+cheat16_code = "3202044A+0001"
+cheat16_enable = false
+
+cheat17_desc = "Infinite Lives"
+cheat17_code = "32005F1C+0009"
+cheat17_enable = false
+
+cheat18_desc = "Infinite Armor"
+cheat18_code = "32020463+0066+32020464+00EE"
+cheat18_enable = false
+
+cheat19_desc = "Infinite Double Jump"
+cheat19_code = "720214BC+0001+820214BC+0000"
+cheat19_enable = false
+
+cheat20_desc = "Start With Hi-Score"
+cheat20_code = "720016F2+0000+820016F2+0001"
+cheat20_enable = false
+
+cheat21_desc = "Press Select+L To Skip Level"
+cheat21_code = "74000130+01FB+830000DC+799F"
+cheat21_enable = false

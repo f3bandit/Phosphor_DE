@@ -1,0 +1,89 @@
+cheats = 22
+
+cheat0_desc = "All Female Stats Maxed"
+cheat0_code = "430040C4+1400+0000000E+0002"
+cheat0_enable = false
+
+cheat1_desc = "All Male Stats Maxed"
+cheat1_code = "43004080+1400+0000000E+0002"
+cheat1_enable = false
+
+cheat2_desc = "Collection Complete"
+cheat2_code = "430012CC+FFFF+00000008+0002"
+cheat2_enable = false
+
+cheat3_desc = "Frame"
+cheat3_code = "33001290+003F"
+cheat3_enable = false
+
+cheat4_desc = "Grip"
+cheat4_code = "33001294+003F"
+cheat4_enable = false
+
+cheat5_desc = "Gut"
+cheat5_code = "33001292+003F"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Att. Points"
+cheat6_code = "33003E65+0064"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Cash"
+cheat7_code = "830012A8+FFFF"
+cheat7_enable = false
+
+cheat8_desc = "Max Cash"
+cheat8_code = "830012A8+E0FF+830012AC+05F5"
+cheat8_enable = false
+
+cheat9_desc = "Open All Tournaments"
+cheat9_code = "830040AC+0001+830040F0+0001"
+cheat9_enable = false
+
+cheat10_desc = "Shoes"
+cheat10_code = "33001296+000F"
+cheat10_enable = false
+
+cheat11_desc = "Stage"
+cheat11_code = "83001298+57E8"
+cheat11_enable = false
+
+cheat12_desc = "Start With 50,000 Points"
+cheat12_code = "73003E6C+0000+83003E6C+C350"
+cheat12_enable = false
+
+cheat13_desc = "Support"
+cheat13_code = "33001297+000F"
+cheat13_enable = false
+
+cheat14_desc = "P1 Always Score 0"
+cheat14_code = "3300120B+0000"
+cheat14_enable = false
+
+cheat15_desc = "P1 Start With 15"
+cheat15_code = "7300120A+0000+3300120B+0001"
+cheat15_enable = false
+
+cheat16_desc = "P1 Start With 30"
+cheat16_code = "7300120A+0000+3300120B+0002"
+cheat16_enable = false
+
+cheat17_desc = "P1 Start With 40"
+cheat17_code = "7300120A+0000+3300120B+0003"
+cheat17_enable = false
+
+cheat18_desc = "P2 Always Score 0"
+cheat18_code = "3300120A+0000"
+cheat18_enable = false
+
+cheat19_desc = "P2 Start With 15"
+cheat19_code = "7300120A+0000+3300120A+0001"
+cheat19_enable = false
+
+cheat20_desc = "P2 Start With 30"
+cheat20_code = "7300120A+0000+3300120A+0002"
+cheat20_enable = false
+
+cheat21_desc = "P2 Start With 40"
+cheat21_code = "7300120A+0000+3300120A+0003"
+cheat21_enable = false

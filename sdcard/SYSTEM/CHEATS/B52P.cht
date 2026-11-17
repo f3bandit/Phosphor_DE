@@ -1,0 +1,45 @@
+cheats = 11
+
+cheat0_desc = "1 Wumpa Fruit = 10"
+cheat0_code = "7300457C+0001+3300457C+000A"
+cheat0_enable = false
+
+cheat1_desc = "Auto-Pilot [Press Select+L]"
+cheat1_code = "74000130+01FB+43003656+0001+00000002+0F30"
+cheat1_enable = false
+
+cheat2_desc = "End Race [Press Select+R]"
+cheat2_code = "74000130+02FB+43003554+0003+00000002+0F30"
+cheat2_enable = false
+
+cheat3_desc = "Have 99 Keys"
+cheat3_code = "320002E0+0063"
+cheat3_enable = false
+
+cheat4_desc = "Have 99 Trophies"
+cheat4_code = "320002DC+0063"
+cheat4_enable = false
+
+cheat5_desc = "Have All Gems"
+cheat5_code = "420002F0+0004+00000008+0004"
+cheat5_enable = false
+
+cheat6_desc = "Have All Items"
+cheat6_code = "42000310+0101+00000030+0002"
+cheat6_enable = false
+
+cheat7_desc = "Slot 1: Crash Team"
+cheat7_code = "82001B1A+C0DE+82001B1C+0000+42001B26+FFFF+0000000B+0002"
+cheat7_enable = false
+
+cheat8_desc = "Slot 2: Evil Team"
+cheat8_code = "82001B46+C0DE+82001B48+00C0+42001B52+FFFF+0000000B+0002"
+cheat8_enable = false
+
+cheat9_desc = "Slow Opponents"
+cheat9_code = "730033CE+8B01+430033BC+0100+00000007+0288"
+cheat9_enable = false
+
+cheat10_desc = "Unlock Fake Crash"
+cheat10_code = "3200040A+0001"
+cheat10_enable = false

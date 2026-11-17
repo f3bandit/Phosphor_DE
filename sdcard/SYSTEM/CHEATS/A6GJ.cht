@@ -1,0 +1,73 @@
+cheats = 18
+
+cheat0_desc = "50,000 Coins"
+cheat0_code = "8200A850+C350"
+cheat0_enable = false
+
+cheat1_desc = "9,999 Coins Found"
+cheat1_code = "83005B10+270F"
+cheat1_enable = false
+
+cheat2_desc = "Access Locked Classes"
+cheat2_code = "33001F14+0003+33001F16+0004"
+cheat2_enable = false
+
+cheat3_desc = "All Bosses"
+cheat3_code = "42008704+0001+0000003A+0004"
+cheat3_enable = false
+
+cheat4_desc = "All Dungeons Visited"
+cheat4_code = "42022EAC+0101+00000011+0002"
+cheat4_enable = false
+
+cheat5_desc = "All Enemies"
+cheat5_code = "42008670+0001+0000001E+0004"
+cheat5_enable = false
+
+cheat6_desc = "All Partners"
+cheat6_code = "420087EC+0001+00000030+0004"
+cheat6_enable = false
+
+cheat7_desc = "Clear Stage [Press Select+L]"
+cheat7_code = "74000130+01FB+3200A8EC+000F"
+cheat7_enable = false
+
+cheat8_desc = "Complete Map"
+cheat8_code = "42022CA8+0101+00000014+0002"
+cheat8_enable = false
+
+cheat9_desc = "Dungeons %100"
+cheat9_code = "4200A90E+4000+0000005C+0010"
+cheat9_enable = false
+
+cheat10_desc = "Events %100"
+cheat10_code = "420227E0+00FF+00000028+0004"
+cheat10_enable = false
+
+cheat11_desc = "Have All Cards"
+cheat11_code = "4200A878+0909+00000032+0002"
+cheat11_enable = false
+
+cheat12_desc = "Infinite HP"
+cheat12_code = "83005570+00C8"
+cheat12_enable = false
+
+cheat13_desc = "Infinite MP"
+cheat13_code = "3200795D+00FF"
+cheat13_enable = false
+
+cheat14_desc = "Max Strength"
+cheat14_code = "83005574+FFFF"
+cheat14_enable = false
+
+cheat15_desc = "Maximum HP"
+cheat15_code = "83005572+00C8"
+cheat15_enable = false
+
+cheat16_desc = "Maximum MP"
+cheat16_code = "32007960+00FF"
+cheat16_enable = false
+
+cheat17_desc = "Skip Floor [Press Select+R]"
+cheat17_code = "74000130+02FB+33002FC1+0006"
+cheat17_enable = false

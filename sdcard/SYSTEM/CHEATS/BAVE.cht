@@ -1,0 +1,81 @@
+cheats = 20
+
+cheat0_desc = "Always Have Seagull's Invincibility"
+cheat0_code = "33000235+00B9"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Blockers"
+cheat1_code = "33000219+0003"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Blue Men"
+cheat2_code = "33000207+0009"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Brown Things"
+cheat3_code = "33000201+0003"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Energy"
+cheat4_code = "33000233+0099+33000234+0099"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Health"
+cheat5_code = "3300022C+005C"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Oxygen"
+cheat6_code = "3300025E+0040"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Stamina"
+cheat7_code = "3300020B+0022"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Time"
+cheat8_code = "83000208+9999"
+cheat8_enable = false
+
+cheat9_desc = "Infinite TNT"
+cheat9_code = "3300022A+0005"
+cheat9_enable = false
+
+cheat10_desc = "Misses Don't Count"
+cheat10_code = "33000250+0050"
+cheat10_enable = false
+
+cheat11_desc = "P1 Has Max Score"
+cheat11_code = "3300020A+0099"
+cheat11_enable = false
+
+cheat12_desc = "P2/CPU Always Has 0 Fish"
+cheat12_code = "33000236+0000"
+cheat12_enable = false
+
+cheat13_desc = "P2/CPU Always Has 0 Hits"
+cheat13_code = "3300020B+0000"
+cheat13_enable = false
+
+cheat14_desc = "P2/CPU Always Has 0 Scores"
+cheat14_code = "33000203+0000"
+cheat14_enable = false
+
+cheat15_desc = "P2/CPU Always Score 0"
+cheat15_code = "330001FE+0000"
+cheat15_enable = false
+
+cheat16_desc = "Spider Misses Don't Count"
+cheat16_code = "33000234+0006"
+cheat16_enable = false
+
+cheat17_desc = "Temp Always 45 Degres"
+cheat17_code = "3300025D+0045"
+cheat17_enable = false
+
+cheat18_desc = "Turns Used Always 0"
+cheat18_code = "3300021C+0000"
+cheat18_enable = false
+
+cheat19_desc = "Untouchable to Seashorses"
+cheat19_code = "3300022C+0000"
+cheat19_enable = false

@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Open All Missions"
+cheat0_code = "8200A884+7FFF"
+cheat0_enable = false

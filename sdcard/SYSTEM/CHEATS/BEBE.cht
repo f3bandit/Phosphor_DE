@@ -1,0 +1,41 @@
+cheats = 10
+
+cheat0_desc = "Strike on Frame 1"
+cheat0_code = "32004300+000A"
+cheat0_enable = false
+
+cheat1_desc = "Strike on Frame 2"
+cheat1_code = "32004314+000A"
+cheat1_enable = false
+
+cheat2_desc = "Strike on Frame 3"
+cheat2_code = "32004328+000A"
+cheat2_enable = false
+
+cheat3_desc = "Strike on Frame 4"
+cheat3_code = "3200433C+000A"
+cheat3_enable = false
+
+cheat4_desc = "Strike on Frame 5"
+cheat4_code = "32004350+000A"
+cheat4_enable = false
+
+cheat5_desc = "Strike on Frame 6"
+cheat5_code = "32004364+000A"
+cheat5_enable = false
+
+cheat6_desc = "Strike on Frame 7"
+cheat6_code = "32004378+000A"
+cheat6_enable = false
+
+cheat7_desc = "Strike on Frame 8"
+cheat7_code = "3200438C+000A"
+cheat7_enable = false
+
+cheat8_desc = "Strike on Frame 9"
+cheat8_code = "320043A0+000A"
+cheat8_enable = false
+
+cheat9_desc = "Strikes on Frame 10"
+cheat9_code = "320043B4+000A+320043C8+000A"
+cheat9_enable = false

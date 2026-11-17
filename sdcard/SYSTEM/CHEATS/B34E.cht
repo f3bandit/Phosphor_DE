@@ -1,0 +1,37 @@
+cheats = 9
+
+cheat0_desc = "Car Park"
+cheat0_code = "33001437+0003"
+cheat0_enable = false
+
+cheat1_desc = "Course"
+cheat1_code = "33001438+0004"
+cheat1_enable = false
+
+cheat2_desc = "Guest House"
+cheat2_code = "33001436+0004"
+cheat2_enable = false
+
+cheat3_desc = "Have 50'000 Cash"
+cheat3_code = "83001424+C350"
+cheat3_enable = false
+
+cheat4_desc = "Have All Items"
+cheat4_code = "43001442+FFFF+0000000B+0002"
+cheat4_enable = false
+
+cheat5_desc = "Have Maximum Cash"
+cheat5_code = "83001424+967F+83001426+0098"
+cheat5_enable = false
+
+cheat6_desc = "Office"
+cheat6_code = "33001434+0004"
+cheat6_enable = false
+
+cheat7_desc = "Paddock"
+cheat7_code = "3300143A+0001"
+cheat7_enable = false
+
+cheat8_desc = "Stable"
+cheat8_code = "33001435+0004"
+cheat8_enable = false

@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Access All Levels"
+cheat0_code = "330044F8+000B"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Health"
+cheat1_code = "330044F6+0001"
+cheat1_enable = false
+
+cheat2_desc = "Skip Level [Press Select+Up]"
+cheat2_code = "74000130+03BB+320002A8+0001"
+cheat2_enable = false

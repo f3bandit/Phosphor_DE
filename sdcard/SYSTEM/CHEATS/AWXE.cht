@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Always Low Time"
+cheat0_code = "8300089C+0000+8300089E+0000"
+cheat0_enable = false
+
+cheat1_desc = "Quick Score Gain"
+cheat1_code = "830008A4+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "Max Score"
+cheat2_code = "830008A4+869F+830008A6+0001"
+cheat2_enable = false

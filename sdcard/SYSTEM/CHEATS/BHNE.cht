@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Access All Players"
+cheat0_code = "72000CAC+2EC1+32000CF8+001C"
+cheat0_enable = false
+
+cheat1_desc = "Access All Teams"
+cheat1_code = "72000CAC+43BD+32000CB0+000F"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Special"
+cheat2_code = "820084A0+0400"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Stamina"
+cheat3_code = "820083BC+0000"
+cheat3_enable = false
+
+cheat4_desc = "Rivals Have No Special"
+cheat4_code = "820084A4+0000"
+cheat4_enable = false
+
+cheat5_desc = "Rivals Have No Stamina"
+cheat5_code = "320083C3+00FF"
+cheat5_enable = false

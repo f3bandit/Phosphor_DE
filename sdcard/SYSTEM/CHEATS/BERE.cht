@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Access All Levels"
+cheat0_code = "720036FE+0200"
+cheat0_enable = false
+
+cheat1_desc = "Access All Suitcases"
+cheat1_code = "7200371C+0002"
+cheat1_enable = false
+
+cheat2_desc = "Always Beat Swiper"
+cheat2_code = "33000040+000F"
+cheat2_enable = false
+
+cheat3_desc = "Have All Blue Crystals"
+cheat3_code = "3300011A+001E"
+cheat3_enable = false
+
+cheat4_desc = "Have All Green Crystals"
+cheat4_code = "3300015E+0003"
+cheat4_enable = false
+
+cheat5_desc = "Have All Items"
+cheat5_code = "32003736+00FF"
+cheat5_enable = false
+
+cheat6_desc = "Skip Level [Press Select+R]"
+cheat6_code = "74000130+02FB"
+cheat6_enable = false

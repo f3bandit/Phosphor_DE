@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Start With 40 Points"
+cheat0_code = "73003DB8+0000+83003D4C+0003"
+cheat0_enable = false
+
+cheat1_desc = "Unlock Everything"
+cheat1_code = "8300003C+FFFF+8300003E+FFFF"
+cheat1_enable = false

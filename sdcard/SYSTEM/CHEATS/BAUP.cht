@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "1 Item To Collect"
+cheat0_code = "73001080+0001+33001080+000A"
+cheat0_enable = false
+
+cheat1_desc = "Skip Level [Press R+Up]"
+cheat1_code = "74000130+02BF+33001114+0001"
+cheat1_enable = false
+
+cheat2_desc = "Unlock Arcade Games"
+cheat2_code = "43001130+0101+00000002+0002"
+cheat2_enable = false

@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Infinite Lives"
+cheat0_code = "320042E8+000A"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Time"
+cheat1_code = "82004D44+0E08"
+cheat1_enable = false
+
+cheat2_desc = "Max Score"
+cheat2_code = "82007128+423F+8200712A+000F+8200428C+4235+8200428E+000F"
+cheat2_enable = false

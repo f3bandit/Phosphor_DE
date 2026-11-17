@@ -1,0 +1,177 @@
+cheats = 44
+
+cheat0_desc = "0 Deaths On File Select"
+cheat0_code = "3300799F+0000"
+cheat0_enable = false
+
+cheat1_desc = "Add Platforms or Blocks to Stages"
+cheat1_code = "33007931+0000"
+cheat1_enable = false
+
+cheat2_desc = "Discolored Stages"
+cheat2_code = "3300791E+0001"
+cheat2_enable = false
+
+cheat3_desc = "Fairy Appears on Most Stages"
+cheat3_code = "33007959+0001"
+cheat3_enable = false
+
+cheat4_desc = "Game Pack Error Message"
+cheat4_code = "3300793F+0001"
+cheat4_enable = false
+
+cheat5_desc = "Have All Items"
+cheat5_code = "540D8611+0006+57C9D1CD+CF34+320087CA+4D40"
+cheat5_enable = false
+
+cheat6_desc = "Have All Spells"
+cheat6_code = "3300797B+0001+4300797C+0101+00000003+0002+33007982+0001"
+cheat6_enable = false
+
+cheat7_desc = "Have Boots"
+cheat7_code = "33007988+0001"
+cheat7_enable = false
+
+cheat8_desc = "Have Candle"
+cheat8_code = "33007985+0001"
+cheat8_enable = false
+
+cheat9_desc = "Have Cross"
+cheat9_code = "3300798A+0001"
+cheat9_enable = false
+
+cheat10_desc = "Have Fairy Spell"
+cheat10_code = "3300797E+0001"
+cheat10_enable = false
+
+cheat11_desc = "Have Fire Spell"
+cheat11_code = "3300797F+0001"
+cheat11_enable = false
+
+cheat12_desc = "Have Flute"
+cheat12_code = "33007989+0001"
+cheat12_enable = false
+
+cheat13_desc = "Have Hammer"
+cheat13_code = "3300798B+0001"
+cheat13_enable = false
+
+cheat14_desc = "Have Jump Spell"
+cheat14_code = "3300797C+0001"
+cheat14_enable = false
+
+cheat15_desc = "Have Life Spell"
+cheat15_code = "3300797D+0001"
+cheat15_enable = false
+
+cheat16_desc = "Have Master Key"
+cheat16_code = "3300798C+0001"
+cheat16_enable = false
+
+cheat17_desc = "Have Power Glove"
+cheat17_code = "33007986+0001"
+cheat17_enable = false
+
+cheat18_desc = "Have Raft"
+cheat18_code = "33007987+0001"
+cheat18_enable = false
+
+cheat19_desc = "Have Reflect Spell"
+cheat19_code = "33007980+0001"
+cheat19_enable = false
+
+cheat20_desc = "Have Shield Spell"
+cheat20_code = "3300797B+0001"
+cheat20_enable = false
+
+cheat21_desc = "Have Spell Spell"
+cheat21_code = "33007981+0001"
+cheat21_enable = false
+
+cheat22_desc = "Have Thunder Spell"
+cheat22_code = "33007982+0001"
+cheat22_enable = false
+
+cheat23_desc = "Infinite Health"
+cheat23_code = "33007765+007F+33007974+007F"
+cheat23_enable = false
+
+cheat24_desc = "Infinite Keys"
+cheat24_code = "33007993+0009"
+cheat24_enable = false
+
+cheat25_desc = "Infinite Lives"
+cheat25_code = "33007900+000A"
+cheat25_enable = false
+
+cheat26_desc = "Infinite Magic"
+cheat26_code = "33007764+007F+33007973+007F"
+cheat26_enable = false
+
+cheat27_desc = "Invincible"
+cheat27_code = "33007718+0004"
+cheat27_enable = false
+
+cheat28_desc = "Level Points Increase Automatically"
+cheat28_code = "33007956+0001"
+cheat28_enable = false
+
+cheat29_desc = "Map Enemies Vanish"
+cheat29_code = "33007712+0000+33007713+0000+33007714+0000+33007715+0000"
+cheat29_enable = false
+
+cheat30_desc = "Max Attack"
+cheat30_code = "33007977+0008"
+cheat30_enable = false
+
+cheat31_desc = "Max Life"
+cheat31_code = "33007979+0008"
+cheat31_enable = false
+
+cheat32_desc = "Max Magic"
+cheat32_code = "33007978+0008"
+cheat32_enable = false
+
+cheat33_desc = "Move Much Slower on Stages"
+cheat33_code = "33007952+0001"
+cheat33_enable = false
+
+cheat34_desc = "Multi Jump"
+cheat34_code = "D0000020+0001+3300777D+00FC"
+cheat34_enable = false
+
+cheat35_desc = "Never Slow (On Map)"
+cheat35_code = "33007763+0005"
+cheat35_enable = false
+
+cheat36_desc = "No Random Battles"
+cheat36_code = "33007716+0020"
+cheat36_enable = false
+
+cheat37_desc = "Press R To Level Up"
+cheat37_code = "F30067C8+0100+33007974+0028+F30067C8+0100+33007975+0023"
+cheat37_enable = false
+
+cheat38_desc = "Remove Locked Doors"
+cheat38_code = "33007958+0000"
+cheat38_enable = false
+
+cheat39_desc = "Save Corruption Message"
+cheat39_code = "33007950+0001"
+cheat39_enable = false
+
+cheat40_desc = "Speedup Text"
+cheat40_code = "33007766+0000"
+cheat40_enable = false
+
+cheat41_desc = "Start on the Map Screen"
+cheat41_code = "33007909+0001"
+cheat41_enable = false
+
+cheat42_desc = "Start Stages By Being Dropped In"
+cheat42_code = "33007957+0001"
+cheat42_enable = false
+
+cheat43_desc = "Super Jump"
+cheat43_code = "F30067C8+0001+3300777D+00FD"
+cheat43_enable = false

@@ -1,0 +1,109 @@
+cheats = 27
+
+cheat0_desc = "9999 Crystals"
+cheat0_code = "82037EEE+270F"
+cheat0_enable = false
+
+cheat1_desc = "All Elves Fully Grown"
+cheat1_code = "42037F60+0101+0000000A+0002+32037F60+0002+32037F69+0002+32037F6E+0002"
+cheat1_enable = false
+
+cheat2_desc = "All Weapon Levels Maxed"
+cheat2_code = "82037F12+0408+82037F14+0202"
+cheat2_enable = false
+
+cheat3_desc = "Have All Cyber Elves"
+cheat3_code = "42037F18+FFFF+0000000B+0002"
+cheat3_enable = false
+
+cheat4_desc = "Have All EX Techs"
+cheat4_code = "82037F06+FFFF"
+cheat4_enable = false
+
+cheat5_desc = "Have All Forms"
+cheat5_code = "82037EF0+FFFF"
+cheat5_enable = false
+
+cheat6_desc = "Have All Weapons+Elements"
+cheat6_code = "82037F00+0F0F"
+cheat6_enable = false
+
+cheat7_desc = "Have Sub Tanks"
+cheat7_code = "32037EF4+0004"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Dash"
+cheat8_code = "32037E74+00FE"
+cheat8_enable = false
+
+cheat9_desc = "Infinite Elf Usage"
+cheat9_code = "42037F2E+0000+00000006+0002"
+cheat9_enable = false
+
+cheat10_desc = "Infinite Health"
+cheat10_code = "82037D94+0024"
+cheat10_enable = false
+
+cheat11_desc = "Infinite Lives"
+cheat11_code = "82036BB4+0009"
+cheat11_enable = false
+
+cheat12_desc = "Invincible"
+cheat12_code = "32037D84+0002"
+cheat12_enable = false
+
+cheat13_desc = "Max Kills"
+cheat13_code = "3202EBFC+0064"
+cheat13_enable = false
+
+cheat14_desc = "Maximum Health"
+cheat14_code = "32037EED+0024"
+cheat14_enable = false
+
+cheat15_desc = "Multi Jump"
+cheat15_code = "D0000020+0001+82037D50+FD40+D0000020+0001+82037D52+FFFF"
+cheat15_enable = false
+
+cheat16_desc = "No Damage Taken"
+cheat16_code = "3202EBFE+0000"
+cheat16_enable = false
+
+cheat17_desc = "No Elves Used"
+cheat17_code = "3202EC00+0000"
+cheat17_enable = false
+
+cheat18_desc = "No Lives Lost"
+cheat18_code = "3202EC04+0000"
+cheat18_enable = false
+
+cheat19_desc = "Press Select+R To Access Elf Setup Menu"
+cheat19_code = "74000130+02FB+8202F8E2+3E03+7202F8E2+0203+8202F8E2+0303"
+cheat19_enable = false
+
+cheat20_desc = "Quick Weapon Charge"
+cheat20_code = "32037E78+00FF"
+cheat20_enable = false
+
+cheat21_desc = "Rank S"
+cheat21_code = "32036BB5+0006"
+cheat21_enable = false
+
+cheat22_desc = "Rapid Fire"
+cheat22_code = "32037FAA+0000"
+cheat22_enable = false
+
+cheat23_desc = "Sub Tanks Full"
+cheat23_code = "82037EF6+1E1E+82037EF8+1E1E"
+cheat23_enable = false
+
+cheat24_desc = "Time Taken = 0:00"
+cheat24_code = "8202EBF8+0000"
+cheat24_enable = false
+
+cheat25_desc = "Unknown?"
+cheat25_code = "3202EBF7+0014"
+cheat25_enable = false
+
+cheat26_desc = "Weak Bosses"
+cheat26_code = "8203BBF4+0001+8203BB10+0001"
+cheat26_enable = false

@@ -1,0 +1,681 @@
+cheats = 170
+
+cheat0_desc = "Current HP Character Slot1"
+cheat0_code = "82009170+270F"
+cheat0_enable = false
+
+cheat1_desc = "Current HP Character Slot2"
+cheat1_code = "82009368+270F"
+cheat1_enable = false
+
+cheat2_desc = "Current HP Character Slot3"
+cheat2_code = "82009560+270F"
+cheat2_enable = false
+
+cheat3_desc = "Current HP Character Slot4"
+cheat3_code = "82009758+270F"
+cheat3_enable = false
+
+cheat4_desc = "Current MP Character Slot1"
+cheat4_code = "82009172+270F"
+cheat4_enable = false
+
+cheat5_desc = "Current MP Character Slot2"
+cheat5_code = "8200936A+270F"
+cheat5_enable = false
+
+cheat6_desc = "Current MP Character Slot3"
+cheat6_code = "82009562+270F"
+cheat6_enable = false
+
+cheat7_desc = "Current MP Character Slot4"
+cheat7_code = "8200975A+270F"
+cheat7_enable = false
+
+cheat8_desc = "Enable Magic (1st Character)"
+cheat8_code = "320026E8+0008"
+cheat8_enable = false
+
+cheat9_desc = "Enable Magic (2nd Character)"
+cheat9_code = "32002730+0008"
+cheat9_enable = false
+
+cheat10_desc = "Enable Magic (3rd Character)"
+cheat10_code = "32002778+0008"
+cheat10_enable = false
+
+cheat11_desc = "Enable Magic (4th Character)"
+cheat11_code = "320027C0+0008"
+cheat11_enable = false
+
+cheat12_desc = "Have All Armor/Shields/Accessories [slots 108-178]"
+cheat12_code = "4200289A+0063+00000046+0004+42002898+0103+01000046+0004"
+cheat12_enable = false
+
+cheat13_desc = "Have All Armors/Shields Etc."
+cheat13_code = "42002998+0103+01000046+0004+4200299A+0063+00000046+0004"
+cheat13_enable = false
+
+cheat14_desc = "Have All Items [slots 1-43]"
+cheat14_code = "420027EE+0063+0000002B+0004+420027EC+0101+0100002B+0004"
+cheat14_enable = false
+
+cheat15_desc = "Have All Weapons [slots 44-107]"
+cheat15_code = "4200289A+0063+00000040+0004+42002898+0102+01000040+0004"
+cheat15_enable = false
+
+cheat16_desc = "Have Sound Test"
+cheat16_code = "3200235D+0001"
+cheat16_enable = false
+
+cheat17_desc = "Hold R To Walk Through Walls"
+cheat17_code = "7200385C+0000+D0000020+0100+3200385C+0001"
+cheat17_enable = false
+
+cheat18_desc = "Infinite Items"
+cheat18_code = "42002204+6363+000000B4+0002"
+cheat18_enable = false
+
+cheat19_desc = "Infinite Money"
+cheat19_code = "82002AB4+FFFF"
+cheat19_enable = false
+
+cheat20_desc = "Infinte Money"
+cheat20_code = "82002134+FFFF"
+cheat20_enable = false
+
+cheat21_desc = "Item Modifier Slot 1"
+cheat21_code = "820027EC+0001"
+cheat21_enable = false
+
+cheat22_desc = "Item Modifier Slot 10"
+cheat22_code = "82002810+0001"
+cheat22_enable = false
+
+cheat23_desc = "Item Modifier Slot 11"
+cheat23_code = "82002814+0001"
+cheat23_enable = false
+
+cheat24_desc = "Item Modifier Slot 12"
+cheat24_code = "82002818+0001"
+cheat24_enable = false
+
+cheat25_desc = "Item Modifier Slot 13"
+cheat25_code = "8200281C+0001"
+cheat25_enable = false
+
+cheat26_desc = "Item Modifier Slot 14"
+cheat26_code = "82002820+0001"
+cheat26_enable = false
+
+cheat27_desc = "Item Modifier Slot 15"
+cheat27_code = "82002824+0001"
+cheat27_enable = false
+
+cheat28_desc = "Item Modifier Slot 16"
+cheat28_code = "82002828+0001"
+cheat28_enable = false
+
+cheat29_desc = "Item Modifier Slot 17"
+cheat29_code = "8200282C+0001"
+cheat29_enable = false
+
+cheat30_desc = "Item Modifier Slot 18"
+cheat30_code = "82002830+0001"
+cheat30_enable = false
+
+cheat31_desc = "Item Modifier Slot 19"
+cheat31_code = "82002834+0001"
+cheat31_enable = false
+
+cheat32_desc = "Item Modifier Slot 2"
+cheat32_code = "820027F0+0001"
+cheat32_enable = false
+
+cheat33_desc = "Item Modifier Slot 20"
+cheat33_code = "82002838+0001"
+cheat33_enable = false
+
+cheat34_desc = "Item Modifier Slot 21"
+cheat34_code = "8200283C+0001"
+cheat34_enable = false
+
+cheat35_desc = "Item Modifier Slot 22"
+cheat35_code = "82002840+0001"
+cheat35_enable = false
+
+cheat36_desc = "Item Modifier Slot 23"
+cheat36_code = "82002844+0001"
+cheat36_enable = false
+
+cheat37_desc = "Item Modifier Slot 24"
+cheat37_code = "82002848+0001"
+cheat37_enable = false
+
+cheat38_desc = "Item Modifier Slot 25"
+cheat38_code = "8200284C+0001"
+cheat38_enable = false
+
+cheat39_desc = "Item Modifier Slot 26"
+cheat39_code = "82002850+0001"
+cheat39_enable = false
+
+cheat40_desc = "Item Modifier Slot 27"
+cheat40_code = "82002854+0001"
+cheat40_enable = false
+
+cheat41_desc = "Item Modifier Slot 28"
+cheat41_code = "82002858+0001"
+cheat41_enable = false
+
+cheat42_desc = "Item Modifier Slot 29"
+cheat42_code = "8200285C+0001"
+cheat42_enable = false
+
+cheat43_desc = "Item Modifier Slot 3"
+cheat43_code = "820027F4+0001"
+cheat43_enable = false
+
+cheat44_desc = "Item Modifier Slot 30"
+cheat44_code = "82002860+0001"
+cheat44_enable = false
+
+cheat45_desc = "Item Modifier Slot 31"
+cheat45_code = "82002864+0001"
+cheat45_enable = false
+
+cheat46_desc = "Item Modifier Slot 32"
+cheat46_code = "82002868+0001"
+cheat46_enable = false
+
+cheat47_desc = "Item Modifier Slot 33"
+cheat47_code = "8200286C+0001"
+cheat47_enable = false
+
+cheat48_desc = "Item Modifier Slot 34"
+cheat48_code = "82002870+0001"
+cheat48_enable = false
+
+cheat49_desc = "Item Modifier Slot 35"
+cheat49_code = "82002874+0001"
+cheat49_enable = false
+
+cheat50_desc = "Item Modifier Slot 36"
+cheat50_code = "82002878+0001"
+cheat50_enable = false
+
+cheat51_desc = "Item Modifier Slot 37"
+cheat51_code = "8200287C+0001"
+cheat51_enable = false
+
+cheat52_desc = "Item Modifier Slot 38"
+cheat52_code = "82002880+0001"
+cheat52_enable = false
+
+cheat53_desc = "Item Modifier Slot 39"
+cheat53_code = "82002884+0001"
+cheat53_enable = false
+
+cheat54_desc = "Item Modifier Slot 4"
+cheat54_code = "820027F8+0001"
+cheat54_enable = false
+
+cheat55_desc = "Item Modifier Slot 40"
+cheat55_code = "82002888+0001"
+cheat55_enable = false
+
+cheat56_desc = "Item Modifier Slot 41"
+cheat56_code = "8200288C+0001"
+cheat56_enable = false
+
+cheat57_desc = "Item Modifier Slot 42"
+cheat57_code = "82002890+0001"
+cheat57_enable = false
+
+cheat58_desc = "Item Modifier Slot 43"
+cheat58_code = "82002894+0001"
+cheat58_enable = false
+
+cheat59_desc = "Item Modifier Slot 44"
+cheat59_code = "82002898+0001"
+cheat59_enable = false
+
+cheat60_desc = "Item Modifier Slot 45"
+cheat60_code = "8200289C+0001"
+cheat60_enable = false
+
+cheat61_desc = "Item Modifier Slot 46"
+cheat61_code = "820028A0+0001"
+cheat61_enable = false
+
+cheat62_desc = "Item Modifier Slot 47"
+cheat62_code = "820028A4+0001"
+cheat62_enable = false
+
+cheat63_desc = "Item Modifier Slot 48"
+cheat63_code = "820028A8+0001"
+cheat63_enable = false
+
+cheat64_desc = "Item Modifier Slot 49"
+cheat64_code = "820028AC+0001"
+cheat64_enable = false
+
+cheat65_desc = "Item Modifier Slot 5"
+cheat65_code = "820027FC+0001"
+cheat65_enable = false
+
+cheat66_desc = "Item Modifier Slot 50"
+cheat66_code = "820028B0+0001"
+cheat66_enable = false
+
+cheat67_desc = "Item Modifier Slot 6"
+cheat67_code = "82002800+0001"
+cheat67_enable = false
+
+cheat68_desc = "Item Modifier Slot 7"
+cheat68_code = "82002804+0001"
+cheat68_enable = false
+
+cheat69_desc = "Item Modifier Slot 8"
+cheat69_code = "82002808+0001"
+cheat69_enable = false
+
+cheat70_desc = "Item Modifier Slot 9"
+cheat70_code = "8200280C+0001"
+cheat70_enable = false
+
+cheat71_desc = "Magic Lv. Modifier (1st Character)"
+cheat71_code = "42001F8A+0063+00000010+0002"
+cheat71_enable = false
+
+cheat72_desc = "Magic Lv. Modifier (2nd Character)"
+cheat72_code = "4200200A+0063+00000010+0002"
+cheat72_enable = false
+
+cheat73_desc = "Magic Lv. Modifier (3rd Character)"
+cheat73_code = "4200208A+0063+00000010+0002"
+cheat73_enable = false
+
+cheat74_desc = "Magic Lv. Modifier (4th Character)"
+cheat74_code = "4200210A+0063+00000010+0002"
+cheat74_enable = false
+
+cheat75_desc = "Max HP Character Slot1 [Stats Screen]"
+cheat75_code = "82009178+270F"
+cheat75_enable = false
+
+cheat76_desc = "Max HP Character Slot2 [Stats Screen]"
+cheat76_code = "82009370+270F"
+cheat76_enable = false
+
+cheat77_desc = "Max HP Character Slot3 [Stats Screen]"
+cheat77_code = "82009568+270F"
+cheat77_enable = false
+
+cheat78_desc = "Max HP Character Slot4 [Stats Screen]"
+cheat78_code = "82009760+270F"
+cheat78_enable = false
+
+cheat79_desc = "Max Inf Hp Everyone"
+cheat79_code = "42013F9E+03E7+00000004+0060+42013F9C+03E7+00000004+0060"
+cheat79_enable = false
+
+cheat80_desc = "Max Inf Hp Everyone [Dungeon]"
+cheat80_code = "4201828E+03E7+00000004+0060+4201828C+03E7+00000004+0060"
+cheat80_enable = false
+
+cheat81_desc = "Max Item Quanity Slot 1"
+cheat81_code = "320027EE+0063"
+cheat81_enable = false
+
+cheat82_desc = "Max Item Quanity Slot 10"
+cheat82_code = "32002812+0063"
+cheat82_enable = false
+
+cheat83_desc = "Max Item Quanity Slot 11"
+cheat83_code = "32002816+0063"
+cheat83_enable = false
+
+cheat84_desc = "Max Item Quanity Slot 12"
+cheat84_code = "3200281A+0063"
+cheat84_enable = false
+
+cheat85_desc = "Max Item Quanity Slot 13"
+cheat85_code = "3200281E+0063"
+cheat85_enable = false
+
+cheat86_desc = "Max Item Quanity Slot 14"
+cheat86_code = "32002822+0063"
+cheat86_enable = false
+
+cheat87_desc = "Max Item Quanity Slot 15"
+cheat87_code = "32002826+0063"
+cheat87_enable = false
+
+cheat88_desc = "Max Item Quanity Slot 16"
+cheat88_code = "3200282A+0063"
+cheat88_enable = false
+
+cheat89_desc = "Max Item Quanity Slot 17"
+cheat89_code = "3200282E+0063"
+cheat89_enable = false
+
+cheat90_desc = "Max Item Quanity Slot 18"
+cheat90_code = "32002832+0063"
+cheat90_enable = false
+
+cheat91_desc = "Max Item Quanity Slot 19"
+cheat91_code = "32002836+0063"
+cheat91_enable = false
+
+cheat92_desc = "Max Item Quanity Slot 2"
+cheat92_code = "320027F2+0063"
+cheat92_enable = false
+
+cheat93_desc = "Max Item Quanity Slot 20"
+cheat93_code = "3200283A+0063"
+cheat93_enable = false
+
+cheat94_desc = "Max Item Quanity Slot 21"
+cheat94_code = "3200283E+0063"
+cheat94_enable = false
+
+cheat95_desc = "Max Item Quanity Slot 22"
+cheat95_code = "32002842+0063"
+cheat95_enable = false
+
+cheat96_desc = "Max Item Quanity Slot 23"
+cheat96_code = "32002846+0063"
+cheat96_enable = false
+
+cheat97_desc = "Max Item Quanity Slot 24"
+cheat97_code = "3200284A+0063"
+cheat97_enable = false
+
+cheat98_desc = "Max Item Quanity Slot 25"
+cheat98_code = "3200284E+0063"
+cheat98_enable = false
+
+cheat99_desc = "Max Item Quanity Slot 26"
+cheat99_code = "32002852+0063"
+cheat99_enable = false
+
+cheat100_desc = "Max Item Quanity Slot 27"
+cheat100_code = "32002856+0063"
+cheat100_enable = false
+
+cheat101_desc = "Max Item Quanity Slot 28"
+cheat101_code = "3200285A+0063"
+cheat101_enable = false
+
+cheat102_desc = "Max Item Quanity Slot 29"
+cheat102_code = "3200285E+0063"
+cheat102_enable = false
+
+cheat103_desc = "Max Item Quanity Slot 3"
+cheat103_code = "320027F6+0063"
+cheat103_enable = false
+
+cheat104_desc = "Max Item Quanity Slot 30"
+cheat104_code = "32002862+0063"
+cheat104_enable = false
+
+cheat105_desc = "Max Item Quanity Slot 31"
+cheat105_code = "32002866+0063"
+cheat105_enable = false
+
+cheat106_desc = "Max Item Quanity Slot 32"
+cheat106_code = "3200286A+0063"
+cheat106_enable = false
+
+cheat107_desc = "Max Item Quanity Slot 33"
+cheat107_code = "3200286E+0063"
+cheat107_enable = false
+
+cheat108_desc = "Max Item Quanity Slot 34"
+cheat108_code = "32002872+0063"
+cheat108_enable = false
+
+cheat109_desc = "Max Item Quanity Slot 35"
+cheat109_code = "32002876+0063"
+cheat109_enable = false
+
+cheat110_desc = "Max Item Quanity Slot 36"
+cheat110_code = "3200287A+0063"
+cheat110_enable = false
+
+cheat111_desc = "Max Item Quanity Slot 37"
+cheat111_code = "3200287E+0063"
+cheat111_enable = false
+
+cheat112_desc = "Max Item Quanity Slot 38"
+cheat112_code = "32002882+0063"
+cheat112_enable = false
+
+cheat113_desc = "Max Item Quanity Slot 39"
+cheat113_code = "32002886+0063"
+cheat113_enable = false
+
+cheat114_desc = "Max Item Quanity Slot 4"
+cheat114_code = "320027FA+0063"
+cheat114_enable = false
+
+cheat115_desc = "Max Item Quanity Slot 40"
+cheat115_code = "3200288A+0063"
+cheat115_enable = false
+
+cheat116_desc = "Max Item Quanity Slot 41"
+cheat116_code = "3200288E+0063"
+cheat116_enable = false
+
+cheat117_desc = "Max Item Quanity Slot 42"
+cheat117_code = "32002892+0063"
+cheat117_enable = false
+
+cheat118_desc = "Max Item Quanity Slot 43"
+cheat118_code = "32002896+0063"
+cheat118_enable = false
+
+cheat119_desc = "Max Item Quanity Slot 44"
+cheat119_code = "3200289A+0063"
+cheat119_enable = false
+
+cheat120_desc = "Max Item Quanity Slot 45"
+cheat120_code = "3200289E+0063"
+cheat120_enable = false
+
+cheat121_desc = "Max Item Quanity Slot 46"
+cheat121_code = "320028A2+0063"
+cheat121_enable = false
+
+cheat122_desc = "Max Item Quanity Slot 47"
+cheat122_code = "320028A6+0063"
+cheat122_enable = false
+
+cheat123_desc = "Max Item Quanity Slot 48"
+cheat123_code = "320028AA+0063"
+cheat123_enable = false
+
+cheat124_desc = "Max Item Quanity Slot 49"
+cheat124_code = "320028AE+0063"
+cheat124_enable = false
+
+cheat125_desc = "Max Item Quanity Slot 5"
+cheat125_code = "320027FE+0063"
+cheat125_enable = false
+
+cheat126_desc = "Max Item Quanity Slot 50"
+cheat126_code = "320028B2+0063"
+cheat126_enable = false
+
+cheat127_desc = "Max Item Quanity Slot 6"
+cheat127_code = "32002802+0063"
+cheat127_enable = false
+
+cheat128_desc = "Max Item Quanity Slot 7"
+cheat128_code = "32002806+0063"
+cheat128_enable = false
+
+cheat129_desc = "Max Item Quanity Slot 8"
+cheat129_code = "3200280A+0063"
+cheat129_enable = false
+
+cheat130_desc = "Max Item Quanity Slot 9"
+cheat130_code = "3200280E+0063"
+cheat130_enable = false
+
+cheat131_desc = "Max Items"
+cheat131_code = "420027EE+0063+000000B4+0004"
+cheat131_enable = false
+
+cheat132_desc = "Max Magic Character Slot2"
+cheat132_code = "82014002+03E7"
+cheat132_enable = false
+
+cheat133_desc = "Max Magic Character Slot3"
+cheat133_code = "82014062+03E7"
+cheat133_enable = false
+
+cheat134_desc = "Max Magic Character Slot4"
+cheat134_code = "820140C2+03E7"
+cheat134_enable = false
+
+cheat135_desc = "Max Money"
+cheat135_code = "82002134+967F+82002136+0098"
+cheat135_enable = false
+
+cheat136_desc = "Max MP Character Slot1"
+cheat136_code = "82009176+270F"
+cheat136_enable = false
+
+cheat137_desc = "Max MP Character Slot2"
+cheat137_code = "8200936E+270F"
+cheat137_enable = false
+
+cheat138_desc = "Max MP Character Slot3"
+cheat138_code = "82009566+270F"
+cheat138_enable = false
+
+cheat139_desc = "Max MP Character Slot4"
+cheat139_code = "8200975E+270F"
+cheat139_enable = false
+
+cheat140_desc = "Max Status (All)"
+cheat140_code = "42001F4A+FFFF+00000004+0080+42001F4C+FFFF+00000004+0080+42001F4E+FFFF+00000004+0080+32001F51+0063+32001F54+0084+32001F56+0084+32001FD1+0063+32001FD4+0084+32001FD6+0084+32002051+0063+32002054+0084+32002056+0084"
+cheat140_enable = false
+
+cheat141_desc = "Max Steps"
+cheat141_code = "82002130+967F+82002132+0098"
+cheat141_enable = false
+
+cheat142_desc = "Maximum Steps"
+cheat142_code = "82002130+FFFF"
+cheat142_enable = false
+
+cheat143_desc = "Minimum Game Time"
+cheat143_code = "82002138+0000"
+cheat143_enable = false
+
+cheat144_desc = "Quick EXP Gain After Battle"
+cheat144_code = "8201465A+FFFF"
+cheat144_enable = false
+
+cheat145_desc = "Quick EXP Gain After Battle [Dungeons]"
+cheat145_code = "8201894A+FFFF"
+cheat145_enable = false
+
+cheat146_desc = "Quick Money Gain After Battle"
+cheat146_code = "8201465C+FFFF"
+cheat146_enable = false
+
+cheat147_desc = "Quick Money Gain After Battle [Dungeons]"
+cheat147_code = "8201894C+FFFF"
+cheat147_enable = false
+
+cheat148_desc = "Quick Money Gain After Battle [L+R+Up to Activate,L+R+Down to De-Activate]"
+cheat148_code = "74000130+00BF+820032C0+FFFF+74000130+007F+820032C0+0000"
+cheat148_enable = false
+
+cheat149_desc = "Refill HP&amp;MP [In-Battle Only] [Select+Up]"
+cheat149_code = "74000130+03BB+42009170+270F+00000004+01F8+42009172+270F+00000004+01F8"
+cheat149_enable = false
+
+cheat150_desc = "Walk Through Walls (Hold R)"
+cheat150_code = "74000130+02DF+E20029C8+FFFF+74000130+02EF+E20029C8+0001+74000130+02BF+E20029CA+FFFF+74000130+027F+E20029CA+0001+74000130+029F+E20029C8+FFFF+74000130+029F+E20029CA+FFFF+74000130+025F+E20029C8+FFFF+74000130+025F+E20029CA+0001+74000130+02AF+E20029C8+0001+74000130+02AF+E20029CA+FFFF+74000130+026F+E20029C8+0001+74000130+026F+E20029CA+0001"
+cheat150_enable = false
+
+cheat151_desc = "[FFI] No Random Encounters"
+cheat151_code = "42001A18+0000+00000002+0002"
+cheat151_enable = false
+
+cheat152_desc = "[FFI] Maximum Gil"
+cheat152_code = "82002AB4+423F+82002AB6+000F"
+cheat152_enable = false
+
+cheat153_desc = "[FFI] All Weapons"
+cheat153_code = "42002898+0102+01000040+0004+4200289A+0063+00000040+0004"
+cheat153_enable = false
+
+cheat154_desc = "[FFI] All Items"
+cheat154_code = "420027EC+0101+0100002B+0004+420027EE+0063+0000002B+0004"
+cheat154_enable = false
+
+cheat155_desc = "[FFI] Complete Bestiary"
+cheat155_code = "42002AD4+80FF+000000C3+0002"
+cheat155_enable = false
+
+cheat156_desc = "[FFI] Max HP"
+cheat156_code = "420026E0+03E7+00000004+0048+420026E2+03E7+00000004+0048"
+cheat156_enable = false
+
+cheat157_desc = "[FFI] Max MP"
+cheat157_code = "420026E4+03E7+00000004+0048+420026E6+03E7+00000004+0048"
+cheat157_enable = false
+
+cheat158_desc = "[FFI] Max AGI"
+cheat158_code = "320026EA+0063+32002732+0063+3200277A+0063+320027C2+0063"
+cheat158_enable = false
+
+cheat159_desc = "[FFI] Max INT"
+cheat159_code = "320026EB+0063+32002733+0063+3200277B+0063+320027C3+0063"
+cheat159_enable = false
+
+cheat160_desc = "[FFI] Max STA"
+cheat160_code = "320026EC+0063+32002734+0063+3200277C+0063+320027C4+0063"
+cheat160_enable = false
+
+cheat161_desc = "[FFI] Max LCK"
+cheat161_code = "320026ED+0063+32002735+0063+3200277D+0063+320027C5+0063"
+cheat161_enable = false
+
+cheat162_desc = "[FFII] No Random Encounters"
+cheat162_code = "320029C3+0000"
+cheat162_enable = false
+
+cheat163_desc = "[FFII] Maximum Gil"
+cheat163_code = "82002134+E0FF+82002136+05F5"
+cheat163_enable = false
+
+cheat164_desc = "[FFII] All Weapons, Armor and Items"
+cheat164_code = "42002140+0201+020200C0+0002+42002202+6363+000000C0+0002"
+cheat164_enable = false
+
+cheat165_desc = "[FFII] Complete Bestiary"
+cheat165_code = "42002418+80FF+000000A9+0002"
+cheat165_enable = false
+
+cheat166_desc = "[FFII] Max HP"
+cheat166_code = "42001F42+270F+00000004+0080+42001F44+270F+00000004+0080"
+cheat166_enable = false
+
+cheat167_desc = "[FFII] Max MP"
+cheat167_code = "42001F46+03E7+00000004+0080+42001F48+03E7+00000004+0080"
+cheat167_enable = false
+
+cheat168_desc = "[FFII] All Weapons Mastered"
+cheat168_code = "42001F7B+6300+00000008+0002+42001FFB+6300+00000008+0002+4200207B+6300+00000010+0002+420020FB+6300+00000008+0002"
+cheat168_enable = false
+
+cheat169_desc = "[FFII] Max Magic Levels"
+cheat169_code = "42001F8A+9963+00000010+0002+4200200A+9963+00000010+0002+4200208A+9963+00000010+0002+4200210A+9963+00000010+0002"
+cheat169_enable = false

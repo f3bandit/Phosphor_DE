@@ -1,0 +1,37 @@
+cheats = 9
+
+cheat0_desc = "50,000 Bling Bling"
+cheat0_code = "83001D10+C350"
+cheat0_enable = false
+
+cheat1_desc = "Have All Accessories"
+cheat1_code = "83001D3C+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "Have All Bottoms"
+cheat2_code = "83001D38+FFFF+83001D3A+FFFF"
+cheat2_enable = false
+
+cheat3_desc = "Have All Hair"
+cheat3_code = "33001D40+00FF"
+cheat3_enable = false
+
+cheat4_desc = "Have All Items"
+cheat4_code = "83001D14+FFFF+83001D16+FFFF+33001D18+00FF"
+cheat4_enable = false
+
+cheat5_desc = "Have All Mini Games"
+cheat5_code = "83001DCC+FFFF"
+cheat5_enable = false
+
+cheat6_desc = "Have All Tops"
+cheat6_code = "83001D34+FFFF+83001D36+FFFF"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Items"
+cheat7_code = "43001D1C+8888+0000000A+0002"
+cheat7_enable = false
+
+cheat8_desc = "Stop Timer (Skateboard)"
+cheat8_code = "73003C14+8148+33003C1C+00B4"
+cheat8_enable = false

@@ -1,0 +1,89 @@
+cheats = 22
+
+cheat0_desc = "Always Ball Saver"
+cheat0_code = "32000725+0005"
+cheat0_enable = false
+
+cheat1_desc = "Always Charged"
+cheat1_code = "320001C6+00A8"
+cheat1_enable = false
+
+cheat2_desc = "Complete PokeDex"
+cheat2_code = "4200B134+0404+00000000+0000"
+cheat2_enable = false
+
+cheat3_desc = "Easy G.E.T"
+cheat3_code = "720005A4+0000"
+cheat3_enable = false
+
+cheat4_desc = "Extra Pokemon"
+cheat4_code = "3200B1FD+0004+3200B1FE+0004+3200B1FF+0004+3200B200+0004"
+cheat4_enable = false
+
+cheat5_desc = "Have 99 Coins"
+cheat5_code = "32000192+0063"
+cheat5_enable = false
+
+cheat6_desc = "Have Pika"
+cheat6_code = "820001E2+0102"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Ball Saver"
+cheat7_code = "32000725+0001"
+cheat7_enable = false
+
+cheat8_desc = "Max Score"
+cheat8_code = "82000044+E0FF+82000046+05F5+82000048+270F"
+cheat8_enable = false
+
+cheat9_desc = "No Ball Saver"
+cheat9_code = "32000725+0000"
+cheat9_enable = false
+
+cheat10_desc = "Press Select+Down to Resume Timer"
+cheat10_code = "74000130+037B"
+cheat10_enable = false
+
+cheat11_desc = "Press Select+Up to Pause Timer"
+cheat11_code = "74000130+03BB"
+cheat11_enable = false
+
+cheat12_desc = "Slow Slot Machine"
+cheat12_code = "320006F2+0040"
+cheat12_enable = false
+
+cheat13_desc = "Start with 9 Balls"
+cheat13_code = "7200073C+0200"
+cheat13_enable = false
+
+cheat14_desc = "Start with Hi-Score"
+cheat14_code = "72000044+0000"
+cheat14_enable = false
+
+cheat15_desc = "Infinite Balls"
+cheat15_code = "82000030+0003"
+cheat15_enable = false
+
+cheat16_desc = "Max Coins"
+cheat16_code = "82000192+0163"
+cheat16_enable = false
+
+cheat17_desc = "Infinite Time"
+cheat17_code = "82000296+19B2"
+cheat17_enable = false
+
+cheat18_desc = "Ball Saver Always On"
+cheat18_code = "32000724+00FC"
+cheat18_enable = false
+
+cheat19_desc = "Always Have Pika Kickback Charged"
+cheat19_code = "820001C6+00A8"
+cheat19_enable = false
+
+cheat20_desc = "Have Complete Pokedex"
+cheat20_code = "4200B134+0404+00000066+0002"
+cheat20_enable = false
+
+cheat21_desc = "Tap L For Ball Control Mode, R For Normal Play CBA"
+cheat21_code = "74000130+01FF+3200B0CF+0004+74000130+02FF+3200B0CF+0000"
+cheat21_enable = false

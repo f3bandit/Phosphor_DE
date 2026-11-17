@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Activate level select from the main menu"
+cheat0_code = "3201D4FE+0020"
+cheat0_enable = false
+
+cheat1_desc = "Untouchable by enemies - revisited (Read notes)"
+cheat1_code = "8803FCC6+E017+8802D33E+46C0+8802D35C+46C0"
+cheat1_enable = false

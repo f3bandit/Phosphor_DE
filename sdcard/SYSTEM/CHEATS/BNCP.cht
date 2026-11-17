@@ -1,0 +1,69 @@
+cheats = 17
+
+cheat0_desc = "1HitKill"
+cheat0_code = "880B5AE2+E025+88048080+46C0"
+cheat0_enable = false
+
+cheat1_desc = "All Pickups And Extras"
+cheat1_code = "8200013C+FFFF+8200013E+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "Have All Heads"
+cheat2_code = "8200014A+FFFF"
+cheat2_enable = false
+
+cheat3_desc = "Have All Pick-Ups"
+cheat3_code = "3200013D+00FF+8200013E+FFFF"
+cheat3_enable = false
+
+cheat4_desc = "Have All Weapons"
+cheat4_code = "32000131+00FF"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Ammo"
+cheat5_code = "32000632+0009+32000634+0009"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Health (Zero)"
+cheat6_code = "72003444+9544+32003454+0037"
+cheat6_enable = false
+
+cheat7_desc = "Jack Walks Funny"
+cheat7_code = "320006CC+0016"
+cheat7_enable = false
+
+cheat8_desc = "Jump higher"
+cheat8_code = "880A4F7A+46C0"
+cheat8_enable = false
+
+cheat9_desc = "Jump much higher"
+cheat9_code = "880A4F7A+46C0+880A4FD2+FFFA"
+cheat9_enable = false
+
+cheat10_desc = "Maximum Heads"
+cheat10_code = "3200062D+000B"
+cheat10_enable = false
+
+cheat11_desc = "Multi Jump"
+cheat11_code = "D0000020+0001+830055DA+FFFD"
+cheat11_enable = false
+
+cheat12_desc = "Open All Doorways"
+cheat12_code = "42000050+FFFF+00000008+0002"
+cheat12_enable = false
+
+cheat13_desc = "Take items anywhere"
+cheat13_code = "880B1346+46C0"
+cheat13_enable = false
+
+cheat14_desc = "Transparent"
+cheat14_code = "720006A8+0040+320006A9+0020"
+cheat14_enable = false
+
+cheat15_desc = "Unlock All Minigames"
+cheat15_code = "32000137+00FF"
+cheat15_enable = false
+
+cheat16_desc = "Weapon Modifier"
+cheat16_code = "3200062F+0000"
+cheat16_enable = false

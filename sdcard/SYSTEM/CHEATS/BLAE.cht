@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "End Level [Press L+R]"
+cheat0_code = "74000130+00FF+3300011C+0001"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Exchange"
+cheat1_code = "330000F1+0003"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Hints"
+cheat2_code = "330000F2+0003"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Time"
+cheat3_code = "330000E0+000F"
+cheat3_enable = false
+
+cheat4_desc = "Start With Hi-Score"
+cheat4_code = "730000B2+0000+830000B2+09C4"
+cheat4_enable = false
+
+cheat5_desc = "Stop Clock Bombs"
+cheat5_code = "33000988+0000"
+cheat5_enable = false

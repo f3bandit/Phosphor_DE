@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Easy Advantage"
+cheat0_code = "73000D48+0000+33000D48+0003"
+cheat0_enable = false
+
+cheat1_desc = "Start On 5th Game"
+cheat1_code = "73000ED4+0000+33000ED4+0005"
+cheat1_enable = false
+
+cheat2_desc = "Swing Max Charged"
+cheat2_code = "330013EC+001E"
+cheat2_enable = false

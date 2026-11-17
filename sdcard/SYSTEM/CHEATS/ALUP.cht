@@ -1,0 +1,65 @@
+cheats = 16
+
+cheat0_desc = "Have Long Reach"
+cheat0_code = "73003FFC+FF00+33004064+0060"
+cheat0_enable = false
+
+cheat1_desc = "Have Really Big Glove"
+cheat1_code = "73003FFC+FF00+3300405C+0002"
+cheat1_enable = false
+
+cheat2_desc = "Have Vortex"
+cheat2_code = "73003FFC+FF00+3300406D+0001"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Continues"
+cheat3_code = "32002C58+00FF"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Lives"
+cheat4_code = "32002ADC+0004"
+cheat4_enable = false
+
+cheat5_desc = "Loads of Play Points"
+cheat5_code = "82002C4C+E0FF+82002C4E+05F5"
+cheat5_enable = false
+
+cheat6_desc = "Press Select To Skip Stage"
+cheat6_code = "D0000020+0004+33001C94+0001"
+cheat6_enable = false
+
+cheat7_desc = "Speed-up Fall Out Scene"
+cheat7_code = "72002AE0+0058+32002AE0+0000"
+cheat7_enable = false
+
+cheat8_desc = "Speed-up Ready Scene"
+cheat8_code = "72002AE0+0030+32002AE0+0010"
+cheat8_enable = false
+
+cheat9_desc = "Stop Timer"
+cheat9_code = "33001A20+0005"
+cheat9_enable = false
+
+cheat10_desc = "Unlock Credits"
+cheat10_code = "32002C57+0001"
+cheat10_enable = false
+
+cheat11_desc = "Unlock Golf Course B"
+cheat11_code = "32002C55+0001"
+cheat11_enable = false
+
+cheat12_desc = "Unlock Master Stages"
+cheat12_code = "32002C56+0001"
+cheat12_enable = false
+
+cheat13_desc = "Unlock Monkey Bowling"
+cheat13_code = "32002C52+0001"
+cheat13_enable = false
+
+cheat14_desc = "Unlock Monkey Fight"
+cheat14_code = "32002C51+0001"
+cheat14_enable = false
+
+cheat15_desc = "Unlock Monkey Golf"
+cheat15_code = "32002C53+0001"
+cheat15_enable = false

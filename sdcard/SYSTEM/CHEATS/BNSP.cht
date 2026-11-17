@@ -1,0 +1,197 @@
+cheats = 49
+
+cheat0_desc = "Drift Multiplier is 99"
+cheat0_code = "33006A0C+0009"
+cheat0_enable = false
+
+cheat1_desc = "Drift Score is 999,999"
+cheat1_code = "83006A24+423F+83006A26+000F"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Credits"
+cheat2_code = "820008D4+FFFF+820008D6+7FFF"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Money"
+cheat3_code = "320008D4+003F"
+cheat3_enable = false
+
+cheat4_desc = "Low Lap Times"
+cheat4_code = "83005F0C+0000"
+cheat4_enable = false
+
+cheat5_desc = "Parts Installed - New Car: 4-Piston Calipers"
+cheat5_code = "320019A1+0003"
+cheat5_enable = false
+
+cheat6_desc = "Parts Installed - New Car: Direct Port System"
+cheat6_code = "3200199E+0003"
+cheat6_enable = false
+
+cheat7_desc = "Parts Installed - New Car: Engine Exhaust Stage 3"
+cheat7_code = "3200199C+0003"
+cheat7_enable = false
+
+cheat8_desc = "Parts Installed - New Car: Programmable E.C.U"
+cheat8_code = "320019A2+0003"
+cheat8_enable = false
+
+cheat9_desc = "Parts Installed - New Car: R-Compound Tires"
+cheat9_code = "320019A0+0003"
+cheat9_enable = false
+
+cheat10_desc = "Parts Installed - New Car: Race Transmission Kit"
+cheat10_code = "3200199F+0003"
+cheat10_enable = false
+
+cheat11_desc = "Parts Installed - New Car: Stage 3 Turbo Kit"
+cheat11_code = "3200199D+0003"
+cheat11_enable = false
+
+cheat12_desc = "Parts Installed - New Car: Suspension Package 3"
+cheat12_code = "320019A3+0003"
+cheat12_enable = false
+
+cheat13_desc = "Parts Installed - New Car: Weight Reduction Stage 3"
+cheat13_code = "3200199B+0003"
+cheat13_enable = false
+
+cheat14_desc = "Parts Installed - Traded Car: 4-Piston Calipers"
+cheat14_code = "32001979+0003"
+cheat14_enable = false
+
+cheat15_desc = "Parts Installed - Traded Car: Direct Port System"
+cheat15_code = "32001976+0003"
+cheat15_enable = false
+
+cheat16_desc = "Parts Installed - Traded Car: Engine Exhaust Stage 3"
+cheat16_code = "32001974+0003"
+cheat16_enable = false
+
+cheat17_desc = "Parts Installed - Traded Car: Programmable E.C.U"
+cheat17_code = "3200197A+0003"
+cheat17_enable = false
+
+cheat18_desc = "Parts Installed - Traded Car: R-Compound Tires"
+cheat18_code = "32001978+0003"
+cheat18_enable = false
+
+cheat19_desc = "Parts Installed - Traded Car: Race Transmission Kit"
+cheat19_code = "32001977+0003"
+cheat19_enable = false
+
+cheat20_desc = "Parts Installed - Traded Car: Stage 3 Turbo Kit"
+cheat20_code = "32001975+0003"
+cheat20_enable = false
+
+cheat21_desc = "Parts Installed - Traded Car: Suspension Package 3"
+cheat21_code = "3200197B+0003"
+cheat21_enable = false
+
+cheat22_desc = "Parts Installed - Traded Car: Weight Reduction Stage 3"
+cheat22_code = "32001973+0003"
+cheat22_enable = false
+
+cheat23_desc = "Quick Race - Circuit - Infinite Nitro: Atlantica/Atlantica (R)"
+cheat23_code = "7201A998+1775"
+cheat23_enable = false
+
+cheat24_desc = "Quick Race - Circuit - Infinite Nitro: Inner City"
+cheat24_code = "7201A1E8+1775"
+cheat24_enable = false
+
+cheat25_desc = "Quick Race - Circuit - Infinite Nitro: Inner City (R)"
+cheat25_code = "7201A144+1775"
+cheat25_enable = false
+
+cheat26_desc = "Quick Race - Circuit - Infinite Nitro: Market Street (R)"
+cheat26_code = "72019E68+1775"
+cheat26_enable = false
+
+cheat27_desc = "Quick Race - Circuit - Infinite Nitro: Olympic Square"
+cheat27_code = "7201A330+1775"
+cheat27_enable = false
+
+cheat28_desc = "Quick Race - Circuit - Infinite Nitro: Olympic Square (R)"
+cheat28_code = "7201A0A0+1775"
+cheat28_enable = false
+
+cheat29_desc = "Quick Race - Circuit - Infinite Nitro: Stadium (R)"
+cheat29_code = "72019DC4+1775"
+cheat29_enable = false
+
+cheat30_desc = "Quick Race - Circuit - Infinite Nitro: Stadium/Market Street"
+cheat30_code = "72019D20+1775"
+cheat30_enable = false
+
+cheat31_desc = "Quick Race - Circuit - Infinite Nitro: Terminal"
+cheat31_code = "7201A4D0+1775"
+cheat31_enable = false
+
+cheat32_desc = "Quick Race - Circuit - Infinite Nitro: Terminal (R)"
+cheat32_code = "7201A574+1775"
+cheat32_enable = false
+
+cheat33_desc = "Quick Race - Drag - Infinite Nitro: 14th And Vine"
+cheat33_code = "72018914+1775"
+cheat33_enable = false
+
+cheat34_desc = "Quick Race - Drag - Infinite Nitro: 14th And Vine (R)"
+cheat34_code = "7201A024+1775"
+cheat34_enable = false
+
+cheat35_desc = "Quick Race - Drag - Infinite Nitro: Commercial/(R)"
+cheat35_code = "72018920+1775"
+cheat35_enable = false
+
+cheat36_desc = "Quick Race - Drag - Infinite Nitro: Hightway 1/(R)"
+cheat36_code = "72018984+1775"
+cheat36_enable = false
+
+cheat37_desc = "Quick Race - Drag - Infinite Nitro: Main Street/(R)"
+cheat37_code = "72018698+1775"
+cheat37_enable = false
+
+cheat38_desc = "Quick Race - Sprint - Infinite Nitro: 1st Ave. Truck Stop"
+cheat38_code = "72019570+1775"
+cheat38_enable = false
+
+cheat39_desc = "Quick Race - Sprint - Infinite Nitro: 7th & Sparling"
+cheat39_code = "72019EB4+1775"
+cheat39_enable = false
+
+cheat40_desc = "Quick Race - Sprint - Infinite Nitro: 9th & Frey"
+cheat40_code = "72019CC8+1775"
+cheat40_enable = false
+
+cheat41_desc = "Quick Race - Sprint - Infinite Nitro: Broadway"
+cheat41_code = "720192E0+1775"
+cheat41_enable = false
+
+cheat42_desc = "Quick Race - Sprint - Infinite Nitro: Liberty Gardens"
+cheat42_code = "720194CC+1775"
+cheat42_enable = false
+
+cheat43_desc = "Quick Race - Sprint - Infinite Nitro: Spillway"
+cheat43_code = "72019F58+1775"
+cheat43_enable = false
+
+cheat44_desc = "Race Time Is 0:0:01 (You Win The Race)"
+cheat44_code = "83005F0C+0000+83005F0E+0000"
+cheat44_enable = false
+
+cheat45_desc = "Unlock All Cars & Parts"
+cheat45_code = "32000839+00FF"
+cheat45_enable = false
+
+cheat46_desc = "Unlock All Cars & Parts (Quick Race)"
+cheat46_code = "3200083A+00FF"
+cheat46_enable = false
+
+cheat47_desc = "Unlock All Upgrades/Cars/Tracks"
+cheat47_code = "82000838+FFFF+8200083A+FFFF"
+cheat47_enable = false
+
+cheat48_desc = "Unlock Everything"
+cheat48_code = "82000838+4400+8200083A+FFFF"
+cheat48_enable = false

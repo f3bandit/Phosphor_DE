@@ -1,0 +1,49 @@
+cheats = 12
+
+cheat0_desc = "Access All Scenarios"
+cheat0_code = "33000A5C+0006"
+cheat0_enable = false
+
+cheat1_desc = "Birds"
+cheat1_code = "83000B0C+6363+33000B0E+0063"
+cheat1_enable = false
+
+cheat2_desc = "Cats"
+cheat2_code = "83000B3C+6363+33000B3E+0063"
+cheat2_enable = false
+
+cheat3_desc = "Dogs"
+cheat3_code = "83000B00+6363+33000B02+0063"
+cheat3_enable = false
+
+cheat4_desc = "Have $30,000"
+cheat4_code = "830005FC+7530"
+cheat4_enable = false
+
+cheat5_desc = "Horses"
+cheat5_code = "83000B18+6363+33000B1A+0063"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Food"
+cheat6_code = "33000B50+0063"
+cheat6_enable = false
+
+cheat7_desc = "Maximum HLT"
+cheat7_code = "43000624+0100+00000015+0030+4300062C+FF00+00000015+0030"
+cheat7_enable = false
+
+cheat8_desc = "Minimum HNG"
+cheat8_code = "43000622+0000+00000015+0030"
+cheat8_enable = false
+
+cheat9_desc = "Rabbits"
+cheat9_code = "83000B30+6363+33000B32+0063"
+cheat9_enable = false
+
+cheat10_desc = "Start With $10,000"
+cheat10_code = "730005FC+03E8+830005FC+2710"
+cheat10_enable = false
+
+cheat11_desc = "Turtles"
+cheat11_code = "83000B24+6363+33000B26+0063"
+cheat11_enable = false

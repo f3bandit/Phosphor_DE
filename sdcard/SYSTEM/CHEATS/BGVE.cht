@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Have All Chapters"
+cheat0_code = "32010295+00FF"
+cheat0_enable = false
+
+cheat1_desc = "Have All Powers"
+cheat1_code = "32010297+00FF"
+cheat1_enable = false
+
+cheat2_desc = "Invincible"
+cheat2_code = "1F0D67C8+F00A+88038860+EB45"
+cheat2_enable = false

@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Access Level Select (Enter Option Menu)"
+cheat0_code = "72001E42+001C+32001E42+0003"
+cheat0_enable = false
+
+cheat1_desc = "Have 50,000 Opals"
+cheat1_code = "820028E4+C350"
+cheat1_enable = false
+
+cheat2_desc = "Have All Rangs"
+cheat2_code = "820029D0+DDDC+820029D2+01DD+820028C0+DDDC+820028C2+01DD"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Lives"
+cheat3_code = "320028AA+0009"
+cheat3_enable = false

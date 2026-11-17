@@ -1,0 +1,49 @@
+cheats = 12
+
+cheat0_desc = "Infinite Ships"
+cheat0_code = "330043CE+0004"
+cheat0_enable = false
+
+cheat1_desc = "Maximum Speed"
+cheat1_code = "330043D0+0004"
+cheat1_enable = false
+
+cheat2_desc = "No Overheat"
+cheat2_code = "330040EC+0000"
+cheat2_enable = false
+
+cheat3_desc = "Quick Charge"
+cheat3_code = "730040DC+0030+330040DD+0002"
+cheat3_enable = false
+
+cheat4_desc = "Start With Hi-Score"
+cheat4_code = "730043BC+0000+830043BC+C350"
+cheat4_enable = false
+
+cheat5_desc = "Transparent [Hold L]"
+cheat5_code = "D0000020+0200+330043C4+0002"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Lives"
+cheat6_code = "330043C6+0007"
+cheat6_enable = false
+
+cheat7_desc = "Invincible"
+cheat7_code = "330043BC+000F"
+cheat7_enable = false
+
+cheat8_desc = "Press A For Charged Shot"
+cheat8_code = "74000130+03FE+830040D4+0200"
+cheat8_enable = false
+
+cheat9_desc = "Never Overheat"
+cheat9_code = "730040D0+0005+830040D0+0004"
+cheat9_enable = false
+
+cheat10_desc = "Press L To Fill Up Hyber Bar"
+cheat10_code = "74000130+01FF+830040E4+0001"
+cheat10_enable = false
+
+cheat11_desc = "Ship Moves Faster"
+cheat11_code = "83006B84+02FF"
+cheat11_enable = false

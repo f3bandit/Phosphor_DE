@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "No Random Battles"
+cheat0_code = "8805E294+D9FF"
+cheat0_enable = false
+
+cheat1_desc = "Walk Through Walls"
+cheat1_code = "88060044+2001"
+cheat1_enable = false

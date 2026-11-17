@@ -1,0 +1,129 @@
+cheats = 32
+
+cheat0_desc = "Access All Characters"
+cheat0_code = "33000540+00FF"
+cheat0_enable = false
+
+cheat1_desc = "Access All Zones"
+cheat1_code = "33000541+0007"
+cheat1_enable = false
+
+cheat2_desc = "Access Boss Time Attack"
+cheat2_code = "33000563+0007"
+cheat2_enable = false
+
+cheat3_desc = "Access Special Stage Mode"
+cheat3_code = "73004130+FFFF+33004130+000B"
+cheat3_enable = false
+
+cheat4_desc = "All Chao's Found"
+cheat4_code = "43000544+FFFF+00000007+0002"
+cheat4_enable = false
+
+cheat5_desc = "All Levels Beaten"
+cheat5_code = "33000559+000F+3300055A+000F+3300055B+000F+3300055C+000F+3300055D+000F+3300055E+000F+3300055F+000F"
+cheat5_enable = false
+
+cheat6_desc = "Awesome Super Jump"
+cheat6_code = "F30015DE+0001+830015DA+FCC4"
+cheat6_enable = false
+
+cheat7_desc = "Characters Unlocked"
+cheat7_code = "33000540+001F"
+cheat7_enable = false
+
+cheat8_desc = "Clear Act [Press Select+Up]"
+cheat8_code = "74000130+03BB+83001714+0201+74000130+03BB+8300176C+0001"
+cheat8_enable = false
+
+cheat9_desc = "Have All Chaos"
+cheat9_code = "83000544+FFFF+83000546+FFFF+83000548+FFFF+8300054A+FFFF+8300054C+FFFF+8300054E+FFFF+83000550+03FF"
+cheat9_enable = false
+
+cheat10_desc = "Have All Chaos Emeralds"
+cheat10_code = "33000562+007F"
+cheat10_enable = false
+
+cheat11_desc = "Hold L To Hover"
+cheat11_code = "F30015DE+0200+830015DA+FFE0"
+cheat11_enable = false
+
+cheat12_desc = "Infinite Keys"
+cheat12_code = "33000553+0009"
+cheat12_enable = false
+
+cheat13_desc = "Infinite Time"
+cheat13_code = "830044E4+0E11"
+cheat13_enable = false
+
+cheat14_desc = "Low Level Time"
+cheat14_code = "8300094E+0001"
+cheat14_enable = false
+
+cheat15_desc = "Only 1 SS Ring Needed"
+cheat15_code = "7300488C+0078+83004876+0001"
+cheat15_enable = false
+
+cheat16_desc = "Stop Idle Timer"
+cheat16_code = "33001612+0002"
+cheat16_enable = false
+
+cheat17_desc = "Invincible (Only When Moving)"
+cheat17_code = "A30015DC+0000+8300160C+000F"
+cheat17_enable = false
+
+cheat18_desc = "Always Have Speed Shoes"
+cheat18_code = "A30015DC+0000+8300161C+000F"
+cheat18_enable = false
+
+cheat19_desc = "Infinite Rings"
+cheat19_code = "8300094C+03E7"
+cheat19_enable = false
+
+cheat20_desc = "Infinite Lives"
+cheat20_code = "33000954+0009"
+cheat20_enable = false
+
+cheat21_desc = "Infinite/Low Time"
+cheat21_code = "8300094E+0200"
+cheat21_enable = false
+
+cheat22_desc = "Hold Select To Pass Through Certain Objects"
+cheat22_code = "D0000020+0004+330015C7+0003"
+cheat22_enable = false
+
+cheat23_desc = "Press L For Reverse Gravity/Press R For Normal Gravity"
+cheat23_code = "730015DE+0200+830015C6+0001+730015DE+0100+830015C6+0000"
+cheat23_enable = false
+
+cheat24_desc = "Tails Never Gets Tired When Flying"
+cheat24_code = "33001708+00D5+730018D4+000A+830018D4+00D5"
+cheat24_enable = false
+
+cheat25_desc = "Cream Never Gets Tired When Flying"
+cheat25_code = "33001704+00D5"
+cheat25_enable = false
+
+cheat26_desc = "All Levels Open"
+cheat26_code = "83000558+7F09"
+cheat26_enable = false
+
+cheat27_desc = "Have All 9 Keys"
+cheat27_code = "43000552+0909+00000004+0002"
+cheat27_enable = false
+
+cheat28_desc = "Unlock Special Stage Mode"
+cheat28_code = "83004120+000B"
+cheat28_enable = false
+
+cheat29_desc = "Always Get A Chaos Emerald"
+cheat29_code = "43004866+0000+00000007+08EC"
+cheat29_enable = false
+
+cheat30_desc = "Have All Choas Found"
+cheat30_code = "43000544+03FF+00000007+0002"
+cheat30_enable = false
+
+cheat31_desc = "Mega Jump"
+cheat31_code = "D0000020+0001+830015DA+FB00"
+cheat31_enable = false

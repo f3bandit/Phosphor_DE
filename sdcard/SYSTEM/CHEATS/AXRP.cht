@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Infinite Health P1"
+cheat0_code = "330064C2+0063"
+cheat0_enable = false
+
+cheat1_desc = "Jump"
+cheat1_code = "32007AED+0059"
+cheat1_enable = false

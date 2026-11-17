@@ -1,0 +1,65 @@
+cheats = 16
+
+cheat0_desc = "Deplete Rival RPM [Press Select]"
+cheat0_code = "D0000020+0004+830002D8+0000"
+cheat0_enable = false
+
+cheat1_desc = "Dragon Fighter"
+cheat1_code = "8200114A+00FF"
+cheat1_enable = false
+
+cheat2_desc = "Dragoon Storm"
+cheat2_code = "820010FA+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Dranzer F"
+cheat3_code = "82001352+00FF"
+cheat3_enable = false
+
+cheat4_desc = "Driger G"
+cheat4_code = "82001122+00FF"
+cheat4_enable = false
+
+cheat5_desc = "Excellent Rip"
+cheat5_code = "3201A4F0+0064"
+cheat5_enable = false
+
+cheat6_desc = "Have 50,000 Credits"
+cheat6_code = "82001074+C350"
+cheat6_enable = false
+
+cheat7_desc = "Have All Beyblades"
+cheat7_code = "42002D2C+0000+00010053+0004+42002D2E+01FF+00000053+0004"
+cheat7_enable = false
+
+cheat8_desc = "Have All Launchers"
+cheat8_code = "42002D1C+0001+00010004+0004+42002D1E+0364+00000004+0004"
+cheat8_enable = false
+
+cheat9_desc = "Have All Ripcords"
+cheat9_code = "42002D0C+0001+00010004+0004+42002D0E+0264+00000004+0004"
+cheat9_enable = false
+
+cheat10_desc = "Infinite Credits"
+cheat10_code = "82001074+FFFF"
+cheat10_enable = false
+
+cheat11_desc = "Infinite Health"
+cheat11_code = "8200C7C4+FFFF+8200D894+FFFF+8200E728+FFFF+82011730+FFFF+820186B8+FFFF+8201B048+FFFF+8201CFAC+FFFF"
+cheat11_enable = false
+
+cheat12_desc = "Infinite RPM"
+cheat12_code = "830002AC+270F"
+cheat12_enable = false
+
+cheat13_desc = "Instant Win"
+cheat13_code = "3200C7C8+0000+3200C7D0+0000+330002D8+0000"
+cheat13_enable = false
+
+cheat14_desc = "Master Dranzer"
+cheat14_code = "820013A2+00FF"
+cheat14_enable = false
+
+cheat15_desc = "Take No Damage"
+cheat15_code = "320010F8+0000"
+cheat15_enable = false

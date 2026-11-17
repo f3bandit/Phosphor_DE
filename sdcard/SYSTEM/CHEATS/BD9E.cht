@@ -1,0 +1,33 @@
+cheats = 8
+
+cheat0_desc = "Infinite Cupcakes"
+cheat0_code = "330044C8+00F7"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Diamonds"
+cheat1_code = "330044CC+00F7"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Dragonberries/Puzzle Pieces/Keys"
+cheat2_code = "33004470+00F7"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Music Notes"
+cheat3_code = "330044D4+00F7"
+cheat3_enable = false
+
+cheat4_desc = "Max Cup Cakes"
+cheat4_code = "830044C8+0063"
+cheat4_enable = false
+
+cheat5_desc = "Max Dragon Berries"
+cheat5_code = "83004470+0063"
+cheat5_enable = false
+
+cheat6_desc = "Max Music Notes"
+cheat6_code = "830044D4+0063"
+cheat6_enable = false
+
+cheat7_desc = "Max Blue Jewels"
+cheat7_code = "830044CC+00E7"
+cheat7_enable = false

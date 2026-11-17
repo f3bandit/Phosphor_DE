@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "99 Scooby Snacks"
+cheat0_code = "320164C4+0063"
+cheat0_enable = false
+
+cheat1_desc = "Have All Costumes"
+cheat1_code = "820164A8+0200+820164AA+0403"
+cheat1_enable = false
+
+cheat2_desc = "Have All Food Items"
+cheat2_code = "320164A3+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health"
+cheat3_code = "320164B2+000A"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Mubber"
+cheat4_code = "320164AE+0064"
+cheat4_enable = false
+
+cheat5_desc = "Maximum Health"
+cheat5_code = "320164B3+000A"
+cheat5_enable = false

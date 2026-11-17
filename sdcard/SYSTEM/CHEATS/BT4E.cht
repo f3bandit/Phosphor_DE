@@ -1,0 +1,113 @@
+cheats = 28
+
+cheat0_desc = "99999999 Score"
+cheat0_code = "83001D0C+E0FF+83001D0E+05F5"
+cheat0_enable = false
+
+cheat1_desc = "Access All Secrets"
+cheat1_code = "43001CF8+FFFF+00000004+0002"
+cheat1_enable = false
+
+cheat2_desc = "Access Single Player"
+cheat2_code = "33001CEE+0001"
+cheat2_enable = false
+
+cheat3_desc = "Auto Kill One of The 1st Bosses"
+cheat3_code = "82020E74+0000+82020E76+0000"
+cheat3_enable = false
+
+cheat4_desc = "Character Modifer Slot Goku"
+cheat4_code = "33001AF4+0000"
+cheat4_enable = false
+
+cheat5_desc = "Character Modifer Slot Pan"
+cheat5_code = "33001B20+0000"
+cheat5_enable = false
+
+cheat6_desc = "Character Modifer Slot Trunks"
+cheat6_code = "33001B4C+0000"
+cheat6_enable = false
+
+cheat7_desc = "Energy"
+cheat7_code = "33001B14+00FF"
+cheat7_enable = false
+
+cheat8_desc = "Have 50,000 Zenie"
+cheat8_code = "83001CDC+C350"
+cheat8_enable = false
+
+cheat9_desc = "Infinite Health All"
+cheat9_code = "43001AF6+0079+00000009+002C"
+cheat9_enable = false
+
+cheat10_desc = "Infinite KI"
+cheat10_code = "43001AFC+0064+0000000B+002C"
+cheat10_enable = false
+
+cheat11_desc = "Infinite Ki All"
+cheat11_code = "43001AFC+0064+00000009+002C"
+cheat11_enable = false
+
+cheat12_desc = "Infinite Zenie (Money)"
+cheat12_code = "83001CDC+E0FF+83001CDE+05F5"
+cheat12_enable = false
+
+cheat13_desc = "Max Health All"
+cheat13_code = "43001AF8+0079+00000009+002C"
+cheat13_enable = false
+
+cheat14_desc = "Max Power"
+cheat14_code = "33001C36+000A"
+cheat14_enable = false
+
+cheat15_desc = "Max Power All"
+cheat15_code = "43001B02+000A+00000009+002C"
+cheat15_enable = false
+
+cheat16_desc = "Max Score"
+cheat16_code = "83001D0C+FFFF+83001D0E+FFFF"
+cheat16_enable = false
+
+cheat17_desc = "Max STR"
+cheat17_code = "83001B04+000A"
+cheat17_enable = false
+
+cheat18_desc = "Max Strength"
+cheat18_code = "33001C3A+000A"
+cheat18_enable = false
+
+cheat19_desc = "Max Strength All"
+cheat19_code = "43001B06+000A+00000009+002C"
+cheat19_enable = false
+
+cheat20_desc = "Max Zennie"
+cheat20_code = "83001CDC+270F"
+cheat20_enable = false
+
+cheat21_desc = "Maximum Health"
+cheat21_code = "43001AF8+0064+0000000B+002C"
+cheat21_enable = false
+
+cheat22_desc = "Maximum Power"
+cheat22_code = "43001B02+0064+0000000B+002C"
+cheat22_enable = false
+
+cheat23_desc = "Maximum Strength"
+cheat23_code = "43001B06+00FF+0000000B+002C"
+cheat23_enable = false
+
+cheat24_desc = "Quick Advance"
+cheat24_code = "B3003C54+0001+33003C54+0001"
+cheat24_enable = false
+
+cheat25_desc = "Reveal All Paths"
+cheat25_code = "83001D06+FFFF"
+cheat25_enable = false
+
+cheat26_desc = "Sp"
+cheat26_code = "83001B80+0064"
+cheat26_enable = false
+
+cheat27_desc = "SSJ4 Character Modifier"
+cheat27_code = "33001C28+0000"
+cheat27_enable = false

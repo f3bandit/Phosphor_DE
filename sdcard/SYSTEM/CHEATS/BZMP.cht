@@ -1,0 +1,133 @@
+cheats = 33
+
+cheat0_desc = "99 Dungeon Keys"
+cheat0_code = "32002E9C+0063"
+cheat0_enable = false
+
+cheat1_desc = "999 Rupees"
+cheat1_code = "82002B00+03E7"
+cheat1_enable = false
+
+cheat2_desc = "Have 999 Shells"
+cheat2_code = "82002B02+03E7"
+cheat2_enable = false
+
+cheat3_desc = "Have All Elements"
+cheat3_code = "32002B42+0055"
+cheat3_enable = false
+
+cheat4_desc = "Have All Items"
+cheat4_code = "82002B34+5555+82002B36+5554"
+cheat4_enable = false
+
+cheat5_desc = "Have All Jewelery"
+cheat5_code = "32002B43+0055"
+cheat5_enable = false
+
+cheat6_desc = "Have All Kinstones"
+cheat6_code = "52002B58+0006+75747372+7170+6F6E6D6C+6B00+42002B6A+6363+00000006+0002"
+cheat6_enable = false
+
+cheat7_desc = "Have All Maps & Windcrests"
+cheat7_code = "82002A80+FFFF+82002A82+FFFF"
+cheat7_enable = false
+
+cheat8_desc = "Have All Tiger Scrolls"
+cheat8_code = "82002B44+5555"
+cheat8_enable = false
+
+cheat9_desc = "Have Four Sword"
+cheat9_code = "32002B33+0010"
+cheat9_enable = false
+
+cheat10_desc = "Have Graveyard Key"
+cheat10_code = "32002B41+0001"
+cheat10_enable = false
+
+cheat11_desc = "Have Grip Ring"
+cheat11_code = "32002B43+0001"
+cheat11_enable = false
+
+cheat12_desc = "Have Kinstone Bag"
+cheat12_code = "32002B4B+0055"
+cheat12_enable = false
+
+cheat13_desc = "Have Minish Cap"
+cheat13_code = "32002C9E+00FF"
+cheat13_enable = false
+
+cheat14_desc = "Have Tiger Scrolls"
+cheat14_code = "32002B44+00FF"
+cheat14_enable = false
+
+cheat15_desc = "Have Wake-up Mushroom"
+cheat15_code = "32002B40+0001"
+cheat15_enable = false
+
+cheat16_desc = "Have White Sword"
+cheat16_code = "32002B33+0001"
+cheat16_enable = false
+
+cheat17_desc = "Infinite Ammo"
+cheat17_code = "82002AEC+6363"
+cheat17_enable = false
+
+cheat18_desc = "Infinite Bombs"
+cheat18_code = "32002AED+0063"
+cheat18_enable = false
+
+cheat19_desc = "Roll Thru Walls"
+cheat19_code = "7300116C+0118+33001198+0008+73001184+0140+33001198+0001"
+cheat19_enable = false
+
+cheat20_desc = "Infinite HP"
+cheat20_code = "32002AEA+00A0"
+cheat20_enable = false
+
+cheat21_desc = "Max HP"
+cheat21_code = "32002AEB+00A0"
+cheat21_enable = false
+
+cheat22_desc = "Invincible"
+cheat22_code = "3300119D+0003"
+cheat22_enable = false
+
+cheat23_desc = "Press L+A To Shrink, L+B To Normal Size"
+cheat23_code = "73000FF0+0201+8300116C+0009+73000FF0+0202+8300116C+0209+7300116C+0309+8300116C+0409"
+cheat23_enable = false
+
+cheat24_desc = "Press L To Jump Over Things!"
+cheat24_code = "73000FF0+0200+3300116C+0004"
+cheat24_enable = false
+
+cheat25_desc = "Have All Equipment (MUST Have Minish Cap)"
+cheat25_code = "82002B32+5555+82002B34+5555+82002B36+5554"
+cheat25_enable = false
+
+cheat26_desc = "Have All Dungeon 1 Equipment"
+cheat26_code = "32002EAD+00FF"
+cheat26_enable = false
+
+cheat27_desc = "Infinite 9 Dungeon 1 Keys"
+cheat27_code = "32002E9D+0009"
+cheat27_enable = false
+
+cheat28_desc = "Have 130 Original Figurines"
+cheat28_code = "42002B0E+FFFF+00000007+0002+82002B1E+0007+32002AF0+0082"
+cheat28_enable = false
+
+cheat29_desc = "Have 129 of 130 Original Figurines"
+cheat29_code = "42002B0E+FFFF+00000007+0002+82002B1E+0003+32002AF0+0081"
+cheat29_enable = false
+
+cheat30_desc = "Have 136 Figurines"
+cheat30_code = "42002B0E+FFFF+00000007+0002+82002B1E+01FF+32002AF0+0088"
+cheat30_enable = false
+
+cheat31_desc = "Have 135 of 136 Figurines"
+cheat31_code = "42002B0E+FFFF+00000007+0002+82002B1E+00FF+32002AF0+0087"
+cheat31_enable = false
+
+cheat32_desc = "Actor Sprite"
+cheat32_code = "33002272+0001"
+cheat32_enable = false

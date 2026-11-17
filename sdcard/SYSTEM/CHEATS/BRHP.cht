@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Infinite ammo"
+cheat0_code = "88038276+46C0+8803828C+46C0+8803E7D2+46C0"
+cheat0_enable = false
+
+cheat1_desc = "Invulnerable"
+cheat1_code = "88037E38+E003+8803C4E4+E003"
+cheat1_enable = false
+
+cheat2_desc = "Jump higher - alternate code"
+cheat2_code = "83001594+F800"
+cheat2_enable = false

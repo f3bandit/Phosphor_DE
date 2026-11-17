@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "99 Start Points"
+cheat0_code = "330034EC+0063"
+cheat0_enable = false

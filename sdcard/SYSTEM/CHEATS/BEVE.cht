@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "999 Bracelets"
+cheat0_code = "8200336E+03E7"
+cheat0_enable = false
+
+cheat1_desc = "999 EverIcons"
+cheat1_code = "82003368+03E7"
+cheat1_enable = false
+
+cheat2_desc = "999 Flowers"
+cheat2_code = "82003372+03E7"
+cheat2_enable = false
+
+cheat3_desc = "Have All Extras"
+cheat3_code = "82003362+FFFF"
+cheat3_enable = false

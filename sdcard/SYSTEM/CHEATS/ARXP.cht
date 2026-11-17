@@ -1,0 +1,41 @@
+cheats = 10
+
+cheat0_desc = "999999 Chains"
+cheat0_code = "83002BD0+423F+83002BD2+000F"
+cheat0_enable = false
+
+cheat1_desc = "999999 Combos"
+cheat1_code = "83002BD4+423F+83002BD6+000F"
+cheat1_enable = false
+
+cheat2_desc = "Always Have Detoblocks"
+cheat2_code = "883616E8+2410+883616EA+4304"
+cheat2_enable = false
+
+cheat3_desc = "Always Low Time (Minutes)"
+cheat3_code = "83004F74+0000+83004F80+0000"
+cheat3_enable = false
+
+cheat4_desc = "Always Low Time (Seconds)"
+cheat4_code = "83004F70+0000+83004F7C+0000"
+cheat4_enable = false
+
+cheat5_desc = "Drops - Clear Mode"
+cheat5_code = "83000490+000A+83000492+0000"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Time (Minutes)"
+cheat6_code = "83004F70+0005+83004F7C+0009"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Time (Seconds)"
+cheat7_code = "83004F74+0009+83004F80+0005"
+cheat7_enable = false
+
+cheat8_desc = "Max Score"
+cheat8_code = "83004F5C+967F+83004F5E+0098"
+cheat8_enable = false
+
+cheat9_desc = "Quick Score Gain"
+cheat9_code = "83004F5C+FFFF"
+cheat9_enable = false

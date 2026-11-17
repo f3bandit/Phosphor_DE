@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Have 99 Cup Points"
+cheat0_code = "3200EBF1+0063"
+cheat0_enable = false
+
+cheat1_desc = "Unlock Everything"
+cheat1_code = "3200EB91+00FF+8200EB92+FFFF"
+cheat1_enable = false

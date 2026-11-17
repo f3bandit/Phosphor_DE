@@ -1,0 +1,77 @@
+cheats = 19
+
+cheat0_desc = "Beat"
+cheat0_code = "32016322+00FF"
+cheat0_enable = false
+
+cheat1_desc = "C.Vision"
+cheat1_code = "3201631E+00FF"
+cheat1_enable = false
+
+cheat2_desc = "Eddie"
+cheat2_code = "32016324+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Have All CD's"
+cheat3_code = "42027DA0+FFFF+00000007+0002"
+cheat3_enable = false
+
+cheat4_desc = "Have All Items"
+cheat4_code = "32016325+00FF+32016327+00FF"
+cheat4_enable = false
+
+cheat5_desc = "I.Wall"
+cheat5_code = "3201631A+00FF"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Bolts"
+cheat6_code = "8201632E+03E7"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Health"
+cheat7_code = "33004F8C+001C"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Lives"
+cheat8_code = "3201630C+0009"
+cheat8_enable = false
+
+cheat9_desc = "L.Bolt"
+cheat9_code = "32016312+00FF"
+cheat9_enable = false
+
+cheat10_desc = "M.Card"
+cheat10_code = "32016318+00FF"
+cheat10_enable = false
+
+cheat11_desc = "Press A For Moon Jump"
+cheat11_code = "D0000020+0001+33004F6E+00B4"
+cheat11_enable = false
+
+cheat12_desc = "Quick Gun Charge"
+cheat12_code = "33004FE5+0001"
+cheat12_enable = false
+
+cheat13_desc = "R.Mine"
+cheat13_code = "32016314+00FF"
+cheat13_enable = false
+
+cheat14_desc = "R.Search"
+cheat14_code = "32016320+00FF"
+cheat14_enable = false
+
+cheat15_desc = "S.Drill"
+cheat15_code = "32016310+00FF"
+cheat15_enable = false
+
+cheat16_desc = "Survive Spikes"
+cheat16_code = "33004F8D+0001+33004F8E+0000"
+cheat16_enable = false
+
+cheat17_desc = "T.Blade"
+cheat17_code = "3201631C+00FF"
+cheat17_enable = false
+
+cheat18_desc = "W.Burner"
+cheat18_code = "32016316+00FF"
+cheat18_enable = false

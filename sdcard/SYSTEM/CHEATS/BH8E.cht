@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Folio Complete"
+cheat0_code = "42000234+FFFF+00000006+0002"
+cheat0_enable = false
+
+cheat1_desc = "Have 50,000 Beans"
+cheat1_code = "82000210+C350"
+cheat1_enable = false
+
+cheat2_desc = "Have All Bonuses"
+cheat2_code = "320003C1+000E"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Beans"
+cheat3_code = "82000210+270F"
+cheat3_enable = false

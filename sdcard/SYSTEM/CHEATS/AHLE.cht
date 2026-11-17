@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "All Fists"
+cheat0_code = "3300043C+000D"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Health (rom patch)"
+cheat1_code = "88014E5A+23FF"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Rage"
+cheat2_code = "32000EFF+0063"
+cheat2_enable = false
+
+cheat3_desc = "One Super Smash Full Rage Attack"
+cheat3_code = "3300043C+000A"
+cheat3_enable = false
+
+cheat4_desc = "Regenerate 99% of Hulk Life"
+cheat4_code = "88014E58+23FF"
+cheat4_enable = false
+
+cheat5_desc = "Walk thru walls"
+cheat5_code = "83005AB4+0301+83005AB6+E3A0"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Health"
+cheat6_code = "32000EC0+00FF"
+cheat6_enable = false

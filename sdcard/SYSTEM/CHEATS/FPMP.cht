@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Infinite Lives"
+cheat0_code = "33007267+0009"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Munch Time"
+cheat1_code = "73007286+C000+33007288+000F"
+cheat1_enable = false
+
+cheat2_desc = "Skip Level [Press Select]"
+cheat2_code = "D0000020+0004+3300723F+000C"
+cheat2_enable = false
+
+cheat3_desc = "Start With Hi-Score"
+cheat3_code = "73007272+0000+33007273+0500"
+cheat3_enable = false

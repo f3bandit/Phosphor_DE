@@ -1,0 +1,45 @@
+cheats = 11
+
+cheat0_desc = "Have No Bronze Medals"
+cheat0_code = "430023B0+0000+00000003+0004"
+cheat0_enable = false
+
+cheat1_desc = "Have No Gold Medals"
+cheat1_code = "43002390+0000+00000003+0004"
+cheat1_enable = false
+
+cheat2_desc = "Have No Points"
+cheat2_code = "43002380+0000+00000003+0004"
+cheat2_enable = false
+
+cheat3_desc = "Have No Silver Medals"
+cheat3_code = "430023A0+0000+00000003+0004"
+cheat3_enable = false
+
+cheat4_desc = "Hold Select To End Time"
+cheat4_code = "74000130+03FB+82003DC4+0000+74000130+03FB+82003DC0+0030"
+cheat4_enable = false
+
+cheat5_desc = "Max Gold Medals P1"
+cheat5_code = "3300238C+0063"
+cheat5_enable = false
+
+cheat6_desc = "Max Score P1/Instant Win"
+cheat6_code = "3300237C+0063"
+cheat6_enable = false
+
+cheat7_desc = "Start With 10 Bronze Medals"
+cheat7_code = "730023AC+0000+330023AC+000A"
+cheat7_enable = false
+
+cheat8_desc = "Start With 10 Gold Medals"
+cheat8_code = "7300238C+0000+3300238C+000A"
+cheat8_enable = false
+
+cheat9_desc = "Start With 10 Points"
+cheat9_code = "7300237C+0000+3300237C+000A"
+cheat9_enable = false
+
+cheat10_desc = "Start With 10 Silver Medals"
+cheat10_code = "7300239C+0000+3300239C+000A"
+cheat10_enable = false

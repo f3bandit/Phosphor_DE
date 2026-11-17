@@ -1,0 +1,61 @@
+cheats = 15
+
+cheat0_desc = "Always 1st Down"
+cheat0_code = "820007D4+0001"
+cheat0_enable = false
+
+cheat1_desc = "Always 4th Down"
+cheat1_code = "820007D4+0004"
+cheat1_enable = false
+
+cheat2_desc = "Always Start At 2nd Down"
+cheat2_code = "720007D4+0001+820007D4+0002"
+cheat2_enable = false
+
+cheat3_desc = "Always Start At 3rd Down"
+cheat3_code = "720007D4+0001+820007D4+0003"
+cheat3_enable = false
+
+cheat4_desc = "Away Team Infinite Time-Outs"
+cheat4_code = "A2025E5C+B1AA"
+cheat4_enable = false
+
+cheat5_desc = "Away Team No Time-Outs"
+cheat5_code = "32000531+0000"
+cheat5_enable = false
+
+cheat6_desc = "Home Team Infinite Time-Outs"
+cheat6_code = "32000530+0003"
+cheat6_enable = false
+
+cheat7_desc = "Home Team No Time-Outs"
+cheat7_code = "32000530+0000"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Time To Choose Your Play"
+cheat8_code = "820007CA+0023"
+cheat8_enable = false
+
+cheat9_desc = "Home Team Scores 255"
+cheat9_code = "8200208E+00FF"
+cheat9_enable = false
+
+cheat10_desc = "Home Team Scores 100"
+cheat10_code = "8200208E+0064"
+cheat10_enable = false
+
+cheat11_desc = "Home Team Scores 0"
+cheat11_code = "8200208E+0000"
+cheat11_enable = false
+
+cheat12_desc = "Away Team Scores 255"
+cheat12_code = "820021DE+00FF"
+cheat12_enable = false
+
+cheat13_desc = "Away Team Scores 100"
+cheat13_code = "820021DE+0064"
+cheat13_enable = false
+
+cheat14_desc = "Away Team Scores 0"
+cheat14_code = "820021DE+0000"
+cheat14_enable = false

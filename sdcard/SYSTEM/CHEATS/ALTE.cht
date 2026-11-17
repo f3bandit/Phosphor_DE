@@ -1,0 +1,61 @@
+cheats = 15
+
+cheat0_desc = "Fighter Takes No Damage"
+cheat0_code = "3200D814+000F"
+cheat0_enable = false
+
+cheat1_desc = "Have Super Shot"
+cheat1_code = "32009DD0+0001"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Grenades"
+cheat2_code = "32009448+0063"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health (Tank)"
+cheat3_code = "3200CA58+0006"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Lives"
+cheat4_code = "32001140+0063"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Super Shot"
+cheat5_code = "82009444+03E7"
+cheat5_enable = false
+
+cheat6_desc = "Jump in Midair"
+cheat6_code = "8203FF00+4808+8203FF02+B401+8203FF04+2094+8203FF06+0080+8203FF08+182A+8203FF0A+1C28+8203FF0C+B4FE+8203FF0E+26B7+8203FF10+00B6+8203FF12+5D81+8203FF14+2601+8203FF16+4031+8203FF18+D002+8203FF1A+26E0+8203FF1C+02B6+8203FF1E+6056+8203FF20+BCFE+8203FF22+BD00+8203FF24+7161+8203FF26+0801+88017158+4800+8801715A+4700+8801715C+FF01+8801715E+0203"
+cheat6_enable = false
+
+cheat7_desc = "Max Score"
+cheat7_code = "82000A58+423F+82000A5A+000F"
+cheat7_enable = false
+
+cheat8_desc = "Moon Jump"
+cheat8_code = "D0000020+0001+820009D6+0001"
+cheat8_enable = false
+
+cheat9_desc = "No Blinking (use with inv code)"
+cheat9_code = "8800B602+E005"
+cheat9_enable = false
+
+cheat10_desc = "One Hit Kill All (use with inv code)"
+cheat10_code = "88009DC8+2900"
+cheat10_enable = false
+
+cheat11_desc = "Quick Score Gain"
+cheat11_code = "82000A58+FFFF"
+cheat11_enable = false
+
+cheat12_desc = "Rapid Fire"
+cheat12_code = "D0000020+0002+820007C8+0000"
+cheat12_enable = false
+
+cheat13_desc = "Unlock All Movies"
+cheat13_code = "32000E70+00FF"
+cheat13_enable = false
+
+cheat14_desc = "Unlock All Pictures"
+cheat14_code = "32001144+00FF"
+cheat14_enable = false

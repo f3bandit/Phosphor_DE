@@ -1,0 +1,49 @@
+cheats = 12
+
+cheat0_desc = "Have All Specials"
+cheat0_code = "83000E4A+FFFF"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Health All Characters"
+cheat1_code = "43001020+2710+00000004+0008"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Special All Characters"
+cheat2_code = "43001022+2710+00000004+0008"
+cheat2_enable = false
+
+cheat3_desc = "Max Level & Stats All Characters"
+cheat3_code = "43001026+0018+00000004+0008"
+cheat3_enable = false
+
+cheat4_desc = "Press R Trigger+L Trigger To Reset Timer (Timed Levels)"
+cheat4_code = "74000130+00FF+3300203D+0000"
+cheat4_enable = false
+
+cheat5_desc = "Press Select Trigger + UP Trigger To Reset Timer (Timed Levels)"
+cheat5_code = "73000044+FC44+3300203D+0000"
+cheat5_enable = false
+
+cheat6_desc = "Quick Level Gain All Characters"
+cheat6_code = "43001024+270F+00000004+0008"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Spirit Energy-All Characters"
+cheat7_code = "43001022+6C00+00000004+0008"
+cheat7_enable = false
+
+cheat8_desc = "Have All Spirit Attacks-All Characters"
+cheat8_code = "83000E4A+FFFF+83000E4C+FFFF"
+cheat8_enable = false
+
+cheat9_desc = "Level Select Menu"
+cheat9_code = "74000130+02FB+33007DC9+0005"
+cheat9_enable = false
+
+cheat10_desc = "Unlock Extras Menu"
+cheat10_code = "33007E52+0001"
+cheat10_enable = false
+
+cheat11_desc = "4095 Score (Genkai Test)"
+cheat11_code = "830010F4+0FFF"
+cheat11_enable = false

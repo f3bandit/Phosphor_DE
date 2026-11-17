@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Access All Stages"
+cheat0_code = "82024834+FFFF+42024840+0001+0000001A+001C"
+cheat0_enable = false
+
+cheat1_desc = "Start With Maximum Health"
+cheat1_code = "82024802+3E70"
+cheat1_enable = false
+
+cheat2_desc = "Start With Maximum Power"
+cheat2_code = "42024820+0600+00000003+0002"
+cheat2_enable = false
+
+cheat3_desc = "Weak Final Boss"
+cheat3_code = "7300275C+3E70+8300275C+0070"
+cheat3_enable = false

@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Turbo Boost"
+cheat0_code = "D0000020+0001+83006440+0010"
+cheat0_enable = false
+
+cheat1_desc = "Unlock Everything"
+cheat1_code = "8201DF5A+0F00"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Shield Time"
+cheat2_code = "83004810+0000"
+cheat2_enable = false

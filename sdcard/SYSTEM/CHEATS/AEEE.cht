@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Complete Mission [Press Select+L]"
+cheat0_code = "74000130+01FB+32004E00+000B"
+cheat0_enable = false
+
+cheat1_desc = "Invisible"
+cheat1_code = "32005271+0001"
+cheat1_enable = false
+
+cheat2_desc = "Stop Timer"
+cheat2_code = "7200529C+003A+3200529C+003B"
+cheat2_enable = false

@@ -1,0 +1,33 @@
+cheats = 8
+
+cheat0_desc = "Access All Characters"
+cheat0_code = "830032D8+FFFF+330032DA+00FF"
+cheat0_enable = false
+
+cheat1_desc = "Have 50,000 Prestige"
+cheat1_code = "830032F4+C350"
+cheat1_enable = false
+
+cheat2_desc = "Have All Items"
+cheat2_code = "83003318+0909+8300331A+0909+3300331C+0009"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Energy"
+cheat3_code = "8201E348+0A5A"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Health"
+cheat4_code = "8201E346+17CF"
+cheat4_enable = false
+
+cheat5_desc = "Maximum Energy"
+cheat5_code = "8201E350+0A5A"
+cheat5_enable = false
+
+cheat6_desc = "Maximum Health"
+cheat6_code = "8201E34E+17CF"
+cheat6_enable = false
+
+cheat7_desc = "Maximum Strength"
+cheat7_code = "3201E34A+00FF"
+cheat7_enable = false

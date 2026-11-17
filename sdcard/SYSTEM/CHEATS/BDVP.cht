@@ -1,0 +1,93 @@
+cheats = 23
+
+cheat0_desc = "Always GO!"
+cheat0_code = "32029E68+00FF"
+cheat0_enable = false
+
+cheat1_desc = "Defeat Opponent [Press Select+Up]"
+cheat1_code = "74000130+03BB+82029A56+0000"
+cheat1_enable = false
+
+cheat2_desc = "Have All Items"
+cheat2_code = "42029F5C+FFFF+00000003+0002+32029F62+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Continues"
+cheat3_code = "32029F36+0009"
+cheat3_enable = false
+
+cheat4_desc = "Infinite DP"
+cheat4_code = "32029988+0010"
+cheat4_enable = false
+
+cheat5_desc = "Invincible"
+cheat5_code = "32020650+0002"
+cheat5_enable = false
+
+cheat6_desc = "Multi Jump"
+cheat6_code = "D0000020+0001+820205CE+FB00"
+cheat6_enable = false
+
+cheat7_desc = "Rapid Attack"
+cheat7_code = "720205A4+003A+320205A4+0001"
+cheat7_enable = false
+
+cheat8_desc = "Start With Hi-Score"
+cheat8_code = "72020660+0000+82020660+C350"
+cheat8_enable = false
+
+cheat9_desc = "Transparent"
+cheat9_code = "32020658+0002"
+cheat9_enable = false
+
+cheat10_desc = "Unlock All Extras"
+cheat10_code = "42029F54+FFFF+00000004+0002+82029F74+FFFF+82029F76+FFFF"
+cheat10_enable = false
+
+cheat11_desc = "Weak Bosses"
+cheat11_code = "7300416A+0001+83004174+0000"
+cheat11_enable = false
+
+cheat12_desc = "Infinite Lives"
+cheat12_code = "32029F36+0063"
+cheat12_enable = false
+
+cheat13_desc = "Infinite Super Bar"
+cheat13_code = "8202064A+0400"
+cheat13_enable = false
+
+cheat14_desc = "Max Health Bar"
+cheat14_code = "82020648+04FF"
+cheat14_enable = false
+
+cheat15_desc = "Infinite Health"
+cheat15_code = "82020646+04FF"
+cheat15_enable = false
+
+cheat16_desc = "Have Invincible Power"
+cheat16_code = "32020650+00FF"
+cheat16_enable = false
+
+cheat17_desc = "Kameha Charged"
+cheat17_code = "8202064C+0800"
+cheat17_enable = false
+
+cheat18_desc = "Max Score"
+cheat18_code = "82020660+E0FF+82020662+05F5"
+cheat18_enable = false
+
+cheat19_desc = "Mega Jump"
+cheat19_code = "74000130+03FE+820205CE+FC00"
+cheat19_enable = false
+
+cheat20_desc = "Walk At Dashing Speed"
+cheat20_code = "720205A8+0005+320205A8+0015+720205A8+0004+320205A8+0014"
+cheat20_enable = false
+
+cheat21_desc = "Have All Items Found"
+cheat21_code = "42029F58+FFFF+00000004+0002"
+cheat21_enable = false
+
+cheat22_desc = "Have All Options Open"
+cheat22_code = "42029F50+FFFF+00000004+0002+82029F70+FFFF+82029F72+FFFF"
+cheat22_enable = false

@@ -1,0 +1,97 @@
+cheats = 24
+
+cheat0_desc = "All Characters Unlocked"
+cheat0_code = "83001C90+FFFF"
+cheat0_enable = false
+
+cheat1_desc = "All Extras"
+cheat1_code = "33001CF0+000F"
+cheat1_enable = false
+
+cheat2_desc = "All Levels Unlocked"
+cheat2_code = "33001CEC+003F"
+cheat2_enable = false
+
+cheat3_desc = "All Missions"
+cheat3_code = "33001CED+000A"
+cheat3_enable = false
+
+cheat4_desc = "All Missions Unlocked"
+cheat4_code = "33001CED+0009"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Customer Time"
+cheat5_code = "330038F8+0032"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Time Mission 1, 3, 5-9"
+cheat6_code = "330038F5+0032"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Time Mission 4, 10"
+cheat7_code = "330038F9+0032"
+cheat7_enable = false
+
+cheat8_desc = "Low Time Mission 2"
+cheat8_code = "330038F5+0000"
+cheat8_enable = false
+
+cheat9_desc = "Mission 1 Easy Complete"
+cheat9_code = "330038FB+000B"
+cheat9_enable = false
+
+cheat10_desc = "Mission 2 Easy Complete"
+cheat10_code = "330038F9+0000"
+cheat10_enable = false
+
+cheat11_desc = "Mission 4 Easy Complete"
+cheat11_code = "330038F9+0063"
+cheat11_enable = false
+
+cheat12_desc = "Mission 5 Easy Complete"
+cheat12_code = "330038F5+0063"
+cheat12_enable = false
+
+cheat13_desc = "Mission 8 Easy Complete"
+cheat13_code = "330038FB+0007"
+cheat13_enable = false
+
+cheat14_desc = "Press Button A To Float"
+cheat14_code = "D0000020+0001+33003B89+003B"
+cheat14_enable = false
+
+cheat15_desc = "Press Select For More Time"
+cheat15_code = "73000C04+FC04+330038FE+0005"
+cheat15_enable = false
+
+cheat16_desc = "Press Select+Down To Resume Timer"
+cheat16_code = "74000130+037B+33005000+0000"
+cheat16_enable = false
+
+cheat17_desc = "Press Select+Up To Pause Timer"
+cheat17_code = "74000130+03BB+33005000+0001+73005000+0001+330038F6+0032"
+cheat17_enable = false
+
+cheat18_desc = "RR: 1 Hit/Destroyed For All"
+cheat18_code = "33003924+0063"
+cheat18_enable = false
+
+cheat19_desc = "RR: Max Passenger Time"
+cheat19_code = "330038F8+0063"
+cheat19_enable = false
+
+cheat20_desc = "RR: Press Select For Max Money"
+cheat20_code = "D0000020+0004+830038F0+869F+830038F2+0001+830038F4+869F+830038F6+0001"
+cheat20_enable = false
+
+cheat21_desc = "RR: Tap B For More Time"
+cheat21_code = "D0000020+0002+330038FC+0063"
+cheat21_enable = false
+
+cheat22_desc = "Start With $50,000"
+cheat22_code = "730038F0+0000+830038F0+C350"
+cheat22_enable = false
+
+cheat23_desc = "Unlock All Locations"
+cheat23_code = "33001CEC+00FF"
+cheat23_enable = false

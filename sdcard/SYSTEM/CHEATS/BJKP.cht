@@ -1,0 +1,61 @@
+cheats = 15
+
+cheat0_desc = "Access Level Menu [Press Select+L]"
+cheat0_code = "74000130+01FB+33004830+0001"
+cheat0_enable = false
+
+cheat1_desc = "Enable Select Menu"
+cheat1_code = "330049E5+0001"
+cheat1_enable = false
+
+cheat2_desc = "Have All Creatures"
+cheat2_code = "43004D8A+0101+0000000A+0002+33004D9E+0001"
+cheat2_enable = false
+
+cheat3_desc = "Have All Elements"
+cheat3_code = "43004B40+0202+00000004+0002"
+cheat3_enable = false
+
+cheat4_desc = "Have All Ingredients"
+cheat4_code = "43004BC8+6363+00000003+0002"
+cheat4_enable = false
+
+cheat5_desc = "Have All Instruments"
+cheat5_code = "43004BD4+0101+00000003+0002"
+cheat5_enable = false
+
+cheat6_desc = "Have All Jars"
+cheat6_code = "43004BCE+0101+00000003+0002"
+cheat6_enable = false
+
+cheat7_desc = "Have All Machine Parts"
+cheat7_code = "43004BDA+0101+00000003+0002"
+cheat7_enable = false
+
+cheat8_desc = "Have All Notes"
+cheat8_code = "33004D69+0001+43004D6A+0101+00000002+0002"
+cheat8_enable = false
+
+cheat9_desc = "Have All Potions"
+cheat9_code = "43004B36+6363+00000005+0002"
+cheat9_enable = false
+
+cheat10_desc = "Have All Quests"
+cheat10_code = "43004DA8+0101+00000008+0002"
+cheat10_enable = false
+
+cheat11_desc = "Have All Recipes"
+cheat11_code = "43004D5E+0101+00000005+0002+33004D68+0001"
+cheat11_enable = false
+
+cheat12_desc = "Have All RuinsKeys"
+cheat12_code = "430049F2+0101+00000002+0002"
+cheat12_enable = false
+
+cheat13_desc = "Infinite Air"
+cheat13_code = "330049E2+00EF"
+cheat13_enable = false
+
+cheat14_desc = "Infinite Shield"
+cheat14_code = "330049E3+007F"
+cheat14_enable = false

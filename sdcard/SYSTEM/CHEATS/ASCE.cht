@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Unlock All Boards"
+cheat0_code = "33002440+0000"
+cheat0_enable = false
+
+cheat1_desc = "Unlock All Tracks"
+cheat1_code = "330023FA+0016"
+cheat1_enable = false
+
+cheat2_desc = "Quick Score Gain"
+cheat2_code = "83006724+FFFF"
+cheat2_enable = false
+
+cheat3_desc = "Max Score"
+cheat3_code = "83006724+423F+83006726+000F"
+cheat3_enable = false

@@ -1,0 +1,109 @@
+cheats = 27
+
+cheat0_desc = "Block Blaster: Have Power Shot"
+cheat0_code = "33003A80+0001"
+cheat0_enable = false
+
+cheat1_desc = "Block Blaster: Have Quick Shot"
+cheat1_code = "330020A0+0001"
+cheat1_enable = false
+
+cheat2_desc = "Block Blaster: Have Shield"
+cheat2_code = "330001A1+0003+33002074+0001"
+cheat2_enable = false
+
+cheat3_desc = "Block Blaster: Infinite Lives"
+cheat3_code = "3300209C+0003"
+cheat3_enable = false
+
+cheat4_desc = "Game Timer: Off [Press Select+Down]"
+cheat4_code = "74000130+037B+83003000+0001+73003000+0001+83000030+0000"
+cheat4_enable = false
+
+cheat5_desc = "Game Timer: On [Press Select+Up]"
+cheat5_code = "74000130+03BB+83000030+0001"
+cheat5_enable = false
+
+cheat6_desc = "Have Letters B.O.N.U"
+cheat6_code = "73001314+0000+33001314+0004"
+cheat6_enable = false
+
+cheat7_desc = "Instant Win: Arcade Mode[Press Select+R]"
+cheat7_code = "74000130+02FB+83002600+0000"
+cheat7_enable = false
+
+cheat8_desc = "Instant Win: Time Challenge [Press Select+L]"
+cheat8_code = "74000130+01FB+3300205C+0002"
+cheat8_enable = false
+
+cheat9_desc = "Unlock Bonus Game"
+cheat9_code = "33001320+0001"
+cheat9_enable = false
+
+cheat10_desc = "Access All Events"
+cheat10_code = "43000018+FFFF+00000010+0002"
+cheat10_enable = false
+
+cheat11_desc = "Access All Stages"
+cheat11_code = "430012AC+FFFF+00000004+0002"
+cheat11_enable = false
+
+cheat12_desc = "Access Sound/Event Tests"
+cheat12_code = "33000044+00FF"
+cheat12_enable = false
+
+cheat13_desc = "Access Stage Select"
+cheat13_code = "330012BB+0002"
+cheat13_enable = false
+
+cheat14_desc = "Complete Character List"
+cheat14_code = "43000048+1111+00000017+0002"
+cheat14_enable = false
+
+cheat15_desc = "Infinite Life"
+cheat15_code = "33002802+0064"
+cheat15_enable = false
+
+cheat16_desc = "Infinite Super"
+cheat16_code = "3300280A+0063"
+cheat16_enable = false
+
+cheat17_desc = "Max All Stats"
+cheat17_code = "43002858+0707+00000003+0002"
+cheat17_enable = false
+
+cheat18_desc = "Max Jets"
+cheat18_code = "3300285C+0006"
+cheat18_enable = false
+
+cheat19_desc = "Max Laser"
+cheat19_code = "3300285A+0007"
+cheat19_enable = false
+
+cheat20_desc = "Max Life"
+cheat20_code = "33002858+0007"
+cheat20_enable = false
+
+cheat21_desc = "Max Punch"
+cheat21_code = "33002859+0007"
+cheat21_enable = false
+
+cheat22_desc = "Max Score Multiplier"
+cheat22_code = "330027F9+0063"
+cheat22_enable = false
+
+cheat23_desc = "Max Sensor"
+cheat23_code = "3300285D+0004"
+cheat23_enable = false
+
+cheat24_desc = "Max Shot"
+cheat24_code = "3300285B+0007"
+cheat24_enable = false
+
+cheat25_desc = "Maximum Life"
+cheat25_code = "33002804+0064"
+cheat25_enable = false
+
+cheat26_desc = "Stop Timer"
+cheat26_code = "830027D8+0000"
+cheat26_enable = false

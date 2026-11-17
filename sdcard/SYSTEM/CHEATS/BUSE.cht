@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Always Your Turn In Mix-Up Match"
+cheat0_code = "33004CE8+0000"
+cheat0_enable = false
+
+cheat1_desc = "Have 99 Green Eggs"
+cheat1_code = "33000074+0063"
+cheat1_enable = false
+
+cheat2_desc = "Have 99 Green Eggs And Ham"
+cheat2_code = "330007B4+0063"
+cheat2_enable = false
+
+cheat3_desc = "Have 99 Green Hams"
+cheat3_code = "3300072C+0063"
+cheat3_enable = false
+
+cheat4_desc = "Have Extra Stage Time"
+cheat4_code = "33004C28+0063"
+cheat4_enable = false
+
+cheat5_desc = "Start With 1000 Stage Points"
+cheat5_code = "73004B34+0000+83004B34+03E8+73004D98+0000+83004D98+03E8"
+cheat5_enable = false
+
+cheat6_desc = "Start With Hi-Score"
+cheat6_code = "720007D8+0000+820007D8+C350"
+cheat6_enable = false

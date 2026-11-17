@@ -1,0 +1,101 @@
+cheats = 25
+
+cheat0_desc = "Player 1: Can't Be Pinned"
+cheat0_code = "83005674+0000"
+cheat0_enable = false
+
+cheat1_desc = "Player 1: Easily Pinned"
+cheat1_code = "83005674+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "Player 1: Infinite Special"
+cheat2_code = "33005658+00B0"
+cheat2_enable = false
+
+cheat3_desc = "Player 1: Maximum Stamina"
+cheat3_code = "33005657+0064"
+cheat3_enable = false
+
+cheat4_desc = "Player 1: No Special"
+cheat4_code = "33005658+0000"
+cheat4_enable = false
+
+cheat5_desc = "Player 1: No Stamina"
+cheat5_code = "33005657+0000"
+cheat5_enable = false
+
+cheat6_desc = "Player 2: Can't Be Pinned"
+cheat6_code = "830063CC+0000"
+cheat6_enable = false
+
+cheat7_desc = "Player 2: Easily Pinned"
+cheat7_code = "830063CC+FFFF"
+cheat7_enable = false
+
+cheat8_desc = "Player 2: Infinite Special"
+cheat8_code = "330063B0+00B0"
+cheat8_enable = false
+
+cheat9_desc = "Player 2: Maximum Stamina"
+cheat9_code = "330063AF+0064"
+cheat9_enable = false
+
+cheat10_desc = "Player 2: No Special"
+cheat10_code = "330063B0+0000"
+cheat10_enable = false
+
+cheat11_desc = "Player 2: No Stamina"
+cheat11_code = "330063AF+0000"
+cheat11_enable = false
+
+cheat12_desc = "Player 3: Can't Be Pinned"
+cheat12_code = "83006A78+0000"
+cheat12_enable = false
+
+cheat13_desc = "Player 3: Easily Pinned"
+cheat13_code = "83006A78+FFFF"
+cheat13_enable = false
+
+cheat14_desc = "Player 3: Infinite Special"
+cheat14_code = "33006A5C+00B0"
+cheat14_enable = false
+
+cheat15_desc = "Player 3: Maximum Stamina"
+cheat15_code = "33006A5B+0064"
+cheat15_enable = false
+
+cheat16_desc = "Player 3: No Special"
+cheat16_code = "33006A5C+0000"
+cheat16_enable = false
+
+cheat17_desc = "Player 3: No Stamina"
+cheat17_code = "33006A5B+0000"
+cheat17_enable = false
+
+cheat18_desc = "Player 4: Can't Be Pinned"
+cheat18_code = "83005D20+0000"
+cheat18_enable = false
+
+cheat19_desc = "Player 4: Easily Pinned"
+cheat19_code = "83005D20+FFFF"
+cheat19_enable = false
+
+cheat20_desc = "Player 4: Infinite Special"
+cheat20_code = "33005D04+00B0"
+cheat20_enable = false
+
+cheat21_desc = "Player 4: Maximum Stamina"
+cheat21_code = "33005D03+0064"
+cheat21_enable = false
+
+cheat22_desc = "Player 4: No Special"
+cheat22_code = "33005D04+0000"
+cheat22_enable = false
+
+cheat23_desc = "Player 4: No Stamina"
+cheat23_code = "33005D03+0000"
+cheat23_enable = false
+
+cheat24_desc = "ShopZone Complete"
+cheat24_code = "430041A2+FFFF+00000005+0002"
+cheat24_enable = false

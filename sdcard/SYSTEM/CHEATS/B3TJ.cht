@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "All Costumes"
+cheat0_code = "82002794+F4FF+82002796+FFFF+82002798+FFFF+8200279A+FFFF+8200279C+FFFF+8200279E+FFFF+820027A0+FFFF"
+cheat0_enable = false
+
+cheat1_desc = "Infinte Magic In Battle"
+cheat1_code = "8800E7D2+46C0+8800E350+46C0"
+cheat1_enable = false
+
+cheat2_desc = "Max Money"
+cheat2_code = "82002758+967F+8200275A+0098"
+cheat2_enable = false

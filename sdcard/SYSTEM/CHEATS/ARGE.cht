@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Jump in Midair"
+cheat0_code = "8203FF00+4807+8203FF02+B401+8203FF04+4807+8203FF06+7800+8203FF08+2301+8203FF0A+4018+8203FF0C+6A48+8203FF0E+D002+8203FF10+2000+8203FF12+3805+8203FF14+0400+8203FF16+1880+8203FF18+6248+8203FF1A+2001+8203FF1C+BD00+8203FF1E+0000+8203FF20+E0E9+8203FF22+0800+8203FF24+10AC+8203FF26+0300+8800E0E0+4800+8800E0E2+4700+8800E0E4+FF01+8800E0E6+0203"
+cheat0_enable = false
+
+cheat1_desc = "Max Ammo (Projectiles)"
+cheat1_code = "8200738C+03E7"
+cheat1_enable = false
+
+cheat2_desc = "Max Diapers (Health)"
+cheat2_code = "32007388+0063"
+cheat2_enable = false
+
+cheat3_desc = "Zero Items Needed"
+cheat3_code = "32007390+0000"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Health"
+cheat4_code = "82007388+0063"
+cheat4_enable = false
+
+cheat5_desc = "No Bonus Point Objects Left"
+cheat5_code = "82007390+0000"
+cheat5_enable = false

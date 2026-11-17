@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Always Ball 1 Of 5"
+cheat0_code = "83000354+0001"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Pinballs"
+cheat1_code = "33000354+0001"
+cheat1_enable = false
+
+cheat2_desc = "Max Score"
+cheat2_code = "830015A0+E0FF+830015A2+05F5"
+cheat2_enable = false
+
+cheat3_desc = "Quick Score Gain"
+cheat3_code = "830015A0+FFFF"
+cheat3_enable = false

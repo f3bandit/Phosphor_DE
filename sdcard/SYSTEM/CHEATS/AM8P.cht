@@ -1,0 +1,65 @@
+cheats = 16
+
+cheat0_desc = "Always Reflect Shot"
+cheat0_code = "3300080C+0010"
+cheat0_enable = false
+
+cheat1_desc = "Always X-Ray Shot"
+cheat1_code = "3300080C+0020"
+cheat1_enable = false
+
+cheat2_desc = "End Level [Press A+B+UP]"
+cheat2_code = "74000130+03BC+3300077C+000D+74000130+03BC+33000780+0001"
+cheat2_enable = false
+
+cheat3_desc = "Infinite HP"
+cheat3_code = "330007F0+00FF"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Keys"
+cheat4_code = "330007E0+00FF"
+cheat4_enable = false
+
+cheat5_desc = "Invincible"
+cheat5_code = "330007EA+0010"
+cheat5_enable = false
+
+cheat6_desc = "Low Level Time"
+cheat6_code = "3300359C+0000"
+cheat6_enable = false
+
+cheat7_desc = "Max Attack"
+cheat7_code = "33000852+00FF"
+cheat7_enable = false
+
+cheat8_desc = "Max Force"
+cheat8_code = "33000853+00FF"
+cheat8_enable = false
+
+cheat9_desc = "Max HP"
+cheat9_code = "33000850+00FF"
+cheat9_enable = false
+
+cheat10_desc = "Open All Levels"
+cheat10_code = "330034DF+0024"
+cheat10_enable = false
+
+cheat11_desc = "Quick Score Tally"
+cheat11_code = "33003562+0003+33003566+00FF"
+cheat11_enable = false
+
+cheat12_desc = "Quick Weapon Charge"
+cheat12_code = "730007D2+0002+830007D2+0042"
+cheat12_enable = false
+
+cheat13_desc = "Start With 50,000 Atoms"
+cheat13_code = "730035A4+0000+830035A4+C350"
+cheat13_enable = false
+
+cheat14_desc = "Unlock Extra Characters"
+cheat14_code = "33003604+000F"
+cheat14_enable = false
+
+cheat15_desc = "Quick Charge"
+cheat15_code = "730007C2+0002+830007C2+0042"
+cheat15_enable = false

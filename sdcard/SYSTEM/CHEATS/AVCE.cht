@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Gallery Complete"
+cheat0_code = "820001E8+FFFF+320001EA+00FF"
+cheat0_enable = false
+
+cheat1_desc = "Maximum Credits"
+cheat1_code = "83000180+270F"
+cheat1_enable = false
+
+cheat2_desc = "Place 1st"
+cheat2_code = "3300013F+0001"
+cheat2_enable = false
+
+cheat3_desc = "Stop Timer"
+cheat3_code = "33000148+0063"
+cheat3_enable = false
+
+cheat4_desc = "Unlock All Cars"
+cheat4_code = "420001E8+FFFF+00000003+0002"
+cheat4_enable = false
+
+cheat5_desc = "Win After Crossing Finish Line in Grand Prix/Win Rally and Extras After First Checkpoint"
+cheat5_code = "88017BD6+2001+88017BD8+77C8"
+cheat5_enable = false

@@ -1,0 +1,21 @@
+cheats = 5
+
+cheat0_desc = "Access All Levels"
+cheat0_code = "43003870+FFFF+00000027+0002"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Health"
+cheat1_code = "320070A4+0064"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Super Powers"
+cheat2_code = "330021BC+0064"
+cheat2_enable = false
+
+cheat3_desc = "Invincible"
+cheat3_code = "33002162+0004+33002164+0001"
+cheat3_enable = false
+
+cheat4_desc = "Stop Timer"
+cheat4_code = "830026FC+0000+83003720+0000"
+cheat4_enable = false

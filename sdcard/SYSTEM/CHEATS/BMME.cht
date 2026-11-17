@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Infinite Item Bar"
+cheat0_code = "32011344+0079"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Lives"
+cheat1_code = "82012F40+0009"
+cheat1_enable = false

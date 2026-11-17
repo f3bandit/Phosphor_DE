@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Can Eliminate Blocks With Any Color"
+cheat0_code = "8800224E+46C0+88002272+46C0+880021DE+46C0+88002202+46C0"
+cheat0_enable = false

@@ -1,0 +1,49 @@
+cheats = 12
+
+cheat0_desc = "Access All Cheats"
+cheat0_code = "8200000C+FFFF"
+cheat0_enable = false
+
+cheat1_desc = "Flash Grenades"
+cheat1_code = "330000AA+0063"
+cheat1_enable = false
+
+cheat2_desc = "Grenades"
+cheat2_code = "330000A8+0063"
+cheat2_enable = false
+
+cheat3_desc = "Health"
+cheat3_code = "83005EFC+0400"
+cheat3_enable = false
+
+cheat4_desc = "Hold B To Delay Grenades"
+cheat4_code = "74000130+03FD+8300735E+0C00"
+cheat4_enable = false
+
+cheat5_desc = "M-16"
+cheat5_code = "330000A0+00C8"
+cheat5_enable = false
+
+cheat6_desc = "M4 Machine Gun"
+cheat6_code = "330000A6+00FF"
+cheat6_enable = false
+
+cheat7_desc = "Max Score"
+cheat7_code = "830001AC+E0FF+830001AE+05F5"
+cheat7_enable = false
+
+cheat8_desc = "Quick Score Gain"
+cheat8_code = "830001AC+FFFF"
+cheat8_enable = false
+
+cheat9_desc = "Shotgun"
+cheat9_code = "330000A4+001E"
+cheat9_enable = false
+
+cheat10_desc = "Start With Hi-Score"
+cheat10_code = "730001AC+0000+830001AC+C350"
+cheat10_enable = false
+
+cheat11_desc = "Infinite Timer Countdown Missions"
+cheat11_code = "330400C0+001E"
+cheat11_enable = false

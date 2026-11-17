@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Share Exp"
+cheat0_code = "880F4454+210B"
+cheat0_enable = false
+
+cheat1_desc = "Steal Other Trainers Pokemon"
+cheat1_code = "880677C8+2000+74000130+00FF+82022C90+0004+74000130+00FF+82022C92+0000"
+cheat1_enable = false

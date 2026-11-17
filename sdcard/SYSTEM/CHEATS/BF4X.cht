@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Access Test Menu"
+cheat0_code = "7200D234+0100+3200D235+0002"
+cheat0_enable = false
+
+cheat1_desc = "Have All Powers"
+cheat1_code = "32013FC8+00FF"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Lives"
+cheat2_code = "32014044+0009"
+cheat2_enable = false

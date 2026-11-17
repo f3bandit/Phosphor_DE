@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Mission Not Failed If Detected"
+cheat0_code = "7200C7A4+0003+8200C7A4+0000"
+cheat0_enable = false
+
+cheat1_desc = "Quick Defuse"
+cheat1_code = "330036BA+0000"
+cheat1_enable = false
+
+cheat2_desc = "Quick Plant/Deactivate"
+cheat2_code = "33003E42+0000"
+cheat2_enable = false

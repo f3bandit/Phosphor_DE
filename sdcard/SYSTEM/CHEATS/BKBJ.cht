@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "All Bookmarks"
+cheat0_code = "4202DD1A+0101+0000007B+0010+4202DD16+0063+0000001D+0010+4202DEE6+0163+00000024+0010+4202E126+0263+00000016+0010+4202E286+0363+0000001C+0010+4202E446+0463+00000008+0010"
+cheat0_enable = false
+
+cheat1_desc = "EXP"
+cheat1_code = "8202E61A+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "Level 100"
+cheat2_code = "8202E614+0063"
+cheat2_enable = false

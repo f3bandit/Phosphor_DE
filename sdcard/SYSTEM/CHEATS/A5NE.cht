@@ -1,0 +1,93 @@
+cheats = 23
+
+cheat0_desc = "1 Enguarde = 3"
+cheat0_code = "33001006+0002"
+cheat0_enable = false
+
+cheat1_desc = "1 Expresso = 3"
+cheat1_code = "33001005+0002"
+cheat1_enable = false
+
+cheat2_desc = "1 Rambi = 3"
+cheat2_code = "33001004+0002"
+cheat2_enable = false
+
+cheat3_desc = "1 Winky = 3"
+cheat3_code = "33001007+0002"
+cheat3_enable = false
+
+cheat4_desc = "1st Save Slot"
+cheat4_code = "72000D38+0000+42000D48+FFFF+00000006+0002"
+cheat4_enable = false
+
+cheat5_desc = "2nd Save Slot"
+cheat5_code = "72000D98+0000+42000DA8+FFFF+00000006+0002"
+cheat5_enable = false
+
+cheat6_desc = "99 Lives"
+cheat6_code = "33000FC8+0063"
+cheat6_enable = false
+
+cheat7_desc = "Access All Areas"
+cheat7_code = "83001040+FFFF"
+cheat7_enable = false
+
+cheat8_desc = "Access All Stages"
+cheat8_code = "43001036+FFFF+00000005+0002"
+cheat8_enable = false
+
+cheat9_desc = "Access Funky"
+cheat9_code = "33001187+0001"
+cheat9_enable = false
+
+cheat10_desc = "All Scrapbook"
+cheat10_code = "33001184+00FF+43001178+FFFF+00000006+0002"
+cheat10_enable = false
+
+cheat11_desc = "Always Have Donkey And Diddy"
+cheat11_code = "3200F704+0001+33000FD6+0001"
+cheat11_enable = false
+
+cheat12_desc = "Always Have Partner"
+cheat12_code = "73000FD6+0000+33000FD6+0001"
+cheat12_enable = false
+
+cheat13_desc = "Collect 1 Banana For An Extra Life (99 Bananas)"
+cheat13_code = "33000FDC+0063"
+cheat13_enable = false
+
+cheat14_desc = "Get Single Bananas From Anywhere"
+cheat14_code = "880D2A3C+936F+8808E4A4+30D8"
+cheat14_enable = false
+
+cheat15_desc = "Have K.O.N.G Letters"
+cheat15_code = "43000F34+0002+00000004+0004"
+cheat15_enable = false
+
+cheat16_desc = "Infinite Lives"
+cheat16_code = "33000FC8+0009"
+cheat16_enable = false
+
+cheat17_desc = "Infinite Time On DK Attack"
+cheat17_code = "33001045+003B"
+cheat17_enable = false
+
+cheat18_desc = "Invincible"
+cheat18_code = "3300133C+0001"
+cheat18_enable = false
+
+cheat19_desc = "Scrap Book Complete"
+cheat19_code = "43001176+FFFF+00000004+0002+3300117E+00FF"
+cheat19_enable = false
+
+cheat20_desc = "Skip Intro"
+cheat20_code = "8801038E+2002"
+cheat20_enable = false
+
+cheat21_desc = "Transparent"
+cheat21_code = "3300133C+0002"
+cheat21_enable = false
+
+cheat22_desc = "All Stage Bonus's Found"
+cheat22_code = "33001008+00F0+3300101D+00FF+4300101E+FFFF+00000004+0002"
+cheat22_enable = false

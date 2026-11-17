@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "1 Hit Boss Kills"
+cheat0_code = "32007678+0000"
+cheat0_enable = false
+
+cheat1_desc = "Enemies Die Quickly"
+cheat1_code = "3200019C+0000+32003168+0000"
+cheat1_enable = false

@@ -1,0 +1,41 @@
+cheats = 10
+
+cheat0_desc = "Have All Rings"
+cheat0_code = "330077C2+0003"
+cheat0_enable = false
+
+cheat1_desc = "Have Defeated Enemies 75/75"
+cheat1_code = "330077C3+00FF+830077C4+0FFF"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Health"
+cheat2_code = "33007772+0096"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Sand"
+cheat3_code = "33007771+0080"
+cheat3_enable = false
+
+cheat4_desc = "Max HP/Strength/Defense"
+cheat4_code = "330077C8+0003"
+cheat4_enable = false
+
+cheat5_desc = "Maximum Stats"
+cheat5_code = "330077C7+00B0+330077C8+0003"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Hp"
+cheat6_code = "33007772+0084"
+cheat6_enable = false
+
+cheat7_desc = "Have All Scrolls"
+cheat7_code = "830077B2+FFFF"
+cheat7_enable = false
+
+cheat8_desc = "Have All Medals"
+cheat8_code = "8300777C+FFFF+8300777E+FFFF"
+cheat8_enable = false
+
+cheat9_desc = "Have All Items"
+cheat9_code = "830077C0+FFFF"
+cheat9_enable = false

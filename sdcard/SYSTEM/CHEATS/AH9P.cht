@@ -1,0 +1,97 @@
+cheats = 24
+
+cheat0_desc = "Always Invisible"
+cheat0_code = "33004B58+0001"
+cheat0_enable = false
+
+cheat1_desc = "Have 99 Darts"
+cheat1_code = "83004AFC+6301"
+cheat1_enable = false
+
+cheat2_desc = "Have 99 Food"
+cheat2_code = "83004B00+6301"
+cheat2_enable = false
+
+cheat3_desc = "Have 99 Rocks"
+cheat3_code = "83004AF0+6301"
+cheat3_enable = false
+
+cheat4_desc = "Have 99 Spores"
+cheat4_code = "83004AF8+6301"
+cheat4_enable = false
+
+cheat5_desc = "Have 99 Tokens"
+cheat5_code = "33004B19+0063"
+cheat5_enable = false
+
+cheat6_desc = "Have Food Rune"
+cheat6_code = "33004B9C+0001"
+cheat6_enable = false
+
+cheat7_desc = "Have Mithril Coat"
+cheat7_code = "33004B10+0001"
+cheat7_enable = false
+
+cheat8_desc = "Have Music Box"
+cheat8_code = "33004AEC+0001"
+cheat8_enable = false
+
+cheat9_desc = "Have Sling With Stones"
+cheat9_code = "83004AF4+6301"
+cheat9_enable = false
+
+cheat10_desc = "Have Small Dagger"
+cheat10_code = "33004AE4+0001"
+cheat10_enable = false
+
+cheat11_desc = "Have Spring Water"
+cheat11_code = "83004B04+6301"
+cheat11_enable = false
+
+cheat12_desc = "Have Strength Rune"
+cheat12_code = "33004B8C+0001"
+cheat12_enable = false
+
+cheat13_desc = "Have Sword Rune"
+cheat13_code = "33004A38+0001"
+cheat13_enable = false
+
+cheat14_desc = "Have The Ring"
+cheat14_code = "33004AE8+0001"
+cheat14_enable = false
+
+cheat15_desc = "Have Thunder Claps"
+cheat15_code = "83004B08+6301"
+cheat15_enable = false
+
+cheat16_desc = "Have Tinder And Flint"
+cheat16_code = "33004B0C+0001"
+cheat16_enable = false
+
+cheat17_desc = "Have Walking Stick"
+cheat17_code = "33004AE0+0001"
+cheat17_enable = false
+
+cheat18_desc = "Infinite Health"
+cheat18_code = "33004AC4+0063"
+cheat18_enable = false
+
+cheat19_desc = "Infinite Lives"
+cheat19_code = "33004ACC+0063"
+cheat19_enable = false
+
+cheat20_desc = "Max Life Runes"
+cheat20_code = "33004A2C+0009"
+cheat20_enable = false
+
+cheat21_desc = "Max Shield Runes"
+cheat21_code = "33004AA4+0009"
+cheat21_enable = false
+
+cheat22_desc = "Max Skill Runes"
+cheat22_code = "33004B50+0009"
+cheat22_enable = false
+
+cheat23_desc = "Maximum Health"
+cheat23_code = "33004BAC+0063"
+cheat23_enable = false

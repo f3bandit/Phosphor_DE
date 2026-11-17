@@ -1,0 +1,173 @@
+cheats = 43
+
+cheat0_desc = "4 Bombs (Quest Mode)"
+cheat0_code = "32035196+0005"
+cheat0_enable = false
+
+cheat1_desc = "9 Bombs (Quest Mode)"
+cheat1_code = "32035196+0009"
+cheat1_enable = false
+
+cheat2_desc = "Cannot Die (Quest Mode)"
+cheat2_code = "32035194+0063"
+cheat2_enable = false
+
+cheat3_desc = "Have All Crystals"
+cheat3_code = "8203527C+FFFF+32035281+00BF"
+cheat3_enable = false
+
+cheat4_desc = "Have All Items"
+cheat4_code = "42035278+FFFF+00000002+0002+32035285+00C7"
+cheat4_enable = false
+
+cheat5_desc = "Have All Karabon"
+cheat5_code = "32035296+00FF+32035297+00FF+32035298+00FF+32035299+00FF+3203529A+00FF+3203529B+008F+3203529C+00FF+3203529D+00FF+3203529E+0037+3203529F+000F+320352A0+00FF"
+cheat5_enable = false
+
+cheat6_desc = "Have Everything"
+cheat6_code = "82035278+FFFF+8203527A+FFFF+8203527C+FFFF+8203527E+FFFF"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Cash (Quest Mode)"
+cheat7_code = "82035198+03E7+82035270+03E7"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Coins"
+cheat8_code = "82035198+03E7"
+cheat8_enable = false
+
+cheat9_desc = "Infinite Health"
+cheat9_code = "32035194+0014"
+cheat9_enable = false
+
+cheat10_desc = "Infinite HP (In-Battle)"
+cheat10_code = "82035386+03E7"
+cheat10_enable = false
+
+cheat11_desc = "Karabon 1 Max Stats"
+cheat11_code = "820351A0+6363+820351A2+6363+320351A4+0063"
+cheat11_enable = false
+
+cheat12_desc = "Karabon 10 Max Stats"
+cheat12_code = "820351E8+6363+820351EA+6363+320351EC+0063"
+cheat12_enable = false
+
+cheat13_desc = "Karabon 11 Max Stats"
+cheat13_code = "820351F0+6363+820351F2+6363+320351F4+0063"
+cheat13_enable = false
+
+cheat14_desc = "Karabon 12 Max Stats"
+cheat14_code = "820351F8+6363+820351FA+6363+320351FC+0063"
+cheat14_enable = false
+
+cheat15_desc = "Karabon 13 Max Stats"
+cheat15_code = "82035200+6363+82035202+6363+32035204+0063"
+cheat15_enable = false
+
+cheat16_desc = "Karabon 14 Max Stats"
+cheat16_code = "82035208+6363+8203520A+6363+3203520C+0063"
+cheat16_enable = false
+
+cheat17_desc = "Karabon 15 Max Stats"
+cheat17_code = "82035210+6363+82035212+6363+32035214+0063"
+cheat17_enable = false
+
+cheat18_desc = "Karabon 16 Max Stats"
+cheat18_code = "82035218+6363+8203521A+6363+3203521C+0063"
+cheat18_enable = false
+
+cheat19_desc = "Karabon 17 Max Stats"
+cheat19_code = "82035220+6363+82035222+6363+32035224+0063"
+cheat19_enable = false
+
+cheat20_desc = "Karabon 18 Max Stats"
+cheat20_code = "82035228+6363+8203522A+6363+3203522C+0063"
+cheat20_enable = false
+
+cheat21_desc = "Karabon 19 Max Stats"
+cheat21_code = "82035230+6363+82035232+6363+32035234+0063"
+cheat21_enable = false
+
+cheat22_desc = "Karabon 2 Max Stats"
+cheat22_code = "820351A8+6363+820351AA+6363+320351AC+0063"
+cheat22_enable = false
+
+cheat23_desc = "Karabon 20 Max Stats"
+cheat23_code = "82035238+6363+8203523A+6363+3203523C+0063"
+cheat23_enable = false
+
+cheat24_desc = "Karabon 21 Max Stats"
+cheat24_code = "82035240+6363+82035242+6363+32035244+0063"
+cheat24_enable = false
+
+cheat25_desc = "Karabon 22 Max Stats"
+cheat25_code = "82035248+6363+8203524A+6363+3203524C+0063"
+cheat25_enable = false
+
+cheat26_desc = "Karabon 23 Max Stats"
+cheat26_code = "82035250+6363+82035252+6363+32035254+0063"
+cheat26_enable = false
+
+cheat27_desc = "Karabon 24 Max Stats"
+cheat27_code = "82035258+6363+8203525A+6363+3203525C+0063"
+cheat27_enable = false
+
+cheat28_desc = "Karabon 25 Max Stats"
+cheat28_code = "82035260+6363+82035262+6363+32035264+0063"
+cheat28_enable = false
+
+cheat29_desc = "Karabon 3 Max Stats"
+cheat29_code = "820351B0+6363+820351B2+6363+320351B4+0063"
+cheat29_enable = false
+
+cheat30_desc = "Karabon 4 Max Stats"
+cheat30_code = "820351B8+6363+820351BA+6363+320351BC+0063"
+cheat30_enable = false
+
+cheat31_desc = "Karabon 5 Max Stats"
+cheat31_code = "820351C0+6363+820351C2+6363+320351C4+0063"
+cheat31_enable = false
+
+cheat32_desc = "Karabon 6 Max Stats"
+cheat32_code = "820351C8+6363+820351CA+6363+320351CC+0063"
+cheat32_enable = false
+
+cheat33_desc = "Karabon 7 Max Stats"
+cheat33_code = "820351D0+6363+820351D2+6363+320351D4+0063"
+cheat33_enable = false
+
+cheat34_desc = "Karabon 8 Max Stats"
+cheat34_code = "820351D8+6363+820351DA+6363+320351DC+0063"
+cheat34_enable = false
+
+cheat35_desc = "Karabon 9 Max Stats"
+cheat35_code = "820351E0+6363+820351E2+6363+320351E4+0063"
+cheat35_enable = false
+
+cheat36_desc = "Max Explosion"
+cheat36_code = "32035197+0009"
+cheat36_enable = false
+
+cheat37_desc = "Max Health (Quest Mode)"
+cheat37_code = "32035195+0014"
+cheat37_enable = false
+
+cheat38_desc = "Max Stats All Karapon"
+cheat38_code = "420351A0+FFFF+0000001A+0008+420351A2+FFFF+0000001A+0008+420351A4+FFFF+0000001A+0008"
+cheat38_enable = false
+
+cheat39_desc = "P1 Has Score of 5"
+cheat39_code = "3300635C+0005"
+cheat39_enable = false
+
+cheat40_desc = "P2 Has Score of 5"
+cheat40_code = "33006368+0005"
+cheat40_enable = false
+
+cheat41_desc = "P3 Has Score of 5"
+cheat41_code = "33006374+0005"
+cheat41_enable = false
+
+cheat42_desc = "P4 Has Score of 5"
+cheat42_code = "33006380+0005"
+cheat42_enable = false

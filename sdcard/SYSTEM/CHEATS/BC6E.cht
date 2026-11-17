@@ -1,0 +1,21 @@
+cheats = 5
+
+cheat0_desc = "Disable Enemy Blocking"
+cheat0_code = "88066ED6+4C00"
+cheat0_enable = false
+
+cheat1_desc = "Infinite E"
+cheat1_code = "3300084B+00FF"
+cheat1_enable = false
+
+cheat2_desc = "Infinite H"
+cheat2_code = "33000849+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Lives"
+cheat3_code = "3300031E+0009"
+cheat3_enable = false
+
+cheat4_desc = "Quick EXP Gain"
+cheat4_code = "8300034C+0300"
+cheat4_enable = false

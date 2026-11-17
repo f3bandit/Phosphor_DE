@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Have 19 Crystal Droplets"
+cheat0_code = "820036AC+0013"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Lives"
+cheat1_code = "830036AC+6300"
+cheat1_enable = false

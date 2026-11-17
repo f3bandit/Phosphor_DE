@@ -1,0 +1,33 @@
+cheats = 8
+
+cheat0_desc = "Have All Cards"
+cheat0_code = "32020771+0063+42020772+6363+000001C1+0002+32020AF4+0063"
+cheat0_enable = false
+
+cheat1_desc = "Max LP"
+cheat1_code = "8202347C+270F"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Money"
+cheat2_code = "82020DA0+E0FF+82020DA2+05F5"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Deck Capacity"
+cheat3_code = "82020C3C+270F"
+cheat3_enable = false
+
+cheat4_desc = "Hold Select For Infinite Tribute"
+cheat4_code = "74000130+03FB+32023448+0006"
+cheat4_enable = false
+
+cheat5_desc = "Max Duelist Level"
+cheat5_code = "82020C40+03E7"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Summonings"
+cheat6_code = "42023204+0000+00000005+0004"
+cheat6_enable = false
+
+cheat7_desc = "All Cards Face Down"
+cheat7_code = "420231B4+0000+00000005+0004"
+cheat7_enable = false

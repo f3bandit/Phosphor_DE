@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Quick Score Gain"
+cheat0_code = "830026D0+FFFF"
+cheat0_enable = false
+
+cheat1_desc = "Max Score"
+cheat1_code = "830026D0+E0FF+830026D2+05F5"
+cheat1_enable = false

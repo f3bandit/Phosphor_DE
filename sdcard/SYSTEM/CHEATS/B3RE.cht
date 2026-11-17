@@ -1,0 +1,117 @@
+cheats = 29
+
+cheat0_desc = "Access All Maps"
+cheat0_code = "3203CD54+0001"
+cheat0_enable = false
+
+cheat1_desc = "Ammo Pack"
+cheat1_code = "3203C823+0001"
+cheat1_enable = false
+
+cheat2_desc = "Bagman 16/16"
+cheat2_code = "3203C0D0+0010"
+cheat2_enable = false
+
+cheat3_desc = "Calita 16/16"
+cheat3_code = "3203C0F1+0010"
+cheat3_enable = false
+
+cheat4_desc = "Checkpoint 4/4"
+cheat4_code = "8203C56A+0404"
+cheat4_enable = false
+
+cheat5_desc = "Destruction 4/4"
+cheat5_code = "8203C462+0404"
+cheat5_enable = false
+
+cheat6_desc = "Dream Bike"
+cheat6_code = "3203CF95+0001"
+cheat6_enable = false
+
+cheat7_desc = "Dream Car"
+cheat7_code = "3203C821+0001"
+cheat7_enable = false
+
+cheat8_desc = "Fast Escape Van"
+cheat8_code = "3203BC51+0003"
+cheat8_enable = false
+
+cheat9_desc = "Fast Partner"
+cheat9_code = "3203BC9A+0080"
+cheat9_enable = false
+
+cheat10_desc = "Fast Text Speed"
+cheat10_code = "3203C0F3+0007"
+cheat10_enable = false
+
+cheat11_desc = "Gator 16/16"
+cheat11_code = "3203C122+0010"
+cheat11_enable = false
+
+cheat12_desc = "Have All Weapons+Ammo"
+cheat12_code = "4203C804+0909+0000000A+0002+3203C818+0009"
+cheat12_enable = false
+
+cheat13_desc = "Have Boat [Press Select+B+R]"
+cheat13_code = "74000130+02F9+3203B74F+0001+74000130+02F9+3203B707+0000"
+cheat13_enable = false
+
+cheat14_desc = "Have Motorcycle [Press Select+B+L]"
+cheat14_code = "74000130+01F9+3203B74F+0001+74000130+01F9+3203B707+0005"
+cheat14_enable = false
+
+cheat15_desc = "Health Pack"
+cheat15_code = "3203C822+0001"
+cheat15_enable = false
+
+cheat16_desc = "Infinite Health"
+cheat16_code = "3203B73A+00FF"
+cheat16_enable = false
+
+cheat17_desc = "Infinite Health (Partner)"
+cheat17_code = "3203BC91+00FF"
+cheat17_enable = false
+
+cheat18_desc = "Infinite Health (Van)"
+cheat18_code = "3203B710+00FF"
+cheat18_enable = false
+
+cheat19_desc = "Jericho 16/16"
+cheat19_code = "3203C123+0010"
+cheat19_enable = false
+
+cheat20_desc = "Muscle Car #1"
+cheat20_code = "5203C19C+0005+0108CE3A+0000+B3000700+0000"
+cheat20_enable = false
+
+cheat21_desc = "Muscle Car #2"
+cheat21_code = "5203C1A8+0005+010E633B+0000+15F86F00+0000"
+cheat21_enable = false
+
+cheat22_desc = "No Throwback"
+cheat22_code = "4203B678+0000+00000002+0002"
+cheat22_enable = false
+
+cheat23_desc = "Slalom 4/4"
+cheat23_code = "8203C35A+0404"
+cheat23_enable = false
+
+cheat24_desc = "Slow Baddie"
+cheat24_code = "8203B864+00C0"
+cheat24_enable = false
+
+cheat25_desc = "Sports Car"
+cheat25_code = "5203C190+0005+0110423A+0000+43007900+0000"
+cheat25_enable = false
+
+cheat26_desc = "Stop Timer"
+cheat26_code = "8203B942+FFFF"
+cheat26_enable = false
+
+cheat27_desc = "Trailblazer 4/4"
+cheat27_code = "8203C252+0404"
+cheat27_enable = false
+
+cheat28_desc = "Turbo XLR8"
+cheat28_code = "7203B70E+0002+3203B70E+0001"
+cheat28_enable = false

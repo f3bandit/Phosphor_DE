@@ -1,0 +1,45 @@
+cheats = 11
+
+cheat0_desc = "(VB) Viruses = 1HP"
+cheat0_code = "3203A9D4+0001+3203AAAC+0001"
+cheat0_enable = false
+
+cheat1_desc = "1 HP For All Enemies"
+cheat1_code = "3203AAAC+0001+3203AB84+0001+3203AC5C+0001"
+cheat1_enable = false
+
+cheat2_desc = "9999 Crossover Battle Points"
+cheat2_code = "82006740+270F"
+cheat2_enable = false
+
+cheat3_desc = "Buster Level S"
+cheat3_code = "3203489E+000B"
+cheat3_enable = false
+
+cheat4_desc = "Enable Otenko Crossover Trader (Seaside Net Area 1)"
+cheat4_code = "32006772+0001"
+cheat4_enable = false
+
+cheat5_desc = "Infinite BugFrags"
+cheat5_code = "820018B8+0000+82004FF0+270F+82001BE0+270F"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Mystery Data"
+cheat6_code = "32009D1D+0001"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Zenny"
+cheat7_code = "82000060+0000+82000062+0000+82004FE8+423F+82004FEA+000F+82001BDC+423F+82001BDE+000F"
+cheat7_enable = false
+
+cheat8_desc = "No Random Battles"
+cheat8_code = "82001C16+0001"
+cheat8_enable = false
+
+cheat9_desc = "V.Battler Complete"
+cheat9_code = "82001CBA+FF01+82001CBC+FF6F+32001CBE+00F0"
+cheat9_enable = false
+
+cheat10_desc = "Walk Through Walls"
+cheat10_code = "82012114+0001"
+cheat10_enable = false

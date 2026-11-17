@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "1HitKill dogs and cats"
+cheat0_code = "8800C25E+46C0+88008F28+46C0"
+cheat0_enable = false
+
+cheat1_desc = "Infinite run - ASM"
+cheat1_code = "8801CA04+E015+8801CA1E+E008"
+cheat1_enable = false
+
+cheat2_desc = "Take candies anywhere"
+cheat2_code = "8800EA78+E00A+88019EFA+46C0+88019F18+E006"
+cheat2_enable = false

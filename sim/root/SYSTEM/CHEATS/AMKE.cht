@@ -1,0 +1,149 @@
+cheats = 37
+
+cheat0_desc = "Always Low Time"
+cheat0_code = "83005C80+0000"
+cheat0_enable = false
+
+cheat1_desc = "Auto Pilot Off [Press Select+Down]"
+cheat1_code = "74000130+037B+33003BE1+0080"
+cheat1_enable = false
+
+cheat2_desc = "Auto Pilot On [Press Select+Up]"
+cheat2_code = "74000130+03BB+33003BE1+00A0"
+cheat2_enable = false
+
+cheat3_desc = "Blue rain only"
+cheat3_code = "33003374+0000"
+cheat3_enable = false
+
+cheat4_desc = "Can Drive More Places"
+cheat4_code = "83003C1C+0040"
+cheat4_enable = false
+
+cheat5_desc = "End Race [Press Select+L]"
+cheat5_code = "74000130+01FB+33003BE0+0034"
+cheat5_enable = false
+
+cheat6_desc = "Makes Player Slim"
+cheat6_code = "33003D2E+0050"
+cheat6_enable = false
+
+cheat7_desc = "Max Coins"
+cheat7_code = "33003D10+0063"
+cheat7_enable = false
+
+cheat8_desc = "Start on Last Lap - Extra Tracks"
+cheat8_code = "33003C29+0085"
+cheat8_enable = false
+
+cheat9_desc = "Turbo"
+cheat9_code = "D0000020+0001+33003C56+00FF"
+cheat9_enable = false
+
+cheat10_desc = "Unlimited bananas"
+cheat10_code = "33003D12+0005"
+cheat10_enable = false
+
+cheat11_desc = "Unlock All Extra Tracks"
+cheat11_code = "8203376C+0000"
+cheat11_enable = false
+
+cheat12_desc = "Unlock All Special Cups"
+cheat12_code = "42032BA8+0000+0000001E+0002"
+cheat12_enable = false
+
+cheat13_desc = "White rain only"
+cheat13_code = "33003384+0000"
+cheat13_enable = false
+
+cheat14_desc = "Win Races At Starting Line"
+cheat14_code = "33003C29+0084"
+cheat14_enable = false
+
+cheat15_desc = "Infinite Retries"
+cheat15_code = "3300000C+0003"
+cheat15_enable = false
+
+cheat16_desc = "Always Have Single Green Shell"
+cheat16_code = "83003D12+1000"
+cheat16_enable = false
+
+cheat17_desc = "Always Have Triple Green Shell"
+cheat17_code = "83003D12+1001"
+cheat17_enable = false
+
+cheat18_desc = "Always Have Single Red Shell"
+cheat18_code = "83003D12+1002"
+cheat18_enable = false
+
+cheat19_desc = "Always Have Triple Red Shell"
+cheat19_code = "83003D12+1003"
+cheat19_enable = false
+
+cheat20_desc = "Always Have Blue Shell"
+cheat20_code = "83003D12+1004"
+cheat20_enable = false
+
+cheat21_desc = "Always Have Single Banana"
+cheat21_code = "83003D12+1005"
+cheat21_enable = false
+
+cheat22_desc = "Always Have Triple Banana"
+cheat22_code = "83003D12+1006"
+cheat22_enable = false
+
+cheat23_desc = "Always Have Single Mushroom"
+cheat23_code = "83003D12+1007"
+cheat23_enable = false
+
+cheat24_desc = "Always Have Triple Mushroom"
+cheat24_code = "83003D12+1008"
+cheat24_enable = false
+
+cheat25_desc = "Always Have Star"
+cheat25_code = "83003D12+100A"
+cheat25_enable = false
+
+cheat26_desc = "Always Have Ghost"
+cheat26_code = "83003D12+100B"
+cheat26_enable = false
+
+cheat27_desc = "Always Have Lightening Bolt"
+cheat27_code = "83003D12+100C"
+cheat27_enable = false
+
+cheat28_desc = "Always Babomb (Has Mario Portrait)"
+cheat28_code = "83003BE4+0008"
+cheat28_enable = false
+
+cheat29_desc = "Always Bowser"
+cheat29_code = "83003BE4+0002"
+cheat29_enable = false
+
+cheat30_desc = "Always Donkey Kong"
+cheat30_code = "83003BE4+0004"
+cheat30_enable = false
+
+cheat31_desc = "Always Luigi"
+cheat31_code = "83003BE4+0001"
+cheat31_enable = false
+
+cheat32_desc = "Always Mario"
+cheat32_code = "83003BE4+0000"
+cheat32_enable = false
+
+cheat33_desc = "Always Princess Peach"
+cheat33_code = "83003BE4+0003"
+cheat33_enable = false
+
+cheat34_desc = "Always Toad"
+cheat34_code = "83003BE4+0006"
+cheat34_enable = false
+
+cheat35_desc = "Always Wario"
+cheat35_code = "83003BE4+0005"
+cheat35_enable = false
+
+cheat36_desc = "Always Yoshi"
+cheat36_code = "83003BE4+0007"
+cheat36_enable = false

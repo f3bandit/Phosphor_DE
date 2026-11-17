@@ -1,0 +1,1793 @@
+cheats = 448
+
+cheat0_desc = "7 Completed"
+cheat0_code = "32011C30+0009"
+cheat0_enable = false
+
+cheat1_desc = "99 Wins Against Bakura Ryou"
+cheat1_code = "32013D04+0063"
+cheat1_enable = false
+
+cheat2_desc = "99 Wins Against Joey Wheeler"
+cheat2_code = "32013CFC+0063"
+cheat2_enable = false
+
+cheat3_desc = "99 Wins Against Tea Gardner"
+cheat3_code = "32013CF8+0063"
+cheat3_enable = false
+
+cheat4_desc = "99 Wins Against Tristan Taylor"
+cheat4_code = "32013D00+0063"
+cheat4_enable = false
+
+cheat5_desc = "99 Wins Against Yugi Muto"
+cheat5_code = "32013CF4+0063"
+cheat5_enable = false
+
+cheat6_desc = "Access Booster Menu"
+cheat6_code = "74000130+03BB+33004897+0006"
+cheat6_enable = false
+
+cheat7_desc = "Access Draw Phase"
+cheat7_code = "74000130+037B+32015EE8+0002"
+cheat7_enable = false
+
+cheat8_desc = "Acid Crawler"
+cheat8_code = "32011C34+0009"
+cheat8_enable = false
+
+cheat9_desc = "Acid Trap Hole"
+cheat9_code = "32011C38+0009"
+cheat9_enable = false
+
+cheat10_desc = "Activate Harpie's Feather"
+cheat10_code = "74000130+02BF+32017E00+0001+74000130+02BF+32017E12+000D+74000130+02BF+82017E18+266D+74000130+02BF+82017E1A+0803+74000130+02BF+82017CC0+013F+74000130+02BF+82017CC2+0050"
+cheat10_enable = false
+
+cheat11_desc = "Activate Monster Reborn"
+cheat11_code = "74000130+02EF+8201AE08+01E2+74000130+02EF+8201AE0C+441A+74000130+02EF+8201AE10+0004+74000130+02EF+8201AE12+2D00+74000130+02EF+8201AE14+0A0A"
+cheat11_enable = false
+
+cheat12_desc = "Activate Raigeki"
+cheat12_code = "74000130+027F+32017E00+0001+74000130+027F+32017E12+000D+74000130+027F+82017E18+1095+74000130+027F+82017E1A+0803+74000130+027F+82017CC0+023A+74000130+027F+82017CC2+0050"
+cheat12_enable = false
+
+cheat13_desc = "Air Eater"
+cheat13_code = "32011C3C+0009"
+cheat13_enable = false
+
+cheat14_desc = "Air Marmot Of Nefariousness"
+cheat14_code = "32011C40+0009"
+cheat14_enable = false
+
+cheat15_desc = "Akakieisu"
+cheat15_code = "32011C44+0009"
+cheat15_enable = false
+
+cheat16_desc = "Akihiron"
+cheat16_code = "32011C48+0009"
+cheat16_enable = false
+
+cheat17_desc = "All Cards Have 9999 Attack Points (Deck)"
+cheat17_code = "82013DBC+270F"
+cheat17_enable = false
+
+cheat18_desc = "All Cards Have 9999 Defense Points (Deck)"
+cheat18_code = "82013DC0+270F"
+cheat18_enable = false
+
+cheat19_desc = "Alligator's Sword"
+cheat19_code = "32011C4C+0009"
+cheat19_enable = false
+
+cheat20_desc = "Alligator's Sword Dragon"
+cheat20_code = "32011C50+0009"
+cheat20_enable = false
+
+cheat21_desc = "Alpha The Magnet Warrior"
+cheat21_code = "32011C54+0009"
+cheat21_enable = false
+
+cheat22_desc = "Always Start First"
+cheat22_code = "32020DCE+0000"
+cheat22_enable = false
+
+cheat23_desc = "Amazon Of The Seas"
+cheat23_code = "32011C58+0009"
+cheat23_enable = false
+
+cheat24_desc = "Ameba"
+cheat24_code = "32011C5C+0009"
+cheat24_enable = false
+
+cheat25_desc = "Amphibious Bugroth"
+cheat25_code = "32011C60+0009"
+cheat25_enable = false
+
+cheat26_desc = "Ancient Brain"
+cheat26_code = "32011C64+0009"
+cheat26_enable = false
+
+cheat27_desc = "Ancient Elf"
+cheat27_code = "32011C68+0009"
+cheat27_enable = false
+
+cheat28_desc = "Ancient Jar"
+cheat28_code = "32011C6C+0009"
+cheat28_enable = false
+
+cheat29_desc = "Ancient Lizard Warrior"
+cheat29_code = "32011C70+0009"
+cheat29_enable = false
+
+cheat30_desc = "Ancient One Of TheDeep Forest"
+cheat30_code = "32011C74+0009"
+cheat30_enable = false
+
+cheat31_desc = "Ancient Telescope"
+cheat31_code = "32011C78+0009"
+cheat31_enable = false
+
+cheat32_desc = "Ancient Tool"
+cheat32_code = "32011C7C+0009"
+cheat32_enable = false
+
+cheat33_desc = "Ansatsu"
+cheat33_code = "32011C80+0009"
+cheat33_enable = false
+
+cheat34_desc = "Anthrosaurus"
+cheat34_code = "32011C84+0009"
+cheat34_enable = false
+
+cheat35_desc = "Anti Raigeki"
+cheat35_code = "32011C88+0009"
+cheat35_enable = false
+
+cheat36_desc = "Anti-Magic Fragrance"
+cheat36_code = "32011C8C+0009"
+cheat36_enable = false
+
+cheat37_desc = "Appropriate"
+cheat37_code = "32011C90+0009"
+cheat37_enable = false
+
+cheat38_desc = "Aqua Chorus"
+cheat38_code = "32011C94+0009"
+cheat38_enable = false
+
+cheat39_desc = "Aqua Dragon"
+cheat39_code = "32011C98+0009"
+cheat39_enable = false
+
+cheat40_desc = "Aqua Madoor"
+cheat40_code = "32011C9C+0009"
+cheat40_enable = false
+
+cheat41_desc = "Arlownay"
+cheat41_code = "32011CA0+0009"
+cheat41_enable = false
+
+cheat42_desc = "Arma Knight"
+cheat42_code = "32011CA4+0009"
+cheat42_enable = false
+
+cheat43_desc = "Armaill"
+cheat43_code = "32011CA8+0009"
+cheat43_enable = false
+
+cheat44_desc = "Armed Ninja"
+cheat44_code = "32011CAC+0009"
+cheat44_enable = false
+
+cheat45_desc = "Armored Glass"
+cheat45_code = "32011CB0+0009"
+cheat45_enable = false
+
+cheat46_desc = "Armored Lizard"
+cheat46_code = "32011CB4+0009"
+cheat46_enable = false
+
+cheat47_desc = "Armored Rat"
+cheat47_code = "32011CB8+0009"
+cheat47_enable = false
+
+cheat48_desc = "Armored Starfish"
+cheat48_code = "32011CBC+0009"
+cheat48_enable = false
+
+cheat49_desc = "Armored Zombie"
+cheat49_code = "32011CC0+0009"
+cheat49_enable = false
+
+cheat50_desc = "Attack Power = 5000"
+cheat50_code = "8201846E+1388"
+cheat50_enable = false
+
+cheat51_desc = "Axe Of Despair"
+cheat51_code = "32011CC4+0009"
+cheat51_enable = false
+
+cheat52_desc = "Axe Raider"
+cheat52_code = "32011CC8+0009"
+cheat52_enable = false
+
+cheat53_desc = "B. Dragon Jungle King"
+cheat53_code = "32011CCC+0009"
+cheat53_enable = false
+
+cheat54_desc = "B. Skull Dragon"
+cheat54_code = "32011CD0+0009"
+cheat54_enable = false
+
+cheat55_desc = "Baby Dragon"
+cheat55_code = "32011CD4+0009"
+cheat55_enable = false
+
+cheat56_desc = "Backup Soldier"
+cheat56_code = "32011CD8+0009"
+cheat56_enable = false
+
+cheat57_desc = "Banisher Of The Light"
+cheat57_code = "32011CDC+0009"
+cheat57_enable = false
+
+cheat58_desc = "Barox"
+cheat58_code = "32011CE0+0009"
+cheat58_enable = false
+
+cheat59_desc = "Barrel Dragon"
+cheat59_code = "32011CE4+0009"
+cheat59_enable = false
+
+cheat60_desc = "Barrel Lily"
+cheat60_code = "32011CE8+0009"
+cheat60_enable = false
+
+cheat61_desc = "Barrel Rock"
+cheat61_code = "32011CEC+0009"
+cheat61_enable = false
+
+cheat62_desc = "Basic Insect"
+cheat62_code = "32011CF0+0009"
+cheat62_enable = false
+
+cheat63_desc = "Battle Ox"
+cheat63_code = "32011CF4+0009"
+cheat63_enable = false
+
+cheat64_desc = "Battle Steer"
+cheat64_code = "32011CF8+0009"
+cheat64_enable = false
+
+cheat65_desc = "Battle Warrior"
+cheat65_code = "32011CFC+0009"
+cheat65_enable = false
+
+cheat66_desc = "Bean Soldier"
+cheat66_code = "32011D00+0009"
+cheat66_enable = false
+
+cheat67_desc = "Beast Fangs"
+cheat67_code = "32011D04+0009"
+cheat67_enable = false
+
+cheat68_desc = "Beastking Of The Swamps"
+cheat68_code = "32011D08+0009"
+cheat68_enable = false
+
+cheat69_desc = "Beastly Mirror Ritual"
+cheat69_code = "32011D0C+0009"
+cheat69_enable = false
+
+cheat70_desc = "Beautiful Headhuntress"
+cheat70_code = "32011D10+0009"
+cheat70_enable = false
+
+cheat71_desc = "Beaver Warrior"
+cheat71_code = "32011D14+0009"
+cheat71_enable = false
+
+cheat72_desc = "Behegon"
+cheat72_code = "32011D18+0009"
+cheat72_enable = false
+
+cheat73_desc = "Bell Of Destruction"
+cheat73_code = "32011D1C+0009"
+cheat73_enable = false
+
+cheat74_desc = "Beta The Magnet Warrior"
+cheat74_code = "32011D20+0009"
+cheat74_enable = false
+
+cheat75_desc = "Bickuribox"
+cheat75_code = "32011D24+0009"
+cheat75_enable = false
+
+cheat76_desc = "Big Eye"
+cheat76_code = "32011D28+0009"
+cheat76_enable = false
+
+cheat77_desc = "Big Insect"
+cheat77_code = "32011D2C+0009"
+cheat77_enable = false
+
+cheat78_desc = "Big Shield Gardna"
+cheat78_code = "32011D30+0009"
+cheat78_enable = false
+
+cheat79_desc = "Binding Chain"
+cheat79_code = "32011D34+0009"
+cheat79_enable = false
+
+cheat80_desc = "BioPlant"
+cheat80_code = "32011D38+0009"
+cheat80_enable = false
+
+cheat81_desc = "Black Illusion Ritual"
+cheat81_code = "32011D3C+0009"
+cheat81_enable = false
+
+cheat82_desc = "Black Luster Ritual"
+cheat82_code = "32011D40+0009"
+cheat82_enable = false
+
+cheat83_desc = "Black Luster Soldier"
+cheat83_code = "32011D44+0009"
+cheat83_enable = false
+
+cheat84_desc = "Black Pendant"
+cheat84_code = "32011D48+0009"
+cheat84_enable = false
+
+cheat85_desc = "Blackland Fire Dragon"
+cheat85_code = "32011D4C+0009"
+cheat85_enable = false
+
+cheat86_desc = "Bladefly"
+cheat86_code = "32011D50+0009"
+cheat86_enable = false
+
+cheat87_desc = "Blast Juggler"
+cheat87_code = "32011D54+0009"
+cheat87_enable = false
+
+cheat88_desc = "Blast Sphere"
+cheat88_code = "32011D58+0009"
+cheat88_enable = false
+
+cheat89_desc = "Block Attack"
+cheat89_code = "32011D5C+0009"
+cheat89_enable = false
+
+cheat90_desc = "Blue Medicine"
+cheat90_code = "32011D60+0009"
+cheat90_enable = false
+
+cheat91_desc = "Blue-Eyed Silver Zombie"
+cheat91_code = "32011D64+0009"
+cheat91_enable = false
+
+cheat92_desc = "Blue-Eyes Toon Dragon"
+cheat92_code = "32011D68+0009"
+cheat92_enable = false
+
+cheat93_desc = "Blue-Eyes Ultimate Dragon"
+cheat93_code = "32011D6C+0009"
+cheat93_enable = false
+
+cheat94_desc = "Blue-Winged Crown"
+cheat94_code = "32011D78+0009"
+cheat94_enable = false
+
+cheat95_desc = "Boar Soldier"
+cheat95_code = "32011D7C+0009"
+cheat95_enable = false
+
+cheat96_desc = "Bolt Escargot"
+cheat96_code = "32011D80+0009"
+cheat96_enable = false
+
+cheat97_desc = "Book Of Secret Arts"
+cheat97_code = "32011D84+0009"
+cheat97_enable = false
+
+cheat98_desc = "Bottom Dweller"
+cheat98_code = "32011D88+0009"
+cheat98_enable = false
+
+cheat99_desc = "Bracchio-raidus"
+cheat99_code = "32011D8C+0009"
+cheat99_enable = false
+
+cheat100_desc = "Breath Of Light"
+cheat100_code = "32011D90+0009"
+cheat100_enable = false
+
+cheat101_desc = "Bright Castle"
+cheat101_code = "32011D94+0009"
+cheat101_enable = false
+
+cheat102_desc = "Burglar"
+cheat102_code = "32011D98+0009"
+cheat102_enable = false
+
+cheat103_desc = "Burning Spear"
+cheat103_code = "32011D9C+0009"
+cheat103_enable = false
+
+cheat104_desc = "Buster Blader"
+cheat104_code = "32011DA0+0009"
+cheat104_enable = false
+
+cheat105_desc = "Call Of The Dark"
+cheat105_code = "32011DA4+0009"
+cheat105_enable = false
+
+cheat106_desc = "Call Of The Grave"
+cheat106_code = "32011DA8+0009"
+cheat106_enable = false
+
+cheat107_desc = "Call Of The Haunted"
+cheat107_code = "32011DAC+0009"
+cheat107_enable = false
+
+cheat108_desc = "Candle Of Fate"
+cheat108_code = "32011DB0+0009"
+cheat108_enable = false
+
+cheat109_desc = "Cann Soldier"
+cheat109_code = "32011DB4+0009"
+cheat109_enable = false
+
+cheat110_desc = "Castle Of Dark Illusions"
+cheat110_code = "32011DB8+0009"
+cheat110_enable = false
+
+cheat111_desc = "Castle Walls"
+cheat111_code = "32011DBC+0009"
+cheat111_enable = false
+
+cheat112_desc = "Catapult Turtle"
+cheat112_code = "32011DC0+0009"
+cheat112_enable = false
+
+cheat113_desc = "Ceasefire"
+cheat113_code = "32011DC4+0009"
+cheat113_enable = false
+
+cheat114_desc = "Ceremonial Bell"
+cheat114_code = "32011DD0+0009"
+cheat114_enable = false
+
+cheat115_desc = "Chain Destruction"
+cheat115_code = "32011DD4+0009"
+cheat115_enable = false
+
+cheat116_desc = "Chain Energy"
+cheat116_code = "32011DD8+0009"
+cheat116_enable = false
+
+cheat117_desc = "Chakra"
+cheat117_code = "32011DDC+0009"
+cheat117_enable = false
+
+cheat118_desc = "Change Of Heart"
+cheat118_code = "32011DE0+0009"
+cheat118_enable = false
+
+cheat119_desc = "Charubin The Fire Knight"
+cheat119_code = "32011DE4+0009"
+cheat119_enable = false
+
+cheat120_desc = "Chorus Of Sanctuary"
+cheat120_code = "32011DE8+0009"
+cheat120_enable = false
+
+cheat121_desc = "Claw Reacher"
+cheat121_code = "32011DEC+0009"
+cheat121_enable = false
+
+cheat122_desc = "Clown Zombie"
+cheat122_code = "32011DF0+0009"
+cheat122_enable = false
+
+cheat123_desc = "Cockroach Knight"
+cheat123_code = "32011DF4+0009"
+cheat123_enable = false
+
+cheat124_desc = "Cocoon Of Evolution"
+cheat124_code = "32011DF8+0009"
+cheat124_enable = false
+
+cheat125_desc = "Commencement Dance"
+cheat125_code = "32011DFC+0009"
+cheat125_enable = false
+
+cheat126_desc = "Confiscation"
+cheat126_code = "32011E00+0009"
+cheat126_enable = false
+
+cheat127_desc = "Cosmo Queen"
+cheat127_code = "32011E04+0009"
+cheat127_enable = false
+
+cheat128_desc = "Crab Turtle"
+cheat128_code = "32011E08+0009"
+cheat128_enable = false
+
+cheat129_desc = "Crass Clown"
+cheat129_code = "32011E0C+0009"
+cheat129_enable = false
+
+cheat130_desc = "Crawling Dragon"
+cheat130_code = "32011E10+0009"
+cheat130_enable = false
+
+cheat131_desc = "Crawling Dragon #2"
+cheat131_code = "32011E14+0009"
+cheat131_enable = false
+
+cheat132_desc = "Crazy Fish"
+cheat132_code = "32011E18+0009"
+cheat132_enable = false
+
+cheat133_desc = "Crimson Sunbird"
+cheat133_code = "32011E1C+0009"
+cheat133_enable = false
+
+cheat134_desc = "Crow Goblin"
+cheat134_code = "32011E20+0009"
+cheat134_enable = false
+
+cheat135_desc = "Crush Card"
+cheat135_code = "32011E24+0009"
+cheat135_enable = false
+
+cheat136_desc = "Curse Of Dragon"
+cheat136_code = "32011E28+0009"
+cheat136_enable = false
+
+cheat137_desc = "Curtain Of The Dark Ones"
+cheat137_code = "32011E30+0009"
+cheat137_enable = false
+
+cheat138_desc = "Cyber Commander"
+cheat138_code = "32011E34+0009"
+cheat138_enable = false
+
+cheat139_desc = "Cyber Falcon"
+cheat139_code = "32011E38+0009"
+cheat139_enable = false
+
+cheat140_desc = "Cyber Jar"
+cheat140_code = "32011E3C+0009"
+cheat140_enable = false
+
+cheat141_desc = "Cyber Saurus"
+cheat141_code = "32011E40+0009"
+cheat141_enable = false
+
+cheat142_desc = "Cyber Shield"
+cheat142_code = "32011E44+0009"
+cheat142_enable = false
+
+cheat143_desc = "Cyber Soldier"
+cheat143_code = "32011E48+0009"
+cheat143_enable = false
+
+cheat144_desc = "Cyber-Stein"
+cheat144_code = "32011E4C+0009"
+cheat144_enable = false
+
+cheat145_desc = "Cyber-Tech Alligator"
+cheat145_code = "32011E50+0009"
+cheat145_enable = false
+
+cheat146_desc = "D.Human"
+cheat146_code = "32011E54+0009"
+cheat146_enable = false
+
+cheat147_desc = "Dancing Elf"
+cheat147_code = "32011E58+0009"
+cheat147_enable = false
+
+cheat148_desc = "Dark Artist"
+cheat148_code = "32011E5C+0009"
+cheat148_enable = false
+
+cheat149_desc = "Dark Assailant"
+cheat149_code = "32011E60+0009"
+cheat149_enable = false
+
+cheat150_desc = "Dark Chimera"
+cheat150_code = "32011E64+0009"
+cheat150_enable = false
+
+cheat151_desc = "Dark Elf"
+cheat151_code = "32011E68+0009"
+cheat151_enable = false
+
+cheat152_desc = "Dark Energy"
+cheat152_code = "32011E6C+0009"
+cheat152_enable = false
+
+cheat153_desc = "Dark Gray"
+cheat153_code = "32011E70+0009"
+cheat153_enable = false
+
+cheat154_desc = "Dark Hole"
+cheat154_code = "32011E74+0009"
+cheat154_enable = false
+
+cheat155_desc = "Dark King Of The Abyss"
+cheat155_code = "32011E78+0009"
+cheat155_enable = false
+
+cheat156_desc = "Dark Magic Ritual"
+cheat156_code = "32011E7C+0009"
+cheat156_enable = false
+
+cheat157_desc = "Dark Magician Girl"
+cheat157_code = "32011E88+0009"
+cheat157_enable = false
+
+cheat158_desc = "Dark Rabbit"
+cheat158_code = "32011E8C+0009"
+cheat158_enable = false
+
+cheat159_desc = "Dark Sage"
+cheat159_code = "32011E90+0009"
+cheat159_enable = false
+
+cheat160_desc = "Dark Shade"
+cheat160_code = "32011E94+0009"
+cheat160_enable = false
+
+cheat161_desc = "Dark Witch"
+cheat161_code = "32011E98+0009"
+cheat161_enable = false
+
+cheat162_desc = "Dark Zebra"
+cheat162_code = "32011E9C+0009"
+cheat162_enable = false
+
+cheat163_desc = "Dark-Eyes Illusionist"
+cheat163_code = "32011EA0+0009"
+cheat163_enable = false
+
+cheat164_desc = "Dark-Piercing Light"
+cheat164_code = "32011EB4+0009"
+cheat164_enable = false
+
+cheat165_desc = "Darkfire Dragon"
+cheat165_code = "32011EA4+0009"
+cheat165_enable = false
+
+cheat166_desc = "Darkfire Soldier #1"
+cheat166_code = "32011EA8+0009"
+cheat166_enable = false
+
+cheat167_desc = "Darkfire Soldier #2"
+cheat167_code = "32011EAC+0009"
+cheat167_enable = false
+
+cheat168_desc = "Darkness Approaches"
+cheat168_code = "32011EB0+0009"
+cheat168_enable = false
+
+cheat169_desc = "Darkworld Thorns"
+cheat169_code = "32011EB8+0009"
+cheat169_enable = false
+
+cheat170_desc = "De-Spell"
+cheat170_code = "32011EC4+0009"
+cheat170_enable = false
+
+cheat171_desc = "Deepsea Shark"
+cheat171_code = "32011EBC+0009"
+cheat171_enable = false
+
+cheat172_desc = "DelinquentDuo"
+cheat172_code = "32011EC0+0009"
+cheat172_enable = false
+
+cheat173_desc = "Destroyer Golem"
+cheat173_code = "32011EC8+0009"
+cheat173_enable = false
+
+cheat174_desc = "DianKeto The Cure Master"
+cheat174_code = "32011ECC+0009"
+cheat174_enable = false
+
+cheat175_desc = "Dice Armadillo"
+cheat175_code = "32011ED0+0009"
+cheat175_enable = false
+
+cheat176_desc = "Dimensional Warrior"
+cheat176_code = "32011ED4+0009"
+cheat176_enable = false
+
+cheat177_desc = "Disk Magician"
+cheat177_code = "32011ED8+0009"
+cheat177_enable = false
+
+cheat178_desc = "Dissolverock"
+cheat178_code = "32011EDC+0009"
+cheat178_enable = false
+
+cheat179_desc = "DNA Surgery"
+cheat179_code = "32011EE0+0009"
+cheat179_enable = false
+
+cheat180_desc = "Dokuroizo The Grim Reaper"
+cheat180_code = "32011EE4+0009"
+cheat180_enable = false
+
+cheat181_desc = "Dokurorider"
+cheat181_code = "32011EE8+0009"
+cheat181_enable = false
+
+cheat182_desc = "DomaThe Angel Of Silence"
+cheat182_code = "32011EEC+0009"
+cheat182_enable = false
+
+cheat183_desc = "Doron"
+cheat183_code = "32011EF0+0009"
+cheat183_enable = false
+
+cheat184_desc = "Dorover"
+cheat184_code = "32011EF4+0009"
+cheat184_enable = false
+
+cheat185_desc = "Dragon Capture Jar"
+cheat185_code = "32011EF8+0009"
+cheat185_enable = false
+
+cheat186_desc = "Dragon Piper"
+cheat186_code = "32011EFC+0009"
+cheat186_enable = false
+
+cheat187_desc = "Dragon Seeker"
+cheat187_code = "32011F00+0009"
+cheat187_enable = false
+
+cheat188_desc = "Dragon Treasure"
+cheat188_code = "32011F04+0009"
+cheat188_enable = false
+
+cheat189_desc = "Dragon Zombie"
+cheat189_code = "32011F08+0009"
+cheat189_enable = false
+
+cheat190_desc = "Dragoness The Wicked Knight"
+cheat190_code = "32011F0C+0009"
+cheat190_enable = false
+
+cheat191_desc = "Dream Clown"
+cheat191_code = "32011F10+0009"
+cheat191_enable = false
+
+cheat192_desc = "Driving Snow"
+cheat192_code = "32011F14+0009"
+cheat192_enable = false
+
+cheat193_desc = "Drooling Lizard"
+cheat193_code = "32011F18+0009"
+cheat193_enable = false
+
+cheat194_desc = "Dryad"
+cheat194_code = "32011F1C+0009"
+cheat194_enable = false
+
+cheat195_desc = "Dunames Dark Witch"
+cheat195_code = "32011F20+0009"
+cheat195_enable = false
+
+cheat196_desc = "Dungeon Worm"
+cheat196_code = "32011F24+0009"
+cheat196_enable = false
+
+cheat197_desc = "Dust Tornado"
+cheat197_code = "32011F28+0009"
+cheat197_enable = false
+
+cheat198_desc = "Earthshaker"
+cheat198_code = "32011F2C+0009"
+cheat198_enable = false
+
+cheat199_desc = "Eatgaboon"
+cheat199_code = "32011F30+0009"
+cheat199_enable = false
+
+cheat200_desc = "Eldeen"
+cheat200_code = "32011F34+0009"
+cheat200_enable = false
+
+cheat201_desc = "Electric Lizard"
+cheat201_code = "32011F38+0009"
+cheat201_enable = false
+
+cheat202_desc = "Electric Snake"
+cheat202_code = "32011F3C+0009"
+cheat202_enable = false
+
+cheat203_desc = "Electro-Whip"
+cheat203_code = "32011F40+0009"
+cheat203_enable = false
+
+cheat204_desc = "Elegant Egotist"
+cheat204_code = "32011F44+0009"
+cheat204_enable = false
+
+cheat205_desc = "Elf'sLight"
+cheat205_code = "32011F48+0009"
+cheat205_enable = false
+
+cheat206_desc = "Empress Judge"
+cheat206_code = "32011F4C+0009"
+cheat206_enable = false
+
+cheat207_desc = "Enchanted Javelin"
+cheat207_code = "32011F50+0009"
+cheat207_enable = false
+
+cheat208_desc = "Enchanting Mermaid"
+cheat208_code = "32011F54+0009"
+cheat208_enable = false
+
+cheat209_desc = "Eradicating Aerosol"
+cheat209_code = "32011F58+0009"
+cheat209_enable = false
+
+cheat210_desc = "Eternal Draught"
+cheat210_code = "32011F5C+0009"
+cheat210_enable = false
+
+cheat211_desc = "Eternal Rest"
+cheat211_code = "32011F60+0009"
+cheat211_enable = false
+
+cheat212_desc = "Exchange"
+cheat212_code = "32011F64+0009"
+cheat212_enable = false
+
+cheat213_desc = "Exile Of The Wicked"
+cheat213_code = "32011F68+0009"
+cheat213_enable = false
+
+cheat214_desc = "Exodia The Forbidden One"
+cheat214_code = "32011F6C+0009"
+cheat214_enable = false
+
+cheat215_desc = "Eyearmor"
+cheat215_code = "32011F70+0009"
+cheat215_enable = false
+
+cheat216_desc = "Fairy Dragon"
+cheat216_code = "32011F74+0009"
+cheat216_enable = false
+
+cheat217_desc = "Fairy's Hand Mirror"
+cheat217_code = "32011F78+0009"
+cheat217_enable = false
+
+cheat218_desc = "Fairywitch"
+cheat218_code = "32011F7C+0009"
+cheat218_enable = false
+
+cheat219_desc = "Faith Bird"
+cheat219_code = "32011F80+0009"
+cheat219_enable = false
+
+cheat220_desc = "Fake Trap"
+cheat220_code = "32011F84+0009"
+cheat220_enable = false
+
+cheat221_desc = "Feral Imp"
+cheat221_code = "32011F88+0009"
+cheat221_enable = false
+
+cheat222_desc = "Fiend Kraken"
+cheat222_code = "32011F8C+0009"
+cheat222_enable = false
+
+cheat223_desc = "Fiend Reflection #1"
+cheat223_code = "32011F90+0009"
+cheat223_enable = false
+
+cheat224_desc = "Fiend Reflection #2"
+cheat224_code = "32011F94+0009"
+cheat224_enable = false
+
+cheat225_desc = "Fiend Sword"
+cheat225_code = "32011F98+0009"
+cheat225_enable = false
+
+cheat226_desc = "Fiend's Hand"
+cheat226_code = "32011F9C+0009"
+cheat226_enable = false
+
+cheat227_desc = "Fiend's Mirror"
+cheat227_code = "32011FA0+0009"
+cheat227_enable = false
+
+cheat228_desc = "Final Destiny"
+cheat228_code = "32011FA4+0009"
+cheat228_enable = false
+
+cheat229_desc = "Final Flame"
+cheat229_code = "32011FA8+0009"
+cheat229_enable = false
+
+cheat230_desc = "Fire Kraken"
+cheat230_code = "32011FAC+0009"
+cheat230_enable = false
+
+cheat231_desc = "Fire Reaper"
+cheat231_code = "32011FB0+0009"
+cheat231_enable = false
+
+cheat232_desc = "Firegrass"
+cheat232_code = "32011FB4+0009"
+cheat232_enable = false
+
+cheat233_desc = "Firewing Pegasus"
+cheat233_code = "32011FB8+0009"
+cheat233_enable = false
+
+cheat234_desc = "Fireyarou"
+cheat234_code = "32011FBC+0009"
+cheat234_enable = false
+
+cheat235_desc = "Fissure"
+cheat235_code = "32011FC0+0009"
+cheat235_enable = false
+
+cheat236_desc = "Flame Cerebrus"
+cheat236_code = "32011FC4+0009"
+cheat236_enable = false
+
+cheat237_desc = "Flame Champion"
+cheat237_code = "32011FC8+0009"
+cheat237_enable = false
+
+cheat238_desc = "Flame Ghost"
+cheat238_code = "32011FCC+0009"
+cheat238_enable = false
+
+cheat239_desc = "Flame Manipulator"
+cheat239_code = "32011FD0+0009"
+cheat239_enable = false
+
+cheat240_desc = "Flame Viper"
+cheat240_code = "32011FDC+0009"
+cheat240_enable = false
+
+cheat241_desc = "Flash Assailant"
+cheat241_code = "32011FE0+0009"
+cheat241_enable = false
+
+cheat242_desc = "Flower Wolf"
+cheat242_code = "32011FE4+0009"
+cheat242_enable = false
+
+cheat243_desc = "Flying Kamakiri #1"
+cheat243_code = "32011FE8+0009"
+cheat243_enable = false
+
+cheat244_desc = "Flying Kamakiri #2"
+cheat244_code = "32011FEC+0009"
+cheat244_enable = false
+
+cheat245_desc = "Follow Wind"
+cheat245_code = "32011FF0+0009"
+cheat245_enable = false
+
+cheat246_desc = "Forced Requisition"
+cheat246_code = "32011FF4+0009"
+cheat246_enable = false
+
+cheat247_desc = "Forest"
+cheat247_code = "32011FF8+0009"
+cheat247_enable = false
+
+cheat248_desc = "Fortress Whale"
+cheat248_code = "32011FFC+0009"
+cheat248_enable = false
+
+cheat249_desc = "Fortress Whale's Oath"
+cheat249_code = "32012000+0009"
+cheat249_enable = false
+
+cheat250_desc = "Free Fusion [Press R+Left]"
+cheat250_code = "74000130+02DF+32017E00+0001+74000130+02DF+32017E12+0005+74000130+02DF+82017E18+1551+74000130+02DF+82017E1A+0803+74000130+02DF+82017CC0+0089+74000130+02DF+82017CC2+0000+74000130+02DF+820185BC+0010"
+cheat250_enable = false
+
+cheat251_desc = "Free Ritual"
+cheat251_code = "32017E21+0000"
+cheat251_enable = false
+
+cheat252_desc = "Frenzied Panda"
+cheat252_code = "32012004+0009"
+cheat252_enable = false
+
+cheat253_desc = "Fusion Sage"
+cheat253_code = "32012008+0009"
+cheat253_enable = false
+
+cheat254_desc = "Fusionist"
+cheat254_code = "3201200C+0009"
+cheat254_enable = false
+
+cheat255_desc = "Gaia The Dragon Champion"
+cheat255_code = "32012014+0009"
+cheat255_enable = false
+
+cheat256_desc = "GaiaPower"
+cheat256_code = "32012010+0009"
+cheat256_enable = false
+
+cheat257_desc = "Gale Dogra"
+cheat257_code = "32012020+0009"
+cheat257_enable = false
+
+cheat258_desc = "Gamma The Magnet Warrior"
+cheat258_code = "32012024+0009"
+cheat258_enable = false
+
+cheat259_desc = "Ganigumo"
+cheat259_code = "32012028+0009"
+cheat259_enable = false
+
+cheat260_desc = "Garma Sword Oath"
+cheat260_code = "32012030+0009"
+cheat260_enable = false
+
+cheat261_desc = "Garnecia Elefantis"
+cheat261_code = "32012034+0009"
+cheat261_enable = false
+
+cheat262_desc = "Garoozis"
+cheat262_code = "32012038+0009"
+cheat262_enable = false
+
+cheat263_desc = "Garvas"
+cheat263_code = "3201203C+0009"
+cheat263_enable = false
+
+cheat264_desc = "Gate Guardian"
+cheat264_code = "32012040+0009"
+cheat264_enable = false
+
+cheat265_desc = "Gatekeeper"
+cheat265_code = "32012044+0009"
+cheat265_enable = false
+
+cheat266_desc = "Gazelle The King Of Mythical Beasts"
+cheat266_code = "32012048+0009"
+cheat266_enable = false
+
+cheat267_desc = "Gemini Elf"
+cheat267_code = "3201204C+0009"
+cheat267_enable = false
+
+cheat268_desc = "Genin"
+cheat268_code = "32012050+0009"
+cheat268_enable = false
+
+cheat269_desc = "Germ Infection"
+cheat269_code = "32012054+0009"
+cheat269_enable = false
+
+cheat270_desc = "Ghoul With An Appetite"
+cheat270_code = "32012058+0009"
+cheat270_enable = false
+
+cheat271_desc = "Giant Flea"
+cheat271_code = "3201205C+0009"
+cheat271_enable = false
+
+cheat272_desc = "Giant Germ"
+cheat272_code = "32012060+0009"
+cheat272_enable = false
+
+cheat273_desc = "Giant Mech-Soldier"
+cheat273_code = "32012064+0009"
+cheat273_enable = false
+
+cheat274_desc = "Giant Rat"
+cheat274_code = "32012068+0009"
+cheat274_enable = false
+
+cheat275_desc = "Giant Red Seasnake"
+cheat275_code = "3201206C+0009"
+cheat275_enable = false
+
+cheat276_desc = "Giant Scorpion Of The Tundra"
+cheat276_code = "32012070+0009"
+cheat276_enable = false
+
+cheat277_desc = "Giant Soldier Of Stone"
+cheat277_code = "32012074+0009"
+cheat277_enable = false
+
+cheat278_desc = "Giant Trunade"
+cheat278_code = "32012078+0009"
+cheat278_enable = false
+
+cheat279_desc = "Giant Turtle Who Feeds On Flames"
+cheat279_code = "3201207C+0009"
+cheat279_enable = false
+
+cheat280_desc = "Gift Of The Mystical Elf"
+cheat280_code = "32012080+0009"
+cheat280_enable = false
+
+cheat281_desc = "Giga-tech Wolf"
+cheat281_code = "32012088+0009"
+cheat281_enable = false
+
+cheat282_desc = "Giganto"
+cheat282_code = "32012084+0009"
+cheat282_enable = false
+
+cheat283_desc = "Giltia The D. Knight"
+cheat283_code = "3201208C+0009"
+cheat283_enable = false
+
+cheat284_desc = "Glory Of The King's Hand"
+cheat284_code = "320128E8+0009"
+cheat284_enable = false
+
+cheat285_desc = "Goblin Fan"
+cheat285_code = "32012090+0009"
+cheat285_enable = false
+
+cheat286_desc = "Goblin's Secret Remedy"
+cheat286_code = "32012094+0009"
+cheat286_enable = false
+
+cheat287_desc = "Goddess Of Whim"
+cheat287_code = "32012098+0009"
+cheat287_enable = false
+
+cheat288_desc = "Goddess With The Third Eye"
+cheat288_code = "3201209C+0009"
+cheat288_enable = false
+
+cheat289_desc = "Gokibore"
+cheat289_code = "320120A0+0009"
+cheat289_enable = false
+
+cheat290_desc = "Graceful Charity"
+cheat290_code = "320120A4+0009"
+cheat290_enable = false
+
+cheat291_desc = "Graceful Dice"
+cheat291_code = "320120A8+0009"
+cheat291_enable = false
+
+cheat292_desc = "Grappler"
+cheat292_code = "320120AC+0009"
+cheat292_enable = false
+
+cheat293_desc = "Gravedigger Ghoul"
+cheat293_code = "320120B0+0009"
+cheat293_enable = false
+
+cheat294_desc = "Gravekeeper's Servant"
+cheat294_code = "320120B4+0009"
+cheat294_enable = false
+
+cheat295_desc = "Graverobber"
+cheat295_code = "320120B8+0009"
+cheat295_enable = false
+
+cheat296_desc = "Graveyard And The Hand Of Invitation"
+cheat296_code = "320120BC+0009"
+cheat296_enable = false
+
+cheat297_desc = "Great Bill"
+cheat297_code = "320120C0+0009"
+cheat297_enable = false
+
+cheat298_desc = "Great Mammoth Of Goldfine"
+cheat298_code = "320120C4+0009"
+cheat298_enable = false
+
+cheat299_desc = "Great Moth"
+cheat299_code = "320120C8+0009"
+cheat299_enable = false
+
+cheat300_desc = "Great White"
+cheat300_code = "320120CC+0009"
+cheat300_enable = false
+
+cheat301_desc = "Green Phantom King"
+cheat301_code = "320120D0+0009"
+cheat301_enable = false
+
+cheat302_desc = "Greenkappa"
+cheat302_code = "320120D4+0009"
+cheat302_enable = false
+
+cheat303_desc = "Griffore"
+cheat303_code = "320120D8+0009"
+cheat303_enable = false
+
+cheat304_desc = "Griggle"
+cheat304_code = "320120DC+0009"
+cheat304_enable = false
+
+cheat305_desc = "Ground Attacker Bugroth"
+cheat305_code = "320120E0+0009"
+cheat305_enable = false
+
+cheat306_desc = "Gruesome Goo"
+cheat306_code = "320120E4+0009"
+cheat306_enable = false
+
+cheat307_desc = "Gryphon Wing"
+cheat307_code = "320120E8+0009"
+cheat307_enable = false
+
+cheat308_desc = "Guardian Of The Labyrinth"
+cheat308_code = "320120EC+0009"
+cheat308_enable = false
+
+cheat309_desc = "Guardian Of The Sea"
+cheat309_code = "320120F0+0009"
+cheat309_enable = false
+
+cheat310_desc = "Guardian Of The Throne Room"
+cheat310_code = "320120F4+0009"
+cheat310_enable = false
+
+cheat311_desc = "Gust"
+cheat311_code = "320120F8+0009"
+cheat311_enable = false
+
+cheat312_desc = "Gust Fan"
+cheat312_code = "320120FC+0009"
+cheat312_enable = false
+
+cheat313_desc = "Gyakuten Megami"
+cheat313_code = "32012100+0009"
+cheat313_enable = false
+
+cheat314_desc = "Hamburger Recipe"
+cheat314_code = "32012104+0009"
+cheat314_enable = false
+
+cheat315_desc = "Hane-Hane"
+cheat315_code = "32012108+0009"
+cheat315_enable = false
+
+cheat316_desc = "Haniwa"
+cheat316_code = "3201210C+0009"
+cheat316_enable = false
+
+cheat317_desc = "Happy Lover"
+cheat317_code = "32012110+0009"
+cheat317_enable = false
+
+cheat318_desc = "Hard Armor"
+cheat318_code = "32012114+0009"
+cheat318_enable = false
+
+cheat319_desc = "Harpie Lady"
+cheat319_code = "32012118+0009"
+cheat319_enable = false
+
+cheat320_desc = "Harpie Lady Sisters"
+cheat320_code = "3201211C+0009"
+cheat320_enable = false
+
+cheat321_desc = "Harpie's Brother"
+cheat321_code = "32012120+0009"
+cheat321_enable = false
+
+cheat322_desc = "Harpie's Feather Duster"
+cheat322_code = "32012124+0009"
+cheat322_enable = false
+
+cheat323_desc = "Harpie's Pet Dragon"
+cheat323_code = "32012128+0009"
+cheat323_enable = false
+
+cheat324_desc = "Heavy Storm"
+cheat324_code = "3201212C+0009"
+cheat324_enable = false
+
+cheat325_desc = "Hercules Beetle"
+cheat325_code = "32012130+0009"
+cheat325_enable = false
+
+cheat326_desc = "Hero Of The East"
+cheat326_code = "32012134+0009"
+cheat326_enable = false
+
+cheat327_desc = "Hibikime"
+cheat327_code = "32012138+0009"
+cheat327_enable = false
+
+cheat328_desc = "High Tide Gyojin"
+cheat328_code = "3201213C+0009"
+cheat328_enable = false
+
+cheat329_desc = "Hiro's Shadow Scout"
+cheat329_code = "32012148+0009"
+cheat329_enable = false
+
+cheat330_desc = "Hitama"
+cheat330_code = "32012140+0009"
+cheat330_enable = false
+
+cheat331_desc = "Hitama Soul"
+cheat331_code = "32012144+0009"
+cheat331_enable = false
+
+cheat332_desc = "Hitodenchak"
+cheat332_code = "3201214C+0009"
+cheat332_enable = false
+
+cheat333_desc = "Hitotsu-Me Giant"
+cheat333_code = "32012150+0009"
+cheat333_enable = false
+
+cheat334_desc = "Holograh"
+cheat334_code = "32012154+0009"
+cheat334_enable = false
+
+cheat335_desc = "Horn Of Heaven"
+cheat335_code = "3201215C+0009"
+cheat335_enable = false
+
+cheat336_desc = "Horn Of Light"
+cheat336_code = "32012160+0009"
+cheat336_enable = false
+
+cheat337_desc = "Horn Of The Unicorn"
+cheat337_code = "32012164+0009"
+cheat337_enable = false
+
+cheat338_desc = "HornImp"
+cheat338_code = "32012158+0009"
+cheat338_enable = false
+
+cheat339_desc = "Hoshiningen"
+cheat339_code = "32012168+0009"
+cheat339_enable = false
+
+cheat340_desc = "Hourglass Of Courage"
+cheat340_code = "3201216C+0009"
+cheat340_enable = false
+
+cheat341_desc = "Hourglass Of Life"
+cheat341_code = "32012170+0009"
+cheat341_enable = false
+
+cheat342_desc = "House Of AdhesiveTape"
+cheat342_code = "32012174+0009"
+cheat342_enable = false
+
+cheat343_desc = "Hungry Burger"
+cheat343_code = "32012178+0009"
+cheat343_enable = false
+
+cheat344_desc = "Hunter Spider"
+cheat344_code = "3201217C+0009"
+cheat344_enable = false
+
+cheat345_desc = "Hyo"
+cheat345_code = "32012180+0009"
+cheat345_enable = false
+
+cheat346_desc = "Hyosube"
+cheat346_code = "32012184+0009"
+cheat346_enable = false
+
+cheat347_desc = "Hyozanryu"
+cheat347_code = "32012188+0009"
+cheat347_enable = false
+
+cheat348_desc = "IceWater"
+cheat348_code = "3201218C+0009"
+cheat348_enable = false
+
+cheat349_desc = "Illusionist FacelessMage"
+cheat349_code = "32012194+0009"
+cheat349_enable = false
+
+cheat350_desc = "IllWitch"
+cheat350_code = "32012190+0009"
+cheat350_enable = false
+
+cheat351_desc = "Imperial Order"
+cheat351_code = "32012198+0009"
+cheat351_enable = false
+
+cheat352_desc = "Insect Armor WithLaser Cann"
+cheat352_code = "3201219C+0009"
+cheat352_enable = false
+
+cheat353_desc = "Insect Queen"
+cheat353_code = "320121A0+0009"
+cheat353_enable = false
+
+cheat354_desc = "Insect Soldiers Of The Sky"
+cheat354_code = "320121A4+0009"
+cheat354_enable = false
+
+cheat355_desc = "Inspection"
+cheat355_code = "320121A8+0009"
+cheat355_enable = false
+
+cheat356_desc = "Instant Win"
+cheat356_code = "8201A048+0000"
+cheat356_enable = false
+
+cheat357_desc = "Instant Win [Press Start]"
+cheat357_code = "D0000020+0008+8201A048+0000"
+cheat357_enable = false
+
+cheat358_desc = "Invader Of The Throne"
+cheat358_code = "320121B0+0009"
+cheat358_enable = false
+
+cheat359_desc = "InvaderFrom Ather Dimension"
+cheat359_code = "320121AC+0009"
+cheat359_enable = false
+
+cheat360_desc = "Invigoration"
+cheat360_code = "320121B4+0009"
+cheat360_enable = false
+
+cheat361_desc = "Javelin Beetle"
+cheat361_code = "320121B8+0009"
+cheat361_enable = false
+
+cheat362_desc = "Javelin Beetle Pact"
+cheat362_code = "320121BC+0009"
+cheat362_enable = false
+
+cheat363_desc = "Jellyfish"
+cheat363_code = "320121C0+0009"
+cheat363_enable = false
+
+cheat364_desc = "Jigen Bakudan"
+cheat364_code = "320121C4+0009"
+cheat364_enable = false
+
+cheat365_desc = "Jinzo"
+cheat365_code = "320121C8+0009"
+cheat365_enable = false
+
+cheat366_desc = "Jinzo #7"
+cheat366_code = "320121CC+0009"
+cheat366_enable = false
+
+cheat367_desc = "Jirai Gumo"
+cheat367_code = "320121D0+0009"
+cheat367_enable = false
+
+cheat368_desc = "Judge Man"
+cheat368_code = "320121D4+0009"
+cheat368_enable = false
+
+cheat369_desc = "Just Desserts"
+cheat369_code = "320121D8+0009"
+cheat369_enable = false
+
+cheat370_desc = "Kagemusha Of The Blue Flame"
+cheat370_code = "320121DC+0009"
+cheat370_enable = false
+
+cheat371_desc = "Kageningen"
+cheat371_code = "320121E0+0009"
+cheat371_enable = false
+
+cheat372_desc = "Kairyu-Shin"
+cheat372_code = "320121E4+0009"
+cheat372_enable = false
+
+cheat373_desc = "Kaiser Dragon"
+cheat373_code = "320121E8+0009"
+cheat373_enable = false
+
+cheat374_desc = "Kamakiriman"
+cheat374_code = "320121EC+0009"
+cheat374_enable = false
+
+cheat375_desc = "Kaminari Attack"
+cheat375_code = "320121F0+0009"
+cheat375_enable = false
+
+cheat376_desc = "Kaminarikozou"
+cheat376_code = "320121F4+0009"
+cheat376_enable = false
+
+cheat377_desc = "Kamionwizard"
+cheat377_code = "320121F8+0009"
+cheat377_enable = false
+
+cheat378_desc = "Kanan The Swordmistress"
+cheat378_code = "320121FC+0009"
+cheat378_enable = false
+
+cheat379_desc = "Kanikabuto"
+cheat379_code = "32012200+0009"
+cheat379_enable = false
+
+cheat380_desc = "Karate Man"
+cheat380_code = "32012204+0009"
+cheat380_enable = false
+
+cheat381_desc = "Karbonala Warrior"
+cheat381_code = "32012208+0009"
+cheat381_enable = false
+
+cheat382_desc = "Kattapillar"
+cheat382_code = "3201220C+0009"
+cheat382_enable = false
+
+cheat383_desc = "Kazejin"
+cheat383_code = "32012210+0009"
+cheat383_enable = false
+
+cheat384_desc = "KeyMace #2"
+cheat384_code = "32012214+0009"
+cheat384_enable = false
+
+cheat385_desc = "Killer Needle"
+cheat385_code = "32012218+0009"
+cheat385_enable = false
+
+cheat386_desc = "King Fog"
+cheat386_code = "3201221C+0009"
+cheat386_enable = false
+
+cheat387_desc = "King Of Yamimakai"
+cheat387_code = "32012220+0009"
+cheat387_enable = false
+
+cheat388_desc = "Kiseitai"
+cheat388_code = "32012224+0009"
+cheat388_enable = false
+
+cheat389_desc = "Kojikocy"
+cheat389_code = "32012228+0009"
+cheat389_enable = false
+
+cheat390_desc = "Koumori Dragon"
+cheat390_code = "32012230+0009"
+cheat390_enable = false
+
+cheat391_desc = "Krokodilus"
+cheat391_code = "32012234+0009"
+cheat391_enable = false
+
+cheat392_desc = "Kumootoko"
+cheat392_code = "32012238+0009"
+cheat392_enable = false
+
+cheat393_desc = "Kunai With Chain"
+cheat393_code = "3201223C+0009"
+cheat393_enable = false
+
+cheat394_desc = "Kurama"
+cheat394_code = "32012240+0009"
+cheat394_enable = false
+
+cheat395_desc = "Kuriboh"
+cheat395_code = "32012244+0009"
+cheat395_enable = false
+
+cheat396_desc = "Kuwagata A"
+cheat396_code = "32012248+0009"
+cheat396_enable = false
+
+cheat397_desc = "Kwagar Hercules"
+cheat397_code = "3201224C+0009"
+cheat397_enable = false
+
+cheat398_desc = "La Jinn TheMystical Genie Of TheLamp"
+cheat398_code = "32012250+0009"
+cheat398_enable = false
+
+cheat399_desc = "LabyrinthTank"
+cheat399_code = "32012254+0009"
+cheat399_enable = false
+
+cheat400_desc = "LabyrinthWall"
+cheat400_code = "32012258+0009"
+cheat400_enable = false
+
+cheat401_desc = "Lady Of Faith"
+cheat401_code = "3201225C+0009"
+cheat401_enable = false
+
+cheat402_desc = "LaLa Li-oon"
+cheat402_code = "32012260+0009"
+cheat402_enable = false
+
+cheat403_desc = "Larvae Moth"
+cheat403_code = "32012264+0009"
+cheat403_enable = false
+
+cheat404_desc = "Larvas"
+cheat404_code = "32012268+0009"
+cheat404_enable = false
+
+cheat405_desc = "Laser Cannon Armor"
+cheat405_code = "3201226C+0009"
+cheat405_enable = false
+
+cheat406_desc = "LastDay Of Witch"
+cheat406_code = "32012270+0009"
+cheat406_enable = false
+
+cheat407_desc = "LastWill"
+cheat407_code = "32012274+0009"
+cheat407_enable = false
+
+cheat408_desc = "Laughing Flower"
+cheat408_code = "32012278+0009"
+cheat408_enable = false
+
+cheat409_desc = "Lava Battleguard"
+cheat409_code = "32012284+0009"
+cheat409_enable = false
+
+cheat410_desc = "Left Arm Of The Forbidden One"
+cheat410_code = "32012288+0009"
+cheat410_enable = false
+
+cheat411_desc = "Left Leg Of The Forbidden One"
+cheat411_code = "3201228C+0009"
+cheat411_enable = false
+
+cheat412_desc = "Legendary Sword"
+cheat412_code = "32012290+0009"
+cheat412_enable = false
+
+cheat413_desc = "Leghul"
+cheat413_code = "32012294+0009"
+cheat413_enable = false
+
+cheat414_desc = "Leogun"
+cheat414_code = "32012298+0009"
+cheat414_enable = false
+
+cheat415_desc = "Lesser Dragon"
+cheat415_code = "3201229C+0009"
+cheat415_enable = false
+
+cheat416_desc = "Light Of Intervention"
+cheat416_code = "320122A0+0009"
+cheat416_enable = false
+
+cheat417_desc = "Lightforce Sword"
+cheat417_code = "320122A4+0009"
+cheat417_enable = false
+
+cheat418_desc = "Liquid Beast"
+cheat418_code = "320122A8+0009"
+cheat418_enable = false
+
+cheat419_desc = "Little Chimera"
+cheat419_code = "320122AC+0009"
+cheat419_enable = false
+
+cheat420_desc = "Little D"
+cheat420_code = "320122B0+0009"
+cheat420_enable = false
+
+cheat421_desc = "Lord Of D."
+cheat421_code = "320122B4+0009"
+cheat421_enable = false
+
+cheat422_desc = "Lord Of The Lamp"
+cheat422_code = "320122B8+0009"
+cheat422_enable = false
+
+cheat423_desc = "Lord Of Zemia"
+cheat423_code = "320122BC+0009"
+cheat423_enable = false
+
+cheat424_desc = "Lumius Spark"
+cheat424_code = "320122C0+0009"
+cheat424_enable = false
+
+cheat425_desc = "Lunar Queen Elzaim"
+cheat425_code = "320122C4+0009"
+cheat425_enable = false
+
+cheat426_desc = "M-Warrior #1"
+cheat426_code = "320123F0+0009"
+cheat426_enable = false
+
+cheat427_desc = "M-Warrior #2"
+cheat427_code = "320123F4+0009"
+cheat427_enable = false
+
+cheat428_desc = "Mabarrel"
+cheat428_code = "320122C8+0009"
+cheat428_enable = false
+
+cheat429_desc = "Machine Conversion Factory"
+cheat429_code = "320122CC+0009"
+cheat429_enable = false
+
+cheat430_desc = "Machine King"
+cheat430_code = "320122D0+0009"
+cheat430_enable = false
+
+cheat431_desc = "Magic Jammer"
+cheat431_code = "320122D4+0009"
+cheat431_enable = false
+
+cheat432_desc = "Magic Thorn"
+cheat432_code = "320122D8+0009"
+cheat432_enable = false
+
+cheat433_desc = "Magic-Arm Shield"
+cheat433_code = "320122E8+0009"
+cheat433_enable = false
+
+cheat434_desc = "Magic/Trap Card Modifier Slot 1"
+cheat434_code = "820195F0+0000"
+cheat434_enable = false
+
+cheat435_desc = "Magic/Trap Card Modifier Slot 2"
+cheat435_code = "82019684+0000"
+cheat435_enable = false
+
+cheat436_desc = "Magic/Trap Card Modifier Slot 3"
+cheat436_code = "82019718+0000"
+cheat436_enable = false
+
+cheat437_desc = "Magic/Trap Card Modifier Slot 4"
+cheat437_code = "820197AC+0000"
+cheat437_enable = false
+
+cheat438_desc = "Magic/Trap Card Modifier Slot 5"
+cheat438_code = "82019840+0000"
+cheat438_enable = false
+
+cheat439_desc = "Magical Ghost"
+cheat439_code = "320122DC+0009"
+cheat439_enable = false
+
+cheat440_desc = "Magical Hats"
+cheat440_code = "320122E0+0009"
+cheat440_enable = false
+
+cheat441_desc = "Magical Labyrinth"
+cheat441_code = "320122E4+0009"
+cheat441_enable = false
+
+cheat442_desc = "Magician Of Black Chaos"
+cheat442_code = "320122EC+0009"
+cheat442_enable = false
+
+cheat443_desc = "Magician Of Faith"
+cheat443_code = "320122F0+0009"
+cheat443_enable = false
+
+cheat444_desc = "Maha Vailo"
+cheat444_code = "320122F4+0009"
+cheat444_enable = false
+
+cheat445_desc = "Maiden Of The Moonlight"
+cheat445_code = "320122F8+0009"
+cheat445_enable = false
+
+cheat446_desc = "Major Riot"
+cheat446_code = "320122FC+0009"
+cheat446_enable = false
+
+cheat447_desc = "Malevolent Nuzzler"
+cheat447_code = "32012300+0009"
+cheat447_enable = false

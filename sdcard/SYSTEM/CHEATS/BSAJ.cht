@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Infinite Lives"
+cheat0_code = "8200CDE4+FFFF"
+cheat0_enable = false
+
+cheat1_desc = "Score Mod"
+cheat1_code = "8200E980+0000"
+cheat1_enable = false

@@ -1,0 +1,33 @@
+cheats = 8
+
+cheat0_desc = "Bosses Attack Themselves"
+cheat0_code = "730028E2+00C4+830028EA+00C8"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Special"
+cheat1_code = "330026AF+00C0"
+cheat1_enable = false
+
+cheat2_desc = "Inflict Max Damage On Bosses"
+cheat2_code = "730028E2+0034+830028EA+00C8"
+cheat2_enable = false
+
+cheat3_desc = "Max Health (Robot)"
+cheat3_code = "830028E8+0330"
+cheat3_enable = false
+
+cheat4_desc = "Max Weapon Level"
+cheat4_code = "330026AD+0002"
+cheat4_enable = false
+
+cheat5_desc = "Transparent"
+cheat5_code = "3300268D+0002"
+cheat5_enable = false
+
+cheat6_desc = "Infinite HP"
+cheat6_code = "3300268C+00C8"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Lives"
+cheat7_code = "3300005D+0009"
+cheat7_enable = false

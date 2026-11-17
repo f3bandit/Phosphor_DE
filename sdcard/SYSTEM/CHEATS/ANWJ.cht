@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Character Modifier"
+cheat0_code = "33004078+0000"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Ammo"
+cheat1_code = "330030AA+0063"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Bombs"
+cheat2_code = "330030B8+0009"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health"
+cheat3_code = "830030CA+0505"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Time"
+cheat4_code = "830038D0+E80F"
+cheat4_enable = false
+
+cheat5_desc = "Invincibility Against Bullets"
+cheat5_code = "8800AC84+D12F"
+cheat5_enable = false
+
+cheat6_desc = "Max Files Collected"
+cheat6_code = "330030C2+0009"
+cheat6_enable = false

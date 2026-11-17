@@ -1,0 +1,185 @@
+cheats = 46
+
+cheat0_desc = "Can't Be Arrested"
+cheat0_code = "32030364+0000"
+cheat0_enable = false
+
+cheat1_desc = "Car Weapon"
+cheat1_code = "820010E4+010C+320010E6+00FF"
+cheat1_enable = false
+
+cheat2_desc = "Cars Exploded Modifier"
+cheat2_code = "82000DB4+0000"
+cheat2_enable = false
+
+cheat3_desc = "Criminals Wasted Modifier"
+cheat3_code = "32000DD4+0000"
+cheat3_enable = false
+
+cheat4_desc = "Days Passed Modifier"
+cheat4_code = "82000DCA+0000"
+cheat4_enable = false
+
+cheat5_desc = "Have 100 Packages"
+cheat5_code = "42000D9E+FFFF+00000007+0002"
+cheat5_enable = false
+
+cheat6_desc = "Have All Weapons/Infinite Ammo"
+cheat6_code = "4200108C+0101+0001000F+0008+4200108E+00FF+0000000F+0008"
+cheat6_enable = false
+
+cheat7_desc = "Have Borgnine Taxi"
+cheat7_code = "32000DCD+00FF"
+cheat7_enable = false
+
+cheat8_desc = "Have Maximum Cash"
+cheat8_code = "82025824+E0FF+82025826+05F5"
+cheat8_enable = false
+
+cheat9_desc = "High Felony Meter [Press R+B+Up]"
+cheat9_code = "74000130+02BD+32030340+0006"
+cheat9_enable = false
+
+cheat10_desc = "Hospital Visits Modifier"
+cheat10_code = "82000DBE+0000"
+cheat10_enable = false
+
+cheat11_desc = "Infinite Stamina"
+cheat11_code = "32000DCC+00FF"
+cheat11_enable = false
+
+cheat12_desc = "Infinite Time"
+cheat12_code = "82025818+0000"
+cheat12_enable = false
+
+cheat13_desc = "Low Felony Meter [Press R+B+Down]"
+cheat13_code = "74000130+027D+32030340+0000"
+cheat13_enable = false
+
+cheat14_desc = "Max Amount Of Arrests In Vigilante"
+cheat14_code = "320360F2+0063+320360F5+0063"
+cheat14_enable = false
+
+cheat15_desc = "Max Money"
+cheat15_code = "8202581C+E0FF+8202581E+05F5+82025824+E0FF+82025826+05F5"
+cheat15_enable = false
+
+cheat16_desc = "Maximum Cars Exploded"
+cheat16_code = "82000DB4+FFFF"
+cheat16_enable = false
+
+cheat17_desc = "Maximum Criminals Wasted"
+cheat17_code = "32000DD4+00FF"
+cheat17_enable = false
+
+cheat18_desc = "Maximum Days Passed"
+cheat18_code = "82000DCA+FFFF"
+cheat18_enable = false
+
+cheat19_desc = "Maximum Miles Driven"
+cheat19_code = "82000DC6+FFFF"
+cheat19_enable = false
+
+cheat20_desc = "Maximum Miles Walked"
+cheat20_code = "82000DC4+FFFF"
+cheat20_enable = false
+
+cheat21_desc = "Maximum Mission Attempts"
+cheat21_code = "82000DD2+FFFF"
+cheat21_enable = false
+
+cheat22_desc = "Maximum Portland Vigilante"
+cheat22_code = "32000DC1+00FF"
+cheat22_enable = false
+
+cheat23_desc = "Maximum Rampages Total"
+cheat23_code = "32000DD5+00FF"
+cheat23_enable = false
+
+cheat24_desc = "Maximum Taxi Cash"
+cheat24_code = "82000DC8+FFFF"
+cheat24_enable = false
+
+cheat25_desc = "Maximum Taxi Passengers"
+cheat25_code = "32000DC0+00FF"
+cheat25_enable = false
+
+cheat26_desc = "Maximum Thugs Wasted"
+cheat26_code = "82000DBC+FFFF"
+cheat26_enable = false
+
+cheat27_desc = "Maximum Wasted"
+cheat27_code = "82000DB8+FFFF"
+cheat27_enable = false
+
+cheat28_desc = "Miles Driven Modifier"
+cheat28_code = "82000DC6+0000"
+cheat28_enable = false
+
+cheat29_desc = "Miles Walked Modifier"
+cheat29_code = "82000DC4+0000"
+cheat29_enable = false
+
+cheat30_desc = "Minimum Times Busted"
+cheat30_code = "82000DB6+0000"
+cheat30_enable = false
+
+cheat31_desc = "Minimum Wasted By Others"
+cheat31_code = "82000DBA+0000"
+cheat31_enable = false
+
+cheat32_desc = "Mission Attempts Modifier"
+cheat32_code = "82000DD2+0000"
+cheat32_enable = false
+
+cheat33_desc = "Never Wanted"
+cheat33_code = "3202581A+0000+32030340+0000"
+cheat33_enable = false
+
+cheat34_desc = "Paramedic Level"
+cheat34_code = "32000D88+00FF"
+cheat34_enable = false
+
+cheat35_desc = "Paramedic Level Modifier"
+cheat35_code = "32000D88+0000"
+cheat35_enable = false
+
+cheat36_desc = "Portland Vigilante Modifier"
+cheat36_code = "32000DC1+0000"
+cheat36_enable = false
+
+cheat37_desc = "Press Select+R No Wanted"
+cheat37_code = "7300009C+0104+3202581A+0000+7300009C+0104+32030340+0000"
+cheat37_enable = false
+
+cheat38_desc = "Rampages Total Modifier"
+cheat38_code = "32000DD5+0000"
+cheat38_enable = false
+
+cheat39_desc = "Start With $50,000"
+cheat39_code = "72025824+0000+82025824+C350"
+cheat39_enable = false
+
+cheat40_desc = "Stop Mission Timer"
+cheat40_code = "32025814+00FF"
+cheat40_enable = false
+
+cheat41_desc = "Taxi Cash Modifier"
+cheat41_code = "82000DC8+0000"
+cheat41_enable = false
+
+cheat42_desc = "Taxi Passengers Modifier"
+cheat42_code = "32000DC0+0000"
+cheat42_enable = false
+
+cheat43_desc = "Thugs Wasted Modifier"
+cheat43_code = "82000DBC+0000"
+cheat43_enable = false
+
+cheat44_desc = "Wasted Modifier"
+cheat44_code = "82000DB8+0000"
+cheat44_enable = false
+
+cheat45_desc = "Zero Wanted Level"
+cheat45_code = "32030340+0000+3202581A+0000"
+cheat45_enable = false

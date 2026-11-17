@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Press A+Select For 1st Down"
+cheat0_code = "7201AA98+FC05+3202BD10+0001"
+cheat0_enable = false
+
+cheat1_desc = "Press B+Select For 4th Down"
+cheat1_code = "7201AA98+FC06+3202BD10+0004"
+cheat1_enable = false
+
+cheat2_desc = "Press L+Select For Home Wins"
+cheat2_code = "7201AA98+FE04+3201CE44+0063+7201AA98+FE04+3201EF94+0000"
+cheat2_enable = false
+
+cheat3_desc = "Press R+Select For Away Wins"
+cheat3_code = "7201AA98+FD04+3201CE44+0000+7201AA98+FD04+3201EF94+0063"
+cheat3_enable = false

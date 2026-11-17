@@ -1,0 +1,105 @@
+cheats = 26
+
+cheat0_desc = "1 Lap Race"
+cheat0_code = "730040CE+0001+330040CE+0003"
+cheat0_enable = false
+
+cheat1_desc = "A1 Ring"
+cheat1_code = "32007058+00FF"
+cheat1_enable = false
+
+cheat2_desc = "Access All Careers"
+cheat2_code = "330038EA+0003"
+cheat2_enable = false
+
+cheat3_desc = "Brazilia"
+cheat3_code = "32007051+00FF"
+cheat3_enable = false
+
+cheat4_desc = "Buenos Aires"
+cheat4_code = "32007050+00FF"
+cheat4_enable = false
+
+cheat5_desc = "Dijon"
+cheat5_code = "32007055+00FF"
+cheat5_enable = false
+
+cheat6_desc = "Dirt"
+cheat6_code = "33005ECD+0000"
+cheat6_enable = false
+
+cheat7_desc = "Engine"
+cheat7_code = "330040B6+0000"
+cheat7_enable = false
+
+cheat8_desc = "Fast Pit Crew"
+cheat8_code = "8300412C+0000"
+cheat8_enable = false
+
+cheat9_desc = "Gearbox"
+cheat9_code = "330040B4+0000"
+cheat9_enable = false
+
+cheat10_desc = "Grass"
+cheat10_code = "33005E41+0000"
+cheat10_enable = false
+
+cheat11_desc = "Max Points"
+cheat11_code = "330038E8+00C8+3300391C+00C8"
+cheat11_enable = false
+
+cheat12_desc = "Mexico City"
+cheat12_code = "32007056+00FF"
+cheat12_enable = false
+
+cheat13_desc = "Monza"
+cheat13_code = "32007054+00FF"
+cheat13_enable = false
+
+cheat14_desc = "Oulton Park"
+cheat14_code = "3200704F+00FF"
+cheat14_enable = false
+
+cheat15_desc = "Road America"
+cheat15_code = "32007057+00FF"
+cheat15_enable = false
+
+cheat16_desc = "Skip Lag (Race Ending)"
+cheat16_code = "730070F4+0091+330070F4+0001"
+cheat16_enable = false
+
+cheat17_desc = "Slow Opponents"
+cheat17_code = "42005ED0+0030+00000007+012C+42005F34+0000+00000007+012C"
+cheat17_enable = false
+
+cheat18_desc = "Steering"
+cheat18_code = "330040B8+0000"
+cheat18_enable = false
+
+cheat19_desc = "Stop Timer (Place 1st)"
+cheat19_code = "830040D0+0000+83005FA8+0000"
+cheat19_enable = false
+
+cheat20_desc = "Sugo"
+cheat20_code = "32007053+00FF"
+cheat20_enable = false
+
+cheat21_desc = "Ti Aida"
+cheat21_code = "32007059+00FF"
+cheat21_enable = false
+
+cheat22_desc = "Turbo"
+cheat22_code = "32005DA5+0002"
+cheat22_enable = false
+
+cheat23_desc = "Unlock All Tracks"
+cheat23_code = "4200704E+FFFF+00000006+0002"
+cheat23_enable = false
+
+cheat24_desc = "Vancouver"
+cheat24_code = "32007052+00FF"
+cheat24_enable = false
+
+cheat25_desc = "Wheels"
+cheat25_code = "330040BA+0000"
+cheat25_enable = false

@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Move Pieces Anywhere"
+cheat0_code = "880046D6+704F"
+cheat0_enable = false

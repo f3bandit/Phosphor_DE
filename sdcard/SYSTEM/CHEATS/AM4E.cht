@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "All Riders"
+cheat0_code = "43001C98+0101+00000004+0002"
+cheat0_enable = false
+
+cheat1_desc = "Low Times"
+cheat1_code = "33001BD5+0000+33001BD6+0000+33005E40+0000+33005FF8+0000"
+cheat1_enable = false

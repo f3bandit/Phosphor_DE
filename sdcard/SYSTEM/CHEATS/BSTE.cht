@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Max Gems Collected"
+cheat0_code = "82006A30+03E7"
+cheat0_enable = false
+
+cheat1_desc = "Unlock All Cards+Party Games"
+cheat1_code = "4200C95C+FFFF+0000000D+0002"
+cheat1_enable = false

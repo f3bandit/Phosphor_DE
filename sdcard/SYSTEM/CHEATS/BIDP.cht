@@ -1,0 +1,22 @@
+cheats = 5
+
+cheat0_desc = "Access All Songs"
+cheat0_code = "33002E4C+0009"
+cheat0_enable = false
+
+cheat1_desc = "Have 999 Style Points"
+cheat1_code = "83002E60+03E7"
+cheat1_enable = false
+
+cheat2_desc = "Start New Competition At 
+Final Stage"
+cheat2_code = "73002E08+0001+33002E08+0008"
+cheat2_enable = false
+
+cheat3_desc = "Thumbs Up For Appearance"
+cheat3_code = "33002B68+0002+43002B6C+0002+00000002+0004"
+cheat3_enable = false
+
+cheat4_desc = "Unlock All Clothes"
+cheat4_code = "43002BA4+0001+0000007B+0004"
+cheat4_enable = false

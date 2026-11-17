@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Access All Levels"
+cheat0_code = "33002634+0007"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Lives"
+cheat1_code = "330025CA+0009"
+cheat1_enable = false
+
+cheat2_desc = "Invincible"
+cheat2_code = "33002466+0003"
+cheat2_enable = false
+
+cheat3_desc = "Skip Level [Press Select+Up]"
+cheat3_code = "74000130+03BB+330025C0+00F0"
+cheat3_enable = false

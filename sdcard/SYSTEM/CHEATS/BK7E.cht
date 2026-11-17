@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Infinite Health"
+cheat0_code = "330020A0+00FF"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Lives"
+cheat1_code = "330020A2+000A"
+cheat1_enable = false
+
+cheat2_desc = "Invincible"
+cheat2_code = "33002076+0000"
+cheat2_enable = false
+
+cheat3_desc = "Multi Jump"
+cheat3_code = "D0000020+0002+4300208C+FC00+03FF0002+0002"
+cheat3_enable = false
+
+cheat4_desc = "No Battle Halts"
+cheat4_code = "3300454E+0000"
+cheat4_enable = false
+
+cheat5_desc = "Skip Level [Press Select+L]"
+cheat5_code = "74000130+01FB+33004680+0001"
+cheat5_enable = false

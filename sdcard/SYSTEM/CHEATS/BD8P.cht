@@ -1,0 +1,37 @@
+cheats = 9
+
+cheat0_desc = "Always Able To Move"
+cheat0_code = "8201731C+0006"
+cheat0_enable = false
+
+cheat1_desc = "Have All Pets"
+cheat1_code = "42017334+001C+0001000F+0008"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Time"
+cheat2_code = "82015BC2+0BA0"
+cheat2_enable = false
+
+cheat3_desc = "Max Stars"
+cheat3_code = "82015BE8+0063"
+cheat3_enable = false
+
+cheat4_desc = "Maximum Crystals"
+cheat4_code = "8201732A+270F"
+cheat4_enable = false
+
+cheat5_desc = "Maximum Magical Powers"
+cheat5_code = "8201732C+270F"
+cheat5_enable = false
+
+cheat6_desc = "Press Select To End Turn"
+cheat6_code = "D0000020+0004+3201731C+0000"
+cheat6_enable = false
+
+cheat7_desc = "Unlock All Attractions"
+cheat7_code = "82004902+FFFF+32004904+00FF"
+cheat7_enable = false
+
+cheat8_desc = "Unlock All MiniGames"
+cheat8_code = "3200495E+000F"
+cheat8_enable = false

@@ -1,0 +1,41 @@
+cheats = 10
+
+cheat0_desc = "Access All Stories"
+cheat0_code = "8300479C+FFFF"
+cheat0_enable = false
+
+cheat1_desc = "Have All Characters"
+cheat1_code = "430047B4+FFFF+00000003+0002+330047C8+00FF"
+cheat1_enable = false
+
+cheat2_desc = "Have All Extras"
+cheat2_code = "830047BC+FFFF+330047BE+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Have All Hints"
+cheat3_code = "33004798+00FF"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Studs"
+cheat4_code = "83004798+E0FF+8300479A+05F5"
+cheat4_enable = false
+
+cheat5_desc = "Invisible"
+cheat5_code = "33004853+00FF"
+cheat5_enable = false
+
+cheat6_desc = "Take coins anywhere - not usable/for testing purposes only"
+cheat6_code = "8300081C+001B+8300081E+BA00+83000830+0016+83000832+BA00+83000840+0012+83000842+BA00+74000130+01FF+8300081C+0000+74000130+01FF+8300081E+E1A0+74000130+01FF+83000830+0000+74000130+01FF+83000832+E1A0+74000130+01FF+83000840+0000+74000130+01FF+83000842+E1A0"
+cheat6_enable = false
+
+cheat7_desc = "Max Studs (Bar)"
+cheat7_code = "83004788+967F+8300478A+0098"
+cheat7_enable = false
+
+cheat8_desc = "Max Studs (Missions)"
+cheat8_code = "83004830+967F+83004832+0098"
+cheat8_enable = false
+
+cheat9_desc = "10 SuperKits"
+cheat9_code = "33004B1F+000A"
+cheat9_enable = false

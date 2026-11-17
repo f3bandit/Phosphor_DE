@@ -1,0 +1,53 @@
+cheats = 13
+
+cheat0_desc = "Access all Stages"
+cheat0_code = "33002E7B+0002"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Life"
+cheat1_code = "330043CA+0064"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Super"
+cheat2_code = "330043D2+0063"
+cheat2_enable = false
+
+cheat3_desc = "Max all Stats"
+cheat3_code = "43004420+0707+00000000+0000"
+cheat3_enable = false
+
+cheat4_desc = "Max Jet"
+cheat4_code = "33004424+0006"
+cheat4_enable = false
+
+cheat5_desc = "Max Laser"
+cheat5_code = "33004422+0007"
+cheat5_enable = false
+
+cheat6_desc = "Max Life"
+cheat6_code = "33004420+0007"
+cheat6_enable = false
+
+cheat7_desc = "Max Punch"
+cheat7_code = "33004421+0007"
+cheat7_enable = false
+
+cheat8_desc = "Max Score Multiplier"
+cheat8_code = "330043C1+0063"
+cheat8_enable = false
+
+cheat9_desc = "Max Sensor"
+cheat9_code = "33004425+0004"
+cheat9_enable = false
+
+cheat10_desc = "Max Shot"
+cheat10_code = "33004423+0007"
+cheat10_enable = false
+
+cheat11_desc = "Maximum Life"
+cheat11_code = "330043CE+0064"
+cheat11_enable = false
+
+cheat12_desc = "Unlock all Extras"
+cheat12_code = "43001BF8+FFFF+00000000+0000"
+cheat12_enable = false

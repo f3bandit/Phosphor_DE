@@ -1,0 +1,41 @@
+cheats = 10
+
+cheat0_desc = "Hard Mode"
+cheat0_code = "33001191+0001"
+cheat0_enable = false
+
+cheat1_desc = "Hit Anywhere"
+cheat1_code = "8806E930+E056+8806F16C+E114"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Special"
+cheat2_code = "33001F4D+0009"
+cheat2_enable = false
+
+cheat3_desc = "Invincibility"
+cheat3_code = "88068B8E+2108+88068B90+5281"
+cheat3_enable = false
+
+cheat4_desc = "Open Exits [Press Select]"
+cheat4_code = "D0000020+0004+43001D66+0000+00000003+0002"
+cheat4_enable = false
+
+cheat5_desc = "Weak Bosses"
+cheat5_code = "730052C0+0100+830052AE+0001"
+cheat5_enable = false
+
+cheat6_desc = "Hella Points"
+cheat6_code = "83003898+FFFF"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Lives"
+cheat7_code = "83001F44+0009"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Health"
+cheat8_code = "83001F46+0002"
+cheat8_enable = false
+
+cheat9_desc = "Infinite Crescendo Attacks"
+cheat9_code = "83001F4C+0103"
+cheat9_enable = false

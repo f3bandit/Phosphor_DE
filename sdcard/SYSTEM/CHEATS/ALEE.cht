@@ -1,0 +1,145 @@
+cheats = 36
+
+cheat0_desc = "Act 2-1"
+cheat0_code = "72026A74+0064+82026A6C+03E8"
+cheat0_enable = false
+
+cheat1_desc = "Act 2-2"
+cheat1_code = "7201EA80+0064+8201EA78+03E8"
+cheat1_enable = false
+
+cheat2_desc = "Act 2-3"
+cheat2_code = "72023E7C+0064+82023E74+03E8"
+cheat2_enable = false
+
+cheat3_desc = "Act 2-4"
+cheat3_code = "720132E0+0064+820132D8+03E8"
+cheat3_enable = false
+
+cheat4_desc = "Act 3-1"
+cheat4_code = "7201C144+0064+8201C13C+03E8"
+cheat4_enable = false
+
+cheat5_desc = "Act 3-2"
+cheat5_code = "7201CC4C+0064+8201CC44+03E8"
+cheat5_enable = false
+
+cheat6_desc = "Act 3-3"
+cheat6_code = "72022820+0064+82022818+03E8"
+cheat6_enable = false
+
+cheat7_desc = "Act 4-1"
+cheat7_code = "720131DC+0064+820131D4+03E8"
+cheat7_enable = false
+
+cheat8_desc = "Act 4-2"
+cheat8_code = "720133C8+0064+820133C0+03E8"
+cheat8_enable = false
+
+cheat9_desc = "Act 4-3"
+cheat9_code = "72013714+0064+8201370C+03E8"
+cheat9_enable = false
+
+cheat10_desc = "Act 4-5"
+cheat10_code = "72013194+0064+8201318C+03E8"
+cheat10_enable = false
+
+cheat11_desc = "Act 5-1"
+cheat11_code = "72028E24+0064+82028E1C+03E8"
+cheat11_enable = false
+
+cheat12_desc = "Act 5-2"
+cheat12_code = "7201DAE4+0064+8201DADC+03E8"
+cheat12_enable = false
+
+cheat13_desc = "Act 5-3"
+cheat13_code = "7201C1C8+0064+8201C1C0+03E8"
+cheat13_enable = false
+
+cheat14_desc = "Act 5-4"
+cheat14_code = "72014020+0064+82014018+03E8"
+cheat14_enable = false
+
+cheat15_desc = "Act 6-1"
+cheat15_code = "72034B20+0064+82034B18+03E8"
+cheat15_enable = false
+
+cheat16_desc = "Act 6-2"
+cheat16_code = "72026E94+0064+82026E8C+03E8"
+cheat16_enable = false
+
+cheat17_desc = "Act 6-3"
+cheat17_code = "72018C18+0064+82018C10+03E8"
+cheat17_enable = false
+
+cheat18_desc = "Act 7-1"
+cheat18_code = "7201C7A8+0064+8201C7A0+03E8"
+cheat18_enable = false
+
+cheat19_desc = "Act 7-2"
+cheat19_code = "72028FB8+0064+82028FB0+03E8"
+cheat19_enable = false
+
+cheat20_desc = "Act 7-3"
+cheat20_code = "7201290C+0064+82012904+03E8"
+cheat20_enable = false
+
+cheat21_desc = "Act 8-1"
+cheat21_code = "72022028+0064+82022020+03E8"
+cheat21_enable = false
+
+cheat22_desc = "Act 8-2"
+cheat22_code = "7202C5F0+0064+8202C5E8+03E8"
+cheat22_enable = false
+
+cheat23_desc = "Act 8-3"
+cheat23_code = "72021390+0064+82021388+03E8"
+cheat23_enable = false
+
+cheat24_desc = "Act 8-4"
+cheat24_code = "72011BA4+0064+82011B9C+03E8"
+cheat24_enable = false
+
+cheat25_desc = "Act 9-1"
+cheat25_code = "7201DF38+0064+8201DF30+03E8"
+cheat25_enable = false
+
+cheat26_desc = "Act 9-2"
+cheat26_code = "72024EE0+0064+82024ED8+03E8"
+cheat26_enable = false
+
+cheat27_desc = "Act 9-3"
+cheat27_code = "72019094+0064+8201908C+03E8"
+cheat27_enable = false
+
+cheat28_desc = "Act 9-4"
+cheat28_code = "720134F0+0064+820134E8+03E8"
+cheat28_enable = false
+
+cheat29_desc = "Have Keys"
+cheat29_code = "72009810+0000+32009810+001F"
+cheat29_enable = false
+
+cheat30_desc = "Infinite Weapon"
+cheat30_code = "32009818+000A"
+cheat30_enable = false
+
+cheat31_desc = "Invincible"
+cheat31_code = "320094BB+0001"
+cheat31_enable = false
+
+cheat32_desc = "Jump in Midair"
+cheat32_code = "8203FF00+4808+8203FF02+B401+8203FF04+3110+8203FF06+4A08+8203FF08+7812+8203FF0A+2301+8203FF0C+401A+8203FF0E+68CA+8203FF10+D004+8203FF12+2A00+8203FF14+D002+8203FF16+3B05+8203FF18+021B+8203FF1A+60CB+8203FF1C+68CA+8203FF1E+688B+8203FF20+429A+8203FF22+BD00+8203FF24+BCC9+8203FF26+0800+8203FF28+0160+8203FF2A+0200+8800BCC0+4800+8800BCC2+4700+8800BCC4+FF01+8800BCC6+0203"
+cheat32_enable = false
+
+cheat33_desc = "Press Select+R To Skip Level"
+cheat33_code = "74000130+02FB+320057EC+0005"
+cheat33_enable = false
+
+cheat34_desc = "Stealth Sections Doesn't Restart When Spotted"
+cheat34_code = "88009014+2000"
+cheat34_enable = false
+
+cheat35_desc = "Unlock All Modes & Outfits"
+cheat35_code = "32008F34+00FF"
+cheat35_enable = false

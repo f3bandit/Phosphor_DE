@@ -1,0 +1,133 @@
+cheats = 33
+
+cheat0_desc = "9999 x5 For Drifting"
+cheat0_code = "83006378+270F"
+cheat0_enable = false
+
+cheat1_desc = "All Cars Owned"
+cheat1_code = "820009FC+FFFF+820009FE+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "All Cars/Parts Open"
+cheat2_code = "32000A7C+00FF+32000A7D+00FF+32000A7E+00FF+32000A7F+00FF+82000F66+FFFF"
+cheat2_enable = false
+
+cheat3_desc = "All Cars/Parts Unlocked"
+cheat3_code = "82000A7C+FFFF+82000A7E+FFFF+32000F67+00FF"
+cheat3_enable = false
+
+cheat4_desc = "All Races Open"
+cheat4_code = "82000CA0+0F0F+82000CA2+0F0F+82000CA4+0F14"
+cheat4_enable = false
+
+cheat5_desc = "All Tracks Unlocked"
+cheat5_code = "42000A7C+0101+00000008+0002"
+cheat5_enable = false
+
+cheat6_desc = "Always Low Time"
+cheat6_code = "830059C8+0001+830059CA+0000"
+cheat6_enable = false
+
+cheat7_desc = "Audi TT"
+cheat7_code = "42001D76+0303+00000014+0002"
+cheat7_enable = false
+
+cheat8_desc = "Circuit"
+cheat8_code = "32000CA3+000F+82000CA4+0F14"
+cheat8_enable = false
+
+cheat9_desc = "Drag"
+cheat9_code = "32000CA1+000F"
+cheat9_enable = false
+
+cheat10_desc = "Drift"
+cheat10_code = "32000CA2+000F"
+cheat10_enable = false
+
+cheat11_desc = "Have 50,000 Points"
+cheat11_code = "82000904+C350"
+cheat11_enable = false
+
+cheat12_desc = "Infinite Nitrous"
+cheat12_code = "8813301C+2000"
+cheat12_enable = false
+
+cheat13_desc = "Infinite Purchase Points"
+cheat13_code = "82000904+0064"
+cheat13_enable = false
+
+cheat14_desc = "Lexus IS300"
+cheat14_code = "42001CAA+0303+00000014+0002"
+cheat14_enable = false
+
+cheat15_desc = "Max Points"
+cheat15_code = "82000904+00FF"
+cheat15_enable = false
+
+cheat16_desc = "Mazda RX-7"
+cheat16_code = "42001AAC+0303+00000014+0002"
+cheat16_enable = false
+
+cheat17_desc = "Mazda RX-8"
+cheat17_code = "42001ADE+0303+00000014+0002"
+cheat17_enable = false
+
+cheat18_desc = "Mazda RX-8 NFS"
+cheat18_code = "42001C44+0303+00000014+0002"
+cheat18_enable = false
+
+cheat19_desc = "Mitsubishi Eclipse GSX"
+cheat19_code = "42001CDC+0303+00000014+0002"
+cheat19_enable = false
+
+cheat20_desc = "Mitsubishi Lancer EVO VIII"
+cheat20_code = "42001DA8+0303+00000014+0002"
+cheat20_enable = false
+
+cheat21_desc = "Nissan 240SX"
+cheat21_code = "42001BAA+0303+00000014+0002"
+cheat21_enable = false
+
+cheat22_desc = "Nissan 350Z"
+cheat22_code = "42001B78+0303+00000014+0002"
+cheat22_enable = false
+
+cheat23_desc = "Nissan 350Z NFS"
+cheat23_code = "42001BDE+0303+00000014+0002"
+cheat23_enable = false
+
+cheat24_desc = "Nissan Skyline"
+cheat24_code = "42001B12+0303+00000014+0002"
+cheat24_enable = false
+
+cheat25_desc = "Nissan Skyline NFS"
+cheat25_code = "42001B44+0303+00000014+0002"
+cheat25_enable = false
+
+cheat26_desc = "Nissan Skyline NFS Bonus"
+cheat26_code = "42001A78+0303+00000014+0002"
+cheat26_enable = false
+
+cheat27_desc = "Subaru Imprezza WRX STi"
+cheat27_code = "42001C76+0303+00000014+0002"
+cheat27_enable = false
+
+cheat28_desc = "Toyota Celica"
+cheat28_code = "42001DDC+0303+00000014+0002"
+cheat28_enable = false
+
+cheat29_desc = "Toyota Supra"
+cheat29_code = "42001C10+0303+00000014+0002"
+cheat29_enable = false
+
+cheat30_desc = "Toyota Supra NFS"
+cheat30_code = "42001D10+0303+00000014+0002"
+cheat30_enable = false
+
+cheat31_desc = "Unlock All Cars/Upgrades"
+cheat31_code = "82000A7C+FFFF+82000A7E+FFFF+82000F66+FFFF"
+cheat31_enable = false
+
+cheat32_desc = "VolksWagon Golf GTI"
+cheat32_code = "42001D42+0303+00000014+0002"
+cheat32_enable = false

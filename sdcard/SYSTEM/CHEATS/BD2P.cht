@@ -1,0 +1,65 @@
+cheats = 16
+
+cheat0_desc = "Access All Areas"
+cheat0_code = "43000640+FFFF+00000006+0002"
+cheat0_enable = false
+
+cheat1_desc = "Always Have Partner"
+cheat1_code = "330005F2+0001+330005F4+0000"
+cheat1_enable = false
+
+cheat2_desc = "Fly"
+cheat2_code = "330006E2+000A"
+cheat2_enable = false
+
+cheat3_desc = "Have All Krem Koins"
+cheat3_code = "3300065B+00FF+4300065C+FFFF+00000005+0002"
+cheat3_enable = false
+
+cheat4_desc = "Have All Kremling Koins"
+cheat4_code = "3300065B+00FF+4300065C+FFFF+00000000+0A02"
+cheat4_enable = false
+
+cheat5_desc = "Have K.O.N.G Letters"
+cheat5_code = "430001E4+0002+00000004+0004"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Lives"
+cheat6_code = "330005E4+0063"
+cheat6_enable = false
+
+cheat7_desc = "Invincibility"
+cheat7_code = "88082E14+2214+88082E16+5EA5"
+cheat7_enable = false
+
+cheat8_desc = "Level Modifier"
+cheat8_code = "33000050+0001"
+cheat8_enable = false
+
+cheat9_desc = "Max Banana Coins"
+cheat9_code = "3300065A+0063"
+cheat9_enable = false
+
+cheat10_desc = "Max Bananas"
+cheat10_code = "330005F6+0063"
+cheat10_enable = false
+
+cheat11_desc = "Moon Jump"
+cheat11_code = "D0000020+0001+83004B08+4000"
+cheat11_enable = false
+
+cheat12_desc = "Progress Complete"
+cheat12_code = "8300067E+04FF+43000680+FFFF+0000000A+0002+43000674+FFFF+00000003+0002+43000640+FFFF+00000006+0002"
+cheat12_enable = false
+
+cheat13_desc = "Spd"
+cheat13_code = "330006E1+000A"
+cheat13_enable = false
+
+cheat14_desc = "Str"
+cheat14_code = "330006E0+000A"
+cheat14_enable = false
+
+cheat15_desc = "Turbo"
+cheat15_code = "330006E3+000A"
+cheat15_enable = false

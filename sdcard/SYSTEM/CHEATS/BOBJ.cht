@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "All Cards Lv 9"
+cheat0_code = "42000F24+0009+00000078+0008+42000F26+03E7+00000078+0008"
+cheat0_enable = false
+
+cheat1_desc = "Have All Cards"
+cheat1_code = "42000F28+0001+00000078+0008+42000F2A+0000+00000078+0008"
+cheat1_enable = false
+
+cheat2_desc = "Max Exp. Points"
+cheat2_code = "4200165C+270F+00000004+0002"
+cheat2_enable = false

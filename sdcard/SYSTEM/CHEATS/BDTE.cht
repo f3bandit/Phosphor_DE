@@ -1,0 +1,125 @@
+cheats = 31
+
+cheat0_desc = "1st Ally (Alex): Enable Ally"
+cheat0_code = "82000064+0001+32000543+0001"
+cheat0_enable = false
+
+cheat1_desc = "1st Ally (Alex): Have $50,000"
+cheat1_code = "820004F0+4B40+820004F2+004C"
+cheat1_enable = false
+
+cheat2_desc = "1st Ally (Alex): Infinite Stamina"
+cheat2_code = "820004BA+03E7"
+cheat2_enable = false
+
+cheat3_desc = "1st Ally (Alex): Maximum Stamina"
+cheat3_code = "820004BC+03E7"
+cheat3_enable = false
+
+cheat4_desc = "1st Ally (Alex): Maximum Stats"
+cheat4_code = "420004B0+6363+00000004+0002+820004B8+03E7"
+cheat4_enable = false
+
+cheat5_desc = "2nd Ally (Randy): Enable Ally"
+cheat5_code = "82000066+0002+320005DF+0001"
+cheat5_enable = false
+
+cheat6_desc = "2nd Ally (Randy): Infinite Stamina"
+cheat6_code = "82000556+03E7"
+cheat6_enable = false
+
+cheat7_desc = "2nd Ally (Randy): Maximum Stamina"
+cheat7_code = "82000558+03E7"
+cheat7_enable = false
+
+cheat8_desc = "2nd Ally (Randy): Maximum Stats"
+cheat8_code = "4200054C+6363+00000004+0002+82000554+03E7"
+cheat8_enable = false
+
+cheat9_desc = "3rd Ally (Andy): Enable Ally"
+cheat9_code = "82000068+0003+3200067B+0001"
+cheat9_enable = false
+
+cheat10_desc = "3rd Ally (Andy): Infinite Stamina"
+cheat10_code = "820005F2+03E7"
+cheat10_enable = false
+
+cheat11_desc = "3rd Ally (Andy): Maximum Stamina"
+cheat11_code = "820005F4+03E7"
+cheat11_enable = false
+
+cheat12_desc = "3rd Ally (Andy): Maximum Stats"
+cheat12_code = "420005E8+6363+00000004+0002+820005F0+03E7"
+cheat12_enable = false
+
+cheat13_desc = "4th Ally (Ivan): Enable Ally"
+cheat13_code = "8200006A+0004+32000717+0001"
+cheat13_enable = false
+
+cheat14_desc = "4th Ally (Ivan): Infinite Stamina"
+cheat14_code = "8200068E+03E7"
+cheat14_enable = false
+
+cheat15_desc = "4th Ally (Ivan): Maximum Stamina"
+cheat15_code = "82000690+03E7"
+cheat15_enable = false
+
+cheat16_desc = "4th Ally (Ivan): Maximum Stats"
+cheat16_code = "42000684+6363+00000004+0002+8200068C+03E7"
+cheat16_enable = false
+
+cheat17_desc = "5th Ally (Tex): Enable Ally"
+cheat17_code = "8200006C+0005+320007B3+0001"
+cheat17_enable = false
+
+cheat18_desc = "5th Ally (Tex): Infinite Stamina"
+cheat18_code = "8200072A+03E7"
+cheat18_enable = false
+
+cheat19_desc = "5th Ally (Tex): Maximum Stamina"
+cheat19_code = "8200072C+03E7"
+cheat19_enable = false
+
+cheat20_desc = "5th Ally (Tex): Maximum Stats"
+cheat20_code = "42000720+6363+00000004+0002+82000728+03E7"
+cheat20_enable = false
+
+cheat21_desc = "Alex: Full Stamina"
+cheat21_code = "8200041E+03E7"
+cheat21_enable = false
+
+cheat22_desc = "Alex: Max Stamina"
+cheat22_code = "82000420+03E7"
+cheat22_enable = false
+
+cheat23_desc = "Enable All Allies"
+cheat23_code = "3200006E+0005+42000064+0001+00010005+0002+32000543+0001+320005DF+0001+3200067B+0001+32000717+0001+320007B3+0001"
+cheat23_enable = false
+
+cheat24_desc = "Hero: Have $50,000"
+cheat24_code = "82000454+4B40+82000456+004C"
+cheat24_enable = false
+
+cheat25_desc = "Hero: Maximum Stats"
+cheat25_code = "42000414+6363+00000004+0002+8200041C+03E7"
+cheat25_enable = false
+
+cheat26_desc = "Infinite Money"
+cheat26_code = "82000454+967F+82000456+0098"
+cheat26_enable = false
+
+cheat27_desc = "Max Money"
+cheat27_code = "82000454+E0FF+82000456+05F5"
+cheat27_enable = false
+
+cheat28_desc = "Maximum Defense"
+cheat28_code = "32000417+00FF"
+cheat28_enable = false
+
+cheat29_desc = "Skip To Last Battle"
+cheat29_code = "D0000020+0004+33000000+0005+D0000020+0004+83000002+0022"
+cheat29_enable = false
+
+cheat30_desc = "View All Allies Stats"
+cheat30_code = "3200006E+0005"
+cheat30_enable = false

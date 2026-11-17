@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Have 99 Coins"
+cheat0_code = "33001598+0063+33004B54+0063"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Health"
+cheat1_code = "33004B4C+0050"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Lives"
+cheat2_code = "33004B20+0063"
+cheat2_enable = false
+
+cheat3_desc = "Maximum Health"
+cheat3_code = "33004B18+0050"
+cheat3_enable = false
+
+cheat4_desc = "Max Health"
+cheat4_code = "33004AE8+0050"
+cheat4_enable = false
+
+cheat5_desc = "Always Have 99 Coins"
+cheat5_code = "33001568+0063"
+cheat5_enable = false

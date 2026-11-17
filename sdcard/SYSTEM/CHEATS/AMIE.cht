@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Climb Anywhere"
+cheat0_code = "8800DD06+46C0+8800DD96+201C+8800F184+46C0+8800E18E+46C0"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Bullets"
+cheat1_code = "33005DB8+0008"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Lives"
+cheat2_code = "83005DCC+0009"
+cheat2_enable = false
+
+cheat3_desc = "One Hit Kills"
+cheat3_code = "88010112+1A90"
+cheat3_enable = false

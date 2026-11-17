@@ -1,0 +1,145 @@
+cheats = 36
+
+cheat0_desc = "1st Slot Infinite Health"
+cheat0_code = "83000240+C350"
+cheat0_enable = false
+
+cheat1_desc = "1st Slot Infinite Turns"
+cheat1_code = "33000278+0009"
+cheat1_enable = false
+
+cheat2_desc = "1st Slot Max All Stats"
+cheat2_code = "43000252+2710+00000007+0004"
+cheat2_enable = false
+
+cheat3_desc = "1st Slot Synch 100%"
+cheat3_code = "33000276+0064"
+cheat3_enable = false
+
+cheat4_desc = "2nd Slot Infinite Health"
+cheat4_code = "830002B0+C350"
+cheat4_enable = false
+
+cheat5_desc = "2nd Slot Infinite Turns"
+cheat5_code = "330002E8+0009"
+cheat5_enable = false
+
+cheat6_desc = "2nd Slot Max All Stats"
+cheat6_code = "430002C2+2710+00000007+0004"
+cheat6_enable = false
+
+cheat7_desc = "2nd Slot Synch 100%"
+cheat7_code = "330002E6+0064"
+cheat7_enable = false
+
+cheat8_desc = "3rd Slot Infinite Health"
+cheat8_code = "83000320+C350"
+cheat8_enable = false
+
+cheat9_desc = "3rd Slot Infinite Turns"
+cheat9_code = "33000358+0009"
+cheat9_enable = false
+
+cheat10_desc = "3rd Slot Max All Stats"
+cheat10_code = "43000332+2710+00000007+0004"
+cheat10_enable = false
+
+cheat11_desc = "3rd Slot Synch 100%"
+cheat11_code = "33000356+0064"
+cheat11_enable = false
+
+cheat12_desc = "99 of Each D-Part"
+cheat12_code = "4300581C+6363+00000008+0002"
+cheat12_enable = false
+
+cheat13_desc = "99 of Each Option Card"
+cheat13_code = "4300582C+6363+00000007+0002"
+cheat13_enable = false
+
+cheat14_desc = "Have 99 Genes"
+cheat14_code = "73007B88+FF01+33007B85+0063"
+cheat14_enable = false
+
+cheat15_desc = "Have All Black Dragon Cards"
+cheat15_code = "43005964+0001+00000010+0004"
+cheat15_enable = false
+
+cheat16_desc = "Have All Blue Dragon Cards"
+cheat16_code = "43005A50+0001+00000011+0004"
+cheat16_enable = false
+
+cheat17_desc = "Have All Brown Dragon Cards"
+cheat17_code = "43005AF0+0001+00000010+0004"
+cheat17_enable = false
+
+cheat18_desc = "Have All Character Cards"
+cheat18_code = "43005882+FFFF+00000003+0002"
+cheat18_enable = false
+
+cheat19_desc = "Have All D-Part Cards"
+cheat19_code = "8300587A+FFFF"
+cheat19_enable = false
+
+cheat20_desc = "Have All Green Dragon Cards"
+cheat20_code = "430059B0+0001+0000000E+0004+430059EC+0001+00000002+0004"
+cheat20_enable = false
+
+cheat21_desc = "Have All Option Cards"
+cheat21_code = "8300587C+FFFF"
+cheat21_enable = false
+
+cheat22_desc = "Have All Other Dragon Cards"
+cheat22_code = "43005AA0+0001+00000011+0004+43005B68+0001+00000017+0004"
+cheat22_enable = false
+
+cheat23_desc = "Have All Purple Dragon Cards"
+cheat23_code = "43005A00+0001+00000011+0004"
+cheat23_enable = false
+
+cheat24_desc = "Have All Red Dragon Cards"
+cheat24_code = "43005910+0001+00000006+0004+4300592C+0001+00000009+0004"
+cheat24_enable = false
+
+cheat25_desc = "Have All Yellow Dragon Cards"
+cheat25_code = "430058C0+0001+00000005+0004+430058D8+0001+00000003+0004+430058E8+0001+00000006+0004+43005B3C+0001+0000000B+0004"
+cheat25_enable = false
+
+cheat26_desc = "Infinite Genomes"
+cheat26_code = "4300583A+6363+00000004+0002"
+cheat26_enable = false
+
+cheat27_desc = "Max AGI"
+cheat27_code = "83005C28+03C9+83005C2A+03C9"
+cheat27_enable = false
+
+cheat28_desc = "Max All Stats"
+cheat28_code = "43005C18+03C9+0000000E+0002"
+cheat28_enable = false
+
+cheat29_desc = "Max DEX"
+cheat29_code = "83005C2C+03C9+83005C2E+03C9"
+cheat29_enable = false
+
+cheat30_desc = "Max EXP"
+cheat30_code = "83005898+270F"
+cheat30_enable = false
+
+cheat31_desc = "Max INT"
+cheat31_code = "83005C20+03C9+83005C22+03C9"
+cheat31_enable = false
+
+cheat32_desc = "Max LUK"
+cheat32_code = "83005C30+03C9+83005C32+03C9"
+cheat32_enable = false
+
+cheat33_desc = "Max MNT"
+cheat33_code = "83005C24+03C9+83005C26+03C9"
+cheat33_enable = false
+
+cheat34_desc = "Max STR"
+cheat34_code = "83005C18+03C9+83005C1A+03C9"
+cheat34_enable = false
+
+cheat35_desc = "Max VIT"
+cheat35_code = "83005C1C+03C9+83005C1E+03C9"
+cheat35_enable = false

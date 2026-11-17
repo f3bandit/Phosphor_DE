@@ -1,0 +1,37 @@
+cheats = 9
+
+cheat0_desc = "Have all Explosives"
+cheat0_code = "4200026E+0001+00000000+0000"
+cheat0_enable = false
+
+cheat1_desc = "Have all Weapons"
+cheat1_code = "42000246+0001+00000000+0000"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Ammo all Weapons"
+cheat2_code = "42000244+0063+00000000+0000"
+cheat2_enable = false
+
+cheat3_desc = "Infinite EN"
+cheat3_code = "3203B0F4+0032"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Explosives"
+cheat4_code = "4200026C+0063+00000000+0000"
+cheat4_enable = false
+
+cheat5_desc = "Infinite HP"
+cheat5_code = "3201EC20+0032"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Lives"
+cheat6_code = "3201E590+000A"
+cheat6_enable = false
+
+cheat7_desc = "Maximum Points"
+cheat7_code = "8201DF24+0D3F"
+cheat7_enable = false
+
+cheat8_desc = "Unlock all Missions"
+cheat8_code = "42035870+0101+00000000+0000"
+cheat8_enable = false

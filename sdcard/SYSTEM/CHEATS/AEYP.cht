@@ -1,0 +1,41 @@
+cheats = 10
+
+cheat0_desc = "1HitKill"
+cheat0_code = "880096A6+1A00+88009628+1A00"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Health"
+cheat1_code = "32000410+0005"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Item"
+cheat2_code = "32014181+0001"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Lives"
+cheat3_code = "32000B08+0009"
+cheat3_enable = false
+
+cheat4_desc = "Invincible"
+cheat4_code = "82000428+FFFF"
+cheat4_enable = false
+
+cheat5_desc = "Moon Jump"
+cheat5_code = "D0000020+0001"
+cheat5_enable = false
+
+cheat6_desc = "Unlock all Movies"
+cheat6_code = "32000B00+00FF"
+cheat6_enable = false
+
+cheat7_desc = "Unlock all Pictures"
+cheat7_code = "32000B0C+00FF"
+cheat7_enable = false
+
+cheat8_desc = "Untochable"
+cheat8_code = "880099AA+6292+880099AC+E01B+8800A1D2+E009"
+cheat8_enable = false
+
+cheat9_desc = "[M] Must Be On"
+cheat9_code = "E202B1E8+C31D"
+cheat9_enable = false

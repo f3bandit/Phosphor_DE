@@ -1,0 +1,21 @@
+cheats = 5
+
+cheat0_desc = "Have All Costumes"
+cheat0_code = "820164A8+0200+820164AA+0403"
+cheat0_enable = false
+
+cheat1_desc = "Have All Food Items"
+cheat1_code = "320164A3+00FF"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Double Jumps"
+cheat2_code = "88015144+2000"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Mubber"
+cheat3_code = "320164AE+0064"
+cheat3_enable = false
+
+cheat4_desc = "Max Health"
+cheat4_code = "320164B3+000A"
+cheat4_enable = false

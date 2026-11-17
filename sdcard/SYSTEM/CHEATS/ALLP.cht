@@ -1,0 +1,37 @@
+cheats = 9
+
+cheat0_desc = "Infinite Ammo"
+cheat0_code = "33006322+0009"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Health"
+cheat1_code = "3300635A+0004"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Horseshoes"
+cheat2_code = "330065FC+0009"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Lives"
+cheat3_code = "33006310+0009"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Tries"
+cheat4_code = "73006556+0100+83006556+0180"
+cheat4_enable = false
+
+cheat5_desc = "Level Select (Start New Adventure)"
+cheat5_code = "83004AE0+220F+730065A8+0003+330065A8+002E"
+cheat5_enable = false
+
+cheat6_desc = "Need 1 Win To Win"
+cheat6_code = "A3006550+03E8+83006550+FFFF"
+cheat6_enable = false
+
+cheat7_desc = "Never Reload"
+cheat7_code = "3300633E+0006"
+cheat7_enable = false
+
+cheat8_desc = "Opponent Never Wins"
+cheat8_code = "330044C1+0000"
+cheat8_enable = false

@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "1-Timers"
+cheat0_code = "83001A54+0000"
+cheat0_enable = false
+
+cheat1_desc = "Away Team Score Modifier"
+cheat1_code = "33001965+0000"
+cheat1_enable = false
+
+cheat2_desc = "Home Team Score Modifier"
+cheat2_code = "33001964+0000"
+cheat2_enable = false

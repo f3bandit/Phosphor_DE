@@ -1,0 +1,57 @@
+cheats = 14
+
+cheat0_desc = "Cannons Loaded"
+cheat0_code = "3300701A+0000+3300701C+0000"
+cheat0_enable = false
+
+cheat1_desc = "Have $50,000"
+cheat1_code = "83006E50+C350"
+cheat1_enable = false
+
+cheat2_desc = "Have All Cannons"
+cheat2_code = "43006E54+0001+00000008+0008"
+cheat2_enable = false
+
+cheat3_desc = "Have All Combo Attacks"
+cheat3_code = "330049E5+0007"
+cheat3_enable = false
+
+cheat4_desc = "Have All Hulls"
+cheat4_code = "43006ECC+0001+00000008+0008"
+cheat4_enable = false
+
+cheat5_desc = "Have All Rumors"
+cheat5_code = "330049A3+00FF"
+cheat5_enable = false
+
+cheat6_desc = "Have All Sails"
+cheat6_code = "43006E90+0001+00000008+0008"
+cheat6_enable = false
+
+cheat7_desc = "Have All Treasures"
+cheat7_code = "430049B4+FFFF+00000004+0002"
+cheat7_enable = false
+
+cheat8_desc = "Have All Weapons"
+cheat8_code = "430049A8+0909+00000004+0002"
+cheat8_enable = false
+
+cheat9_desc = "Infinite Food"
+cheat9_code = "33006E53+0064"
+cheat9_enable = false
+
+cheat10_desc = "Infinite Freeze Time"
+cheat10_code = "330049EB+0001"
+cheat10_enable = false
+
+cheat11_desc = "Infinite Items"
+cheat11_code = "43006F0C+0009+00000006+0004"
+cheat11_enable = false
+
+cheat12_desc = "Infinite Water"
+cheat12_code = "33006E52+0064"
+cheat12_enable = false
+
+cheat13_desc = "Infinite Health"
+cheat13_code = "830049DF+270F"
+cheat13_enable = false

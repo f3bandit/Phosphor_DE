@@ -1,0 +1,305 @@
+cheats = 76
+
+cheat0_desc = "Access All Areas"
+cheat0_code = "42005A10+0101+00000078+0002"
+cheat0_enable = false
+
+cheat1_desc = "Access All Stages"
+cheat1_code = "42005A00+0101+00000003+0002"
+cheat1_enable = false
+
+cheat2_desc = "All Charabombs"
+cheat2_code = "42005B10+0001+0000001C+0010"
+cheat2_enable = false
+
+cheat3_desc = "Anglar"
+cheat3_code = "82005B90+0001"
+cheat3_enable = false
+
+cheat4_desc = "BigOx"
+cheat4_code = "82005C30+0001"
+cheat4_enable = false
+
+cheat5_desc = "Ceedrun"
+cheat5_code = "82005B10+0001"
+cheat5_enable = false
+
+cheat6_desc = "Dorako"
+cheat6_code = "82005B00+0001"
+cheat6_enable = false
+
+cheat7_desc = "Elefandon"
+cheat7_code = "82005C90+0001"
+cheat7_enable = false
+
+cheat8_desc = "Elemouse"
+cheat8_code = "82005CD0+0001"
+cheat8_enable = false
+
+cheat9_desc = "Elephan"
+cheat9_code = "82005BF0+0001"
+cheat9_enable = false
+
+cheat10_desc = "Enemies Die Automatically"
+cheat10_code = "880288CC+46C0"
+cheat10_enable = false
+
+cheat11_desc = "FlyShark"
+cheat11_code = "82005CC0+0001"
+cheat11_enable = false
+
+cheat12_desc = "Infinite Bombs"
+cheat12_code = "82005194+0009"
+cheat12_enable = false
+
+cheat13_desc = "Infinite Lives"
+cheat13_code = "32008098+0006"
+cheat13_enable = false
+
+cheat14_desc = "Infinite Time"
+cheat14_code = "830055A8+3840"
+cheat14_enable = false
+
+cheat15_desc = "Invincible"
+cheat15_code = "32000054+0002"
+cheat15_enable = false
+
+cheat16_desc = "Kai-man"
+cheat16_code = "82005B70+0001"
+cheat16_enable = false
+
+cheat17_desc = "KameKing"
+cheat17_code = "82005CA0+0001"
+cheat17_enable = false
+
+cheat18_desc = "Lay Tons Of Bombs"
+cheat18_code = "32000051+0009"
+cheat18_enable = false
+
+cheat19_desc = "Max Blast Length"
+cheat19_code = "32000053+0009"
+cheat19_enable = false
+
+cheat20_desc = "Max Fire"
+cheat20_code = "32000052+0009"
+cheat20_enable = false
+
+cheat21_desc = "Max Speed"
+cheat21_code = "8200004C+0B00"
+cheat21_enable = false
+
+cheat22_desc = "No.1 Max Stats"
+cheat22_code = "32005B02+00FF+32005B06+00FF+32005B08+00FF+32005B0A+00FF+32005B0C+00FF"
+cheat22_enable = false
+
+cheat23_desc = "No.10 Max Stats"
+cheat23_code = "32005B92+00FF+32005B96+00FF+32005B98+00FF+32005B9A+00FF+32005B9C+00FF"
+cheat23_enable = false
+
+cheat24_desc = "No.11 Max Stats"
+cheat24_code = "32005BA2+00FF+32005BA6+00FF+32005BA8+00FF+32005BAA+00FF+32005BAC+00FF"
+cheat24_enable = false
+
+cheat25_desc = "No.12 Max Stats"
+cheat25_code = "32005BB2+00FF+32005BB6+00FF+32005BB8+00FF+32005BBA+00FF+32005BBC+00FF"
+cheat25_enable = false
+
+cheat26_desc = "No.13 Max Stats"
+cheat26_code = "32005BC2+00FF+32005BC6+00FF+32005BC8+00FF+32005BCA+00FF+32005BCC+00FF"
+cheat26_enable = false
+
+cheat27_desc = "No.14 Max Stats"
+cheat27_code = "32005BD2+00FF+32005BD6+00FF+32005BD8+00FF+32005BDA+00FF+32005BDC+00FF"
+cheat27_enable = false
+
+cheat28_desc = "No.15 Max Stats"
+cheat28_code = "32005BE2+00FF+32005BE6+00FF+32005BE8+00FF+32005BEA+00FF+32005BEC+00FF"
+cheat28_enable = false
+
+cheat29_desc = "No.16 Max Stats"
+cheat29_code = "32005BF2+00FF+32005BF6+00FF+32005BF8+00FF+32005BFA+00FF+32005BFC+00FF"
+cheat29_enable = false
+
+cheat30_desc = "No.17 Max Stats"
+cheat30_code = "32005C02+00FF+32005C06+00FF+32005C08+00FF+32005C0A+00FF+32005C0C+00FF"
+cheat30_enable = false
+
+cheat31_desc = "No.18 Max Stats"
+cheat31_code = "32005C12+00FF+32005C16+00FF+32005C18+00FF+32005C1A+00FF+32005C1C+00FF"
+cheat31_enable = false
+
+cheat32_desc = "No.19 Max Stats"
+cheat32_code = "32005C22+00FF+32005C26+00FF+32005C28+00FF+32005C2A+00FF+32005C2C+00FF"
+cheat32_enable = false
+
+cheat33_desc = "No.2 Max Stats"
+cheat33_code = "32005B12+00FF+32005B16+00FF+32005B18+00FF+32005B1A+00FF+32005B1C+00FF"
+cheat33_enable = false
+
+cheat34_desc = "No.20 Max Stats"
+cheat34_code = "32005C32+00FF+32005C36+00FF+32005C38+00FF+32005C3A+00FF+32005C3C+00FF"
+cheat34_enable = false
+
+cheat35_desc = "No.21 Max Stats"
+cheat35_code = "32005C42+00FF+32005C46+00FF+32005C48+00FF+32005C4A+00FF+32005C4C+00FF"
+cheat35_enable = false
+
+cheat36_desc = "No.22 Max Stats"
+cheat36_code = "32005C52+00FF+32005C56+00FF+32005C58+00FF+32005C5A+00FF+32005C5C+00FF"
+cheat36_enable = false
+
+cheat37_desc = "No.23 Max Stats"
+cheat37_code = "32005C62+00FF+32005C66+00FF+32005C68+00FF+32005C6A+00FF+32005C6C+00FF"
+cheat37_enable = false
+
+cheat38_desc = "No.24 Max Stats"
+cheat38_code = "32005C72+00FF+32005C76+00FF+32005C78+00FF+32005C7A+00FF+32005C7C+00FF"
+cheat38_enable = false
+
+cheat39_desc = "No.25 Max Stats"
+cheat39_code = "32005C82+00FF+32005C86+00FF+32005C88+00FF+32005C8A+00FF+32005C8C+00FF"
+cheat39_enable = false
+
+cheat40_desc = "No.26 Max Stats"
+cheat40_code = "32005C92+00FF+32005C96+00FF+32005C98+00FF+32005C9A+00FF+32005C9C+00FF"
+cheat40_enable = false
+
+cheat41_desc = "No.27 Max Stats"
+cheat41_code = "32005CA2+00FF+32005CA6+00FF+32005CA8+00FF+32005CAA+00FF+32005CAC+00FF"
+cheat41_enable = false
+
+cheat42_desc = "No.28 Max Stats"
+cheat42_code = "32005CB2+00FF+32005CB6+00FF+32005CB8+00FF+32005CBA+00FF+32005CBC+00FF"
+cheat42_enable = false
+
+cheat43_desc = "No.29 Max Stats"
+cheat43_code = "32005CC2+00FF+32005CC6+00FF+32005CC8+00FF+32005CCA+00FF+32005CCC+00FF"
+cheat43_enable = false
+
+cheat44_desc = "No.3 Max Stats"
+cheat44_code = "32005B22+00FF+32005B26+00FF+32005B28+00FF+32005B2A+00FF+32005B2C+00FF"
+cheat44_enable = false
+
+cheat45_desc = "No.30 Max Stats"
+cheat45_code = "32005CD2+00FF+32005CD6+00FF+32005CD8+00FF+32005CDA+00FF+32005CDC+00FF"
+cheat45_enable = false
+
+cheat46_desc = "No.4 Max Stats"
+cheat46_code = "32005B32+00FF+32005B36+00FF+32005B38+00FF+32005B3A+00FF+32005B3C+00FF"
+cheat46_enable = false
+
+cheat47_desc = "No.5 Max Stats"
+cheat47_code = "32005B42+00FF+32005B46+00FF+32005B48+00FF+32005B4A+00FF+32005B4C+00FF"
+cheat47_enable = false
+
+cheat48_desc = "No.6 Max Stats"
+cheat48_code = "32005B52+00FF+32005B56+00FF+32005B58+00FF+32005B5A+00FF+32005B5C+00FF"
+cheat48_enable = false
+
+cheat49_desc = "No.7 Max Stats"
+cheat49_code = "32005B62+00FF+32005B66+00FF+32005B68+00FF+32005B6A+00FF+32005B6C+00FF"
+cheat49_enable = false
+
+cheat50_desc = "No.8 Max Stats"
+cheat50_code = "32005B72+00FF+32005B76+00FF+32005B78+00FF+32005B7A+00FF+32005B7C+00FF"
+cheat50_enable = false
+
+cheat51_desc = "No.9 Max Stats"
+cheat51_code = "32005B82+00FF+32005B86+00FF+32005B88+00FF+32005B8A+00FF+32005B8C+00FF"
+cheat51_enable = false
+
+cheat52_desc = "P.Animal"
+cheat52_code = "82005BC0+0001"
+cheat52_enable = false
+
+cheat53_desc = "P.Beast"
+cheat53_code = "82005BE0+0001"
+cheat53_enable = false
+
+cheat54_desc = "P.Claw"
+cheat54_code = "82005BB0+0001"
+cheat54_enable = false
+
+cheat55_desc = "P.Dragon"
+cheat55_code = "82005C50+0001"
+cheat55_enable = false
+
+cheat56_desc = "P.Fangs"
+cheat56_code = "82005C60+0001"
+cheat56_enable = false
+
+cheat57_desc = "P.Hen"
+cheat57_code = "82005BD0+0001"
+cheat57_enable = false
+
+cheat58_desc = "Pass Thru Blocks, Flames Pierce All & Push Bombs"
+cheat58_code = "32000054+00FE"
+cheat58_enable = false
+
+cheat59_desc = "Pass Thru Blocks, Pass Over Bombs, Flames Pierce All & Remote Bomb"
+cheat59_code = "32000054+000F"
+cheat59_enable = false
+
+cheat60_desc = "Pommy"
+cheat60_code = "82005BA0+0001"
+cheat60_enable = false
+
+cheat61_desc = "Pterydon"
+cheat61_code = "82005B30+0001"
+cheat61_enable = false
+
+cheat62_desc = "Rhinaus"
+cheat62_code = "82005C80+0001"
+cheat62_enable = false
+
+cheat63_desc = "Rhinon"
+cheat63_code = "82005C00+0001"
+cheat63_enable = false
+
+cheat64_desc = "Seapony"
+cheat64_code = "82005B80+0001"
+cheat64_enable = false
+
+cheat65_desc = "Shargon"
+cheat65_code = "82005C40+0001"
+cheat65_enable = false
+
+cheat66_desc = "Sharkun"
+cheat66_code = "82005B60+0001"
+cheat66_enable = false
+
+cheat67_desc = "Sibaloon"
+cheat67_code = "82005B50+0001"
+cheat67_enable = false
+
+cheat68_desc = "Sparkun"
+cheat68_code = "82005C70+0001"
+cheat68_enable = false
+
+cheat69_desc = "Stegodon"
+cheat69_code = "82005B40+0001"
+cheat69_enable = false
+
+cheat70_desc = "Stop Time"
+cheat70_code = "830055A8+315B"
+cheat70_enable = false
+
+cheat71_desc = "Th.Liger"
+cheat71_code = "82005CB0+0001"
+cheat71_enable = false
+
+cheat72_desc = "ToughGuy"
+cheat72_code = "82005C20+0001"
+cheat72_enable = false
+
+cheat73_desc = "TwinDrag"
+cheat73_code = "82005B20+0001"
+cheat73_enable = false
+
+cheat74_desc = "Walk Through Walls"
+cheat74_code = "8801A8D4+2000"
+cheat74_enable = false
+
+cheat75_desc = "Youno"
+cheat75_code = "82005C10+0001"
+cheat75_enable = false

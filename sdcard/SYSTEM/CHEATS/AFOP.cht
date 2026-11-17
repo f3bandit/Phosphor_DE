@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "No Score (Red Player)"
+cheat0_code = "5706C759+0003+17E697C9+21C1"
+cheat0_enable = false
+
+cheat1_desc = "Stop Timer"
+cheat1_code = "3203AA8C+0063"
+cheat1_enable = false

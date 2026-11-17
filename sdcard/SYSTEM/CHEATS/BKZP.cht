@@ -1,0 +1,153 @@
+cheats = 38
+
+cheat0_desc = "Bad Magic Bayou"
+cheat0_code = "320367BA+0001"
+cheat0_enable = false
+
+cheat1_desc = "Breegull Beach"
+cheat1_code = "320367B8+0001"
+cheat1_enable = false
+
+cheat2_desc = "Cliff Farm"
+cheat2_code = "320367B9+0001"
+cheat2_enable = false
+
+cheat3_desc = "Freezing Furnace"
+cheat3_code = "320367BC+0001"
+cheat3_enable = false
+
+cheat4_desc = "Grunty's Stronghold"
+cheat4_code = "320367BB+0001"
+cheat4_enable = false
+
+cheat5_desc = "Have Candle Form"
+cheat5_code = "32036C04+0001"
+cheat5_enable = false
+
+cheat6_desc = "Have Max Jiggies"
+cheat6_code = "32001044+003C"
+cheat6_enable = false
+
+cheat7_desc = "Have Max N.Kreditz"
+cheat7_code = "3203E16C+00A0"
+cheat7_enable = false
+
+cheat8_desc = "Have Max Notes"
+cheat8_code = "82001050+0258"
+cheat8_enable = false
+
+cheat9_desc = "Have Mouse Form"
+cheat9_code = "32036920+0001"
+cheat9_enable = false
+
+cheat10_desc = "Have Octopus Form"
+cheat10_code = "32036ED8+0001"
+cheat10_enable = false
+
+cheat11_desc = "Have Tank Form"
+cheat11_code = "32037180+0001"
+cheat11_enable = false
+
+cheat12_desc = "Infinite Battery Eggs"
+cheat12_code = "32001053+000F"
+cheat12_enable = false
+
+cheat13_desc = "Infinite Eggs"
+cheat13_code = "32001052+0019"
+cheat13_enable = false
+
+cheat14_desc = "Infinite Fire Eggs"
+cheat14_code = "32001055+0014"
+cheat14_enable = false
+
+cheat15_desc = "Infinite Golden Feathers"
+cheat15_code = "32001056+0019"
+cheat15_enable = false
+
+cheat16_desc = "Infinite Health"
+cheat16_code = "32001057+0005"
+cheat16_enable = false
+
+cheat17_desc = "Infinite Ice Eggs"
+cheat17_code = "32001054+0014"
+cheat17_enable = false
+
+cheat18_desc = "Infinite Oxygen"
+cheat18_code = "32002099+0002"
+cheat18_enable = false
+
+cheat19_desc = "Learn Battery Egg Firing"
+cheat19_code = "320020A1+0001"
+cheat19_enable = false
+
+cheat20_desc = "Learn Climb Ability"
+cheat20_code = "320020AC+0001"
+cheat20_enable = false
+
+cheat21_desc = "Learn Dirt Drill"
+cheat21_code = "3200209E+0001"
+cheat21_enable = false
+
+cheat22_desc = "Learn Egg Firing"
+cheat22_code = "320020A0+0001"
+cheat22_enable = false
+
+cheat23_desc = "Learn Feathery Flap"
+cheat23_code = "320020AD+0001"
+cheat23_enable = false
+
+cheat24_desc = "Learn Fire Egg Firing"
+cheat24_code = "320020A3+0001"
+cheat24_enable = false
+
+cheat25_desc = "Learn Flap Flip"
+cheat25_code = "320020AE+0001"
+cheat25_enable = false
+
+cheat26_desc = "Learn Ice Egg Firing"
+cheat26_code = "320020A2+0001"
+cheat26_enable = false
+
+cheat27_desc = "Learn Pack Whack"
+cheat27_code = "3200209B+0001"
+cheat27_enable = false
+
+cheat28_desc = "Learn Rat-a-Tap Rap"
+cheat28_code = "3200209D+0001"
+cheat28_enable = false
+
+cheat29_desc = "Learn Roll Attack"
+cheat29_code = "3200209C+0001"
+cheat29_enable = false
+
+cheat30_desc = "Learn Shock Spring Jump"
+cheat30_code = "320020B0+0001"
+cheat30_enable = false
+
+cheat31_desc = "Learn Talon Trot"
+cheat31_code = "320020A9+0001"
+cheat31_enable = false
+
+cheat32_desc = "Learn Underwater Dive"
+cheat32_code = "320020AF+0001"
+cheat32_enable = false
+
+cheat33_desc = "Learn Wonderwing"
+cheat33_code = "3200209F+0001"
+cheat33_enable = false
+
+cheat34_desc = "Multi Feathery Flaps"
+cheat34_code = "320021C7+0000"
+cheat34_enable = false
+
+cheat35_desc = "No Wrong Answers"
+cheat35_code = "3203FA98+0000"
+cheat35_enable = false
+
+cheat36_desc = "Spiller's Habour"
+cheat36_code = "320367BD+0001"
+cheat36_enable = false
+
+cheat37_desc = "Transparent"
+cheat37_code = "32001092+000A+320011F4+000A"
+cheat37_enable = false

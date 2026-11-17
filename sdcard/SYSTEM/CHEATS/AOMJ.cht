@@ -1,0 +1,33 @@
+cheats = 8
+
+cheat0_desc = "Always Place 1st"
+cheat0_code = "32013104+0000"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Turbo"
+cheat1_code = "82013136+2710+32013C50+00FF"
+cheat1_enable = false
+
+cheat2_desc = "Max Trick Gauge"
+cheat2_code = "32013138+00C8"
+cheat2_enable = false
+
+cheat3_desc = "Time Always 0:00"
+cheat3_code = "820139B0+0000"
+cheat3_enable = false
+
+cheat4_desc = "Start With Hi-Score"
+cheat4_code = "7201310C+0000+8201310C+C350"
+cheat4_enable = false
+
+cheat5_desc = "Max Score"
+cheat5_code = "82013C10+FFFF"
+cheat5_enable = false
+
+cheat6_desc = "Unlock All Items"
+cheat6_code = "42001748+0001+0000002F+0002"
+cheat6_enable = false
+
+cheat7_desc = "Unlock Extra Options"
+cheat7_code = "320017A8+0001"
+cheat7_enable = false

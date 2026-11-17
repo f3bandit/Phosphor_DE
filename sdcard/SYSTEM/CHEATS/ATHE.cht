@@ -1,0 +1,133 @@
+cheats = 33
+
+cheat0_desc = "Always Special"
+cheat0_code = "33003A84+0001"
+cheat0_enable = false
+
+cheat1_desc = "Always Zoom"
+cheat1_code = "33003A94+0001"
+cheat1_enable = false
+
+cheat2_desc = "Anime"
+cheat2_code = "33003A9C+0001"
+cheat2_enable = false
+
+cheat3_desc = "Disco Lights"
+cheat3_code = "33003AA8+0001"
+cheat3_enable = false
+
+cheat4_desc = "Fugitive"
+cheat4_code = "33003AA4+0001"
+cheat4_enable = false
+
+cheat5_desc = "Have All Gaps"
+cheat5_code = "420015A4+FFFF+00000016+0002"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Cash - Andrew Reynolds"
+cheat6_code = "320011C0+00FF+320011C1+00E0+320011C2+00F5+320011C3+0005+320011C4+00FF+320011C5+00E0+320011C6+00F5+320011C7+0005"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Cash - Bob Burnquist"
+cheat7_code = "32000DE0+00FF+32000DE1+00E0+32000DE2+00F5+32000DE3+0005+32000DE4+00FF+32000DE5+00E0+32000DE6+00F5+32000DE7+0005"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Cash - Bucky Lasek"
+cheat8_code = "3200104C+00FF+3200104D+00E0+3200104E+00F5+3200104F+0005+32001050+00FF+32001051+00E0+32001052+00F5+32001053+0005"
+cheat8_enable = false
+
+cheat9_desc = "Infinite Cash - Chad Muska"
+cheat9_code = "32001144+00FF+32001145+00E0+32001146+00F5+32001147+0005+32001148+00FF+32001149+00E0+3200114A+00F5+3200114B+0005"
+cheat9_enable = false
+
+cheat10_desc = "Infinite Cash - Elissa Steamer"
+cheat10_code = "320012B8+00FF+320012B9+00E0+320012BA+00F5+320012BB+0005+320012BC+00FF+320012BD+00E0+320012BE+00F5+320012BF+0005"
+cheat10_enable = false
+
+cheat11_desc = "Infinite Cash - Eric Koston"
+cheat11_code = "32000FD0+00FF+32000FD1+00E0+32000FD2+00F5+32000FD3+0005+32000FD4+00FF+32000FD5+00E0+32000FD6+00F5+32000FD7+0005"
+cheat11_enable = false
+
+cheat12_desc = "Infinite Cash - Geoff Rowley"
+cheat12_code = "3200123C+00FF+3200123D+00E0+3200123E+00F5+3200123F+0005+32001240+00FF+32001241+00E0+32001242+00F5+32001243+0005"
+cheat12_enable = false
+
+cheat13_desc = "Infinite Cash - Jamie Thomas"
+cheat13_code = "32001334+00FF+32001335+00E0+32001336+00F5+32001337+0005+32001338+00FF+32001339+00E0+3200133A+00F5+3200133B+0005"
+cheat13_enable = false
+
+cheat14_desc = "Infinite Cash - Kareem Campbell"
+cheat14_code = "32000ED8+00FF+32000ED9+00E0+32000EDA+00F5+32000EDB+0005+32000EDC+00FF+32000EDD+00E0+32000EDE+00F5+32000EDF+0005"
+cheat14_enable = false
+
+cheat15_desc = "Infinite Cash - M (?)"
+cheat15_code = "3200142C+00FF+3200142D+00E0+3200142E+00F5+3200142F+0005+32001430+00FF+32001431+00E0+32001432+00F5+32001433+0005"
+cheat15_enable = false
+
+cheat16_desc = "Infinite Cash - Rodney Mullen"
+cheat16_code = "320010C8+00FF+320010C9+00E0+320010CA+00F5+320010CB+0005+320010CC+00FF+320010CD+00E0+320010CE+00F5+320010CF+0005"
+cheat16_enable = false
+
+cheat17_desc = "Infinite Cash - Rune Glifberg"
+cheat17_code = "32000F54+00FF+32000F55+00E0+32000F56+00F5+32000F57+0005+32000F58+00FF+32000F59+00E0+32000F5A+00F5+32000F5B+0005"
+cheat17_enable = false
+
+cheat18_desc = "Infinite Cash - Spider-Man (?)"
+cheat18_code = "320013B0+00FF+320013B1+00E0+320013B2+00F5+320013B3+0005+320013B4+00FF+320013B5+00E0+320013B6+00F5+320013B7+0005"
+cheat18_enable = false
+
+cheat19_desc = "Infinite Cash - Steve Caballero"
+cheat19_code = "32000E5C+00FF+32000E5D+00E0+32000E5E+00F5+32000E5F+0005+32000E60+00FF+32000E61+00E0+32000E62+00F5+32000E63+0005"
+cheat19_enable = false
+
+cheat20_desc = "Infinite Cash - Tony Hawk"
+cheat20_code = "82000D64+E0FF+82000D66+05F5+32000D68+00FF"
+cheat20_enable = false
+
+cheat21_desc = "Infinite Time"
+cheat21_code = "3201AAE0+0001"
+cheat21_enable = false
+
+cheat22_desc = "Invisibility"
+cheat22_code = "33003AAC+0001"
+cheat22_enable = false
+
+cheat23_desc = "Max Career & Personal Cash (Affects Everyone)"
+cheat23_code = "42000D64+EA60+0000000F+007C+420014CC+EA60+00000002+0004+42006F24+EA60+00000002+0004"
+cheat23_enable = false
+
+cheat24_desc = "Moon Physics"
+cheat24_code = "33003A90+0001"
+cheat24_enable = false
+
+cheat25_desc = "Other Side"
+cheat25_code = "33003AB0+0001"
+cheat25_enable = false
+
+cheat26_desc = "Perfect Balance"
+cheat26_code = "33003A80+0001"
+cheat26_enable = false
+
+cheat27_desc = "Sim Mode"
+cheat27_code = "33003A8C+0001"
+cheat27_enable = false
+
+cheat28_desc = "Slow Nic"
+cheat28_code = "33003A98+0001"
+cheat28_enable = false
+
+cheat29_desc = "Stud Mode"
+cheat29_code = "33003A88+0001"
+cheat29_enable = false
+
+cheat30_desc = "The Shadow"
+cheat30_code = "33003AA0+0001"
+cheat30_enable = false
+
+cheat31_desc = "Unlock All Skaters"
+cheat31_code = "320013D7+0001+32001453+0001"
+cheat31_enable = false
+
+cheat32_desc = "Unlock SpiderMan"
+cheat32_code = "320013D7+0001"
+cheat32_enable = false

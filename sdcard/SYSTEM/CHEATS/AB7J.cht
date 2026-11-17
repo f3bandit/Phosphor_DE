@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "50,000 Cash"
+cheat0_code = "82000122+C350"
+cheat0_enable = false
+
+cheat1_desc = "All Beetles Listed"
+cheat1_code = "4200016A+FFFF+00000028+0002"
+cheat1_enable = false
+
+cheat2_desc = "All Items"
+cheat2_code = "420001B8+0000+00010021+0002+42000462+FFFF+00000021+0002"
+cheat2_enable = false

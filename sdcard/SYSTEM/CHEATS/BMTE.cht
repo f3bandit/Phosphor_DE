@@ -1,0 +1,37 @@
+cheats = 9
+
+cheat0_desc = "All Tracks Beat"
+cheat0_code = "43000310+0101+0000000F+0002"
+cheat0_enable = false
+
+cheat1_desc = "Always Place 1st"
+cheat1_code = "3300001C+0001"
+cheat1_enable = false
+
+cheat2_desc = "Rookie: Lost City - Extra Top Speed"
+cheat2_code = "720129E4+0AAA+320129D2+0004+720129E4+0AAA+32012A32+0004"
+cheat2_enable = false
+
+cheat3_desc = "Rookie: Lost City - Micro-Truck"
+cheat3_code = "72012C68+132C+82012C68+0500+72012C68+0500+82012C6C+0500"
+cheat3_enable = false
+
+cheat4_desc = "Rookie: Lost City - Quick Xlr8R"
+cheat4_code = "720129E4+0AAA+320129E0+0086"
+cheat4_enable = false
+
+cheat5_desc = "Rookie: Lost City - Start On Last Lap"
+cheat5_code = "72012C4C+0000+32012C4C+0002+72012C4C+0002+82012C3A+0F00"
+cheat5_enable = false
+
+cheat6_desc = "Rookie: Lost City - Upgraded Brakes"
+cheat6_code = "720129E4+0AAA+32012A10+0050"
+cheat6_enable = false
+
+cheat7_desc = "Unlock All Tracks"
+cheat7_code = "720000BC+03E4+42000ACC+0002+0000001D+0004"
+cheat7_enable = false
+
+cheat8_desc = "Unlock All Trucks"
+cheat8_code = "720000BC+03E4+42000B50+0002+0000000A+0004"
+cheat8_enable = false

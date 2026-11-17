@@ -1,0 +1,9 @@
+build/
+build_sim/
+*.elf
+*.gba
+*.sav
+/ezkernelnew.bin
+sim/sim_disk.img
+__pycache__/
+*.pyc

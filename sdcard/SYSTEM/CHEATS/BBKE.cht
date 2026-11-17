@@ -1,0 +1,81 @@
+cheats = 20
+
+cheat0_desc = "1st Boss  has 0HP & dies instantly"
+cheat0_code = "33003E18+0000"
+cheat0_enable = false
+
+cheat1_desc = "2nd Boss has 0HP"
+cheat1_code = "33004054+0000"
+cheat1_enable = false
+
+cheat2_desc = "Access All Areas"
+cheat2_code = "43000210+0101+00000025+0002+43000280+FFFF+00000006+0002"
+cheat2_enable = false
+
+cheat3_desc = "All Missions Complete"
+cheat3_code = "43000200+0101+00000033+0002+430002E0+0101+00000003+0002+430002E8+0101+00000008+0002+43000390+0101+0000000A+0002+43000280+7F05+00000005+0002+330002E6+0001+33000268+0001+83000290+0101+83000292+0101+83000294+1401"
+cheat3_enable = false
+
+cheat4_desc = "Cranky's Lectures"
+cheat4_code = "43000200+0101+00000004+0002"
+cheat4_enable = false
+
+cheat5_desc = "Diddy Mode+Race Events"
+cheat5_code = "430002E0+0101+0000000C+0002"
+cheat5_enable = false
+
+cheat6_desc = "Have 300 Bananas"
+cheat6_code = "83000030+012C"
+cheat6_enable = false
+
+cheat7_desc = "Have All Bronze Medals"
+cheat7_code = "430002F0+0101+00000004+0002"
+cheat7_enable = false
+
+cheat8_desc = "Have All Crystals"
+cheat8_code = "43000390+0101+00000014+0002"
+cheat8_enable = false
+
+cheat9_desc = "Have All Gold Medals"
+cheat9_code = "430002E0+0101+00000004+0002"
+cheat9_enable = false
+
+cheat10_desc = "Have All Silver Medals"
+cheat10_code = "430002E8+0101+00000004+0002"
+cheat10_enable = false
+
+cheat11_desc = "Infinite Attack"
+cheat11_code = "320220C2+0016"
+cheat11_enable = false
+
+cheat12_desc = "Infinite Health"
+cheat12_code = "3300002C+0003"
+cheat12_enable = false
+
+cheat13_desc = "Invincible"
+cheat13_code = "320220A4+0001"
+cheat13_enable = false
+
+cheat14_desc = "Launch Further"
+cheat14_code = "72022008+000D+32022008+0001"
+cheat14_enable = false
+
+cheat15_desc = "Player Modifier (Story)"
+cheat15_code = "3300014E+0000"
+cheat15_enable = false
+
+cheat16_desc = "Quick Charge"
+cheat16_code = "320220B4+0060"
+cheat16_enable = false
+
+cheat17_desc = "Stop Bonus Timer"
+cheat17_code = "32012291+0001"
+cheat17_enable = false
+
+cheat18_desc = "Time Attack Mode"
+cheat18_code = "3300014D+0001"
+cheat18_enable = false
+
+cheat19_desc = "Transparent"
+cheat19_code = "32022062+0001"
+cheat19_enable = false

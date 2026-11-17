@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Have All Weapons"
+cheat0_code = "320000F8+00FF"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Lives"
+cheat1_code = "320000EC+0009"
+cheat1_enable = false
+
+cheat2_desc = "Skip Level [Press L+R+Up]"
+cheat2_code = "74000130+00BF+320000FC+0000"
+cheat2_enable = false

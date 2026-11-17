@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Baleog Infinite Health"
+cheat0_code = "33000FF0+0006"
+cheat0_enable = false
+
+cheat1_desc = "Erik Infinite Health"
+cheat1_code = "33000FEE+0006"
+cheat1_enable = false
+
+cheat2_desc = "Mega Jump"
+cheat2_code = "330010B6+0000"
+cheat2_enable = false

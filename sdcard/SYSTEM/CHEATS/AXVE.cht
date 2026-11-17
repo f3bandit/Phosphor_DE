@@ -1,0 +1,825 @@
+cheats = 206
+
+cheat0_desc = "1st Pokemon - Max Stats"
+cheat0_code = "430043B6+03E7+00000007+0002"
+cheat0_enable = false
+
+cheat1_desc = "2nd Pokemon - Max Stats"
+cheat1_code = "4300441A+03E7+00000007+0002"
+cheat1_enable = false
+
+cheat2_desc = "3rd Pokemon - Max Stats"
+cheat2_code = "4300447E+03E7+00000007+0002"
+cheat2_enable = false
+
+cheat3_desc = "4th Pokemon - Max Stats"
+cheat3_code = "430044E2+03E7+00000007+0002"
+cheat3_enable = false
+
+cheat4_desc = "5th Pokemon - Max Stats"
+cheat4_code = "43004546+03E7+00000007+0002"
+cheat4_enable = false
+
+cheat5_desc = "6th Pokemon - Max Stats"
+cheat5_code = "430045AA+03E7+00000007+0002"
+cheat5_enable = false
+
+cheat6_desc = "Access All Fly To Areas"
+cheat6_code = "42026A56+FFFF+00000005+0002"
+cheat6_enable = false
+
+cheat7_desc = "Access Birch's Bag [Press L+R+Up]"
+cheat7_code = "74000130+00BF+830005B0+0000+74000130+00BF+830005B8+0200+74000130+00BF+830005C0+EA89+74000130+00BF+830005C2+0814+730005C0+EAAB+830005C0+EAB6"
+cheat7_enable = false
+
+cheat8_desc = "Access Fly Map [Press L+B+Up]"
+cheat8_code = "74000130+01BD+83004B20+AB35+74000130+01BD+83004B22+0808+74000130+01BD+83004B3E+0005"
+cheat8_enable = false
+
+cheat9_desc = "Access Mod Shop [Press L+A+Select]"
+cheat9_code = "74000130+01FA+430005C0+2F81+D8940002+0002+730005C0+2F81+4300070C+0000+02030002+0002"
+cheat9_enable = false
+
+cheat10_desc = "Access Your PC [Press A+R+Up]"
+cheat10_code = "74000130+02BE+830005B8+0201+74000130+02BE+830005B0+0000+74000130+02BE+830005C0+F7FA+74000130+02BE+830005C2+0819+74000130+02BE+830005C4+001D+74000130+02BE+830005C6+081A"
+cheat10_enable = false
+
+cheat11_desc = "All Key Items"
+cheat11_code = "730005C0+2F81+33000710+001E+730005C0+2F81+42030000+0103+0001001E+0002"
+cheat11_enable = false
+
+cheat12_desc = "All Misc Items"
+cheat12_code = "730005C0+2F81+33000710+004E+730005C0+2F81+42030000+000D+00010027+0002+730005C0+2F81+4203004E+003F+00010018+0002+730005C0+2F81+4203007E+005D+00010006+0002+730005C0+2F81+4203008A+0067+00010009+0002"
+cheat12_enable = false
+
+cheat13_desc = "Change PLYR Name (View Trainer Card)"
+cheat13_code = "73004B20+382D+43004B20+AAAD+5D530002+0002+73001774+B061+43001774+469D+C1680002+0002"
+cheat13_enable = false
+
+cheat14_desc = "Complete Pokedex"
+cheat14_code = "82026B00+0302+32024EBE+00DA+32026A5A+00F0+42024ECC+FFFF+00000034+0002+4202606C+FFFF+0000001A+0002+420291C0+FFFF+0000001A+0002"
+cheat14_enable = false
+
+cheat15_desc = "Eggs Hatch Faster"
+cheat15_code = "320287EA+00FE"
+cheat15_enable = false
+
+cheat16_desc = "First Hall of Fame Time Is Set To 1 Hour, 0 Minutes, 0 Seconds"
+cheat16_code = "82026C78+0000+82026C7A+0001"
+cheat16_enable = false
+
+cheat17_desc = "Free DayCare"
+cheat17_code = "8202E8CE+0000"
+cheat17_enable = false
+
+cheat18_desc = "Gold Pokeblock In Slot 1"
+cheat18_code = "82025F30+FF0E+82025F32+FFFF+82025F34+FFFF+82025F36+00FF"
+cheat18_enable = false
+
+cheat19_desc = "Have 9999 Battle Tower Wins In A Row"
+cheat19_code = "82025416+270F"
+cheat19_enable = false
+
+cheat20_desc = "Have 9999 Cable Battles Lost"
+cheat20_code = "82026CD4+270F"
+cheat20_enable = false
+
+cheat21_desc = "Have 9999 Cable Battles Won"
+cheat21_code = "82026CD0+270F"
+cheat21_enable = false
+
+cheat22_desc = "Have 9999 Casino Coins"
+cheat22_code = "82025BC8+270F"
+cheat22_enable = false
+
+cheat23_desc = "Have 9999 Pokéblocks Created With Friends"
+cheat23_code = "82026CFC+270F"
+cheat23_enable = false
+
+cheat24_desc = "Have 9999 Pokémon Trades"
+cheat24_code = "82026CC8+270F"
+cheat24_enable = false
+
+cheat25_desc = "Have 9999 Won Contests With Friends"
+cheat25_code = "82026D00+270F"
+cheat25_enable = false
+
+cheat26_desc = "Have All Berries"
+cheat26_code = "42025E74+0085+0001002B+0004+42025E76+0063+0000002B+0004"
+cheat26_enable = false
+
+cheat27_desc = "Have All Chairs"
+cheat27_code = "42027DDE+0B0A+02020004+0002+32027DE6+0012"
+cheat27_enable = false
+
+cheat28_desc = "Have All Cushions"
+cheat28_code = "42027E60+6665+02020005+0002"
+cheat28_enable = false
+
+cheat29_desc = "Have All Desks"
+cheat29_code = "42027DD4+0201+02020004+0002+32027DDC+0009"
+cheat29_enable = false
+
+cheat30_desc = "Have All Dolls"
+cheat30_code = "42027E38+4D4C+0202000C+0002+82027E50+6F64+42027E52+7170+02020004+0002+32027E5A+0078"
+cheat30_enable = false
+
+cheat31_desc = "Have All Mats"
+cheat31_code = "42027E10+3130+02020009+0002"
+cheat31_enable = false
+
+cheat32_desc = "Have All Ornaments"
+cheat32_code = "42027DF2+1A19+0202000B+0002+32027E08+002F"
+cheat32_enable = false
+
+cheat33_desc = "Have All Plants"
+cheat33_code = "42027DE8+1413+02020003+0002"
+cheat33_enable = false
+
+cheat34_desc = "Have All PokeBalls"
+cheat34_code = "42025D34+0001+0001000C+0004+42025D36+0063+0000000C+0004"
+cheat34_enable = false
+
+cheat35_desc = "Have All PokeBlocks+Max Lv"
+cheat35_code = "42025F2C+FF01+0001000E+0008"
+cheat35_enable = false
+
+cheat36_desc = "Have All Posters"
+cheat36_code = "42027E2E+4342+02020005+0002"
+cheat36_enable = false
+
+cheat37_desc = "Have All TM/HM's"
+cheat37_code = "42025D74+0121+0001003A+0004+42025D76+0063+0000003A+0004"
+cheat37_enable = false
+
+cheat38_desc = "Have Battle Tower 9999 Wins"
+cheat38_code = "82025414+270F"
+cheat38_enable = false
+
+cheat39_desc = "Have Pokedex & Pokenav"
+cheat39_code = "82026A54+FFFF"
+cheat39_enable = false
+
+cheat40_desc = "Have Running Shoes"
+cheat40_code = "32026A60+0001"
+cheat40_enable = false
+
+cheat41_desc = "Infinite Cash"
+cheat41_code = "82025BC4+E0FF+82025BC6+05F5"
+cheat41_enable = false
+
+cheat42_desc = "Infinite Money"
+cheat42_code = "82025BC4+423F+82025BC6+000F"
+cheat42_enable = false
+
+cheat43_desc = "Infinite PP"
+cheat43_code = "42024AA4+FFFF+00000002+0002"
+cheat43_enable = false
+
+cheat44_desc = "Max Hearts In Contests"
+cheat44_code = "320192B6+00FF"
+cheat44_enable = false
+
+cheat45_desc = "Modify Labels of Special Ribbons Global Cup Champion, Advance Cup, Center NY"
+cheat45_code = "32028844+0003+32028845+000C+32028846+0015+32028847+001C+32028848+0024+32028849+0020+3202884A+0036"
+cheat45_enable = false
+
+cheat46_desc = "No Random Battles"
+cheat46_code = "8202E8C0+0000"
+cheat46_enable = false
+
+cheat47_desc = "One Hit Kill"
+cheat47_code = "33004616+0000"
+cheat47_enable = false
+
+cheat48_desc = "PokeBlocks Have All Traits"
+cheat48_code = "42025F2E+FFFF+0000000E+0008+42025F30+FFFF+0000000E+0008"
+cheat48_enable = false
+
+cheat49_desc = "PokeBlocks Have No Feel"
+cheat49_code = "42025F32+0000+0000000E+0008"
+cheat49_enable = false
+
+cheat50_desc = "Pokedex Modifier Codes For Pokemon #001–#032"
+cheat50_code = "82024ECC+FFFF+82024ECE+FFFF+82024F00+FFFF+82024F02+FFFF+8202606C+FFFF+8202606E+FFFF+820291C0+FFFF+820291C2+FFFF"
+cheat50_enable = false
+
+cheat51_desc = "Pokedex Modifier Codes For Pokemon #033–#064"
+cheat51_code = "82024ED0+FFFF+82024ED2+FFFE+82024F04+FFFF+82024F06+FFFE+82026070+FFFF+82026072+FFFE+820291C4+FFFF+820291C6+FFFE"
+cheat51_enable = false
+
+cheat52_desc = "Pokedex Modifier Codes For Pokemon #065–#096"
+cheat52_code = "82024ED4+FFFF+82024ED6+FFFF+82024F08+FFFF+82024F0A+FFFF+82026074+FFFF+82026076+FFFF+820291C8+FFFF+820291CA+FFFF"
+cheat52_enable = false
+
+cheat53_desc = "Pokedex Modifier Codes For Pokemon #097–#128"
+cheat53_code = "82024ED8+FFFF+82024EDA+FFFF+82024F0C+FFFF+82024F0E+FFFF+82026078+FFFF+8202607A+FFFF+820291CC+FFFF+820291CE+FFFF"
+cheat53_enable = false
+
+cheat54_desc = "Pokedex Modifier Codes For Pokemon #129–#160"
+cheat54_code = "82024EDC+FFFF+82024EDE+FFFF+82024F10+FFFF+82024F12+FFFF+8202607C+FFFF+8202607E+FFFF+820291D0+FFFF+820291D2+FFFF"
+cheat54_enable = false
+
+cheat55_desc = "Pokedex Modifier Codes For Pokemon #161–#192"
+cheat55_code = "82024EE0+FFFF+82024EE2+FFFF+82024F14+FFFF+82024F16+FFFF+82026080+FFFF+82026082+FFFF+820291D4+FFFF+820291D6+FFFF"
+cheat55_enable = false
+
+cheat56_desc = "Pokedex Modifier Codes For Pokemon #193–#224"
+cheat56_code = "82024EE4+FFFF+82024EE6+FFFF+82024F18+FFFF+82024F1A+FFFF+82026084+FFFF+82026086+FFFF+820291D8+FFFF+820291DA+FFFF"
+cheat56_enable = false
+
+cheat57_desc = "Pokedex Modifier Codes For Pokemon #225–#256"
+cheat57_code = "82024EE8+FFFF+82024EEA+FFFF+82024F1C+FFFF+82024F1E+FFFF+82026088+FFFF+8202608A+FFFF+820291DC+FFFF+820291DE+FFFF"
+cheat57_enable = false
+
+cheat58_desc = "Pokedex Modifier Codes For Pokemon #257–#288"
+cheat58_code = "82024EEC+FFFF+82024EEE+FFFF+82024F20+FFFF+82024F22+FFFF+8202608C+FFFF+8202608E+FFFF+820291E0+FFFF+820291E2+FFFF"
+cheat58_enable = false
+
+cheat59_desc = "Pokedex Modifier Codes For Pokemon #289–#320"
+cheat59_code = "82024EF0+FFFF+82024EF2+FFFF+82024F24+FFFF+82024F26+FFFF+82026090+FFFF+82026092+FFFF+820291E4+FFFF+820291E6+FFFF"
+cheat59_enable = false
+
+cheat60_desc = "Pokedex Modifier Codes For Pokemon #321–#352"
+cheat60_code = "82024EF4+FFFF+82024EF6+FFFF+82024F28+FFFF+82024F2A+FFFF+82026094+FFFF+82026096+FFFF+820291E8+FFFF+820291EA+FFFF"
+cheat60_enable = false
+
+cheat61_desc = "Pokedex Modifier Codes For Pokemon #353–#384"
+cheat61_code = "82024EF8+FFFF+82024EFA+FFFF+82024F2C+FFFF+82024F2E+FFFF+82026098+FFFF+8202609A+FFFF+820291EC+FFFF+820291EE+FFFF"
+cheat61_enable = false
+
+cheat62_desc = "Pokedex Modifier Codes For Pokemon #385–#386"
+cheat62_code = "82024EFC+0003+82024EFE+0000+82024F30+0003+82024F32+0000+8202609C+0003+8202609E+0000+820291F0+0003+820291F2+0000"
+cheat62_enable = false
+
+cheat63_desc = "Puts Black Pokeblock In Slot 12"
+cheat63_code = "82025F58+E70C+82025F5A+EAEA+82025F5C+EAE7+82025F5E+03EA"
+cheat63_enable = false
+
+cheat64_desc = "Puts Blue Pokeblock In Slot 2"
+cheat64_code = "82025F30+E702+82025F32+EAEA+82025F34+EAE7+82025F36+03EA"
+cheat64_enable = false
+
+cheat65_desc = "Puts Brown Pokeblock In Slot 8"
+cheat65_code = "82025F48+E708+82025F4A+EAEA+82025F4C+EAE7+82025F4E+03EA"
+cheat65_enable = false
+
+cheat66_desc = "Puts Gold Pokeblock In Slot 14"
+cheat66_code = "82025F60+E70E+82025F62+EAEA+82025F64+EAE7+82025F66+03EA"
+cheat66_enable = false
+
+cheat67_desc = "Puts Green Pokeblock In Slot 4"
+cheat67_code = "82025F38+E704+82025F3A+EAEA+82025F3C+EAE7+82025F3E+03EA"
+cheat67_enable = false
+
+cheat68_desc = "Puts Grey Pokeblock In Slot 11"
+cheat68_code = "82025F54+E70B+82025F56+EAEA+82025F58+EAE7+82025F5A+03EA"
+cheat68_enable = false
+
+cheat69_desc = "Puts Indigo Pokeblock In Slot 7"
+cheat69_code = "82025F44+E707+82025F46+EAEA+82025F48+EAE7+82025F4A+03EA"
+cheat69_enable = false
+
+cheat70_desc = "Puts Liteblue Pokeblock In Slot 9"
+cheat70_code = "82025F4C+E709+82025F4E+EAEA+82025F50+EAE7+82025F52+03EA"
+cheat70_enable = false
+
+cheat71_desc = "Puts Olive Pokeblock In Slot 10"
+cheat71_code = "82025F50+E70A+82025F52+EAEA+82025F54+EAE7+82025F56+03EA"
+cheat71_enable = false
+
+cheat72_desc = "Puts Pink Pokeblock In Slot 3"
+cheat72_code = "82025F34+E703+82025F36+EAEA+82025F38+EAE7+82025F3A+03EA"
+cheat72_enable = false
+
+cheat73_desc = "Puts Purple Pokeblock In Slot 6"
+cheat73_code = "82025F40+E706+82025F42+EAEA+82025F44+EAE7+82025F46+03EA"
+cheat73_enable = false
+
+cheat74_desc = "Puts Red Pokeblock In Slot 1"
+cheat74_code = "82025F2C+E701+82025F2E+EAEA+82025F30+EAE7+82025F32+03EA"
+cheat74_enable = false
+
+cheat75_desc = "Puts White Pokeblock In Slot 13"
+cheat75_code = "82025F5C+E70D+82025F5E+EAEA+82025F60+EAE7+82025F62+03EA"
+cheat75_enable = false
+
+cheat76_desc = "Puts Yellow Pokeblock In Slot 5"
+cheat76_code = "82025F3C+E705+82025F3E+EAEA+82025F40+EAE7+82025F42+03EA"
+cheat76_enable = false
+
+cheat77_desc = "Quick Level Gain"
+cheat77_code = "72024A64+0001+82024BEC+01F4"
+cheat77_enable = false
+
+cheat78_desc = "Quick Level Gain(DayCare)"
+cheat78_code = "320287E2+001F+320287E6+001F"
+cheat78_enable = false
+
+cheat79_desc = "Quick Level Up"
+cheat79_code = "82024BEC+03E8"
+cheat79_enable = false
+
+cheat80_desc = "Rain Maker [Press L+R]"
+cheat80_code = "74000130+00FF+3202FEA9+0003+74000130+00FF+3202FEAE+0000+74000130+00FF+8202FEB4+0000+74000130+00FF+8202FEB8+0303+74000130+00FF+8202FEBA+0100+74000130+00FF+8202FEC0+0A00"
+cheat80_enable = false
+
+cheat81_desc = "Replace The Secret Base Chair 1 With Small Chair"
+cheat81_code = "32027DDE+000A"
+cheat81_enable = false
+
+cheat82_desc = "Replace The Secret Base Chair 2 With Pokémon Chair"
+cheat82_code = "32027DDF+000B"
+cheat82_enable = false
+
+cheat83_desc = "Replace The Secret Base Chair 3 With Heavy Chair"
+cheat83_code = "32027DE0+000C"
+cheat83_enable = false
+
+cheat84_desc = "Replace The Secret Base Chair 4 With Pretty Chair"
+cheat84_code = "32027DE1+000D"
+cheat84_enable = false
+
+cheat85_desc = "Replace The Secret Base Chair 5 With Comfort Chair"
+cheat85_code = "32027DE2+000E"
+cheat85_enable = false
+
+cheat86_desc = "Replace The Secret Base Chair 6 With Ragged Chair"
+cheat86_code = "32027DE3+000F"
+cheat86_enable = false
+
+cheat87_desc = "Replace The Secret Base Chair 7 With Brick Chair"
+cheat87_code = "32027DE4+0010"
+cheat87_enable = false
+
+cheat88_desc = "Replace The Secret Base Chair 8 With Camp Chair"
+cheat88_code = "32027DE5+0011"
+cheat88_enable = false
+
+cheat89_desc = "Replace The Secret Base Chair 9 With Hard Chair"
+cheat89_code = "32027DE6+0012"
+cheat89_enable = false
+
+cheat90_desc = "Replace The Secret Base Cushion 1 With Pika Cushion"
+cheat90_code = "32027E60+0065"
+cheat90_enable = false
+
+cheat91_desc = "Replace The Secret Base Cushion 10 With Water Cushion"
+cheat91_code = "32027E69+006E"
+cheat91_enable = false
+
+cheat92_desc = "Replace The Secret Base Cushion 2 With Round Cushion"
+cheat92_code = "32027E61+0066"
+cheat92_enable = false
+
+cheat93_desc = "Replace The Secret Base Cushion 3 With Kiss Cushion"
+cheat93_code = "32027E62+0067"
+cheat93_enable = false
+
+cheat94_desc = "Replace The Secret Base Cushion 4 With Zigzag Cushion"
+cheat94_code = "32027E63+0068"
+cheat94_enable = false
+
+cheat95_desc = "Replace The Secret Base Cushion 5 With Spin Cushion"
+cheat95_code = "32027E64+0069"
+cheat95_enable = false
+
+cheat96_desc = "Replace The Secret Base Cushion 6 With Diamond Cushion"
+cheat96_code = "32027E65+006A"
+cheat96_enable = false
+
+cheat97_desc = "Replace The Secret Base Cushion 7 With Ball Cushion"
+cheat97_code = "32027E66+006B"
+cheat97_enable = false
+
+cheat98_desc = "Replace The Secret Base Cushion 8 With Grass Cushion"
+cheat98_code = "32027E67+006C"
+cheat98_enable = false
+
+cheat99_desc = "Replace The Secret Base Cushion 9 With Fire Cushion"
+cheat99_code = "32027E68+006D"
+cheat99_enable = false
+
+cheat100_desc = "Replace The Secret Base Desk 1 With Small Desk"
+cheat100_code = "32027DD4+0001"
+cheat100_enable = false
+
+cheat101_desc = "Replace The Secret Base Desk 2 With Pokémon Desk"
+cheat101_code = "32027DD5+0002"
+cheat101_enable = false
+
+cheat102_desc = "Replace The Secret Base Desk 3 With Heavy Desk"
+cheat102_code = "32027DD6+0003"
+cheat102_enable = false
+
+cheat103_desc = "Replace The Secret Base Desk 4 With Ragged Desk"
+cheat103_code = "32027DD7+0004"
+cheat103_enable = false
+
+cheat104_desc = "Replace The Secret Base Desk 5 With Comfort Desk"
+cheat104_code = "32027DD8+0005"
+cheat104_enable = false
+
+cheat105_desc = "Replace The Secret Base Desk 6 With Pretty Desk"
+cheat105_code = "32027DD9+0006"
+cheat105_enable = false
+
+cheat106_desc = "Replace The Secret Base Desk 7 With Brick Desk"
+cheat106_code = "32027DDA+0007"
+cheat106_enable = false
+
+cheat107_desc = "Replace The Secret Base Desk 8 With Camp Desk"
+cheat107_code = "32027DDB+0008"
+cheat107_enable = false
+
+cheat108_desc = "Replace The Secret Base Desk 9 With Hard Desk"
+cheat108_code = "32027DDC+0009"
+cheat108_enable = false
+
+cheat109_desc = "Replace The Secret Base Doll 1 With Pichu Doll"
+cheat109_code = "32027E38+004C"
+cheat109_enable = false
+
+cheat110_desc = "Replace The Secret Base Doll 10 With Clefairy Doll"
+cheat110_code = "32027E41+0055"
+cheat110_enable = false
+
+cheat111_desc = "Replace The Secret Base Doll 11 With Ditto Doll"
+cheat111_code = "32027E42+0056"
+cheat111_enable = false
+
+cheat112_desc = "Replace The Secret Base Doll 12 With Smoochum Doll"
+cheat112_code = "32027E43+0057"
+cheat112_enable = false
+
+cheat113_desc = "Replace The Secret Base Doll 13 With Treecko Doll"
+cheat113_code = "32027E44+0058"
+cheat113_enable = false
+
+cheat114_desc = "Replace The Secret Base Doll 14 With Torchic Doll"
+cheat114_code = "32027E45+0059"
+cheat114_enable = false
+
+cheat115_desc = "Replace The Secret Base Doll 15 With Mudkip Doll"
+cheat115_code = "32027E46+005A"
+cheat115_enable = false
+
+cheat116_desc = "Replace The Secret Base Doll 16 With Duskull Doll"
+cheat116_code = "32027E47+005B"
+cheat116_enable = false
+
+cheat117_desc = "Replace The Secret Base Doll 17 With Wynaut Doll"
+cheat117_code = "32027E48+005C"
+cheat117_enable = false
+
+cheat118_desc = "Replace The Secret Base Doll 18 With Baltoy Doll"
+cheat118_code = "32027E49+005D"
+cheat118_enable = false
+
+cheat119_desc = "Replace The Secret Base Doll 19 With Kecleon Doll"
+cheat119_code = "32027E4A+005E"
+cheat119_enable = false
+
+cheat120_desc = "Replace The Secret Base Doll 2 With Pikachu Doll"
+cheat120_code = "32027E39+004D"
+cheat120_enable = false
+
+cheat121_desc = "Replace The Secret Base Doll 20 With Azurill Doll"
+cheat121_code = "32027E4B+005F"
+cheat121_enable = false
+
+cheat122_desc = "Replace The Secret Base Doll 21 With Skitty Doll"
+cheat122_code = "32027E4C+0060"
+cheat122_enable = false
+
+cheat123_desc = "Replace The Secret Base Doll 22 With Swablu Doll"
+cheat123_code = "32027E4D+0061"
+cheat123_enable = false
+
+cheat124_desc = "Replace The Secret Base Doll 23 With Gulpin Doll"
+cheat124_code = "32027E4E+0062"
+cheat124_enable = false
+
+cheat125_desc = "Replace The Secret Base Doll 24 With Lotad Doll"
+cheat125_code = "32027E4F+0063"
+cheat125_enable = false
+
+cheat126_desc = "Replace The Secret Base Doll 25 With Seedot Doll"
+cheat126_code = "32027E50+0064"
+cheat126_enable = false
+
+cheat127_desc = "Replace The Secret Base Doll 27 With Snorlax Doll"
+cheat127_code = "32027E52+006F"
+cheat127_enable = false
+
+cheat128_desc = "Replace The Secret Base Doll 28 With Rhydon Doll"
+cheat128_code = "32027E53+0070"
+cheat128_enable = false
+
+cheat129_desc = "Replace The Secret Base Doll 29 With Lapras Doll"
+cheat129_code = "32027E54+0071"
+cheat129_enable = false
+
+cheat130_desc = "Replace The Secret Base Doll 3 With Marill Doll"
+cheat130_code = "32027E3A+004E"
+cheat130_enable = false
+
+cheat131_desc = "Replace The Secret Base Doll 30 With Venusaur Doll"
+cheat131_code = "32027E55+0072"
+cheat131_enable = false
+
+cheat132_desc = "Replace The Secret Base Doll 31 With Charizard Doll"
+cheat132_code = "32027E56+0073"
+cheat132_enable = false
+
+cheat133_desc = "Replace The Secret Base Doll 32 With Blastoise Doll"
+cheat133_code = "32027E57+0074"
+cheat133_enable = false
+
+cheat134_desc = "Replace The Secret Base Doll 33 With Wailmer Doll"
+cheat134_code = "32027E58+0075"
+cheat134_enable = false
+
+cheat135_desc = "Replace The Secret Base Doll 34 With Regirock Doll"
+cheat135_code = "32027E59+0076"
+cheat135_enable = false
+
+cheat136_desc = "Replace The Secret Base Doll 35 With Regice Doll"
+cheat136_code = "32027E5A+0077"
+cheat136_enable = false
+
+cheat137_desc = "Replace The Secret Base Doll 36 With Registeel Doll"
+cheat137_code = "32027E5B+0078"
+cheat137_enable = false
+
+cheat138_desc = "Replace The Secret Base Doll 4 With Togepi Doll"
+cheat138_code = "32027E3B+004F"
+cheat138_enable = false
+
+cheat139_desc = "Replace The Secret Base Doll 5 With Cyndaquil Doll"
+cheat139_code = "32027E3C+0050"
+cheat139_enable = false
+
+cheat140_desc = "Replace The Secret Base Doll 6 With Chikorita Doll"
+cheat140_code = "32027E3D+0051"
+cheat140_enable = false
+
+cheat141_desc = "Replace The Secret Base Doll 7 With Totodile Doll"
+cheat141_code = "32027E3E+0052"
+cheat141_enable = false
+
+cheat142_desc = "Replace The Secret Base Doll 8 With Jigglypuff Doll"
+cheat142_code = "32027E3F+0053"
+cheat142_enable = false
+
+cheat143_desc = "Replace The Secret Base Doll 9 With Meowth Doll"
+cheat143_code = "32027E40+0054"
+cheat143_enable = false
+
+cheat144_desc = "Replace The Secret Base Mat 1 With Glitter Mat"
+cheat144_code = "32027E10+0030"
+cheat144_enable = false
+
+cheat145_desc = "Replace The Secret Base Mat 10 With B Note Mat"
+cheat145_code = "32027E19+0039"
+cheat145_enable = false
+
+cheat146_desc = "Replace The Secret Base Mat 11 With C High Note Mat"
+cheat146_code = "32027E1A+003A"
+cheat146_enable = false
+
+cheat147_desc = "Replace The Secret Base Mat 12 With Surf Mat"
+cheat147_code = "32027E1B+003B"
+cheat147_enable = false
+
+cheat148_desc = "Replace The Secret Base Mat 13 With Thunder Mat"
+cheat148_code = "32027E1C+003C"
+cheat148_enable = false
+
+cheat149_desc = "Replace The Secret Base Mat 14 With Fire Blast Mat"
+cheat149_code = "32027E1D+003D"
+cheat149_enable = false
+
+cheat150_desc = "Replace The Secret Base Mat 15 With Powder Snow Mat"
+cheat150_code = "32027E1E+003E"
+cheat150_enable = false
+
+cheat151_desc = "Replace The Secret Base Mat 16 With Attract Mat"
+cheat151_code = "32027E1F+003F"
+cheat151_enable = false
+
+cheat152_desc = "Replace The Secret Base Mat 17 With Fissure Mat"
+cheat152_code = "32027E20+0040"
+cheat152_enable = false
+
+cheat153_desc = "Replace The Secret Base Mat 17 With Spikes Mat"
+cheat153_code = "32027E20+0041"
+cheat153_enable = false
+
+cheat154_desc = "Replace The Secret Base Mat 2 With Jump Mat"
+cheat154_code = "32027E11+0031"
+cheat154_enable = false
+
+cheat155_desc = "Replace The Secret Base Mat 3 With Spin Mat"
+cheat155_code = "32027E12+0032"
+cheat155_enable = false
+
+cheat156_desc = "Replace The Secret Base Mat 4 With C Low Note Mat"
+cheat156_code = "32027E13+0033"
+cheat156_enable = false
+
+cheat157_desc = "Replace The Secret Base Mat 5 With D Note Mat"
+cheat157_code = "32027E14+0034"
+cheat157_enable = false
+
+cheat158_desc = "Replace The Secret Base Mat 6 With E Note Mat"
+cheat158_code = "32027E15+0035"
+cheat158_enable = false
+
+cheat159_desc = "Replace The Secret Base Mat 7 With F Note Mat"
+cheat159_code = "32027E16+0036"
+cheat159_enable = false
+
+cheat160_desc = "Replace The Secret Base Mat 8 With G Note Mat"
+cheat160_code = "32027E17+0037"
+cheat160_enable = false
+
+cheat161_desc = "Replace The Secret Base Mat 9 With A Note Mat"
+cheat161_code = "32027E18+0038"
+cheat161_enable = false
+
+cheat162_desc = "Replace The Secret Base Ornament 1 With Red Brick"
+cheat162_code = "32027DF2+0019"
+cheat162_enable = false
+
+cheat163_desc = "Replace The Secret Base Ornament 10 With Slide"
+cheat163_code = "32027DFB+0022"
+cheat163_enable = false
+
+cheat164_desc = "Replace The Secret Base Ornament 11 With Fence Length"
+cheat164_code = "32027DFC+0023"
+cheat164_enable = false
+
+cheat165_desc = "Replace The Secret Base Ornament 12 With Fence Width"
+cheat165_code = "32027DFD+0024"
+cheat165_enable = false
+
+cheat166_desc = "Replace The Secret Base Ornament 13 With Tire"
+cheat166_code = "32027DFE+0025"
+cheat166_enable = false
+
+cheat167_desc = "Replace The Secret Base Ornament 14 With Stand"
+cheat167_code = "32027DFF+0026"
+cheat167_enable = false
+
+cheat168_desc = "Replace The Secret Base Ornament 15 With Mud Ball"
+cheat168_code = "32027E00+0027"
+cheat168_enable = false
+
+cheat169_desc = "Replace The Secret Base Ornament 16 With Breakable Door"
+cheat169_code = "32027E01+0028"
+cheat169_enable = false
+
+cheat170_desc = "Replace The Secret Base Ornament 17 With Sand Ornament"
+cheat170_code = "32027E02+0029"
+cheat170_enable = false
+
+cheat171_desc = "Replace The Secret Base Ornament 18 With Silver Shield"
+cheat171_code = "32027E03+002A"
+cheat171_enable = false
+
+cheat172_desc = "Replace The Secret Base Ornament 19 With Gold Shield"
+cheat172_code = "32027E04+002B"
+cheat172_enable = false
+
+cheat173_desc = "Replace The Secret Base Ornament 2 With Yellow Brick"
+cheat173_code = "32027DF3+001A"
+cheat173_enable = false
+
+cheat174_desc = "Replace The Secret Base Ornament 20 With Glass Ornament"
+cheat174_code = "32027E05+002C"
+cheat174_enable = false
+
+cheat175_desc = "Replace The Secret Base Ornament 21 With Tv"
+cheat175_code = "32027E06+002D"
+cheat175_enable = false
+
+cheat176_desc = "Replace The Secret Base Ornament 22 With Round Tv"
+cheat176_code = "32027E07+002E"
+cheat176_enable = false
+
+cheat177_desc = "Replace The Secret Base Ornament 23 With Cute Tv"
+cheat177_code = "32027E08+002F"
+cheat177_enable = false
+
+cheat178_desc = "Replace The Secret Base Ornament 3 With Blue Brick"
+cheat178_code = "32027DF4+001B"
+cheat178_enable = false
+
+cheat179_desc = "Replace The Secret Base Ornament 4 With Red Balloon"
+cheat179_code = "32027DF5+001C"
+cheat179_enable = false
+
+cheat180_desc = "Replace The Secret Base Ornament 5 With Blue Balloon"
+cheat180_code = "32027DF6+001D"
+cheat180_enable = false
+
+cheat181_desc = "Replace The Secret Base Ornament 6 With Yellow Balloon"
+cheat181_code = "32027DF7+001E"
+cheat181_enable = false
+
+cheat182_desc = "Replace The Secret Base Ornament 7 With Red Tent"
+cheat182_code = "32027DF8+001F"
+cheat182_enable = false
+
+cheat183_desc = "Replace The Secret Base Ornament 8 With Blue Tent"
+cheat183_code = "32027DF9+0020"
+cheat183_enable = false
+
+cheat184_desc = "Replace The Secret Base Ornament 9 With Solid Board"
+cheat184_code = "32027DFA+0021"
+cheat184_enable = false
+
+cheat185_desc = "Replace The Secret Base Plant 1 With Red Plant"
+cheat185_code = "32027DE8+0013"
+cheat185_enable = false
+
+cheat186_desc = "Replace The Secret Base Plant 2 With Tropical Plant"
+cheat186_code = "32027DE9+0014"
+cheat186_enable = false
+
+cheat187_desc = "Replace The Secret Base Plant 3 With Pretty Flowers"
+cheat187_code = "32027DEA+0015"
+cheat187_enable = false
+
+cheat188_desc = "Replace The Secret Base Plant 4 With Colorful Plant"
+cheat188_code = "32027DEB+0016"
+cheat188_enable = false
+
+cheat189_desc = "Replace The Secret Base Plant 5 With Big Plant"
+cheat189_code = "32027DEC+0017"
+cheat189_enable = false
+
+cheat190_desc = "Replace The Secret Base Plant 6 With Gorgeous Plant"
+cheat190_code = "32027DED+0018"
+cheat190_enable = false
+
+cheat191_desc = "Replace The Secret Base Poster 1 With Ball Poster"
+cheat191_code = "32027E2E+0042"
+cheat191_enable = false
+
+cheat192_desc = "Replace The Secret Base Poster 10 With Kiss Poster"
+cheat192_code = "32027E37+004B"
+cheat192_enable = false
+
+cheat193_desc = "Replace The Secret Base Poster 2 With Green Poster"
+cheat193_code = "32027E2F+0043"
+cheat193_enable = false
+
+cheat194_desc = "Replace The Secret Base Poster 3 With Red Poster"
+cheat194_code = "32027E30+0044"
+cheat194_enable = false
+
+cheat195_desc = "Replace The Secret Base Poster 4 With Blue Poster"
+cheat195_code = "32027E31+0045"
+cheat195_enable = false
+
+cheat196_desc = "Replace The Secret Base Poster 5 With Cute Poster"
+cheat196_code = "32027E32+0046"
+cheat196_enable = false
+
+cheat197_desc = "Replace The Secret Base Poster 6 With Pika Poster"
+cheat197_code = "32027E33+0047"
+cheat197_enable = false
+
+cheat198_desc = "Replace The Secret Base Poster 7 With Long Poster"
+cheat198_code = "32027E34+0048"
+cheat198_enable = false
+
+cheat199_desc = "Replace The Secret Base Poster 8 With Sea Poster"
+cheat199_code = "32027E35+0049"
+cheat199_enable = false
+
+cheat200_desc = "Replace The Secret Base Poster 9 With Sky Poster"
+cheat200_code = "32027E36+004A"
+cheat200_enable = false
+
+cheat201_desc = "SID Finder (v1.1 and v1.2)"
+cheat201_code = "83007E14+3801+83007E16+0300+83003800+4902+83003802+8988+83003804+3564+83003806+81E8+83003808+4801+8300380A+4700+8300380C+4EA4+8300380E+0202+83003810+33A5+83003812+0809"
+cheat201_enable = false
+
+cheat202_desc = "Slaking"
+cheat202_code = "820300A4+170C+820300A6+6C50+820300A8+F480+820300AA+5662+820300AC+C6CD+820300AE+C5BB+820300B0+C8C3+820300B2+FFC1+820300B4+0000+820300B6+0202+820300B8+BFCD+820300BA+C2CE+820300BC+CEFF+820300BE+00C9+820300C0+9E4F+820300C2+0000+820300C4+E2E2+820300C6+3A32+820300C8+005C+820300CA+3A32+820300CC+318C+820300CE+3A32+820300D0+D88C+820300D2+1AB7+820300D4+C391+820300D6+0182+820300D8+E38C+820300DA+3A32+820300DC+E386+820300DE+3B2B+820300E0+E316+820300E2+3A91+820300E4+E9AF+820300E6+2E3D+820300E8+E39B+820300EA+3527+820300EC+E38D+820300EE+3A32"
+cheat202_enable = false
+
+cheat203_desc = "Trainers Eyes Complete"
+cheat203_code = "420269F8+FFFF+00000029+0002"
+cheat203_enable = false
+
+cheat204_desc = "Walk in Menu/Conversation"
+cheat204_code = "F3001798+0100+330006A4+0000"
+cheat204_enable = false
+
+cheat205_desc = "Wild Pokemon Easily Caught"
+cheat205_code = "72024C10+9EB7+32024C10+00C2"
+cheat205_enable = false

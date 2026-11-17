@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Infinite Skill Points"
+cheat0_code = "72013776+0402+320139BC+0010"
+cheat0_enable = false
+
+cheat1_desc = "Max Stats (Custom Player)"
+cheat1_code = "3200070F+00AA+82000710+AAAA"
+cheat1_enable = false

@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Hit Anywhere"
+cheat0_code = "880045AA+46C0"
+cheat0_enable = false
+
+cheat1_desc = "One Hit Kills"
+cheat1_code = "88004DF4+1A00"
+cheat1_enable = false

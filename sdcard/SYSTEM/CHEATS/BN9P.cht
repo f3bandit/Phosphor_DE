@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Access All Minigames"
+cheat0_code = "32000830+00FF"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Health"
+cheat1_code = "320007EC+0005+32014604+0005"
+cheat1_enable = false
+
+cheat2_desc = "Meter Is Empty [Press R+Down]"
+cheat2_code = "74000130+027F+320007EE+0000"
+cheat2_enable = false
+
+cheat3_desc = "Meter Is Full [Press R+Up]"
+cheat3_code = "74000130+02BF+320007EE+0060"
+cheat3_enable = false

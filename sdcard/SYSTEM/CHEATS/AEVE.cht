@@ -1,0 +1,109 @@
+cheats = 27
+
+cheat0_desc = "All Components Found"
+cheat0_code = "7300174C+0003+8300174C+0000"
+cheat0_enable = false
+
+cheat1_desc = "All Creatures Killed"
+cheat1_code = "7300174A+0060+8300174A+0000"
+cheat1_enable = false
+
+cheat2_desc = "All Vents Plugged"
+cheat2_code = "73001742+000C+83001742+0000"
+cheat2_enable = false
+
+cheat3_desc = "Have All Cards"
+cheat3_code = "43001730+0001+00000004+0002"
+cheat3_enable = false
+
+cheat4_desc = "Have All Discs"
+cheat4_code = "7300173E+000A+8300173E+0000"
+cheat4_enable = false
+
+cheat5_desc = "Have Blue Key"
+cheat5_code = "83001734+0001"
+cheat5_enable = false
+
+cheat6_desc = "Have Blue Passcard"
+cheat6_code = "33001734+0001"
+cheat6_enable = false
+
+cheat7_desc = "Have Green Key"
+cheat7_code = "83001732+0001"
+cheat7_enable = false
+
+cheat8_desc = "Have Green Passcard"
+cheat8_code = "33001732+0001"
+cheat8_enable = false
+
+cheat9_desc = "Have Red Key"
+cheat9_code = "83001730+0001"
+cheat9_enable = false
+
+cheat10_desc = "Have Red Passcard"
+cheat10_code = "33001730+0001"
+cheat10_enable = false
+
+cheat11_desc = "Have Silver Card"
+cheat11_code = "83001738+0001+8300173A+0001"
+cheat11_enable = false
+
+cheat12_desc = "Have Yellow Key"
+cheat12_code = "83001736+0001"
+cheat12_enable = false
+
+cheat13_desc = "Have Yellow Passcard"
+cheat13_code = "33001736+0001"
+cheat13_enable = false
+
+cheat14_desc = "Infinite Big Blue Goo"
+cheat14_code = "830019FC+0063"
+cheat14_enable = false
+
+cheat15_desc = "Infinite Blue Flame"
+cheat15_code = "830019F4+0063"
+cheat15_enable = false
+
+cheat16_desc = "Infinite Blue Goo Grenades"
+cheat16_code = "83001A02+0063"
+cheat16_enable = false
+
+cheat17_desc = "Infinite Goo"
+cheat17_code = "330019F8+0063"
+cheat17_enable = false
+
+cheat18_desc = "Infinite Grenades"
+cheat18_code = "33001A02+0063"
+cheat18_enable = false
+
+cheat19_desc = "Infinite Rapid Fire"
+cheat19_code = "330019EC+0063"
+cheat19_enable = false
+
+cheat20_desc = "Infinite Rapid Shot"
+cheat20_code = "830019EC+0063"
+cheat20_enable = false
+
+cheat21_desc = "Infinite RPG"
+cheat21_code = "330019F0+0063"
+cheat21_enable = false
+
+cheat22_desc = "Infinite Shampoo Goo"
+cheat22_code = "830019F0+0063"
+cheat22_enable = false
+
+cheat23_desc = "Infinite Sludge Fire"
+cheat23_code = "830019F8+0063"
+cheat23_enable = false
+
+cheat24_desc = "Infinite Super Goo"
+cheat24_code = "330019FC+0063"
+cheat24_enable = false
+
+cheat25_desc = "Infinite Thrower"
+cheat25_code = "330019F4+0063"
+cheat25_enable = false
+
+cheat26_desc = "Infinite Health"
+cheat26_code = "830019D8+0064"
+cheat26_enable = false

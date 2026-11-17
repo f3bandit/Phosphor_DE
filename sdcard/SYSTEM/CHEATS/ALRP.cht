@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Quick Races Story Mode"
+cheat0_code = "33003000+0009+3300304B+0009"
+cheat0_enable = false

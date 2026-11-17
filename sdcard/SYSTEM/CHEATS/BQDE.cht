@@ -1,0 +1,21 @@
+cheats = 5
+
+cheat0_desc = "Always Place 1st"
+cheat0_code = "330028C3+0000"
+cheat0_enable = false
+
+cheat1_desc = "Extra Top Speed"
+cheat1_code = "330025E6+0080"
+cheat1_enable = false
+
+cheat2_desc = "Opponents Stuck At 1st Checkpoint"
+cheat2_code = "3300258C+0000+33002BEC+0000+33002F1C+0000"
+cheat2_enable = false
+
+cheat3_desc = "Press Select To Win Race"
+cheat3_code = "D0000020+0004+330026A8+0004+330028C3+0000"
+cheat3_enable = false
+
+cheat4_desc = "Start On Last Lap"
+cheat4_code = "730026A8+0000+330026A8+0002"
+cheat4_enable = false

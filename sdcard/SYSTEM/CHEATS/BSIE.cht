@@ -1,0 +1,33 @@
+cheats = 8
+
+cheat0_desc = "Untouchable - RAM"
+cheat0_code = "8200641C+0001"
+cheat0_enable = false
+
+cheat1_desc = "1 Coin For Max Coins"
+cheat1_code = "82006588+03E7"
+cheat1_enable = false
+
+cheat2_desc = "Have 40 Coins"
+cheat2_code = "32006588+0028"
+cheat2_enable = false
+
+cheat3_desc = "Scroll 1"
+cheat3_code = "4200B0D4+0101+00000004+0014"
+cheat3_enable = false
+
+cheat4_desc = "Scroll 2"
+cheat4_code = "4200B134+0101+00000005+0014"
+cheat4_enable = false
+
+cheat5_desc = "Scroll 3"
+cheat5_code = "4200B1A8+0101+00000005+0014"
+cheat5_enable = false
+
+cheat6_desc = "Scroll 4"
+cheat6_code = "4200B21C+0101+00000006+0014"
+cheat6_enable = false
+
+cheat7_desc = "Scroll 5"
+cheat7_code = "4200B2A4+0101+00000004+0014"
+cheat7_enable = false

@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Press L+R In-Game To Access Debug Features"
+cheat0_code = "74000130+00FF+82000000+9A59+74000130+00FF+82000002+0800"
+cheat0_enable = false

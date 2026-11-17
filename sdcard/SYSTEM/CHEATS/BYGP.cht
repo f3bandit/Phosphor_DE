@@ -1,0 +1,145 @@
+cheats = 36
+
+cheat0_desc = "1 Question Exam"
+cheat0_code = "7203B0CE+003C+3203B0CD+0001"
+cheat0_enable = false
+
+cheat1_desc = "10 Wins Against All"
+cheat1_code = "42004CFC+000A+00000023+000C"
+cheat1_enable = false
+
+cheat2_desc = "Access All Shop Packs"
+cheat2_code = "4203B5A8+FFFF+00000003+0002"
+cheat2_enable = false
+
+cheat3_desc = "Access Summon Option"
+cheat3_code = "74000130+03FA+32019F19+00C4"
+cheat3_enable = false
+
+cheat4_desc = "Always Heads"
+cheat4_code = "32028202+0004"
+cheat4_enable = false
+
+cheat5_desc = "Bypass Deck Check"
+cheat5_code = "72006198+204B+33000231+00C0"
+cheat5_enable = false
+
+cheat6_desc = "Correct Answer Is B"
+cheat6_code = "7203B0CE+003C+3203B0E0+0001"
+cheat6_enable = false
+
+cheat7_desc = "Draw Again [Press Select+Down]"
+cheat7_code = "74000130+037B+32019EE0+0005+72019EE0+000B+32019EE0+000A"
+cheat7_enable = false
+
+cheat8_desc = "Email List Complete"
+cheat8_code = "42004CF8+00FF+00000023+000C"
+cheat8_enable = false
+
+cheat9_desc = "Harpies F.Duster [Press Select+Rght]"
+cheat9_code = "74000130+03EB+82020244+0101+74000130+03EB+820204CC+000C+720204CC+0014+82020244+0102+74000130+03EB+420204D4+BB05+4CFE0002+0002"
+cheat9_enable = false
+
+cheat10_desc = "Have 100 Wins"
+cheat10_code = "32004CF0+0064"
+cheat10_enable = false
+
+cheat11_desc = "Have 50,000 DP"
+cheat11_code = "73000220+5239+82003848+C350"
+cheat11_enable = false
+
+cheat12_desc = "Have 999 Wins"
+cheat12_code = "82004CF0+03E7"
+cheat12_enable = false
+
+cheat13_desc = "Have All Cards"
+cheat13_code = "7200A1E4+56ED+42000004+0018+000004B0+000C"
+cheat13_enable = false
+
+cheat14_desc = "Have No Loses"
+cheat14_code = "32004CF2+0000"
+cheat14_enable = false
+
+cheat15_desc = "Infinite LP"
+cheat15_code = "82022250+2710"
+cheat15_enable = false
+
+cheat16_desc = "Infinite Summons"
+cheat16_code = "32024CF5+0000"
+cheat16_enable = false
+
+cheat17_desc = "Inflict 5000 Direct Damage"
+cheat17_code = "82020C58+1388"
+cheat17_enable = false
+
+cheat18_desc = "Instant Win [Press Select+Up]"
+cheat18_code = "74000130+03BB+82024D58+0000"
+cheat18_enable = false
+
+cheat19_desc = "Max Damage Dealt"
+cheat19_code = "82024D64+2710"
+cheat19_enable = false
+
+cheat20_desc = "Max Fusions Used"
+cheat20_code = "32022267+0001"
+cheat20_enable = false
+
+cheat21_desc = "Max Monsters Destroyed"
+cheat21_code = "32024D6A+0064"
+cheat21_enable = false
+
+cheat22_desc = "Max Non-Battle Damage Dealt"
+cheat22_code = "82024D60+2710"
+cheat22_enable = false
+
+cheat23_desc = "Max Rituals Used"
+cheat23_code = "32022268+0001"
+cheat23_enable = false
+
+cheat24_desc = "Max Spells Used"
+cheat24_code = "32022265+0005"
+cheat24_enable = false
+
+cheat25_desc = "Max Summons Used"
+cheat25_code = "32022269+0001"
+cheat25_enable = false
+
+cheat26_desc = "Max Traps Used"
+cheat26_code = "32022266+0003"
+cheat26_enable = false
+
+cheat27_desc = "Maximum DP"
+cheat27_code = "73000220+5239+42003848+E0FF+24F60002+0002"
+cheat27_enable = false
+
+cheat28_desc = "Maximum Packs In Stock"
+cheat28_code = "42004C08+00C6+00000030+0004"
+cheat28_enable = false
+
+cheat29_desc = "One Sacrifice Needed"
+cheat29_code = "320278BD+0000"
+cheat29_enable = false
+
+cheat30_desc = "Raigeki [Press Select+B]"
+cheat30_code = "74000130+03F9+82020244+0101+74000130+03F9+820204CC+000C+720204CC+0014+82020244+0102+74000130+03F9+420204D4+A1B1+66520002+0002"
+cheat30_enable = false
+
+cheat31_desc = "Receive No Direct Damage"
+cheat31_code = "82020C40+0000"
+cheat31_enable = false
+
+cheat32_desc = "Revive 1 Monster"
+cheat32_code = "74000130+03DB+8202048C+024C+74000130+03DB+420204BE+5000+B4000002+0002+74000130+03DB+420204E0+1759+F0AC0002+0002+74000130+03DB+82022E54+0429"
+cheat32_enable = false
+
+cheat33_desc = "Stop Exam Timer"
+cheat33_code = "7203B0CE+003C+8203B0D2+04B0"
+cheat33_enable = false
+
+cheat34_desc = "Timed Duels Complete"
+cheat34_code = "42005E44+0007+00000064+0004"
+cheat34_enable = false
+
+cheat35_desc = "Written Exam 100%"
+cheat35_code = "73000220+5239+42005B24+0003+000000C8+0004"
+cheat35_enable = false

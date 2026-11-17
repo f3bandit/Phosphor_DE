@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Access All Bonus Stages"
+cheat0_code = "420082AC+0001+00000008+0018"
+cheat0_enable = false
+
+cheat1_desc = "Access All Stages"
+cheat1_code = "42008074+0101+0000001E+0018"
+cheat1_enable = false
+
+cheat2_desc = "Have 99 Coins"
+cheat2_code = "3200641C+0063"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health"
+cheat3_code = "3200648C+0005"
+cheat3_enable = false
+
+cheat4_desc = "No Alerts"
+cheat4_code = "32006484+0005"
+cheat4_enable = false
+
+cheat5_desc = "Skip Level [Press Select]"
+cheat5_code = "D0000020+0004+32008004+0018"
+cheat5_enable = false
+
+cheat6_desc = "Stop Timer"
+cheat6_code = "820083D4+0000"
+cheat6_enable = false

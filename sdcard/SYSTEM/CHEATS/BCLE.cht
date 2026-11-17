@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Score = 1,048,575"
+cheat0_code = "83001764+FFFF+83001766+000F"
+cheat0_enable = false

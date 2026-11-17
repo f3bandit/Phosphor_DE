@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Have 99 Gems"
+cheat0_code = "320021DD+0063"
+cheat0_enable = false
+
+cheat1_desc = "Have 99 Sheep"
+cheat1_code = "32020E74+0063+320021BF+0063"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Health"
+cheat2_code = "3200217E+0004"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Lives"
+cheat3_code = "320022D0+0009"
+cheat3_enable = false

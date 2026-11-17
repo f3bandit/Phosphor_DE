@@ -1,0 +1,49 @@
+cheats = 12
+
+cheat0_desc = "Infinite Health"
+cheat0_code = "32005588+0030"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Lives"
+cheat1_code = "32007D48+0009"
+cheat1_enable = false
+
+cheat2_desc = "Invincible"
+cheat2_code = "33002182+000A"
+cheat2_enable = false
+
+cheat3_desc = "Level 1"
+cheat3_code = "33002384+0006+43002400+0202+00000002+0002"
+cheat3_enable = false
+
+cheat4_desc = "Level 2"
+cheat4_code = "33002384+0006+43002406+0202+00000003+0002"
+cheat4_enable = false
+
+cheat5_desc = "Level 3"
+cheat5_code = "33002384+0006+4300240E+0202+00000003+0002"
+cheat5_enable = false
+
+cheat6_desc = "Level 4"
+cheat6_code = "33002384+0006+43002416+0202+00000003+0002"
+cheat6_enable = false
+
+cheat7_desc = "Level 5"
+cheat7_code = "33002384+0006+4300241C+0202+00000003+0002"
+cheat7_enable = false
+
+cheat8_desc = "Level 6"
+cheat8_code = "33002384+0006+43002422+0202+00000004+0002"
+cheat8_enable = false
+
+cheat9_desc = "Level 7"
+cheat9_code = "33002384+0006+4300242A+0202+00000003+0002"
+cheat9_enable = false
+
+cheat10_desc = "Mike"
+cheat10_code = "D0000020+0004+3300217D+0007+3300217E+0003"
+cheat10_enable = false
+
+cheat11_desc = "Unlock All Sub Games"
+cheat11_code = "3200E614+0012"
+cheat11_enable = false

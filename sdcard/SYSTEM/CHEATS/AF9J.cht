@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Player 1 Card Value is 99 (Press L)"
+cheat0_code = "74000130+01FF+3300358C+0063"
+cheat0_enable = false

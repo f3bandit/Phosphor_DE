@@ -1,0 +1,61 @@
+cheats = 15
+
+cheat0_desc = "Access All Areas"
+cheat0_code = "43006348+0001+00000005+000C"
+cheat0_enable = false
+
+cheat1_desc = "Access Map [Press L+R+Up]"
+cheat1_code = "74000130+00BF+33006530+0003"
+cheat1_enable = false
+
+cheat2_desc = "Blue Coin"
+cheat2_code = "3300001A+0063"
+cheat2_enable = false
+
+cheat3_desc = "Gold Coin"
+cheat3_code = "83000018+03E7"
+cheat3_enable = false
+
+cheat4_desc = "Gold Star"
+cheat4_code = "3300001E+0023"
+cheat4_enable = false
+
+cheat5_desc = "Have 10 Balls [Press A+B+Down]"
+cheat5_code = "74000130+037C+43000000+000A+00000002+579C"
+cheat5_enable = false
+
+cheat6_desc = "Have Special Ball [Press Select+Up]"
+cheat6_code = "74000130+03BB+4300002C+000C+00000002+575C"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Ball Saver"
+cheat7_code = "730001F0+FFFF+330001EB+0008"
+cheat7_enable = false
+
+cheat8_desc = "Max Blue Coins"
+cheat8_code = "3300000C+0063"
+cheat8_enable = false
+
+cheat9_desc = "Max Gold Coins"
+cheat9_code = "83000008+03E7"
+cheat9_enable = false
+
+cheat10_desc = "Max Gold Keys"
+cheat10_code = "33000024+0063+33005790+0063"
+cheat10_enable = false
+
+cheat11_desc = "Max Gold Stars"
+cheat11_code = "33000014+0023+3300578C+0023"
+cheat11_enable = false
+
+cheat12_desc = "Max Red Coins"
+cheat12_code = "33000010+0008"
+cheat12_enable = false
+
+cheat13_desc = "Red Coin"
+cheat13_code = "3300001C+0063"
+cheat13_enable = false
+
+cheat14_desc = "Slow Item Roller"
+cheat14_code = "73005A24+000A+33005A24+0001"
+cheat14_enable = false

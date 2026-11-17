@@ -1,0 +1,33 @@
+cheats = 8
+
+cheat0_desc = "Have 99 Jewels (Quick 1-Ups)"
+cheat0_code = "33001A10+0063"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Ammo"
+cheat1_code = "33001A0C+0009"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Continues"
+cheat2_code = "33001A18+0063"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health"
+cheat3_code = "33003890+0064"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Lives"
+cheat4_code = "88181D00+2264"
+cheat4_enable = false
+
+cheat5_desc = "Jump in Midair"
+cheat5_code = "8817F258+20FA+8817F25A+0200+8817F25C+52D0+8817F24A+8859"
+cheat5_enable = false
+
+cheat6_desc = "Max Gems"
+cheat6_code = "83001A10+03E7"
+cheat6_enable = false
+
+cheat7_desc = "Moon Jump"
+cheat7_code = "8817F258+20FC+8817F25A+0200+8817F25C+52D0"
+cheat7_enable = false

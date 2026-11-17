@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Access All Levels"
+cheat0_code = "42003704+0309+00000004+008C"
+cheat0_enable = false
+
+cheat1_desc = "Have 99 Crowns"
+cheat1_code = "720062C4+00FA+320062DC+0063"
+cheat1_enable = false
+
+cheat2_desc = "Have Exit Key"
+cheat2_code = "720062C4+00FA+320062B9+0001"
+cheat2_enable = false
+
+cheat3_desc = "Stop Timer"
+cheat3_code = "720062C4+00FA+320062C8+00FF"
+cheat3_enable = false

@@ -1,0 +1,41 @@
+cheats = 10
+
+cheat0_desc = "Continue Climbing (R)"
+cheat0_code = "D0000020+0100+3300725A+0000"
+cheat0_enable = false
+
+cheat1_desc = "Have Hammer [Press R+A]"
+cheat1_code = "74000130+02FE+330072A0+0001"
+cheat1_enable = false
+
+cheat2_desc = "Invincible [Hold L]"
+cheat2_code = "D0000020+0200+33007296+0001"
+cheat2_enable = false
+
+cheat3_desc = "Moon Jump (A)"
+cheat3_code = "D0000020+0001+33007636+0000"
+cheat3_enable = false
+
+cheat4_desc = "Press Select & Jump Into The Air To Get Hammer"
+cheat4_code = "D0000020+0004+330072A0+0001+D0000020+0004+3300723F+0048"
+cheat4_enable = false
+
+cheat5_desc = "Score Modifier"
+cheat5_code = "83007224+0000+83007226+0000"
+cheat5_enable = false
+
+cheat6_desc = "Start With Hi-Score"
+cheat6_code = "73007224+0000+33007225+0005"
+cheat6_enable = false
+
+cheat7_desc = "Stop Barrels"
+cheat7_code = "4300725E+0000+00000006+0002"
+cheat7_enable = false
+
+cheat8_desc = "Stop Timer"
+cheat8_code = "3300722E+0060"
+cheat8_enable = false
+
+cheat9_desc = "Infinite Lives"
+cheat9_code = "33997255+0009"
+cheat9_enable = false

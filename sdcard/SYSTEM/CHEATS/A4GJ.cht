@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Infinite/Max HP"
+cheat0_code = "32009B9C+00FF+32009B9E+00FF"
+cheat0_enable = false
+
+cheat1_desc = "Infinite/Max Special"
+cheat1_code = "32009BAA+00FF+32009BAC+00FF"
+cheat1_enable = false
+
+cheat2_desc = "Move Faster/Jump Higher"
+cheat2_code = "32009BD2+0028"
+cheat2_enable = false
+
+cheat3_desc = "Unlock All Characters"
+cheat3_code = "82024328+FFFF"
+cheat3_enable = false
+
+cheat4_desc = "Unlock All Gallery"
+cheat4_code = "82024324+FFFF+82024326+FFFF"
+cheat4_enable = false
+
+cheat5_desc = "Unlock All Minigames"
+cheat5_code = "8202432C+FFFF"
+cheat5_enable = false

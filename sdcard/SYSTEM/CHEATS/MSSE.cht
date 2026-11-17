@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "(M) - Must Be On"
+cheat0_code = "88024BE0+03E7"
+cheat0_enable = false
+
+cheat1_desc = "Run On Gameboy Player"
+cheat1_code = "32000018+0000"
+cheat1_enable = false

@@ -1,0 +1,65 @@
+cheats = 16
+
+cheat0_desc = "1 Wumpa Fruit = 10"
+cheat0_code = "73004584+0001+3300458E+0001"
+cheat0_enable = false
+
+cheat1_desc = "Auto-Pilot [Press Select+L]"
+cheat1_code = "74000130+01FB+3300458E+0001"
+cheat1_enable = false
+
+cheat2_desc = "Have 99 Trophies"
+cheat2_code = "32000388+0063"
+cheat2_enable = false
+
+cheat3_desc = "Have All Gems"
+cheat3_code = "4200039C+0004+00000008+0004"
+cheat3_enable = false
+
+cheat4_desc = "Have All Items: Barin"
+cheat4_code = "420003D8+0101+00000006+0002+320003D7+0001"
+cheat4_enable = false
+
+cheat5_desc = "Have All Items: Fenomena"
+cheat5_code = "420003F2+0101+00000006+0002+320003FE+0001"
+cheat5_enable = false
+
+cheat6_desc = "Have All Items: Teknee"
+cheat6_code = "4200040E+0101+00000006+0002+3200040D+0001"
+cheat6_enable = false
+
+cheat7_desc = "Have All Items: Terra"
+cheat7_code = "420003BC+0101+00000006+0002+320003C8+0001"
+cheat7_enable = false
+
+cheat8_desc = "Instant Win [Press Select+R]"
+cheat8_code = "74000130+02FB+3300448C+0003"
+cheat8_enable = false
+
+cheat9_desc = "Unlock All Cheats"
+cheat9_code = "320004B7+0001"
+cheat9_enable = false
+
+cheat10_desc = "Unlock Geary"
+cheat10_code = "3200085A+0004"
+cheat10_enable = false
+
+cheat11_desc = "Unlock Krunk"
+cheat11_code = "32000850+0008"
+cheat11_enable = false
+
+cheat12_desc = "Unlock N.Oxide"
+cheat12_code = "82000860+FFFF+32000862+00FF"
+cheat12_enable = false
+
+cheat13_desc = "Unlock Nash"
+cheat13_code = "82000854+0102"
+cheat13_enable = false
+
+cheat14_desc = "Unlock Norm & Big Norm"
+cheat14_code = "32000857+0020"
+cheat14_enable = false
+
+cheat15_desc = "Unlock Velo & Spyro"
+cheat15_code = "3200085E+0080"
+cheat15_enable = false

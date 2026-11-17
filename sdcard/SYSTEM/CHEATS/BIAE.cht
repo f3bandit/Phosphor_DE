@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Access All Areas"
+cheat0_code = "430044CE+FFFF+00000003+0002+830044E0+FFFF+830044E2+FFFF+430044EA+FFFF+00000003+0002"
+cheat0_enable = false
+
+cheat1_desc = "All Animals Saved"
+cheat1_code = "33007930+00FF+4300446A+FFFF+00000005+0002"
+cheat1_enable = false
+
+cheat2_desc = "Have 99 Acorns"
+cheat2_code = "730045B4+0000+330045A4+0063"
+cheat2_enable = false
+
+cheat3_desc = "Invincible"
+cheat3_code = "33007828+0002"
+cheat3_enable = false
+
+cheat4_desc = "Multi Jump"
+cheat4_code = "D0000020+0002+8200DB9A+FFF8"
+cheat4_enable = false
+
+cheat5_desc = "Skip Stage [Press L+R+Up]"
+cheat5_code = "74000130+00BF+53004A80+0005+8B000000+0000+00002A00+0000"
+cheat5_enable = false
+
+cheat6_desc = "Stop Timer"
+cheat6_code = "330045B2+001D"
+cheat6_enable = false

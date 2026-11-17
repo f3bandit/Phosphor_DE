@@ -1,0 +1,37 @@
+cheats = 9
+
+cheat0_desc = "1 Hit Kill"
+cheat0_code = "8800FAF4+2000"
+cheat0_enable = false
+
+cheat1_desc = "Access All Levels"
+cheat1_code = "32007105+000C"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Double Jumps"
+cheat2_code = "88000E3C+46C0+88001158+46C0"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health"
+cheat3_code = "820070B0+0100"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Life"
+cheat4_code = "820070B0+00FF+820070B2+00FF"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Power"
+cheat5_code = "820070CE+03FF"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Rage"
+cheat6_code = "820070D0+03FF"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Support"
+cheat7_code = "320070B4+0001"
+cheat7_enable = false
+
+cheat8_desc = "Invincible"
+cheat8_code = "88002D0C+2002"
+cheat8_enable = false

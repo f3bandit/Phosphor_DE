@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Access All Levels"
+cheat0_code = "43000AD0+0101+00000008+0002"
+cheat0_enable = false
+
+cheat1_desc = "Have 100 Coins"
+cheat1_code = "43000C20+6464+00000008+0002"
+cheat1_enable = false
+
+cheat2_desc = "Have All Keys"
+cheat2_code = "33000C9C+0001+33000CA0+0001"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health"
+cheat3_code = "33000C6C+0005"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Lives"
+cheat4_code = "33000BA8+0009"
+cheat4_enable = false
+
+cheat5_desc = "Invincible"
+cheat5_code = "33000C98+0003"
+cheat5_enable = false
+
+cheat6_desc = "Rapid Fire"
+cheat6_code = "73000D00+000C+33000D00+0000"
+cheat6_enable = false

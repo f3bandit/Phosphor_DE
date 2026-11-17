@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Collection Complete"
+cheat0_code = "83004634+FFFF+33004636+00FF"
+cheat0_enable = false
+
+cheat1_desc = "Have 50,000 Flies"
+cheat1_code = "83004638+C350"
+cheat1_enable = false
+
+cheat2_desc = "Have All Cinemas"
+cheat2_code = "33004628+00FF"
+cheat2_enable = false

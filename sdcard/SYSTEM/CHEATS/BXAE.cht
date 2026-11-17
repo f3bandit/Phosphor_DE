@@ -1,0 +1,21 @@
+cheats = 5
+
+cheat0_desc = "Bankroll Starts At $50000"
+cheat0_code = "72006638+00FA+82006638+C350"
+cheat0_enable = false
+
+cheat1_desc = "Have 2 Aces [Press Select+R]"
+cheat1_code = "74000130+02FB+420097FC+0019+001A0002+0004"
+cheat1_enable = false
+
+cheat2_desc = "Place 500,000 In Pot [Press L+B]"
+cheat2_code = "74000130+01FD+8200813C+A120+74000130+01FD+8200813E+0007"
+cheat2_enable = false
+
+cheat3_desc = "Reveal Rival Cards (Note)"
+cheat3_code = "74000130+03BB+32008140+0016+74000130+03BB+3200844F+0001+74000130+037B+32008140+0008"
+cheat3_enable = false
+
+cheat4_desc = "Starting Pot At $50000"
+cheat4_code = "72008140+0001+8200813C+C350"
+cheat4_enable = false

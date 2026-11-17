@@ -1,0 +1,49 @@
+cheats = 12
+
+cheat0_desc = "Walk Thru Walls"
+cheat0_code = "74000130+03BF+E3003E9C+FF40+74000130+037F+E3003EA4+00B0+74000130+03DF+E3003E98+FF40+74000130+03EF+E3003EA0+00B0"
+cheat0_enable = false
+
+cheat1_desc = "Enemies Give 65,535 Exp When Killed"
+cheat1_code = "82030BA4+FFFF+830046A4+FFFF+83004AA4+FFFF+83004EA4+FFFF+830052A4+FFFF+830056A4+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "Infinite HP"
+cheat2_code = "83003ED0+2760"
+cheat2_enable = false
+
+cheat3_desc = "Infinite SP"
+cheat3_code = "83003ECE+2760"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Status Points"
+cheat4_code = "82003C36+03E7"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Skill Points"
+cheat5_code = "32003C4C+00FF"
+cheat5_enable = false
+
+cheat6_desc = "All Skills Mastered"
+cheat6_code = "42003C50+0007+00000008+0004"
+cheat6_enable = false
+
+cheat7_desc = "Max Str"
+cheat7_code = "82003C2C+03E7"
+cheat7_enable = false
+
+cheat8_desc = "Max Dex"
+cheat8_code = "82003C2E+03E7"
+cheat8_enable = false
+
+cheat9_desc = "Max Int"
+cheat9_code = "82003C30+03E7"
+cheat9_enable = false
+
+cheat10_desc = "Max Vit"
+cheat10_code = "82003C32+03E7"
+cheat10_enable = false
+
+cheat11_desc = "All Stats Maxed"
+cheat11_code = "42003C2C+03E7+00000004+0002"
+cheat11_enable = false

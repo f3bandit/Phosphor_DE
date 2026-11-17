@@ -1,0 +1,145 @@
+cheats = 36
+
+cheat0_desc = "Access All Hives"
+cheat0_code = "7300589A+0808+3202BFFC+0005"
+cheat0_enable = false
+
+cheat1_desc = "Access All Stages"
+cheat1_code = "7300589A+0505+33006830+000F"
+cheat1_enable = false
+
+cheat2_desc = "Access Challenge Room"
+cheat2_code = "3300588B+0001"
+cheat2_enable = false
+
+cheat3_desc = "All Games Purchased"
+cheat3_code = "42009828+0001+0000000C+000C"
+cheat3_enable = false
+
+cheat4_desc = "Drive-Thru-Cars"
+cheat4_code = "7300589A+0A0A+3202E0E6+0011"
+cheat4_enable = false
+
+cheat5_desc = "Engine Upgrade"
+cheat5_code = "7300589A+0A0A+3202E0A1+0004"
+cheat5_enable = false
+
+cheat6_desc = "Have $50,000"
+cheat6_code = "7300589A+0909+83006830+C350"
+cheat6_enable = false
+
+cheat7_desc = "Have 999 Coins"
+cheat7_code = "8300585E+03E7"
+cheat7_enable = false
+
+cheat8_desc = "Have All Licenses"
+cheat8_code = "7300589A+0404+32029D30+00FF"
+cheat8_enable = false
+
+cheat9_desc = "Have All Stars"
+cheat9_code = "7300589A+0101+42009204+0101+00000003+0002"
+cheat9_enable = false
+
+cheat10_desc = "Have All Upgrades"
+cheat10_code = "7300589A+0909+42029914+0005+00000005+0006"
+cheat10_enable = false
+
+cheat11_desc = "Have Sticky Ball"
+cheat11_code = "7300589A+0202+320000AD+0001"
+cheat11_enable = false
+
+cheat12_desc = "Have Super Ball"
+cheat12_code = "7300589A+0202+33006829+0001"
+cheat12_enable = false
+
+cheat13_desc = "Infinite Ammo"
+cheat13_code = "7300589A+0909+42029912+03E7+00000004+0006"
+cheat13_enable = false
+
+cheat14_desc = "Infinite Energy"
+cheat14_code = "7300589A+0000+32006E24+00C8"
+cheat14_enable = false
+
+cheat15_desc = "Infinite Fuel"
+cheat15_code = "7300589A+0404+42029D24+3E58+C1B70002+0002"
+cheat15_enable = false
+
+cheat16_desc = "Infinite Hull"
+cheat16_code = "7300589A+0404+82029D4E+0320"
+cheat16_enable = false
+
+cheat17_desc = "Infinite Keys"
+cheat17_code = "7300589A+0707+33006878+0009"
+cheat17_enable = false
+
+cheat18_desc = "Infinite Mines"
+cheat18_code = "7300589A+0A0A+8202991C+03E6"
+cheat18_enable = false
+
+cheat19_desc = "Infinite Missiles"
+cheat19_code = "7300589A+0A0A+82029916+03E6"
+cheat19_enable = false
+
+cheat20_desc = "Infinite Money At Menu"
+cheat20_code = "3300585E+0063"
+cheat20_enable = false
+
+cheat21_desc = "Infinite Moves"
+cheat21_code = "7300589A+0707+8300681C+03E7"
+cheat21_enable = false
+
+cheat22_desc = "Infinite Shield"
+cheat22_code = "7300589A+0909+33006809+0001"
+cheat22_enable = false
+
+cheat23_desc = "Infinite Ships"
+cheat23_code = "7300589A+0909+32000024+0005"
+cheat23_enable = false
+
+cheat24_desc = "Infinite Uses"
+cheat24_code = "7300589A+0909+8202991C+270F"
+cheat24_enable = false
+
+cheat25_desc = "Max Lander Engine"
+cheat25_code = "7300589A+0404+3202A8A8+00C8"
+cheat25_enable = false
+
+cheat26_desc = "Max Lander Hold"
+cheat26_code = "7300589A+0404+8202A8AA+0320"
+cheat26_enable = false
+
+cheat27_desc = "Max Lander Hull"
+cheat27_code = "7300589A+0404+8202A8AC+0320"
+cheat27_enable = false
+
+cheat28_desc = "Max Lander Passenger"
+cheat28_code = "7300589A+0404+3202A8AE+0007"
+cheat28_enable = false
+
+cheat29_desc = "Max Stardrive Speed"
+cheat29_code = "7300589A+0404+8202A8B2+0190"
+cheat29_enable = false
+
+cheat30_desc = "Max Starship Hold"
+cheat30_code = "7300589A+0404+8202A8B4+1388"
+cheat30_enable = false
+
+cheat31_desc = "Max Starship Lander"
+cheat31_code = "7300589A+0404+3202A8B6+000A"
+cheat31_enable = false
+
+cheat32_desc = "Min Lander Weight"
+cheat32_code = "7300589A+0404+8202A8B0+0190"
+cheat32_enable = false
+
+cheat33_desc = "Shield Always On"
+cheat33_code = "7300589A+0101+32008C92+0001"
+cheat33_enable = false
+
+cheat34_desc = "Stop Timer"
+cheat34_code = "7300589A+0B0B+8202B854+0000"
+cheat34_enable = false
+
+cheat35_desc = "Weapons Upgraded"
+cheat35_code = "7300589A+0101+33006818+0003"
+cheat35_enable = false

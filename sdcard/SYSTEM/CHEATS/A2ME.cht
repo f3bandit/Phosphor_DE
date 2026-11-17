@@ -1,0 +1,45 @@
+cheats = 11
+
+cheat0_desc = "Always 1st Down"
+cheat0_code = "320007D2+0001"
+cheat0_enable = false
+
+cheat1_desc = "Always 4th Down"
+cheat1_code = "320007D2+0004"
+cheat1_enable = false
+
+cheat2_desc = "P1 Always Scores 0"
+cheat2_code = "33002096+0000"
+cheat2_enable = false
+
+cheat3_desc = "P1 Always Scores 150"
+cheat3_code = "33002096+0096"
+cheat3_enable = false
+
+cheat4_desc = "P2 Always Scores 0"
+cheat4_code = "330021E6+0000"
+cheat4_enable = false
+
+cheat5_desc = "P2 Always Scores 150"
+cheat5_code = "330021E6+0096"
+cheat5_enable = false
+
+cheat6_desc = "Press Select For End Of Quarter"
+cheat6_code = "D0000020+0004+820007CA+0000"
+cheat6_enable = false
+
+cheat7_desc = "Press Select+L For No Time Left On The Playclock"
+cheat7_code = "D0000020+0204+320007C8+0000"
+cheat7_enable = false
+
+cheat8_desc = "Press Select+Left For 1st Down"
+cheat8_code = "D0000020+0024+320007D2+0001"
+cheat8_enable = false
+
+cheat9_desc = "Press Select+R For Max Time On The Playclock"
+cheat9_code = "D0000020+0104+320007C8+0063"
+cheat9_enable = false
+
+cheat10_desc = "Press Select+Right For 4th Down"
+cheat10_code = "D0000020+0014+320007D2+0004"
+cheat10_enable = false

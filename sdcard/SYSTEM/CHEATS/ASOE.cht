@@ -1,0 +1,145 @@
+cheats = 36
+
+cheat0_desc = "Chao Belly is Always Empty"
+cheat0_code = "33003034+0000"
+cheat0_enable = false
+
+cheat1_desc = "Chao Belly is Always Full"
+cheat1_code = "33003034+00C8"
+cheat1_enable = false
+
+cheat2_desc = "Chao Mood is Always Empty"
+cheat2_code = "33003033+0000"
+cheat2_enable = false
+
+cheat3_desc = "Chao Mood is Always Full"
+cheat3_code = "33003033+00C8"
+cheat3_enable = false
+
+cheat4_desc = "Fly"
+cheat4_code = "33003041+0005"
+cheat4_enable = false
+
+cheat5_desc = "Get Best Time For The End Of A Zone"
+cheat5_code = "83005034+0001"
+cheat5_enable = false
+
+cheat6_desc = "Have All Chaos Emeralds"
+cheat6_code = "3300517C+007F"
+cheat6_enable = false
+
+cheat7_desc = "Have Feet"
+cheat7_code = "330030EE+0000"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Rings (Chao Mode)"
+cheat8_code = "830046B4+270F"
+cheat8_enable = false
+
+cheat9_desc = "Infinite Rings (Garden)"
+cheat9_code = "83003938+2B66"
+cheat9_enable = false
+
+cheat10_desc = "Infinite Rings In Chao Garden"
+cheat10_code = "830046B4+4E20"
+cheat10_enable = false
+
+cheat11_desc = "Infinite Rings Special"
+cheat11_code = "83005078+03E7"
+cheat11_enable = false
+
+cheat12_desc = "Invincibility Lasts Forever"
+cheat12_code = "83005A3E+FFFF"
+cheat12_enable = false
+
+cheat13_desc = "Jump in Midair"
+cheat13_code = "8804468E+2000+880446A0+20FB+880446A2+0200+880446A4+8158+880446AA+2000"
+cheat13_enable = false
+
+cheat14_desc = "Lightning Shield Effects"
+cheat14_code = "33005A56+0008"
+cheat14_enable = false
+
+cheat15_desc = "Max Rings (Special Stage)"
+cheat15_code = "33005078+00FF"
+cheat15_enable = false
+
+cheat16_desc = "Must Be On (For The Following To Work)"
+cheat16_code = "330030F1+0000"
+cheat16_enable = false
+
+cheat17_desc = "No Feet"
+cheat17_code = "330030EE+0001"
+cheat17_enable = false
+
+cheat18_desc = "Normal Body Type"
+cheat18_code = "330030F5+0000"
+cheat18_enable = false
+
+cheat19_desc = "Normal Shield Effects"
+cheat19_code = "33005A46+0001"
+cheat19_enable = false
+
+cheat20_desc = "Play game demos!!"
+cheat20_code = "330060D8+0001"
+cheat20_enable = false
+
+cheat21_desc = "Power"
+cheat21_code = "33003043+0005"
+cheat21_enable = false
+
+cheat22_desc = "Quick Score Gain"
+cheat22_code = "83005030+FFFF"
+cheat22_enable = false
+
+cheat23_desc = "Quick Stat Level Up"
+cheat23_code = "820044A6+2063"
+cheat23_enable = false
+
+cheat24_desc = "Run"
+cheat24_code = "33003042+0005"
+cheat24_enable = false
+
+cheat25_desc = "Speed Shoes Last Forever"
+cheat25_code = "83005A40+FFFF"
+cheat25_enable = false
+
+cheat26_desc = "Stamina"
+cheat26_code = "33003044+0005"
+cheat26_enable = false
+
+cheat27_desc = "Swap Characters while in any level"
+cheat27_code = "73001140+0014+33005A79+0000+73001140+0024+33005A79+0001+73001140+0044+33005A79+0002+73001140+0084+33005A79+0003"
+cheat27_enable = false
+
+cheat28_desc = "Swim"
+cheat28_code = "33003040+0005"
+cheat28_enable = false
+
+cheat29_desc = "Infinite Rings"
+cheat29_code = "83004FEC+03E7"
+cheat29_enable = false
+
+cheat30_desc = "Infinite Lives"
+cheat30_code = "33005024+000A"
+cheat30_enable = false
+
+cheat31_desc = "Max Score"
+cheat31_code = "83005030+967F+83005032+0098"
+cheat31_enable = false
+
+cheat32_desc = "Play As Sonic"
+cheat32_code = "33005084+0000"
+cheat32_enable = false
+
+cheat33_desc = "Play As Tails"
+cheat33_code = "33005084+0001"
+cheat33_enable = false
+
+cheat34_desc = "Play As Knuckles"
+cheat34_code = "33005084+0002"
+cheat34_enable = false
+
+cheat35_desc = "Play As Amy"
+cheat35_code = "33005084+0003"
+cheat35_enable = false

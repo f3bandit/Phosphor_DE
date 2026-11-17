@@ -1,0 +1,21 @@
+cheats = 5
+
+cheat0_desc = "Lap Time Is Always 0"
+cheat0_code = "83000B2C+0000+83005BEC+0000"
+cheat0_enable = false
+
+cheat1_desc = "Total Time Is Always 0"
+cheat1_code = "83000B28+0000+83005BE8+0000"
+cheat1_enable = false
+
+cheat2_desc = "Unlock All Cars & Extras"
+cheat2_code = "83002054+FFFF+83002056+FFFF+83002058+FFFF"
+cheat2_enable = false
+
+cheat3_desc = "Unlock All Tracks"
+cheat3_code = "8300205C+FFFF+8300205E+FFFF"
+cheat3_enable = false
+
+cheat4_desc = "Unlock All Tune Ups"
+cheat4_code = "83002064+0303+83002066+0301+83002068+0101+8300206A+0101+3300206C+0001"
+cheat4_enable = false

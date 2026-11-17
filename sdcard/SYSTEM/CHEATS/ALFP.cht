@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Infinite Super Saiyan Power/Namek Power"
+cheat0_code = "83000E98+0000"
+cheat0_enable = false
+
+cheat1_desc = "Press L For All Nameks Found"
+cheat1_code = "74000130+01FF+83000F68+43FF"
+cheat1_enable = false
+
+cheat2_desc = "Can Always Attack (Even When U Have The Egg)"
+cheat2_code = "83000CFC+0001"
+cheat2_enable = false
+
+cheat3_desc = "Gohan Codes"
+cheat3_code = "83000EA2+03E7"
+cheat3_enable = false

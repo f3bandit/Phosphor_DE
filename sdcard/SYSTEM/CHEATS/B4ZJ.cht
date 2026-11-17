@@ -1,0 +1,141 @@
+cheats = 35
+
+cheat0_desc = "0% In Sand Level"
+cheat0_code = "8203687E+0000"
+cheat0_enable = false
+
+cheat1_desc = "1 Hit Kill Bosses"
+cheat1_code = "3203A4E4+0001"
+cheat1_enable = false
+
+cheat2_desc = "9 of All Parts"
+cheat2_code = "420358C8+9999+0000000D+0002"
+cheat2_enable = false
+
+cheat3_desc = "9999 Crystals"
+cheat3_code = "820366BA+270F"
+cheat3_enable = false
+
+cheat4_desc = "All Armor"
+cheat4_code = "42035900+FFFF+00000004+0002"
+cheat4_enable = false
+
+cheat5_desc = "All Chest Armor"
+cheat5_code = "82035902+FFF0+82035904+00FF"
+cheat5_enable = false
+
+cheat6_desc = "All Cyber Elves"
+cheat6_code = "320366F5+0001"
+cheat6_enable = false
+
+cheat7_desc = "All EXE Skills"
+cheat7_code = "320366CA+00FF"
+cheat7_enable = false
+
+cheat8_desc = "All Foot Armor"
+cheat8_code = "82035904+FF00+82035906+FFFF"
+cheat8_enable = false
+
+cheat9_desc = "All Gallery"
+cheat9_code = "42000A70+FFFF+00000004+0002"
+cheat9_enable = false
+
+cheat10_desc = "All Game Modes"
+cheat10_code = "82000A80+3831"
+cheat10_enable = false
+
+cheat11_desc = "All Head Armor"
+cheat11_code = "82035900+FFFF+82035902+00F0"
+cheat11_enable = false
+
+cheat12_desc = "All Mini Games"
+cheat12_code = "82000A82+443E+82000A84+504A+82000A86+5C56+32000A88+0061"
+cheat12_enable = false
+
+cheat13_desc = "All Sub-Tanks And Filled"
+cheat13_code = "820366BC+2020+820366BE+2020"
+cheat13_enable = false
+
+cheat14_desc = "Elf Effect"
+cheat14_code = "820366F0+0707+820366F2+0707"
+cheat14_enable = false
+
+cheat15_desc = "Elf Level Max"
+cheat15_code = "820366F0+0707+820366F2+0707+820366F4+0363"
+cheat15_enable = false
+
+cheat16_desc = "Enemy Gun Weapon Modifier"
+cheat16_code = "320366FA+0003+320366C1+0000+320366C3+0003"
+cheat16_enable = false
+
+cheat17_desc = "Fast Charge"
+cheat17_code = "720366E4+0010+820366E4+00C8+720366E6+0010+820366E6+00C8"
+cheat17_enable = false
+
+cheat18_desc = "Fast Weapon Charge"
+cheat18_code = "720366E4+000A+820366E4+00C8+720366E4+0A00+820366E4+C800+720366E4+0A0A+820366E4+C8C8"
+cheat18_enable = false
+
+cheat19_desc = "Freeze Minigame Time"
+cheat19_code = "820303F0+0E11"
+cheat19_enable = false
+
+cheat20_desc = "Infinite Air In Water"
+cheat20_code = "8202E8B6+20CE"
+cheat20_enable = false
+
+cheat21_desc = "Infinite Ammo"
+cheat21_code = "320366E6+00FF"
+cheat21_enable = false
+
+cheat22_desc = "Infinite Double Jumps"
+cheat22_code = "32036742+0000"
+cheat22_enable = false
+
+cheat23_desc = "Infinite Life"
+cheat23_code = "320366A4+00FF"
+cheat23_enable = false
+
+cheat24_desc = "Infinite Lives"
+cheat24_code = "32035910+0009"
+cheat24_enable = false
+
+cheat25_desc = "Infinite Time In Facility"
+cheat25_code = "8202EB94+1EAA"
+cheat25_enable = false
+
+cheat26_desc = "Invincible"
+cheat26_code = "32036694+0080"
+cheat26_enable = false
+
+cheat27_desc = "Low Game Time"
+cheat27_code = "82035918+0000"
+cheat27_enable = false
+
+cheat28_desc = "Max Points After Mission"
+cheat28_code = "4202E8F4+FFFF+00000005+0002+3202E8FA+00FF"
+cheat28_enable = false
+
+cheat29_desc = "Maxed Elf Level"
+cheat29_code = "320366F0+0007"
+cheat29_enable = false
+
+cheat30_desc = "Moon Jump"
+cheat30_code = "D0000020+0001+82036660+FD00+D0000020+0001+82036662+FFFF"
+cheat30_enable = false
+
+cheat31_desc = "Open All Stages"
+cheat31_code = "8202E8B6+FFFF"
+cheat31_enable = false
+
+cheat32_desc = "Press L+R+Down To Cripple Bosses"
+cheat32_code = "74000130+007F+3203A4E4+0001"
+cheat32_enable = false
+
+cheat33_desc = "Press L+R+Start For Grey Boss Energy"
+cheat33_code = "74000130+00F7+3203A4E4+0060"
+cheat33_enable = false
+
+cheat34_desc = "S-Level"
+cheat34_code = "32035911+0006"
+cheat34_enable = false

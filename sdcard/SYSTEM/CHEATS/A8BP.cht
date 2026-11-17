@@ -1,0 +1,173 @@
+cheats = 43
+
+cheat0_desc = "!"
+cheat0_code = "8300132A+FE47"
+cheat0_enable = false
+
+cheat1_desc = "1000/1000 Wins"
+cheat1_code = "83002B84+03E8+83002B86+03E8"
+cheat1_enable = false
+
+cheat2_desc = "Alien"
+cheat2_code = "8300122A+0C01+8300122C+0509+8300122E+FE0E"
+cheat2_enable = false
+
+cheat3_desc = "Always Run"
+cheat3_code = "3300643C+0001"
+cheat3_enable = false
+
+cheat4_desc = "Angel"
+cheat4_code = "8300116A+0E01+8300116C+0507+8300116E+FE0C"
+cheat4_enable = false
+
+cheat5_desc = "Bat"
+cheat5_code = "83000FAA+0102+83000FAC+FE14"
+cheat5_enable = false
+
+cheat6_desc = "Bear"
+cheat6_code = "83000CEA+0502+83000CEC+1201+33000CEE+00FE"
+cheat6_enable = false
+
+cheat7_desc = "Botro"
+cheat7_code = "830012EA+0F02+830012EC+1214+830012EE+FE0F"
+cheat7_enable = false
+
+cheat8_desc = "Cat"
+cheat8_code = "8300126A+0103+8300126C+FE14"
+cheat8_enable = false
+
+cheat9_desc = "Chameleon"
+cheat9_code = "8300106A+0803+8300106C+0D01+8300106E+0C05+83001070+0F05+83001072+FE0E"
+cheat9_enable = false
+
+cheat10_desc = "Devil"
+cheat10_code = "8300112A+0504+8300112C+0916+8300112E+FE0C"
+cheat10_enable = false
+
+cheat11_desc = "Dragon"
+cheat11_code = "830011AA+1204+830011AC+0701+830011AE+0E0F+330011B0+00FE"
+cheat11_enable = false
+
+cheat12_desc = "Ghost"
+cheat12_code = "83000EAA+0807+83000EAC+130F+83000EAE+FE14"
+cheat12_enable = false
+
+cheat13_desc = "Have All Items"
+cheat13_code = "43002BA0+6380+00010033+0002+83002BA0+63B6"
+cheat13_enable = false
+
+cheat14_desc = "Have All Medaparts"
+cheat14_code = "43004C40+0001+000001E0+0002"
+cheat14_enable = false
+
+cheat15_desc = "Infinite Cash"
+cheat15_code = "83002B70+C350"
+cheat15_enable = false
+
+cheat16_desc = "Jellyfish"
+cheat16_code = "83000CAA+050A+83000CAC+0C0C+83000CAE+0619+83000CB0+1309+83000CB2+FE08"
+cheat16_enable = false
+
+cheat17_desc = "Kabuto"
+cheat17_code = "83000C2A+010B+83000C2C+1502+83000C2E+0F14+33000C30+00FE"
+cheat17_enable = false
+
+cheat18_desc = "Kappa"
+cheat18_code = "83000FEA+010B+83000FEC+1010+83000FEE+FE01"
+cheat18_enable = false
+
+cheat19_desc = "Knight"
+cheat19_code = "83000EEA+0E0B+83000EEC+0709+83000EEE+1408+33000EF0+00FE"
+cheat19_enable = false
+
+cheat20_desc = "Kuwagata"
+cheat20_code = "83000BEA+150B+83000BEC+0117+83000BEE+0107+83000BF0+0114+33000BF2+00FE"
+cheat20_enable = false
+
+cheat21_desc = "Mermaid"
+cheat21_code = "83000F2A+050D+83000F2C+0D12+83000F2E+0901+83000F30+FE04"
+cheat21_enable = false
+
+cheat22_desc = "Mini S.Wheel"
+cheat22_code = "83002C18+0192"
+cheat22_enable = false
+
+cheat23_desc = "Monkey"
+cheat23_code = "830010EA+0F0D+830010EC+0B0E+830010EE+1905+330010F0+00FE"
+cheat23_enable = false
+
+cheat24_desc = "Mouse"
+cheat24_code = "8300102A+0F0D+8300102C+1315+8300102E+FE05"
+cheat24_enable = false
+
+cheat25_desc = "Ninja"
+cheat25_code = "830011EA+090E+830011EC+0A0E+830011EE+FE01"
+cheat25_enable = false
+
+cheat26_desc = "No Random Battles"
+cheat26_code = "3300640B+0000"
+cheat26_enable = false
+
+cheat27_desc = "Off [Press Select+R]"
+cheat27_code = "74000130+02FB+82004200+0000+72004200+0000+330063F1+0001"
+cheat27_enable = false
+
+cheat28_desc = "On [Press Select+L]"
+cheat28_code = "74000130+01FB+82004200+0001+72004200+0001+330063F1+0000"
+cheat28_enable = false
+
+cheat29_desc = "Penguin"
+cheat29_code = "83000F6A+0510+83000F6C+070E+83000F6E+0915+83000F70+FE0E"
+cheat29_enable = false
+
+cheat30_desc = "Periscope"
+cheat30_code = "83002C1E+01A6"
+cheat30_enable = false
+
+cheat31_desc = "Phoenix"
+cheat31_code = "83000E2A+0810+83000E2C+050F+83000E2E+090E+83000E30+FE18"
+cheat31_enable = false
+
+cheat32_desc = "Queen"
+cheat32_code = "83000DAA+1511+83000DAC+0505+83000DAE+FE0E"
+cheat32_enable = false
+
+cheat33_desc = "Rabbit"
+cheat33_code = "830010AA+0112+830010AC+0202+830010AE+1409+330010B0+00FE"
+cheat33_enable = false
+
+cheat34_desc = "Silver Locket"
+cheat34_code = "83002C1A+0198"
+cheat34_enable = false
+
+cheat35_desc = "Snake"
+cheat35_code = "83000D6A+0E13+83000D6C+0B01+83000D6E+FE05"
+cheat35_enable = false
+
+cheat36_desc = "Spider"
+cheat36_code = "83000D2A+1013+83000D2C+0409+83000D2E+1205+33000D30+00FE"
+cheat36_enable = false
+
+cheat37_desc = "Squid"
+cheat37_code = "83000DEA+1113+83000DEC+0915+83000DEE+FE04"
+cheat37_enable = false
+
+cheat38_desc = "Stop Battle Timer"
+cheat38_code = "33001856+000A"
+cheat38_enable = false
+
+cheat39_desc = "Stop Game Timer"
+cheat39_code = "83002B88+0000+83002B8A+0000"
+cheat39_enable = false
+
+cheat40_desc = "Tortoise"
+cheat40_code = "83000C6A+0F14+83000C6C+1412+83000C6E+090F+83000C70+0513+33000C72+00FE"
+cheat40_enable = false
+
+cheat41_desc = "Unicorn"
+cheat41_code = "83000E6A+0E15+83000E6C+0309+83000E6E+120F+83000E70+FE0E"
+cheat41_enable = false
+
+cheat42_desc = "Wings of Wind"
+cheat42_code = "83002C1C+0199"
+cheat42_enable = false

@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "All Secrets Found"
+cheat0_code = "83003F28+0009"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Health"
+cheat1_code = "83004014+3500"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Lives"
+cheat2_code = "830013F4+0005"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Turbos"
+cheat3_code = "830037D0+0009"
+cheat3_enable = false
+
+cheat4_desc = "Press L & R For Only 1 Object To Find"
+cheat4_code = "74000130+00FF+83003CB0+0001"
+cheat4_enable = false
+
+cheat5_desc = "Stop Timer"
+cheat5_code = "83003FEA+3035"
+cheat5_enable = false

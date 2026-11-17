@@ -1,0 +1,173 @@
+cheats = 43
+
+cheat0_desc = "Access All Modes"
+cheat0_code = "32004072+0003"
+cheat0_enable = false
+
+cheat1_desc = "Access BGM Mode"
+cheat1_code = "72001BA8+2328+32001BB4+0005+32004070+0001"
+cheat1_enable = false
+
+cheat2_desc = "End Phase To Complete Mission"
+cheat2_code = "72001B68+4E20+8201A976+FFFF"
+cheat2_enable = false
+
+cheat3_desc = "Gain 50 Pilot Pt"
+cheat3_code = "72001B68+2BC0+42001BD0+0032+00000002+0028"
+cheat3_enable = false
+
+cheat4_desc = "Gain 50,000 Cash"
+cheat4_code = "72001B68+2BC0+42001BC8+C350+00000002+0028"
+cheat4_enable = false
+
+cheat5_desc = "Gain 50,000 Exp"
+cheat5_code = "72001B68+2BC0+42001BCC+C350+00000002+0028"
+cheat5_enable = false
+
+cheat6_desc = "Gain 500 Exp"
+cheat6_code = "72001B68+2BC0+42001BCC+01F4+00000002+0028"
+cheat6_enable = false
+
+cheat7_desc = "Have 100 Btl Mastery Pts"
+cheat7_code = "3201A8B6+0064"
+cheat7_enable = false
+
+cheat8_desc = "Have 50 Beat"
+cheat8_code = "42019742+0032+0000003A+0038"
+cheat8_enable = false
+
+cheat9_desc = "Have All Parts"
+cheat9_code = "420040A0+0909+00000037+0004"
+cheat9_enable = false
+
+cheat10_desc = "Infinite Cash"
+cheat10_code = "8201A908+E0FF+8201A90A+05F5"
+cheat10_enable = false
+
+cheat11_desc = "Infinite EN"
+cheat11_code = "42017D22+03E7+0000003A+004C"
+cheat11_enable = false
+
+cheat12_desc = "Infinite HP"
+cheat12_code = "42017D24+C350+0000003A+004C"
+cheat12_enable = false
+
+cheat13_desc = "Infinite SP"
+cheat13_code = "4201975C+03E7+0000003A+0038"
+cheat13_enable = false
+
+cheat14_desc = "Maximum Adaptivity"
+cheat14_code = "42019746+0000+0000003A+0038"
+cheat14_enable = false
+
+cheat15_desc = "Maximum Beat"
+cheat15_code = "42019742+03E7+0000003A+0038"
+cheat15_enable = false
+
+cheat16_desc = "Maximum Def"
+cheat16_code = "4201973E+03E7+0000003A+0038"
+cheat16_enable = false
+
+cheat17_desc = "Maximum Evd"
+cheat17_code = "4201973A+03E7+0000003A+0038"
+cheat17_enable = false
+
+cheat18_desc = "Maximum Hit"
+cheat18_code = "4201973C+03E7+0000003A+0038"
+cheat18_enable = false
+
+cheat19_desc = "Maximum HP/EN"
+cheat19_code = "42017D14+0A0A+0000003A+004C"
+cheat19_enable = false
+
+cheat20_desc = "Maximum Man"
+cheat20_code = "42019740+03E7+0000003A+0038"
+cheat20_enable = false
+
+cheat21_desc = "Maximum Mbl/Arm"
+cheat21_code = "42017D16+0A0A+0000003A+004C"
+cheat21_enable = false
+
+cheat22_desc = "Maximum Mel"
+cheat22_code = "42019736+03E7+0000003A+0038"
+cheat22_enable = false
+
+cheat23_desc = "Maximum Pilot Pt"
+cheat23_code = "42019744+03E7+0000003A+0038"
+cheat23_enable = false
+
+cheat24_desc = "Maximum Rng"
+cheat24_code = "42019738+03E7+0000003A+0038"
+cheat24_enable = false
+
+cheat25_desc = "Maximum SP"
+cheat25_code = "42019734+03E7+0000003A+0038"
+cheat25_enable = false
+
+cheat26_desc = "Maximum Weapon Dmg"
+cheat26_code = "7201A8C0+0002+4201FB50+C350+0000000F+0028"
+cheat26_enable = false
+
+cheat27_desc = "Maximum Weapon Rng"
+cheat27_code = "7201A8C0+0002+4201FB34+0002+0000000F+0028+7201A8C0+0002+4201FB46+0A01+0000000F+0028"
+cheat27_enable = false
+
+cheat28_desc = "Maximum Weapon Stats"
+cheat28_code = "74000130+00FB+4200C432+0AFF+00000400+0004"
+cheat28_enable = false
+
+cheat29_desc = "Maximum Will"
+cheat29_code = "4201975E+03E7+0000003A+0038"
+cheat29_enable = false
+
+cheat30_desc = "One Turn Taken"
+cheat30_code = "7201A8F4+0001+3201A8F4+0000"
+cheat30_enable = false
+
+cheat31_desc = "Pilot #1"
+cheat31_code = "72024260+1F00+32024283+0000"
+cheat31_enable = false
+
+cheat32_desc = "Pilot #10"
+cheat32_code = "72024260+1F00+320243EB+0000"
+cheat32_enable = false
+
+cheat33_desc = "Pilot #2"
+cheat33_code = "72024260+1F00+320242AB+0000"
+cheat33_enable = false
+
+cheat34_desc = "Pilot #3"
+cheat34_code = "72024260+1F00+320242D3+0000"
+cheat34_enable = false
+
+cheat35_desc = "Pilot #4"
+cheat35_code = "72024260+1F00+320242FB+0000"
+cheat35_enable = false
+
+cheat36_desc = "Pilot #5"
+cheat36_code = "72024260+1F00+32024323+0000"
+cheat36_enable = false
+
+cheat37_desc = "Pilot #6"
+cheat37_code = "72024260+1F00+3202434B+0000"
+cheat37_enable = false
+
+cheat38_desc = "Pilot #7"
+cheat38_code = "72024260+1F00+32024373+0000"
+cheat38_enable = false
+
+cheat39_desc = "Pilot #8"
+cheat39_code = "72024260+1F00+3202439B+0000"
+cheat39_enable = false
+
+cheat40_desc = "Pilot #9"
+cheat40_code = "72024260+1F00+320243C3+0000"
+cheat40_enable = false
+
+cheat41_desc = "Reduce Enemy HP [Press Select+L]"
+cheat41_code = "74000130+01FB+42018E5C+0001+00000020+004C"
+cheat41_enable = false
+
+cheat42_desc = "Ultimate Spirit Effects"
+cheat42_code = "42019760+FFF9+00000027+0038"
+cheat42_enable = false

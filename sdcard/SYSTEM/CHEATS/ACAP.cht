@@ -1,0 +1,277 @@
+cheats = 69
+
+cheat0_desc = "All Cars"
+cheat0_code = "4200FDF6+0101+00000007+0002"
+cheat0_enable = false
+
+cheat1_desc = "Always First Place"
+cheat1_code = "880080D4+2001"
+cheat1_enable = false
+
+cheat2_desc = "Arta NSX"
+cheat2_code = "3200FDFC+0001"
+cheat2_enable = false
+
+cheat3_desc = "Calsonic Skyline"
+cheat3_code = "3200FDFF+0001"
+cheat3_enable = false
+
+cheat4_desc = "Castrol Mugen NSX"
+cheat4_code = "3200FDF7+0001"
+cheat4_enable = false
+
+cheat5_desc = "Castrol Nismo GT-R"
+cheat5_code = "3200FE05+0001"
+cheat5_enable = false
+
+cheat6_desc = "Castrol Tom's Supra"
+cheat6_code = "3200FE01+0001"
+cheat6_enable = false
+
+cheat7_desc = "CdmaOne Cerumo Supra"
+cheat7_code = "3200FE02+0001"
+cheat7_enable = false
+
+cheat8_desc = "Circuit-1 Hornet"
+cheat8_code = "330022BC+0002"
+cheat8_enable = false
+
+cheat9_desc = "Circuit-2 Bullet"
+cheat9_code = "3300251C+0000"
+cheat9_enable = false
+
+cheat10_desc = "Circuit-3 Big Trap"
+cheat10_code = "33002698+0000"
+cheat10_enable = false
+
+cheat11_desc = "Circuit-4 Drift Park"
+cheat11_code = "3300277C+0000"
+cheat11_enable = false
+
+cheat12_desc = "Circuit-5 Rough"
+cheat12_code = "330028F8+0000"
+cheat12_enable = false
+
+cheat13_desc = "Circuit-6 Fox"
+cheat13_code = "330029DC+0000"
+cheat13_enable = false
+
+cheat14_desc = "Circuit-7 Free Speed"
+cheat14_code = "33002B58+0000"
+cheat14_enable = false
+
+cheat15_desc = "City-1 Main Street"
+cheat15_code = "330023A0+0000"
+cheat15_enable = false
+
+cheat16_desc = "City-2 Dash"
+cheat16_code = "33002600+0000"
+cheat16_enable = false
+
+cheat17_desc = "City-3 Running Free"
+cheat17_code = "33002730+0000"
+cheat17_enable = false
+
+cheat18_desc = "City-4 Yellow Post"
+cheat18_code = "33002860+0000"
+cheat18_enable = false
+
+cheat19_desc = "City-5 Good Line"
+cheat19_code = "33002AC0+0000"
+cheat19_enable = false
+
+cheat20_desc = "City-6 Barracuda"
+cheat20_code = "33002BF0+0000"
+cheat20_enable = false
+
+cheat21_desc = "Denso Sard Supra GT"
+cheat21_code = "3200FDF8+0001"
+cheat21_enable = false
+
+cheat22_desc = "Dirt-1 Zero"
+cheat22_code = "330023EC+0000"
+cheat22_enable = false
+
+cheat23_desc = "Dirt-2 Halfdump1"
+cheat23_code = "33002484+0000"
+cheat23_enable = false
+
+cheat24_desc = "Dirt-3 Dirt Park"
+cheat24_code = "3300264C+0000"
+cheat24_enable = false
+
+cheat25_desc = "Dirt-4 Response"
+cheat25_code = "330028AC+0000"
+cheat25_enable = false
+
+cheat26_desc = "Dirt-5 Inline Four"
+cheat26_code = "33002990+0000"
+cheat26_enable = false
+
+cheat27_desc = "Dirt-6 Halfdump2"
+cheat27_code = "33002B0C+0000"
+cheat27_enable = false
+
+cheat28_desc = "Endless Advan Supra"
+cheat28_code = "3200FE03+0001"
+cheat28_enable = false
+
+cheat29_desc = "Esso Ultron Tiger Supra"
+cheat29_code = "3200FDFE+0001"
+cheat29_enable = false
+
+cheat30_desc = "FK/Massimo Cerumo Supra"
+cheat30_code = "3200FDF9+0001"
+cheat30_enable = false
+
+cheat31_desc = "Have All Beginning Stages"
+cheat31_code = "33002180+0008"
+cheat31_enable = false
+
+cheat32_desc = "Have All Cars"
+cheat32_code = "43002184+FFFF+00000003+0002"
+cheat32_enable = false
+
+cheat33_desc = "Have All Engines"
+cheat33_code = "33002194+0003"
+cheat33_enable = false
+
+cheat34_desc = "Have All Gold Trophies"
+cheat34_code = "430022BC+0001+00000020+004C"
+cheat34_enable = false
+
+cheat35_desc = "Have All High Speed Stages"
+cheat35_code = "33002182+0008"
+cheat35_enable = false
+
+cheat36_desc = "Have All Middle Stages"
+cheat36_code = "33002181+0008"
+cheat36_enable = false
+
+cheat37_desc = "Have All Mufflers"
+cheat37_code = "33002196+0003"
+cheat37_enable = false
+
+cheat38_desc = "Have All Professional Stages"
+cheat38_code = "33002183+0008"
+cheat38_enable = false
+
+cheat39_desc = "Have All Suspensions"
+cheat39_code = "33002195+0003"
+cheat39_enable = false
+
+cheat40_desc = "Have Special Aero Dynamics"
+cheat40_code = "3300219C+0001"
+cheat40_enable = false
+
+cheat41_desc = "Have Special CPU"
+cheat41_code = "33002198+0001"
+cheat41_enable = false
+
+cheat42_desc = "Have Special Filter"
+cheat42_code = "3300219B+0001"
+cheat42_enable = false
+
+cheat43_desc = "Have Special Grip"
+cheat43_code = "33002197+0001"
+cheat43_enable = false
+
+cheat44_desc = "Have Special Seat"
+cheat44_code = "3300219A+0001"
+cheat44_enable = false
+
+cheat45_desc = "Have Special Weight"
+cheat45_code = "33002199+0001"
+cheat45_enable = false
+
+cheat46_desc = "Highway-1 Nightwalk"
+cheat46_code = "33002354+0000"
+cheat46_enable = false
+
+cheat47_desc = "Highway-2 Bayside"
+cheat47_code = "33002438+0000"
+cheat47_enable = false
+
+cheat48_desc = "Highway-3 Freeway"
+cheat48_code = "330025B4+0000"
+cheat48_enable = false
+
+cheat49_desc = "Highway-4 Outburn"
+cheat49_code = "33002814+0000"
+cheat49_enable = false
+
+cheat50_desc = "Highway-5 Stardust"
+cheat50_code = "33002944+0000"
+cheat50_enable = false
+
+cheat51_desc = "Highway-6 Black Eye"
+cheat51_code = "33002A74+0000"
+cheat51_enable = false
+
+cheat52_desc = "Infinite Money"
+cheat52_code = "82025824+E0FF+82025826+05F5"
+cheat52_enable = false
+
+cheat53_desc = "Loctite Zexel GT-R"
+cheat53_code = "3200FDFA+0001"
+cheat53_enable = false
+
+cheat54_desc = "Matsukiyo Tom's Supra"
+cheat54_code = "3200FDFD+0001"
+cheat54_enable = false
+
+cheat55_desc = "Mobile 1 NSX"
+cheat55_code = "3200FDF6+0001"
+cheat55_enable = false
+
+cheat56_desc = "Press R For Turbo Boost"
+cheat56_code = "74000130+02FF+83003A30+0500"
+cheat56_enable = false
+
+cheat57_desc = "Press Select For Auto Pilot"
+cheat57_code = "74000130+03FB+83003A24+600C"
+cheat57_enable = false
+
+cheat58_desc = "Raybrig NSX"
+cheat58_code = "3200FE00+0001"
+cheat58_enable = false
+
+cheat59_desc = "Takata Dome NSX"
+cheat59_code = "3200FDFB+0001"
+cheat59_enable = false
+
+cheat60_desc = "Unisia Xanavi Skyline"
+cheat60_code = "3200FE04+0001"
+cheat60_enable = false
+
+cheat61_desc = "Win After Crossing Finish Line"
+cheat61_code = "8801937A+DD13+880080D4+2001"
+cheat61_enable = false
+
+cheat62_desc = "Winding-1 Cross"
+cheat62_code = "33002308+0000"
+cheat62_enable = false
+
+cheat63_desc = "Winding-2 Speedstar"
+cheat63_code = "330024D0+0000"
+cheat63_enable = false
+
+cheat64_desc = "Winding-3 Turnpike"
+cheat64_code = "33002568+0000"
+cheat64_enable = false
+
+cheat65_desc = "Winding-4 Caution"
+cheat65_code = "330026E4+0000"
+cheat65_enable = false
+
+cheat66_desc = "Winding-5 Doglake"
+cheat66_code = "330027C8+0000"
+cheat66_enable = false
+
+cheat67_desc = "Winding-6 Skyline"
+cheat67_code = "33002A28+0000"
+cheat67_enable = false
+
+cheat68_desc = "Winding-7 Wild Boar"
+cheat68_code = "33002BA4+0000"
+cheat68_enable = false

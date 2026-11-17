@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Access Cheat Menu"
+cheat0_code = "D0000020+0004+830011C8+07EC"
+cheat0_enable = false
+
+cheat1_desc = "Time Taken 0:00"
+cheat1_code = "83000EDC+0000"
+cheat1_enable = false

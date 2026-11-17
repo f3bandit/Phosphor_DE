@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "1 Lap To Race"
+cheat0_code = "73005B82+0001+33005B82+0003+73005E22+0101+33005E21+0001+33005B83+0000"
+cheat0_enable = false
+
+cheat1_desc = "Can Fly On Non-Flying Levels"
+cheat1_code = "83005B58+A5B0"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Gadget Power"
+cheat2_code = "83005BE4+0000"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Power"
+cheat3_code = "83005B42+0384"
+cheat3_enable = false
+
+cheat4_desc = "Unlock All Cars"
+cheat4_code = "33006042+0101"
+cheat4_enable = false
+
+cheat5_desc = "Unlock All Tours"
+cheat5_code = "83006048+01F9"
+cheat5_enable = false

@@ -1,0 +1,53 @@
+cheats = 13
+
+cheat0_desc = "All Cards/Party Games"
+cheat0_code = "32007008+00FF+32007009+00FF+3200700A+00FF+3200700B+00FF+3200700C+00FF+3200700D+00FF+3200700E+00FF+3200700F+00FF+32007010+00FF+32007011+00FF+32007012+00FF+32007013+00FF+32007014+00FF+32007015+00FF+32007016+00FF+32007017+00FF+32007018+00FF+32007019+00FF+3200701A+00FF+3200701B+00FF+3200701C+00FF+3200701D+00FF+3200701E+00FF+3200701F+00FF+32007020+00FF+32007021+00FF"
+cheat0_enable = false
+
+cheat1_desc = "All Clear Gems"
+cheat1_code = "82006E04+036A+82006E06+02E6+82006E08+0176+82006E0A+0374+82006E0C+0174"
+cheat1_enable = false
+
+cheat2_desc = "All Portals Open"
+cheat2_code = "82006DEC+FFFF+82006DEE+FFFF+82006DF0+FFFF+82006DF2+FFFF+82006DF4+FFFF"
+cheat2_enable = false
+
+cheat3_desc = "All Purple Crystals"
+cheat3_code = "82006DF8+07FE+82006DFA+ABFE+82006DFC+05FE+82006DFE+0BFE+82006E00+01FE"
+cheat3_enable = false
+
+cheat4_desc = "Always Have Aku Aku In Bear Minigames"
+cheat4_code = "3202D9D4+0002+3202D9A0+0002+3202D9D8+0002"
+cheat4_enable = false
+
+cheat5_desc = "Have All 25 Silver & Purple Gems"
+cheat5_code = "42006DFC+FFFF+00000008+0002+82006DFA+00D2+82006E0C+00DF"
+cheat5_enable = false
+
+cheat6_desc = "Have All Cards/Bonus Games"
+cheat6_code = "4200EFC4+FFFF+0000000D+0002"
+cheat6_enable = false
+
+cheat7_desc = "Have All Gates Unlocked"
+cheat7_code = "82006E10+FFFF"
+cheat7_enable = false
+
+cheat8_desc = "Have All Gems+Crystals"
+cheat8_code = "42006DEC+FFFF+00000012+0002"
+cheat8_enable = false
+
+cheat9_desc = "Have All Portals Unlocked"
+cheat9_code = "42006DEC+FFFF+00000005+0002"
+cheat9_enable = false
+
+cheat10_desc = "Max Wumpa Fruit"
+cheat10_code = "82006E4C+270F"
+cheat10_enable = false
+
+cheat11_desc = "Press L+R To Always Get A Gem In Bonus"
+cheat11_code = "74000130+00FF+82006E54+0000+74000130+00FF+82006E58+0000"
+cheat11_enable = false
+
+cheat12_desc = "Start With 2 Masks"
+cheat12_code = "32006E70+0002"
+cheat12_enable = false

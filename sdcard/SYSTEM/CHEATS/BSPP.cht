@@ -1,0 +1,69 @@
+cheats = 17
+
+cheat0_desc = "30 Thugs Defeated"
+cheat0_code = "3200C5A0+001E"
+cheat0_enable = false
+
+cheat1_desc = "All Secrets Unlocked"
+cheat1_code = "420021F0+0001+0000000E+0004"
+cheat1_enable = false
+
+cheat2_desc = "Everything Unlocked"
+cheat2_code = "420021F0+0001+0000000F+0008"
+cheat2_enable = false
+
+cheat3_desc = "Have 50,000 XP"
+cheat3_code = "820021D8+C350"
+cheat3_enable = false
+
+cheat4_desc = "Have All Moves"
+cheat4_code = "42001E90+0001+00000012+0004"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Pizza Delivery Time"
+cheat5_code = "7200C550+6900+8200C550+6930"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Time For The Play"
+cheat6_code = "7200C644+4600+8200C644+4660"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Webbing"
+cheat7_code = "32010420+0014"
+cheat7_enable = false
+
+cheat8_desc = "Max Experience"
+cheat8_code = "820021D8+E0FF+820021DA+05F5"
+cheat8_enable = false
+
+cheat9_desc = "Max XP"
+cheat9_code = "820021D8+270F"
+cheat9_enable = false
+
+cheat10_desc = "Mega Jump"
+cheat10_code = "D0000020+0001+E2001F16+FFFD"
+cheat10_enable = false
+
+cheat11_desc = "More Time"
+cheat11_code = "72001EEC+0004+8200C550+69A0"
+cheat11_enable = false
+
+cheat12_desc = "Only Need To Deliver 1 Pizza"
+cheat12_code = "7200C664+0005+3200C664+0001"
+cheat12_enable = false
+
+cheat13_desc = "Press Select To Cripple Bosses"
+cheat13_code = "74000130+03FB+8200EB70+0000"
+cheat13_enable = false
+
+cheat14_desc = "Skip 2D Stage [Press Select+Up]"
+cheat14_code = "74000130+03BB+3200C544+0001"
+cheat14_enable = false
+
+cheat15_desc = "Skip 3D Stage [Press Select+Down]"
+cheat15_code = "74000130+037B+32000F39+000F+74000130+037B+32000F3F+0001"
+cheat15_enable = false
+
+cheat16_desc = "Walk Thru Walls"
+cheat16_code = "74000130+03DF+E2001F12+FFFD+74000130+03EF+E2001F12+0002"
+cheat16_enable = false

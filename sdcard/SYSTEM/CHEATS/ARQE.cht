@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "All Fires Put Out"
+cheat0_code = "82017DEC+0000"
+cheat0_enable = false
+
+cheat1_desc = "Have No Dogs To Save"
+cheat1_code = "82017DE8+0000"
+cheat1_enable = false
+
+cheat2_desc = "Press Select For 1 Dog To Save"
+cheat2_code = "D0000020+0004+82017DE8+0001"
+cheat2_enable = false
+
+cheat3_desc = "Press Select For 1 Fire To Put Out"
+cheat3_code = "D0000020+0004+82017DEC+0001"
+cheat3_enable = false

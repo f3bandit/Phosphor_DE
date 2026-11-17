@@ -1,0 +1,41 @@
+cheats = 10
+
+cheat0_desc = "Have $5,000,000"
+cheat0_code = "82000B48+03E8"
+cheat0_enable = false
+
+cheat1_desc = "Have 12 Munkeys"
+cheat1_code = "32000B64+000C"
+cheat1_enable = false
+
+cheat2_desc = "Have Anvil [Press L+Left]"
+cheat2_code = "74000130+01DF+82000262+01C0+74000130+01DF+82000A34+009A+74000130+01DF+330048C4+0004"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Cartoon Power"
+cheat3_code = "3203D235+0001"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Eggs"
+cheat4_code = "32000A40+0063"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Energy"
+cheat5_code = "320223A2+0005"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Health: Bugs"
+cheat6_code = "32036E7E+0005"
+cheat6_enable = false
+
+cheat7_desc = "Infinite R.R. Essence"
+cheat7_code = "32022F89+0001"
+cheat7_enable = false
+
+cheat8_desc = "Moon Jump: Bugs"
+cheat8_code = "D0000020+0001+82036ED0+FEC0+D0000020+0001+82036ED2+FFFF"
+cheat8_enable = false
+
+cheat9_desc = "Moon Jump: Daffy"
+cheat9_code = "D0000020+0001+820223F4+FEC0+D0000020+0001+820223F6+FFFF"
+cheat9_enable = false

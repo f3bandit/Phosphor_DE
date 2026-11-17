@@ -1,0 +1,65 @@
+cheats = 16
+
+cheat0_desc = "Crey"
+cheat0_code = "33003FB8+00FF"
+cheat0_enable = false
+
+cheat1_desc = "Data Base Complete"
+cheat1_code = "83004040+FFFF+83004042+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "Domon"
+cheat2_code = "33003FB5+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Fuko"
+cheat3_code = "33003FB6+00FF"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Health"
+cheat4_code = "83003FF4+6400"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Health Bar"
+cheat5_code = "83003FF0+6400"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Power"
+cheat6_code = "83003FFC+6400"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Super Bar"
+cheat7_code = "83003FF8+6400"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Time"
+cheat8_code = "83003FE4+1500"
+cheat8_enable = false
+
+cheat9_desc = "Mikagami"
+cheat9_code = "33003FB7+00FF"
+cheat9_enable = false
+
+cheat10_desc = "No Power"
+cheat10_code = "83003FFC+0000"
+cheat10_enable = false
+
+cheat11_desc = "Press Select To Kill Opponent"
+cheat11_code = "D0000020+0004+83003FF4+0000"
+cheat11_enable = false
+
+cheat12_desc = "Recca"
+cheat12_code = "33003FB4+00FF"
+cheat12_enable = false
+
+cheat13_desc = "Unlock All Fields"
+cheat13_code = "83003FC6+FFFF"
+cheat13_enable = false
+
+cheat14_desc = "Unlock All Fighters"
+cheat14_code = "83004038+FFFF"
+cheat14_enable = false
+
+cheat15_desc = "Unlock Survival"
+cheat15_code = "3300403F+00FF"
+cheat15_enable = false

@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Slow Timer"
+cheat0_code = "73004CE4+0001+83004C34+00A0"
+cheat0_enable = false
+
+cheat1_desc = "Slower Timer"
+cheat1_code = "73004CE4+0001+83004C34+0080"
+cheat1_enable = false
+
+cheat2_desc = "Unlock All Souvenirs"
+cheat2_code = "420000A4+FBFB+000000BA+0002"
+cheat2_enable = false
+
+cheat3_desc = "Unlock All Stories"
+cheat3_code = "42000024+0003+00000010+0008"
+cheat3_enable = false

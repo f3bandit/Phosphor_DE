@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Take collectibles anywhere - not usable/for testing purposes only"
+cheat0_code = "8800DE66+E000"
+cheat0_enable = false

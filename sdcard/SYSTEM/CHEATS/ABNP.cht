@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Stop Idle Timer"
+cheat0_code = "3300136C+0018"
+cheat0_enable = false
+
+cheat1_desc = "Team 1 Can't Score"
+cheat1_code = "430013AE+0000+00000003+0004"
+cheat1_enable = false
+
+cheat2_desc = "Team 2 Can't Score"
+cheat2_code = "430013B0+0000+00000003+0004"
+cheat2_enable = false

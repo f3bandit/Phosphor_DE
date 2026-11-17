@@ -1,0 +1,69 @@
+cheats = 17
+
+cheat0_desc = "Access All Battlefields"
+cheat0_code = "4203A2E4+FFFF+00000003+0002"
+cheat0_enable = false
+
+cheat1_desc = "B-Daman"
+cheat1_code = "4203A894+FFFF+0000001A+0002"
+cheat1_enable = false
+
+cheat2_desc = "Characters"
+cheat2_code = "4203A8CE+FFFF+0000000E+0002"
+cheat2_enable = false
+
+cheat3_desc = "Easy Clear (Bugs/Snipes)"
+cheat3_code = "72039D54+0008+32039D52+0001"
+cheat3_enable = false
+
+cheat4_desc = "End Time [Press Select+Up]"
+cheat4_code = "74000130+03BB+32039D40+0000"
+cheat4_enable = false
+
+cheat5_desc = "Gain 50,000 Dabucks"
+cheat5_code = "8203CCFC+C350"
+cheat5_enable = false
+
+cheat6_desc = "Gain 50,000 Exp"
+cheat6_code = "8203CCFE+C350"
+cheat6_enable = false
+
+cheat7_desc = "Have 999 Points"
+cheat7_code = "82039DB0+03E7"
+cheat7_enable = false
+
+cheat8_desc = "Infinite B-Dabucks"
+cheat8_code = "8203A26C+423F+8203A26E+000F"
+cheat8_enable = false
+
+cheat9_desc = "Infinite B-Daspirit"
+cheat9_code = "32039D64+0003+32039D6A+00FF"
+cheat9_enable = false
+
+cheat10_desc = "Infinite HP"
+cheat10_code = "32039D68+00FF"
+cheat10_enable = false
+
+cheat11_desc = "Infinite Strike Shot"
+cheat11_code = "72039D82+0001+32039D82+0002"
+cheat11_enable = false
+
+cheat12_desc = "Infinite Time"
+cheat12_code = "32039D40+00FF"
+cheat12_enable = false
+
+cheat13_desc = "Maximum B-Daballs"
+cheat13_code = "32039D75+000F"
+cheat13_enable = false
+
+cheat14_desc = "Parts"
+cheat14_code = "4203A6AA+8181+000000BA+0002"
+cheat14_enable = false
+
+cheat15_desc = "Special Attack"
+cheat15_code = "4203A824+FFFF+00000038+0002"
+cheat15_enable = false
+
+cheat16_desc = "Weak Rival"
+cheat16_code = "32039DC0+0001"
+cheat16_enable = false

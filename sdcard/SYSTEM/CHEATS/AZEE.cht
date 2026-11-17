@@ -1,0 +1,173 @@
+cheats = 43
+
+cheat0_desc = "Ares-Infinite EN"
+cheat0_code = "830021A6+03E7"
+cheat0_enable = false
+
+cheat1_desc = "Ares-Infinite HP"
+cheat1_code = "830021A4+FDE8"
+cheat1_enable = false
+
+cheat2_desc = "Cage-Infinite EN"
+cheat2_code = "8300215E+03E7"
+cheat2_enable = false
+
+cheat3_desc = "Cage-Infinite HP"
+cheat3_code = "8300215C+FDE8"
+cheat3_enable = false
+
+cheat4_desc = "Deckson-Infinite EN"
+cheat4_code = "83002212+03E7"
+cheat4_enable = false
+
+cheat5_desc = "Deckson-Infinite HP"
+cheat5_code = "83002210+FDE8"
+cheat5_enable = false
+
+cheat6_desc = "Deckson-Max FortLEV"
+cheat6_code = "33002222+0066"
+cheat6_enable = false
+
+cheat7_desc = "Deckson-Max FortWeap"
+cheat7_code = "33002223+0060"
+cheat7_enable = false
+
+cheat8_desc = "Infinite 155mm-Deckson"
+cheat8_code = "33001DDC+0014"
+cheat8_enable = false
+
+cheat9_desc = "Infinite Attack Time"
+cheat9_code = "33000E72+0000"
+cheat9_enable = false
+
+cheat10_desc = "Mebius-Infinite Bounder"
+cheat10_code = "33001DDE+0002"
+cheat10_enable = false
+
+cheat11_desc = "Mebius-Infinite EN"
+cheat11_code = "8300213A+03E7"
+cheat11_enable = false
+
+cheat12_desc = "Mebius-Infinite HP"
+cheat12_code = "83002138+FDE8"
+cheat12_enable = false
+
+cheat13_desc = "Phil-Infinite EN"
+cheat13_code = "830022C6+03E7"
+cheat13_enable = false
+
+cheat14_desc = "Phil-Infinite HP"
+cheat14_code = "830022C4+FDE8"
+cheat14_enable = false
+
+cheat15_desc = "Phil-Max FortLEV"
+cheat15_code = "330022D6+0066"
+cheat15_enable = false
+
+cheat16_desc = "Phil-Max FortWeap"
+cheat16_code = "330022D7+0060"
+cheat16_enable = false
+
+cheat17_desc = "Razma-Infinite EN"
+cheat17_code = "830021EE+03E7"
+cheat17_enable = false
+
+cheat18_desc = "Razma-Infinite Grenade"
+cheat18_code = "33001DD4+0006"
+cheat18_enable = false
+
+cheat19_desc = "Razma-Infinite HP"
+cheat19_code = "830021EC+FDE8"
+cheat19_enable = false
+
+cheat20_desc = "Razma-MaxFortLEV"
+cheat20_code = "330021FE+0066"
+cheat20_enable = false
+
+cheat21_desc = "Razma-MaxFortWeap"
+cheat21_code = "330021FF+0066+33002200+0066"
+cheat21_enable = false
+
+cheat22_desc = "Semyl-Infinite 360 Attack"
+cheat22_code = "33001DD8+0001"
+cheat22_enable = false
+
+cheat23_desc = "Semyl-Infinite EN"
+cheat23_code = "830022A2+03E7"
+cheat23_enable = false
+
+cheat24_desc = "Semyl-Infinite HP"
+cheat24_code = "830022A0+FDE8"
+cheat24_enable = false
+
+cheat25_desc = "Semyl-Infinite Missile"
+cheat25_code = "33001DD7+0005"
+cheat25_enable = false
+
+cheat26_desc = "Semyl-Infinite S.Carnival"
+cheat26_code = "33001DD6+0003"
+cheat26_enable = false
+
+cheat27_desc = "Semyl-Max FortLEV"
+cheat27_code = "330022B2+0066"
+cheat27_enable = false
+
+cheat28_desc = "Semyl-Max FortWeap"
+cheat28_code = "330022B3+0066+330022B4+0066"
+cheat28_enable = false
+
+cheat29_desc = "Twede-Infinite Geyser"
+cheat29_code = "33001DE2+0002"
+cheat29_enable = false
+
+cheat30_desc = "Twede-Infinite Tri-Lazer"
+cheat30_code = "33001DE1+0001"
+cheat30_enable = false
+
+cheat31_desc = "Warren-Infinite EN"
+cheat31_code = "8300225A+03E7"
+cheat31_enable = false
+
+cheat32_desc = "Warren-Infinite Gauntlet"
+cheat32_code = "33001DE0+0002"
+cheat32_enable = false
+
+cheat33_desc = "Warren-Infinite HP"
+cheat33_code = "83002258+FDE8"
+cheat33_enable = false
+
+cheat34_desc = "Warren-Infinite Slashboom"
+cheat34_code = "33001DDF+0002"
+cheat34_enable = false
+
+cheat35_desc = "Yukito-Infinite EN"
+cheat35_code = "8300227E+03E7"
+cheat35_enable = false
+
+cheat36_desc = "Yukito-Infinite Handgun"
+cheat36_code = "33001DDA+0014"
+cheat36_enable = false
+
+cheat37_desc = "Yukito-Infinite HP"
+cheat37_code = "8300227C+FDE8"
+cheat37_enable = false
+
+cheat38_desc = "Yukito-Infinite ZZGrenade"
+cheat38_code = "33001DDB+0001"
+cheat38_enable = false
+
+cheat39_desc = "Yukito-Max FortLEV"
+cheat39_code = "3300228E+0066"
+cheat39_enable = false
+
+cheat40_desc = "Yukito-Max FortWeap"
+cheat40_code = "3300228F+0066+33002290+0066"
+cheat40_enable = false
+
+cheat41_desc = "Infinite Money"
+cheat41_code = "83001CD0+FFFF"
+cheat41_enable = false
+
+cheat42_desc = "Max Money"
+cheat42_code = "83001CD0+423F+83001CD2+000F"
+cheat42_enable = false

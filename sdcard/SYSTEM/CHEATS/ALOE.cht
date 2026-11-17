@@ -1,0 +1,153 @@
+cheats = 38
+
+cheat0_desc = "Aragorn: Infinite Health"
+cheat0_code = "3300506F+005A"
+cheat0_enable = false
+
+cheat1_desc = "Aragorn: Max Health Level"
+cheat1_code = "33004E43+0007"
+cheat1_enable = false
+
+cheat2_desc = "Aragorn: Max Skill Level"
+cheat2_code = "33004E42+0007"
+cheat2_enable = false
+
+cheat3_desc = "Aragorn: Max Speed"
+cheat3_code = "7300508C+01E0+8300508C+02E0"
+cheat3_enable = false
+
+cheat4_desc = "Boromir: Infinite Health"
+cheat4_code = "330050EF+003F"
+cheat4_enable = false
+
+cheat5_desc = "Boromir: Max Health Level"
+cheat5_code = "33004E4B+0007"
+cheat5_enable = false
+
+cheat6_desc = "Boromir: Max Skill Level"
+cheat6_code = "33004E4A+0007"
+cheat6_enable = false
+
+cheat7_desc = "Boromir: Max Speed"
+cheat7_code = "7300510C+01E0+8300510C+02E0"
+cheat7_enable = false
+
+cheat8_desc = "Frodo: Infinite Health"
+cheat8_code = "33004F6F+0037"
+cheat8_enable = false
+
+cheat9_desc = "Frodo: Max Health Level"
+cheat9_code = "33004E33+0007"
+cheat9_enable = false
+
+cheat10_desc = "Frodo: Max Skill Level"
+cheat10_code = "33004E32+0007"
+cheat10_enable = false
+
+cheat11_desc = "Frodo: Max Speed"
+cheat11_code = "73004F8C+01E0+83004F8C+02E0"
+cheat11_enable = false
+
+cheat12_desc = "Gandalf: Infinite Health"
+cheat12_code = "330050AF+002D"
+cheat12_enable = false
+
+cheat13_desc = "Gandalf: Max Health Level"
+cheat13_code = "33004E47+0007"
+cheat13_enable = false
+
+cheat14_desc = "Gandalf: Max Skill Level"
+cheat14_code = "33004E46+0007"
+cheat14_enable = false
+
+cheat15_desc = "Gandalf: Max Speed"
+cheat15_code = "730050CC+01E0+830050CC+02E0"
+cheat15_enable = false
+
+cheat16_desc = "Gimli: Infinite Health"
+cheat16_code = "3300516F+005A"
+cheat16_enable = false
+
+cheat17_desc = "Gimli: Max Health Level"
+cheat17_code = "33004E53+0007"
+cheat17_enable = false
+
+cheat18_desc = "Gimli: Max Skill Level"
+cheat18_code = "33004E52+0007"
+cheat18_enable = false
+
+cheat19_desc = "Gimli: Max Speed"
+cheat19_code = "7300518C+01E0+8300518C+02E0"
+cheat19_enable = false
+
+cheat20_desc = "Kill Enemies [Press Select]"
+cheat20_code = "D0000020+0004+430051B2+0500+00000008+0040"
+cheat20_enable = false
+
+cheat21_desc = "Legolas: Infinite Health"
+cheat21_code = "3300512F+0047"
+cheat21_enable = false
+
+cheat22_desc = "Legolas: Max Health Level"
+cheat22_code = "33004E4F+0007"
+cheat22_enable = false
+
+cheat23_desc = "Legolas: Max Skill Level"
+cheat23_code = "33004E4E+0007"
+cheat23_enable = false
+
+cheat24_desc = "Legolas: Max Speed"
+cheat24_code = "7300514C+01E0+8300514C+02E0"
+cheat24_enable = false
+
+cheat25_desc = "Merry: Infinite Health"
+cheat25_code = "3300502F+0040"
+cheat25_enable = false
+
+cheat26_desc = "Merry: Max Health Level"
+cheat26_code = "33004E3F+0007"
+cheat26_enable = false
+
+cheat27_desc = "Merry: Max Skill Level"
+cheat27_code = "33004E3E+0007"
+cheat27_enable = false
+
+cheat28_desc = "Merry: Max Speed"
+cheat28_code = "7300504C+01E0+8300504C+02E0"
+cheat28_enable = false
+
+cheat29_desc = "Pippin: Infinite Health"
+cheat29_code = "33004FEF+0035"
+cheat29_enable = false
+
+cheat30_desc = "Pippin: Max Health Level"
+cheat30_code = "33004E3B+0007"
+cheat30_enable = false
+
+cheat31_desc = "Pippin: Max Skill Level"
+cheat31_code = "33004E3A+0007"
+cheat31_enable = false
+
+cheat32_desc = "Pippin: Max Speed"
+cheat32_code = "7300500C+01E0+8300500C+02E0"
+cheat32_enable = false
+
+cheat33_desc = "Press Select For Sudden Death Enemies"
+cheat33_code = "5604531A+0006+FAB61AD6+6BA9+95A50F37+6B76"
+cheat33_enable = false
+
+cheat34_desc = "Sam: Infinite Health"
+cheat34_code = "33004FAF+0037"
+cheat34_enable = false
+
+cheat35_desc = "Sam: Max Health Level"
+cheat35_code = "33004E37+0007"
+cheat35_enable = false
+
+cheat36_desc = "Sam: Max Skill Level"
+cheat36_code = "33004E36+0007"
+cheat36_enable = false
+
+cheat37_desc = "Sam: Max Speed"
+cheat37_code = "73004FCC+01E0+83004FCC+02E0"
+cheat37_enable = false

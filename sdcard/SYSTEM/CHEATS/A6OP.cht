@@ -1,0 +1,265 @@
+cheats = 66
+
+cheat0_desc = "10th Character: Infinite HP"
+cheat0_code = "82000702+03E7"
+cheat0_enable = false
+
+cheat1_desc = "10th Character: Infinite SP"
+cheat1_code = "82000704+03E7"
+cheat1_enable = false
+
+cheat2_desc = "10th Character: Maximum HP"
+cheat2_code = "82000706+03E7"
+cheat2_enable = false
+
+cheat3_desc = "10th Character: Maximum SP"
+cheat3_code = "82000708+03E7"
+cheat3_enable = false
+
+cheat4_desc = "10th Character: Quick Level Gain"
+cheat4_code = "820006FE+03E7"
+cheat4_enable = false
+
+cheat5_desc = "1st Character: Infinite HP"
+cheat5_code = "8200027E+03E7"
+cheat5_enable = false
+
+cheat6_desc = "1st Character: Infinite SP"
+cheat6_code = "82000280+03E7"
+cheat6_enable = false
+
+cheat7_desc = "1st Character: Maximum HP"
+cheat7_code = "82000282+03E7"
+cheat7_enable = false
+
+cheat8_desc = "1st Character: Maximum SP"
+cheat8_code = "82000284+03E7"
+cheat8_enable = false
+
+cheat9_desc = "1st Character: Quick Level Gain"
+cheat9_code = "8200027A+03E7"
+cheat9_enable = false
+
+cheat10_desc = "2nd Character: Infinite HP"
+cheat10_code = "820002C2+03E7"
+cheat10_enable = false
+
+cheat11_desc = "2nd Character: Infinite SP"
+cheat11_code = "820002C4+03E7"
+cheat11_enable = false
+
+cheat12_desc = "2nd Character: Maximum HP"
+cheat12_code = "820002C6+03E7"
+cheat12_enable = false
+
+cheat13_desc = "2nd Character: Maximum SP"
+cheat13_code = "820002C8+03E7"
+cheat13_enable = false
+
+cheat14_desc = "2nd Character: Quick Level Gain"
+cheat14_code = "820002BE+03E7"
+cheat14_enable = false
+
+cheat15_desc = "3rd Character: Infinite HP"
+cheat15_code = "820004E2+03E7"
+cheat15_enable = false
+
+cheat16_desc = "3rd Character: Infinite SP"
+cheat16_code = "820004E4+03E7"
+cheat16_enable = false
+
+cheat17_desc = "3rd Character: Maximum HP"
+cheat17_code = "820004E6+03E7"
+cheat17_enable = false
+
+cheat18_desc = "3rd Character: Maximum SP"
+cheat18_code = "820004E8+03E7"
+cheat18_enable = false
+
+cheat19_desc = "3rd Character: Quick Level Gain"
+cheat19_code = "820004DE+03E7"
+cheat19_enable = false
+
+cheat20_desc = "4th Character: Infinite HP"
+cheat20_code = "82000526+03E7"
+cheat20_enable = false
+
+cheat21_desc = "4th Character: Infinite SP"
+cheat21_code = "82000528+03E7"
+cheat21_enable = false
+
+cheat22_desc = "4th Character: Maximum HP"
+cheat22_code = "8200052A+03E7"
+cheat22_enable = false
+
+cheat23_desc = "4th Character: Maximum SP"
+cheat23_code = "8200052C+03E7"
+cheat23_enable = false
+
+cheat24_desc = "4th Character: Quick Level Gain"
+cheat24_code = "82000522+03E7"
+cheat24_enable = false
+
+cheat25_desc = "5th Character: Infinite HP"
+cheat25_code = "8200056A+03E7"
+cheat25_enable = false
+
+cheat26_desc = "5th Character: Infinite SP"
+cheat26_code = "8200056C+03E7"
+cheat26_enable = false
+
+cheat27_desc = "5th Character: Maximum HP"
+cheat27_code = "8200056E+03E7"
+cheat27_enable = false
+
+cheat28_desc = "5th Character: Maximum SP"
+cheat28_code = "82000570+03E7"
+cheat28_enable = false
+
+cheat29_desc = "5th Character: Quick Level Gain"
+cheat29_code = "82000566+03E7"
+cheat29_enable = false
+
+cheat30_desc = "6th Character: Infinite HP"
+cheat30_code = "8200049E+03E7"
+cheat30_enable = false
+
+cheat31_desc = "6th Character: Infinite SP"
+cheat31_code = "820004A0+03E7"
+cheat31_enable = false
+
+cheat32_desc = "6th Character: Maximum HP"
+cheat32_code = "820004A2+03E7"
+cheat32_enable = false
+
+cheat33_desc = "6th Character: Maximum SP"
+cheat33_code = "820004A4+03E7"
+cheat33_enable = false
+
+cheat34_desc = "6th Character: Quick Level Gain"
+cheat34_code = "8200049A+03E7"
+cheat34_enable = false
+
+cheat35_desc = "7th Character: Infinite HP"
+cheat35_code = "820006BE+03E7"
+cheat35_enable = false
+
+cheat36_desc = "7th Character: Infinite SP"
+cheat36_code = "820006C0+03E7"
+cheat36_enable = false
+
+cheat37_desc = "7th Character: Maximum HP"
+cheat37_code = "820006C2+03E7"
+cheat37_enable = false
+
+cheat38_desc = "7th Character: Maximum SP"
+cheat38_code = "820006C4+03E7"
+cheat38_enable = false
+
+cheat39_desc = "7th Character: Quick Level Gain"
+cheat39_code = "820006BA+03E7"
+cheat39_enable = false
+
+cheat40_desc = "8th Character: Infinite HP"
+cheat40_code = "8200034A+03E7"
+cheat40_enable = false
+
+cheat41_desc = "8th Character: Infinite SP"
+cheat41_code = "8200034C+03E7"
+cheat41_enable = false
+
+cheat42_desc = "8th Character: Maximum HP"
+cheat42_code = "8200034E+03E7"
+cheat42_enable = false
+
+cheat43_desc = "8th Character: Maximum SP"
+cheat43_code = "82000350+03E7"
+cheat43_enable = false
+
+cheat44_desc = "8th Character: Quick Level Gain"
+cheat44_code = "82000346+03E7"
+cheat44_enable = false
+
+cheat45_desc = "9th Character: Infinite HP"
+cheat45_code = "8200067A+03E7"
+cheat45_enable = false
+
+cheat46_desc = "9th Character: Infinite SP"
+cheat46_code = "8200067C+03E7"
+cheat46_enable = false
+
+cheat47_desc = "9th Character: Maximum HP"
+cheat47_code = "8200067E+03E7"
+cheat47_enable = false
+
+cheat48_desc = "9th Character: Maximum SP"
+cheat48_code = "82000680+03E7"
+cheat48_enable = false
+
+cheat49_desc = "9th Character: Quick Level Gain"
+cheat49_code = "82000676+03E7"
+cheat49_enable = false
+
+cheat50_desc = "Have all Level 99 Weapons+Items"
+cheat50_code = "430056BC+FFFF+00000000+0000"
+cheat50_enable = false
+
+cheat51_desc = "Infinite Att. Points"
+cheat51_code = "330056B2+0063"
+cheat51_enable = false
+
+cheat52_desc = "Start Battle With Max HP/SP P1"
+cheat52_code = "82000286+03E7+82000288+03E7"
+cheat52_enable = false
+
+cheat53_desc = "Start Battle With Max HP/SP P2"
+cheat53_code = "820002CA+03E7+820002CC+03E7"
+cheat53_enable = false
+
+cheat54_desc = "Start Battle With Max HP/SP P3"
+cheat54_code = "820004EA+03E7+820004EC+03E7"
+cheat54_enable = false
+
+cheat55_desc = "Start Battle With Max HP/SP P4"
+cheat55_code = "8200052E+03E7+82000530+03E7"
+cheat55_enable = false
+
+cheat56_desc = "Start Battle With Max HP/SP P5"
+cheat56_code = "82000572+03E7+82000574+03E7"
+cheat56_enable = false
+
+cheat57_desc = "Start Battle With Max HP/SP P6"
+cheat57_code = "820004A6+03E7+820004A8+03E7"
+cheat57_enable = false
+
+cheat58_desc = "Start Battle With 100 Exp P1"
+cheat58_code = "8200027A+0064"
+cheat58_enable = false
+
+cheat59_desc = "Start Battle With 100 Exp P2"
+cheat59_code = "820002BE+0064"
+cheat59_enable = false
+
+cheat60_desc = "Start Battle With 100 Exp P3"
+cheat60_code = "820004DE+0064"
+cheat60_enable = false
+
+cheat61_desc = "Start Battle With 100 Exp P4"
+cheat61_code = "82000522+0064"
+cheat61_enable = false
+
+cheat62_desc = "Start Battle With 100 Exp P5"
+cheat62_code = "82000566+0064"
+cheat62_enable = false
+
+cheat63_desc = "Start Battle With 100 Exp P6"
+cheat63_code = "8200049A+0064"
+cheat63_enable = false
+
+cheat64_desc = "All Charaters Have Multi Turns"
+cheat64_code = "43002F1C+0000+0000000A+00EC"
+cheat64_enable = false
+
+cheat65_desc = "Infinite Creation Gems (For Weapons/Armor)"
+cheat65_code = "430056AA+6363+00000005+0002"
+cheat65_enable = false

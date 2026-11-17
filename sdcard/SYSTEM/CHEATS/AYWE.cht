@@ -1,0 +1,193 @@
+cheats = 48
+
+cheat0_desc = "20 Wins/0 Loses All Characters"
+cheat0_code = "42013CF4+0014+00000017+0004"
+cheat0_enable = false
+
+cheat1_desc = "Access All Characters [Press L+R+Down]"
+cheat1_code = "74000130+007F+42013D8C+0010+0001000E+0004+74000130+107F+42013DC4+0010+00010009+0004"
+cheat1_enable = false
+
+cheat2_desc = "Access Booster Menu [Press B+Up]"
+cheat2_code = "74000130+03BD+830048B6+0000+74000130+03BD+830048B8+071C"
+cheat2_enable = false
+
+cheat3_desc = "Access Draw Phase [Press Select+Down]"
+cheat3_code = "74000130+037B+32015BE8+0002"
+cheat3_enable = false
+
+cheat4_desc = "All Cards In Trunk"
+cheat4_code = "74000130+03FA+42011C2C+0003+0000043A+0004+74000130+02FB+42013CE6+0000+00000004+0002+74000130+02FB+42013C28+0000+0000005F+0002"
+cheat4_enable = false
+
+cheat5_desc = "Always Start First"
+cheat5_code = "3202036E+0000"
+cheat5_enable = false
+
+cheat6_desc = "Arkana"
+cheat6_code = "32013D24+0014"
+cheat6_enable = false
+
+cheat7_desc = "Attack Opponents Zero"
+cheat7_code = "82018162+0000"
+cheat7_enable = false
+
+cheat8_desc = "Bakura Ryou"
+cheat8_code = "32013D34+0014"
+cheat8_enable = false
+
+cheat9_desc = "Bandit Keith"
+cheat9_code = "32013D18+0014"
+cheat9_enable = false
+
+cheat10_desc = "Direct Attack = 5.000"
+cheat10_code = "8201816E+1388"
+cheat10_enable = false
+
+cheat11_desc = "Duke Devlin"
+cheat11_code = "32013D1C+0014"
+cheat11_enable = false
+
+cheat12_desc = "Espa Roba"
+cheat12_code = "32013D04+0014"
+cheat12_enable = false
+
+cheat13_desc = "Free Fusion [Press Select+R]"
+cheat13_code = "74000130+02FB+32017B00+0001+74000130+02FB+32017B12+000D+74000130+02FB+32017B20+007F+73004474+0002+32017B20+007E+74000130+02FB+82017B18+9CE9+74000130+02FB+82017B1A+0803+74000130+02FB+820179C0+024F+74000130+02FB+820179C2+0000+74000130+02FB+32017FB8+0000"
+cheat13_enable = false
+
+cheat14_desc = "Free Ritual"
+cheat14_code = "32017B21+0000"
+cheat14_enable = false
+
+cheat15_desc = "Hold R+Down To Activate Raigeki"
+cheat15_code = "74000130+027F+32017B00+0001+74000130+027F+32017B12+000D+74000130+027F+82017B18+982D+74000130+027F+82017B1A+0803+74000130+027F+820179C0+0153+74000130+027F+820179C2+0050"
+cheat15_enable = false
+
+cheat16_desc = "Hold R+Up To Activate Harpie's Feather Duster"
+cheat16_code = "74000130+02BF+32017B00+0001+74000130+02BF+32017B12+000D+74000130+02BF+82017B18+AEC1+74000130+02BF+82017B1A+0803+74000130+02BF+820179C0+02A9+74000130+02BF+820179C2+0050"
+cheat16_enable = false
+
+cheat17_desc = "Infinite Life Points"
+cheat17_code = "82018FE4+1F40"
+cheat17_enable = false
+
+cheat18_desc = "Instant Win"
+cheat18_code = "82019D48+0000"
+cheat18_enable = false
+
+cheat19_desc = "Instant Win [Press Select+Up]"
+cheat19_code = "74000130+03BB+82019D48+0000"
+cheat19_enable = false
+
+cheat20_desc = "Ishizu Ishtar"
+cheat20_code = "32013D4C+0014"
+cheat20_enable = false
+
+cheat21_desc = "Joey Wheeler"
+cheat21_code = "32013D14+0014"
+cheat21_enable = false
+
+cheat22_desc = "Kaiba Mokuba"
+cheat22_code = "32013CF4+0014"
+cheat22_enable = false
+
+cheat23_desc = "Kaiba Seto"
+cheat23_code = "32013D38+0014"
+cheat23_enable = false
+
+cheat24_desc = "Mai Valentine"
+cheat24_code = "32013D10+0014"
+cheat24_enable = false
+
+cheat25_desc = "Mako Tsunami"
+cheat25_code = "32013D08+0014"
+cheat25_enable = false
+
+cheat26_desc = "Marik Ishtar"
+cheat26_code = "32013D48+0014"
+cheat26_enable = false
+
+cheat27_desc = "Maximillion Pega"
+cheat27_code = "32013D44+0014"
+cheat27_enable = false
+
+cheat28_desc = "Maximum Duel Points [Press Start+L]"
+cheat28_code = "74000130+01F7+82013D7C+FFFF"
+cheat28_enable = false
+
+cheat29_desc = "No Sacrifice"
+cheat29_code = "74000130+02FE+8201AB08+0000+D0000020+0200+8201AB0C+C601"
+cheat29_enable = false
+
+cheat30_desc = "Odion"
+cheat30_code = "32013D30+0014"
+cheat30_enable = false
+
+cheat31_desc = "Press L+R+Down To Access All Characters"
+cheat31_code = "74000130+007F+42013D8C+0010+0001000E+0004+74000130+007F+42013DC4+0010+00010009+0004"
+cheat31_enable = false
+
+cheat32_desc = "Press Start+Down To Start Pyramid Scenario"
+cheat32_code = "74000130+0377+82013D7E+8400+74000130+0377+82013D80+003F"
+cheat32_enable = false
+
+cheat33_desc = "Press Start+L To Unlock Card Limit Option"
+cheat33_code = "74000130+01F7+32013D88+000F"
+cheat33_enable = false
+
+cheat34_desc = "Rare Hunter"
+cheat34_code = "32013D20+0014"
+cheat34_enable = false
+
+cheat35_desc = "Rex Raptor"
+cheat35_code = "32013D00+0014"
+cheat35_enable = false
+
+cheat36_desc = "Shadi"
+cheat36_code = "32013D40+0014"
+cheat36_enable = false
+
+cheat37_desc = "Start With 10,000 LP"
+cheat37_code = "72015BE8+0001+82018FE4+2710"
+cheat37_enable = false
+
+cheat38_desc = "Strings"
+cheat38_code = "32013D28+0014"
+cheat38_enable = false
+
+cheat39_desc = "Tea Gardner"
+cheat39_code = "32013CF8+0014"
+cheat39_enable = false
+
+cheat40_desc = "Trusdale"
+cheat40_code = "32013CFC+0014"
+cheat40_enable = false
+
+cheat41_desc = "Umbra & Lumis"
+cheat41_code = "32013D2C+0014"
+cheat41_enable = false
+
+cheat42_desc = "Weak Opponents"
+cheat42_code = "72019D48+1F40+82019D48+0FA0"
+cheat42_enable = false
+
+cheat43_desc = "Weevil Underwood"
+cheat43_code = "32013D0C+0014"
+cheat43_enable = false
+
+cheat44_desc = "Yugi Muto"
+cheat44_code = "32013D3C+0014"
+cheat44_enable = false
+
+cheat45_desc = "Unlock All Boosters"
+cheat45_code = "7201F8BC+0001+3201F91C+001B+7201F8BC+0001+3201F8DE+001F+7201F8BC+0001+4201F8E0+001F+0001001A+0002"
+cheat45_enable = false
+
+cheat46_desc = "Press R+Right To Activate Monster Reborn"
+cheat46_code = "74000130+02EF+8201AB08+0161+74000130+02EF+8201AB0C+441A+74000130+02EF+8201AB10+0004+74000130+02EF+8201AB12+2D00+74000130+02EF+8201AB14+0A00"
+cheat46_enable = false
+
+cheat47_desc = "Press R+Left To Activate Change of Heart"
+cheat47_code = "74000130+02DF+8201AB08+0128+74000130+02DF+8201AB0C+441A+74000130+02DF+8201AB10+0004+74000130+02DF+8201AB12+2C00+74000130+02DF+8201AB14+0A00"
+cheat47_enable = false

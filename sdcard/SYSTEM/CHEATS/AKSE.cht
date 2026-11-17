@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Max Rank Meter"
+cheat0_code = "8300376C+00FF"
+cheat0_enable = false
+
+cheat1_desc = "Max Score"
+cheat1_code = "8300375C+967F+8300375E+0098"
+cheat1_enable = false
+
+cheat2_desc = "Quick Score Gain"
+cheat2_code = "8300375C+FFFF"
+cheat2_enable = false

@@ -1,0 +1,49 @@
+cheats = 12
+
+cheat0_desc = "Balloon Mode Off [Press Down+L]"
+cheat0_code = "74000130+017F+82000202+0000+74000130+017F+8300369E+0001"
+cheat0_enable = false
+
+cheat1_desc = "Balloon Mode On [Press Up+L]"
+cheat1_code = "74000130+01BF+82000202+0001+72000202+0001+8300369E+00C0+72000202+0001+83003AFA+007D+72000202+0001+83003AFC+000B"
+cheat1_enable = false
+
+cheat2_desc = "Have 5 Dragon Coins"
+cheat2_code = "330054CF+0005"
+cheat2_enable = false
+
+cheat3_desc = "Have 99 Stars"
+cheat3_code = "33004301+0063"
+cheat3_enable = false
+
+cheat4_desc = "Infinite POW Blocks"
+cheat4_code = "83005940+B0AF+83005E40+B0AF"
+cheat4_enable = false
+
+cheat5_desc = "Invincible"
+cheat5_code = "73006048+0800+83006048+0100+73006052+0080+83006052+0000"
+cheat5_enable = false
+
+cheat6_desc = "Invincible Off [Press L+A]"
+cheat6_code = "74000130+01FE+82000200+0000+72000200+0000+830054D4+FF00"
+cheat6_enable = false
+
+cheat7_desc = "Invincible On [Press L+B]"
+cheat7_code = "74000130+01FD+82000200+0001+72000200+0001+830054D4+FFF0"
+cheat7_enable = false
+
+cheat8_desc = "Moonjump [Press A]"
+cheat8_code = "D0000020+0001+33003FAD+00C0"
+cheat8_enable = false
+
+cheat9_desc = "Open All Levels [Press Start+L+R]"
+cheat9_code = "74000130+00F7+4300422A+FFFF+0000002E+0002+430042D6+FFFF+00000007+0002"
+cheat9_enable = false
+
+cheat10_desc = "Skip Level [Press Select+L+R]"
+cheat10_code = "74000130+00FB+330055CC+00FF"
+cheat10_enable = false
+
+cheat11_desc = "Stop Timer"
+cheat11_code = "330054E8+0009"
+cheat11_enable = false

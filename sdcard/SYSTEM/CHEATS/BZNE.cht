@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Get an Offer after selecting only 1 Case"
+cheat0_code = "83002578+0000"
+cheat0_enable = false

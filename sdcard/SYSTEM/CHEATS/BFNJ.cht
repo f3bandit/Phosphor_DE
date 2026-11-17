@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Max Air Rings"
+cheat0_code = "32002F74+0009"
+cheat0_enable = false
+
+cheat1_desc = "Max Star Rings"
+cheat1_code = "32002F78+0063"
+cheat1_enable = false

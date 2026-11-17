@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Infinite Damage"
+cheat0_code = "83000E4C+00FF"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Bullets"
+cheat1_code = "83000E92+01FF"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Missiles"
+cheat2_code = "83000E98+001F"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Boost"
+cheat3_code = "83000EAC+00FF"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Time"
+cheat4_code = "83000C6C+003B"
+cheat4_enable = false
+
+cheat5_desc = "Open All Missions"
+cheat5_code = "830007F0+0007"
+cheat5_enable = false
+
+cheat6_desc = "Unlock All Cheats & Arcade"
+cheat6_code = "830007F4+FFFF+830007F6+FFFF"
+cheat6_enable = false

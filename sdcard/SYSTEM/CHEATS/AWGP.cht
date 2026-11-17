@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Classic Mode"
+cheat0_code = "33002479+0005"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Tries (Arcade)"
+cheat1_code = "33007DC0+0009"
+cheat1_enable = false
+
+cheat2_desc = "No Misses (Slalom)"
+cheat2_code = "33002BE8+0000"
+cheat2_enable = false
+
+cheat3_desc = "Olympic Mode"
+cheat3_code = "4300247A+FFFF+00000005+0002"
+cheat3_enable = false
+
+cheat4_desc = "Stop Timer"
+cheat4_code = "83002FF0+0000"
+cheat4_enable = false
+
+cheat5_desc = "Tournament Mode"
+cheat5_code = "43002484+FFFF+00000003+0002"
+cheat5_enable = false

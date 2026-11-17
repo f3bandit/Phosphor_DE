@@ -1,0 +1,185 @@
+cheats = 46
+
+cheat0_desc = "Access Four Swords Dungeon"
+cheat0_code = "830031D8+0008"
+cheat0_enable = false
+
+cheat1_desc = "Have 1/2 Magic"
+cheat1_code = "3200235B+0001"
+cheat1_enable = false
+
+cheat2_desc = "Have All Crystals"
+cheat2_code = "3200235A+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Have All Medals"
+cheat3_code = "32002354+0007"
+cheat3_enable = false
+
+cheat4_desc = "Have All Sword Pieces"
+cheat4_code = "330038E3+000F"
+cheat4_enable = false
+
+cheat5_desc = "Have Armor 2"
+cheat5_code = "3200233F+0002"
+cheat5_enable = false
+
+cheat6_desc = "Have Armor 3"
+cheat6_code = "3200233F+0003"
+cheat6_enable = false
+
+cheat7_desc = "Have Bombos"
+cheat7_code = "32002328+0001"
+cheat7_enable = false
+
+cheat8_desc = "Have Bombs"
+cheat8_code = "32002323+0063"
+cheat8_enable = false
+
+cheat9_desc = "Have Boomerang"
+cheat9_code = "32002321+0001"
+cheat9_enable = false
+
+cheat10_desc = "Have Bow"
+cheat10_code = "32002320+0001"
+cheat10_enable = false
+
+cheat11_desc = "Have Bug Catching Net"
+cheat11_code = "3200232F+0001"
+cheat11_enable = false
+
+cheat12_desc = "Have Ether"
+cheat12_code = "32002329+0001"
+cheat12_enable = false
+
+cheat13_desc = "Have Hammer"
+cheat13_code = "3200232D+0001"
+cheat13_enable = false
+
+cheat14_desc = "Have Magic Powder"
+cheat14_code = "32002324+0001"
+cheat14_enable = false
+
+cheat15_desc = "Have Pegasus Boots"
+cheat15_code = "32002339+0001"
+cheat15_enable = false
+
+cheat16_desc = "Have Power Glove"
+cheat16_code = "32002338+0001"
+cheat16_enable = false
+
+cheat17_desc = "Have Quake"
+cheat17_code = "3200232A+0001"
+cheat17_enable = false
+
+cheat18_desc = "Have Shield 2"
+cheat18_code = "3200233E+0001"
+cheat18_enable = false
+
+cheat19_desc = "Have Shield 3"
+cheat19_code = "3200233E+0002"
+cheat19_enable = false
+
+cheat20_desc = "Have Zora Flippers"
+cheat20_code = "3200233A+0001"
+cheat20_enable = false
+
+cheat21_desc = "Infinite Health"
+cheat21_code = "3200234D+00A0"
+cheat21_enable = false
+
+cheat22_desc = "Infinite Lamp Light"
+cheat22_code = "33003B6C+00C0+33003B6E+00C0+33003B70+00C0+33003B72+00C2"
+cheat22_enable = false
+
+cheat23_desc = "Infinite Rupees"
+cheat23_code = "82002340+03E7"
+cheat23_enable = false
+
+cheat24_desc = "Infinite Small Keys"
+cheat24_code = "3200234F+0009"
+cheat24_enable = false
+
+cheat25_desc = "Invincible"
+cheat25_code = "330039DA+0001"
+cheat25_enable = false
+
+cheat26_desc = "Max Health"
+cheat26_code = "3200234C+00A0"
+cheat26_enable = false
+
+cheat27_desc = "Max Infinite Health"
+cheat27_code = "8200234C+A0A0"
+cheat27_enable = false
+
+cheat28_desc = "Press L+R+Down For Dig Mode Off"
+cheat28_code = "74000130+007F+33003AC4+0000"
+cheat28_enable = false
+
+cheat29_desc = "Press L+R+Up For Dig Mode On"
+cheat29_code = "74000130+00BF+33003AC4+0001"
+cheat29_enable = false
+
+cheat30_desc = "Press Select+Down For Walk Thru Walls Off"
+cheat30_code = "74000130+037B+83002C40+0000"
+cheat30_enable = false
+
+cheat31_desc = "Press Select+Up For Walk Thru Walls On"
+cheat31_code = "74000130+03BB+83002C40+0002"
+cheat31_enable = false
+
+cheat32_desc = "Infinite Magic"
+cheat32_code = "3200234E+007F"
+cheat32_enable = false
+
+cheat33_desc = "Have Hookshot"
+cheat33_code = "32002322+0001"
+cheat33_enable = false
+
+cheat34_desc = "Have Fire Rod"
+cheat34_code = "32002326+0001"
+cheat34_enable = false
+
+cheat35_desc = "Have Ice Rod"
+cheat35_code = "32002327+0001"
+cheat35_enable = false
+
+cheat36_desc = "Have Lamp"
+cheat36_code = "3200232C+0001"
+cheat36_enable = false
+
+cheat37_desc = "Have Flute"
+cheat37_code = "3200232E+0002"
+cheat37_enable = false
+
+cheat38_desc = "Have Book Of Mudora"
+cheat38_code = "32002330+0001"
+cheat38_enable = false
+
+cheat39_desc = "Have Shovel"
+cheat39_code = "32002332+0001"
+cheat39_enable = false
+
+cheat40_desc = "Have Cane Of Somaria"
+cheat40_code = "32002333+0001"
+cheat40_enable = false
+
+cheat41_desc = "Have Cane Of Byrna"
+cheat41_code = "32002334+0001"
+cheat41_enable = false
+
+cheat42_desc = "Have Magic Cape"
+cheat42_code = "32002335+0001"
+cheat42_enable = false
+
+cheat43_desc = "Have Magic Mirror"
+cheat43_code = "32002336+0002"
+cheat43_enable = false
+
+cheat44_desc = "Have Moon Pearl"
+cheat44_code = "3200233B+0001"
+cheat44_enable = false
+
+cheat45_desc = "Infinite Arrows"
+cheat45_code = "32002357+0063"
+cheat45_enable = false

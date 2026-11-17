@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Infinite Health"
+cheat0_code = "83000B0C+000E"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Special"
+cheat1_code = "83000DA4+0016"
+cheat1_enable = false

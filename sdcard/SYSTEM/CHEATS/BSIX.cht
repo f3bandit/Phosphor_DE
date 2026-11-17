@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Untouchable - RAM"
+cheat0_code = "8200641C+0001"
+cheat0_enable = false

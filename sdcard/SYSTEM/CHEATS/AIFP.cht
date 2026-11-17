@@ -1,0 +1,41 @@
+cheats = 10
+
+cheat0_desc = "10 Mice"
+cheat0_code = "33000795+000A"
+cheat0_enable = false
+
+cheat1_desc = "30 Bones"
+cheat1_code = "33000794+001E"
+cheat1_enable = false
+
+cheat2_desc = "Access All Levels"
+cheat2_code = "43000910+1E1E+00000004+0002"
+cheat2_enable = false
+
+cheat3_desc = "Complete Level [Select]"
+cheat3_code = "D0000020+0004+33000791+0021"
+cheat3_enable = false
+
+cheat4_desc = "Have Weapons"
+cheat4_code = "33000790+0005"
+cheat4_enable = false
+
+cheat5_desc = "Hold A, Then Press B For Multi Jump"
+cheat5_code = "74000130+03FC+33002929+00FD"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Health"
+cheat6_code = "3300078E+0003"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Lives"
+cheat7_code = "3300076B+0009"
+cheat7_enable = false
+
+cheat8_desc = "Press Select To Complete Level"
+cheat8_code = "74000130+03FB+33000791+0021"
+cheat8_enable = false
+
+cheat9_desc = "Stop Timer"
+cheat9_code = "330007A8+0002"
+cheat9_enable = false

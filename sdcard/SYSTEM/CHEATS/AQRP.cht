@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Always Place 1st"
+cheat0_code = "820003A0+0000"
+cheat0_enable = false
+
+cheat1_desc = "Arcade Mode"
+cheat1_code = "8300002A+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Time"
+cheat2_code = "82013A1C+0000+82013A1E+0000+82013A2C+0000+82013A2E+0000"
+cheat2_enable = false
+
+cheat3_desc = "Open Mode"
+cheat3_code = "33000028+00FF"
+cheat3_enable = false
+
+cheat4_desc = "Pro Mode"
+cheat4_code = "33000026+00FF"
+cheat4_enable = false
+
+cheat5_desc = "Stock Mode"
+cheat5_code = "33000024+00FF"
+cheat5_enable = false
+
+cheat6_desc = "Unlock Pro/Open Modes"
+cheat6_code = "33000020+00FF"
+cheat6_enable = false

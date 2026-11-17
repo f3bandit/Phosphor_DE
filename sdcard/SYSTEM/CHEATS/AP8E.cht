@@ -1,0 +1,79 @@
+cheats = 19
+
+cheat0_desc = "Infinite Health: Daphne"
+cheat0_code = "3201FAC4+0040"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Health: Fred"
+cheat1_code = "3201FAC3+0040"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Health: Scooby"
+cheat2_code = "3201FAC1+0040"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health: Shaggy"
+cheat3_code = "3201FAC0+0040"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Health: Velma"
+cheat4_code = "3201FAC2+0040"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Stamina: Daphne"
+cheat5_code = "3201FAC9+0040"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Stamina: Fred"
+cheat6_code = "3201FAC8+0040"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Stamina: Scooby"
+cheat7_code = "3201FAC6+0040"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Stamina: Shaggy"
+cheat8_code = "3201FAC7+0040"
+cheat8_enable = false
+
+cheat9_desc = "Infinite Stamina: Velma"
+cheat9_code = "3201F9E8+0040"
+cheat9_enable = false
+
+cheat10_desc = "Infinite Time: 
+Chests/Mini Games"
+cheat10_code = "82001804+0040"
+cheat10_enable = false
+
+cheat11_desc = "Infinite Tries: Musical Mayhem
+(Timer Must Be On)"
+cheat11_code = "82001074+0000"
+cheat11_enable = false
+
+cheat12_desc = "Scooby/Shaggy Infinite Health"
+cheat12_code = "8201FAC0+4040"
+cheat12_enable = false
+
+cheat13_desc = "Velma/Fred Infinite Health"
+cheat13_code = "8201FAC2+4040"
+cheat13_enable = false
+
+cheat14_desc = "Shaggy Stamina/Daphne Infinite Health"
+cheat14_code = "8201FAC4+4040"
+cheat14_enable = false
+
+cheat15_desc = "LFred/Daphne Stamina"
+cheat15_code = "8201FAC8+4040"
+cheat15_enable = false
+
+cheat16_desc = "Selma Stamina"
+cheat16_code = "8201F9E8+0040"
+cheat16_enable = false
+
+cheat17_desc = "Have 100 Tokens"
+cheat17_code = "8201FAD4+0064"
+cheat17_enable = false
+
+cheat18_desc = "Have Mojo Balls"
+cheat18_code = "8201FAE2+0A02"
+cheat18_enable = false

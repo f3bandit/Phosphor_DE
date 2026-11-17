@@ -1,0 +1,26 @@
+Phosphor_DE
+Copyright 2026 f3bandit
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+This product includes software developed by others:
+
+- EZ-Flash Omega Definitive Edition kernel (the game engine: loading, saves, patches,
+  savestates, sleep, RTC, NOR, Mode B). Copyright EZ-Flash. Apache License 2.0.
+- FatFs, Copyright ChaN. FatFs license (source/ff15).
+- Goomba Color and PocketNES binaries, as shipped in the EZ-Flash kernel source
+  (source/jagoombacolor.h, source/pocketnes.h). Not used by the Phosphor_DE menu.
+- Tamzen font, Copyright Suraj N. Kurapati, based on Tamsyn by Scott Fial (fonts/Tamzen_LICENSE.txt).
+- Spleen font, Copyright Frederic Cambus (fonts/Spleen_LICENSE.txt).
+- tools/_par_tables.py and tools/_gsa_tables.py: Action Replay / GameShark decryption tables from
+  mGBA, Copyright Jeffrey Pfau. Mozilla Public License 2.0.
+
+Cheat data in sdcard/SYSTEM/CHEATS is not covered by the Apache License:
+- GameHacking.org (https://gamehacking.org), GBA code exports.
+- libretro cheat database (https://github.com/libretro/libretro-database), CC BY-SA 4.0.
+
+EZ-Flash's loader recovery image is not included; tools/loader/patch_loader.py patches the user's
+own copy.
+
+EZ-Flash, Nintendo, Game Boy Advance, Analogue Pocket and game names are trademarks of their
+respective owners. Phosphor_DE is not affiliated with or endorsed by any of them.

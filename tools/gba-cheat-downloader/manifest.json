@@ -1,0 +1,38 @@
+{
+  "manifest_version": 3,
+  "name": "GBA Cheat Downloader",
+  "version": "1.1",
+  "description": "Saves the LibRetro cheat files of every GBA game on GameHacking.org into one zip. By f3bandit.",
+  "permissions": [
+    "downloads"
+  ],
+  "host_permissions": [
+    "https://gamehacking.org/*"
+  ],
+  "background": {
+    "service_worker": "bg.js"
+  },
+  "action": {
+    "default_title": "GBA Cheat Downloader",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://gamehacking.org/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}

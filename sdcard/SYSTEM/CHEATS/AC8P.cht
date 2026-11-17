@@ -1,0 +1,61 @@
+cheats = 15
+
+cheat0_desc = "Have 2 Aku Aku Masks"
+cheat0_code = "3200270C+0002"
+cheat0_enable = false
+
+cheat1_desc = "Have 3 Aku Aku Masks"
+cheat1_code = "3200270C+0003"
+cheat1_enable = false
+
+cheat2_desc = "Have All Crystals+Relics"
+cheat2_code = "420027E8+01FF+00000018+0004"
+cheat2_enable = false
+
+cheat3_desc = "Have All Gem Shards"
+cheat3_code = "320027E6+00FF+3200678C+0001"
+cheat3_enable = false
+
+cheat4_desc = "Have All Powers"
+cheat4_code = "320027E7+00FF"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Lives"
+cheat5_code = "32002708+0063"
+cheat5_enable = false
+
+cheat6_desc = "Max Boxes Collected"
+cheat6_code = "32002704+00FF"
+cheat6_enable = false
+
+cheat7_desc = "Max Wampa Fruit"
+cheat7_code = "32002700+0063"
+cheat7_enable = false
+
+cheat8_desc = "100% Health"
+cheat8_code = "73005904+1C00+33005924+0064"
+cheat8_enable = false
+
+cheat9_desc = "Start With 20 Boxes"
+cheat9_code = "720026E8+0000+320026E8+0014"
+cheat9_enable = false
+
+cheat10_desc = "Low Trial Time"
+cheat10_code = "32002714+0000+3200270C+0001+7201DDF8+003C+3201DE04+0000"
+cheat10_enable = false
+
+cheat11_desc = "Have 2 Masks"
+cheat11_code = "320026F0+0002"
+cheat11_enable = false
+
+cheat12_desc = "Have 3 Masks (Invincible)"
+cheat12_code = "320026F0+0003+72015086+0000+32015085+002F"
+cheat12_enable = false
+
+cheat13_desc = "Have All Crystals+Relics+Gems"
+cheat13_code = "420027CC+01FF+00000018+0004"
+cheat13_enable = false
+
+cheat14_desc = "Moon Jump"
+cheat14_code = "D0000020+0001+3201505C+0080"
+cheat14_enable = false

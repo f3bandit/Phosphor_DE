@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "0 Game Time"
+cheat0_code = "82002A50+0000"
+cheat0_enable = false
+
+cheat1_desc = "Get Tons of Money After Every Battle"
+cheat1_code = "820140D8+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Gold"
+cheat2_code = "82002A4C+FFFF"
+cheat2_enable = false
+
+cheat3_desc = "Low Time In Puzzle Game"
+cheat3_code = "82016240+0000"
+cheat3_enable = false
+
+cheat4_desc = "Max Gold"
+cheat4_code = "82002A4C+967F+82002A4E+0098"
+cheat4_enable = false
+
+cheat5_desc = "Max Health"
+cheat5_code = "8200270E+03E7"
+cheat5_enable = false
+
+cheat6_desc = "Press Select To Play Puzzle Game!"
+cheat6_code = "72001D88+0004+820036E8+0003+72001D88+0004+820036EC+0005+72001D88+0004+820036EE+0000"
+cheat6_enable = false

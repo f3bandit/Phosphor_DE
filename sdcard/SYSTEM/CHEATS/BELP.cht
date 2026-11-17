@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Infinite Health"
+cheat0_code = "320008B4+0009"
+cheat0_enable = false
+
+cheat1_desc = "Quick Score Gain"
+cheat1_code = "83001430+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "Max Score"
+cheat2_code = "83001430+E0FF+83001432+05F5"
+cheat2_enable = false

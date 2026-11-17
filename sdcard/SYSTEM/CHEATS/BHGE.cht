@@ -1,0 +1,53 @@
+cheats = 13
+
+cheat0_desc = "1 Hit Kill Most of the Enemies"
+cheat0_code = "88018D9A+2000+880193FE+2000"
+cheat0_enable = false
+
+cheat1_desc = "Access All Stages"
+cheat1_code = "82024834+FFFF+42024840+0001+0000001A+001C"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Health"
+cheat2_code = "8801903C+46C0"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health VS Bosses"
+cheat3_code = "88011138+46C0"
+cheat3_enable = false
+
+cheat4_desc = "Invincible - DISABLE"
+cheat4_code = "8800DC16+2800+8800DC1A+3801"
+cheat4_enable = false
+
+cheat5_desc = "Invincible - ENABLE [Disable To Finish The Level]"
+cheat5_code = "8800DC16+205A+8800DC1A+3800"
+cheat5_enable = false
+
+cheat6_desc = "No Gameover"
+cheat6_code = "8800DA34+20FF"
+cheat6_enable = false
+
+cheat7_desc = "One Shot Max Power Meter (Raw ROM Codes)"
+cheat7_code = "88018B10+C000"
+cheat7_enable = false
+
+cheat8_desc = "Power Meter Not Decrease (Raw ROM Codes)"
+cheat8_code = "880100EC+8000"
+cheat8_enable = false
+
+cheat9_desc = "Start With Maximum Health"
+cheat9_code = "82024802+3E70"
+cheat9_enable = false
+
+cheat10_desc = "Start With Maximum Power"
+cheat10_code = "42024820+0600+00000003+0002"
+cheat10_enable = false
+
+cheat11_desc = "Weak Final Boss"
+cheat11_code = "7300275C+3E70+8300275C+0070"
+cheat11_enable = false
+
+cheat12_desc = "Weapon Modifier"
+cheat12_code = "3300275D+0000"
+cheat12_enable = false

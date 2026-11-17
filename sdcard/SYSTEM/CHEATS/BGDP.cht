@@ -1,0 +1,93 @@
+cheats = 23
+
+cheat0_desc = "All Stats Maxed"
+cheat0_code = "43000B5E+FFFF+00000000+0000"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Energy"
+cheat1_code = "83000B56+1644"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Health"
+cheat2_code = "83000B54+7D00"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Items"
+cheat3_code = "430007B2+0063+00000000+0000"
+cheat3_enable = false
+
+cheat4_desc = "Max Stats: Charisma"
+cheat4_code = "33000B63+0021"
+cheat4_enable = false
+
+cheat5_desc = "Max Stats: Constitution"
+cheat5_code = "33000B62+00FF"
+cheat5_enable = false
+
+cheat6_desc = "Max Stats: Dexterity"
+cheat6_code = "33000B5F+00FF"
+cheat6_enable = false
+
+cheat7_desc = "Max Stats: Intelligence"
+cheat7_code = "33000B60+00FF"
+cheat7_enable = false
+
+cheat8_desc = "Max Stats: Strength"
+cheat8_code = "33000B5E+00FF"
+cheat8_enable = false
+
+cheat9_desc = "Max Stats: Wisdom"
+cheat9_code = "33000B61+00FF"
+cheat9_enable = false
+
+cheat10_desc = "Maximum Armor"
+cheat10_code = "33000B5C+00FF"
+cheat10_enable = false
+
+cheat11_desc = "Maximum Attainable Weight"
+cheat11_code = "83000B58+FFFF"
+cheat11_enable = false
+
+cheat12_desc = "Maximum Damage"
+cheat12_code = "83000B5A+FFFF"
+cheat12_enable = false
+
+cheat13_desc = "Maximum Gold"
+cheat13_code = "83000994+E0FF"
+cheat13_enable = false
+
+cheat14_desc = "Maximum Level"
+cheat14_code = "33000B5D+00FF"
+cheat14_enable = false
+
+cheat15_desc = "Maximum Skill Points"
+cheat15_code = "33000BA9+00FF"
+cheat15_enable = false
+
+cheat16_desc = "No Weight Acquired"
+cheat16_code = "83000998+0000"
+cheat16_enable = false
+
+cheat17_desc = "Walk Thru Walls"
+cheat17_code = "830015B6+0000"
+cheat17_enable = false
+
+cheat18_desc = "Max Charisma"
+cheat18_code = "33000B63+00FF"
+cheat18_enable = false
+
+cheat19_desc = "Max All Stats"
+cheat19_code = "43000B5E+FFFF+00000003+0002"
+cheat19_enable = false
+
+cheat20_desc = "Max Skill Points"
+cheat20_code = "33000BA9+00FA"
+cheat20_enable = false
+
+cheat21_desc = "Max Exp"
+cheat21_code = "83000B50+967F+83000B52+0098"
+cheat21_enable = false
+
+cheat22_desc = "Max Weapons (All Slots)"
+cheat22_code = "430007BE+00FF+0000003D+0004"
+cheat22_enable = false

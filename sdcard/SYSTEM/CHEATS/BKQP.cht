@@ -1,0 +1,57 @@
+cheats = 14
+
+cheat0_desc = "Ann: Max/Infinite Health"
+cheat0_code = "330077D2+000A+330077D5+000A"
+cheat0_enable = false
+
+cheat1_desc = "Carl: Max/Infinite Health"
+cheat1_code = "330077D1+000A+330077D4+000A"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Health (Ann)"
+cheat2_code = "330077D2+0014"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health (Carl)"
+cheat3_code = "330077D1+0014"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Health (Jack)"
+cheat4_code = "330077D0+0014"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Health (Kong)"
+cheat5_code = "330077F5+0014"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Party Items"
+cheat6_code = "3300777B+0099+8300777C+9999"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Rage"
+cheat7_code = "3300776E+000C"
+cheat7_enable = false
+
+cheat8_desc = "Infinite/Max Health Party"
+cheat8_code = "430077D0+1414+00000003+0002"
+cheat8_enable = false
+
+cheat9_desc = "Jack: Max/Infinite Health"
+cheat9_code = "330077D0+000A+330077D3+000A"
+cheat9_enable = false
+
+cheat10_desc = "Kong: Infinite Time"
+cheat10_code = "330077F6+0063"
+cheat10_enable = false
+
+cheat11_desc = "Maximum Health (Ann)"
+cheat11_code = "330077D5+0014"
+cheat11_enable = false
+
+cheat12_desc = "Maximum Health (Carl)"
+cheat12_code = "330077D4+0014"
+cheat12_enable = false
+
+cheat13_desc = "Maximum Health (Jack)"
+cheat13_code = "330077D3+0014"
+cheat13_enable = false

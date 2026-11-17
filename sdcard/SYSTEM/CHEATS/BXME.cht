@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Auto Pilot [Press Select+Up]"
+cheat0_code = "74000130+03BB+32002E10+0001"
+cheat0_enable = false
+
+cheat1_desc = "End Race [Press L+R+Up]"
+cheat1_code = "74000130+00BF+330064C4+0005"
+cheat1_enable = false
+
+cheat2_desc = "Have Turbo"
+cheat2_code = "72002DDC+0035+32002D20+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Increased Top Speed"
+cheat3_code = "72002DD8+001A+32002D95+000C"
+cheat3_enable = false
+
+cheat4_desc = "Manual Pilot [Press Select+Down]"
+cheat4_code = "74000130+037B+32002E10+0000"
+cheat4_enable = false
+
+cheat5_desc = "Slow Opponents"
+cheat5_code = "72002A3C+001A+420029FC+0400+00000003+0134"
+cheat5_enable = false
+
+cheat6_desc = "Start On 5th Lap"
+cheat6_code = "72002D10+0000+32002D10+0004"
+cheat6_enable = false

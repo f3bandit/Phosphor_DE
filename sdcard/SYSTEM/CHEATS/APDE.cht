@@ -1,0 +1,45 @@
+cheats = 11
+
+cheat0_desc = "High Bonus Value"
+cheat0_code = "820000CC+C350"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Balls"
+cheat1_code = "320003E2+0009"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Saver"
+cheat2_code = "320000DD+0000+320000E3+0001"
+cheat2_enable = false
+
+cheat3_desc = "Max Extraballs"
+cheat3_code = "320003B6+0063"
+cheat3_enable = false
+
+cheat4_desc = "Max Multiplier"
+cheat4_code = "320000D2+0063"
+cheat4_enable = false
+
+cheat5_desc = "Max Zombie Count"
+cheat5_code = "820003C4+C350"
+cheat5_enable = false
+
+cheat6_desc = "Start With 9 Balls"
+cheat6_code = "720003E6+0000+320003E2+0009"
+cheat6_enable = false
+
+cheat7_desc = "Unlock Boss Mode"
+cheat7_code = "3200DD7C+0001"
+cheat7_enable = false
+
+cheat8_desc = "Unlock Movie Test"
+cheat8_code = "3200DD7A+0001"
+cheat8_enable = false
+
+cheat9_desc = "Unlock Sound Test"
+cheat9_code = "3200DD78+0001"
+cheat9_enable = false
+
+cheat10_desc = "Unlock View Ending"
+cheat10_code = "3200DD7E+0001"
+cheat10_enable = false

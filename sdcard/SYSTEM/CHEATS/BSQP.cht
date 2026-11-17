@@ -1,0 +1,45 @@
+cheats = 11
+
+cheat0_desc = "Exit levels even without all the spatulas"
+cheat0_code = "880287EC+46C0+88008D10+46C0"
+cheat0_enable = false
+
+cheat1_desc = "Have 20 Hamburgers"
+cheat1_code = "32003C10+0014"
+cheat1_enable = false
+
+cheat2_desc = "Have 3 Golden Spatulas"
+cheat2_code = "32003C18+0003"
+cheat2_enable = false
+
+cheat3_desc = "Have All Keys"
+cheat3_code = "32003C35+0001"
+cheat3_enable = false
+
+cheat4_desc = "Have All Photos"
+cheat4_code = "32003BFC+00FF"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Health"
+cheat5_code = "32003C0C+0003"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Lives"
+cheat6_code = "32003C08+0009"
+cheat6_enable = false
+
+cheat7_desc = "Open All Levels"
+cheat7_code = "32003BF8+001C"
+cheat7_enable = false
+
+cheat8_desc = "Press L To Have Keys"
+cheat8_code = "74000130+01FF+32003C35+0001+74000130+01FF+32003C36+0001"
+cheat8_enable = false
+
+cheat9_desc = "Have All Photos (In Album)"
+cheat9_code = "82003BFC+FFFF"
+cheat9_enable = false
+
+cheat10_desc = "Infinite Water Timer"
+cheat10_code = "72003C30+0001+82003C30+003C"
+cheat10_enable = false

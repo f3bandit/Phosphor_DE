@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "In the dream dimension bubbles recharge life completely (Read notes)"
+cheat0_code = "880257B2+2096+880257B8+2080+880257BA+0042"
+cheat0_enable = false
+
+cheat1_desc = "Jump in midair v1"
+cheat1_code = "83000E44+0000+83000E46+E1A0+83000E24+0000+83000E26+E1A0"
+cheat1_enable = false
+
+cheat2_desc = "Use dream potion even when it's empty"
+cheat2_code = "88011448+2296+8801144A+0052+8801144C+6002"
+cheat2_enable = false

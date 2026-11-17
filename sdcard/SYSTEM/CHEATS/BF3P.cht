@@ -1,0 +1,37 @@
+cheats = 9
+
+cheat0_desc = "1 Lap Races"
+cheat0_code = "3300010C+0001"
+cheat0_enable = false
+
+cheat1_desc = "Access All Competitions"
+cheat1_code = "830000EE+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "Access All Models"
+cheat2_code = "83000104+FFFF+33000106+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Access All Race Types"
+cheat3_code = "830000F6+FFFF"
+cheat3_enable = false
+
+cheat4_desc = "Access All Tracks"
+cheat4_code = "83000108+FFFF+3300010A+00FF"
+cheat4_enable = false
+
+cheat5_desc = "Extra Top Speed"
+cheat5_code = "33000079+0000"
+cheat5_enable = false
+
+cheat6_desc = "Have 90 Points"
+cheat6_code = "3300012E+005A"
+cheat6_enable = false
+
+cheat7_desc = "Quick XLR8"
+cheat7_code = "D0000020+0001+330000A4+00FF"
+cheat7_enable = false
+
+cheat8_desc = "Start On Lap #2"
+cheat8_code = "730074F4+0000+330074F4+0001"
+cheat8_enable = false

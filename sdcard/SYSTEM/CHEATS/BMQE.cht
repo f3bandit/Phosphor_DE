@@ -1,0 +1,41 @@
+cheats = 10
+
+cheat0_desc = "Access Party Games"
+cheat0_code = "43004B58+0101+00000003+0002"
+cheat0_enable = false
+
+cheat1_desc = "Have 999 Coins"
+cheat1_code = "82012A40+03E7"
+cheat1_enable = false
+
+cheat2_desc = "Have All Costumes"
+cheat2_code = "32012A5E+000F"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Ammo"
+cheat3_code = "82012A48+3838"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Power"
+cheat4_code = "82012A48+0038"
+cheat4_enable = false
+
+cheat5_desc = "Jump in Midair"
+cheat5_code = "8203FF00+4A07+8203FF02+B404+8203FF04+22E5+8203FF06+5CA2+8203FF08+2380+8203FF0A+401A+8203FF0C+D003+8203FF0E+22FA+8203FF10+0212+8203FF12+2330+8203FF14+52E2+8203FF16+0849+8203FF18+0089+8203FF1A+1809+8203FF1C+6809+8203FF1E+BD00+8203FF20+8145+8203FF22+0802+8802813C+4A00+8802813E+4710+88028140+FF01+88028142+0203"
+cheat5_enable = false
+
+cheat6_desc = "Maximum Health"
+cheat6_code = "32012A3F+0005"
+cheat6_enable = false
+
+cheat7_desc = "Multi Jump"
+cheat7_code = "D0000020+0001+820129A0+FC80"
+cheat7_enable = false
+
+cheat8_desc = "Quick Fire"
+cheat8_code = "32012A21+0000"
+cheat8_enable = false
+
+cheat9_desc = "Transparent"
+cheat9_code = "320129D6+0009"
+cheat9_enable = false

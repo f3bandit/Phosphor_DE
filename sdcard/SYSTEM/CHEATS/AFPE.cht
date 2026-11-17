@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Infinite Creation Points"
+cheat0_code = "89058E50+8FAD"
+cheat0_enable = false

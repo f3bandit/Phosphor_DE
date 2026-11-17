@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Jump higher"
+cheat0_code = "880EA118+F800"
+cheat0_enable = false
+
+cheat1_desc = "Untouchable"
+cheat1_code = "8801B5F0+46C0"
+cheat1_enable = false

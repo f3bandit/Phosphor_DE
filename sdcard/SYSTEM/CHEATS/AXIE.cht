@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Infinite Boosts"
+cheat0_code = "33005B0A+0002"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Cash"
+cheat1_code = "33004561+0009"
+cheat1_enable = false
+
+cheat2_desc = "Stop Timer"
+cheat2_code = "33004598+0000"
+cheat2_enable = false

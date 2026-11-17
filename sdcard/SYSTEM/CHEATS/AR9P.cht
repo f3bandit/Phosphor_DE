@@ -1,0 +1,77 @@
+cheats = 19
+
+cheat0_desc = "Access All Rankings"
+cheat0_code = "320090A0+0001"
+cheat0_enable = false
+
+cheat1_desc = "Access Dragon Missions"
+cheat1_code = "3200086C+0001"
+cheat1_enable = false
+
+cheat2_desc = "Complete Mission [Press Select+Up]"
+cheat2_code = "74000130+03BB+320090B0+0001"
+cheat2_enable = false
+
+cheat3_desc = "Fill Harvester [Press Select+L]"
+cheat3_code = "74000130+01FB+32000504+001E"
+cheat3_enable = false
+
+cheat4_desc = "Harvester Always Full Of Crop"
+cheat4_code = "82000504+001E"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Fire Truck Armor"
+cheat5_code = "320051E1+0014"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Harvester Armor"
+cheat6_code = "320051E0+0014"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Health (Dragon)"
+cheat7_code = "8201B98C+003B"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Health (Human)"
+cheat8_code = "8201B9DC+0013+82000538+0000"
+cheat8_enable = false
+
+cheat9_desc = "Infinite Jeep Armor"
+cheat9_code = "32005541+0014"
+cheat9_enable = false
+
+cheat10_desc = "Infinite Tank Armor"
+cheat10_code = "320055AC+0014"
+cheat10_enable = false
+
+cheat11_desc = "Infinite Time"
+cheat11_code = "3200304C+0009"
+cheat11_enable = false
+
+cheat12_desc = "Infinite Water In Firetruck"
+cheat12_code = "32002D08+0020"
+cheat12_enable = false
+
+cheat13_desc = "Max Barrels"
+cheat13_code = "32000624+0063"
+cheat13_enable = false
+
+cheat14_desc = "Max Crates"
+cheat14_code = "32002FFC+5006"
+cheat14_enable = false
+
+cheat15_desc = "Max Dragons"
+cheat15_code = "320090BC+0063"
+cheat15_enable = false
+
+cheat16_desc = "Max Score"
+cheat16_code = "82003060+423F+32003062+000F"
+cheat16_enable = false
+
+cheat17_desc = "Infinite Health"
+cheat17_code = "820218CA+0016"
+cheat17_enable = false
+
+cheat18_desc = "Quick Score Gain"
+cheat18_code = "82003060+FFFF"
+cheat18_enable = false

@@ -1,0 +1,53 @@
+cheats = 13
+
+cheat0_desc = "Access Test Menu"
+cheat0_code = "7202B32C+0001+3202B32C+0002"
+cheat0_enable = false
+
+cheat1_desc = "Infinite EP"
+cheat1_code = "430010BC+03E7+00000006+001C"
+cheat1_enable = false
+
+cheat2_desc = "Infinite HP"
+cheat2_code = "430010B8+03E7+00000006+001C"
+cheat2_enable = false
+
+cheat3_desc = "Maximum EP"
+cheat3_code = "430010BE+03E7+00000006+001C"
+cheat3_enable = false
+
+cheat4_desc = "Maximum HP"
+cheat4_code = "430010BA+03E7+00000006+001C"
+cheat4_enable = false
+
+cheat5_desc = "Maximum Level"
+cheat5_code = "430010C8+E0FF+00000006+001C+430010CA+05F5+00000006+001C"
+cheat5_enable = false
+
+cheat6_desc = "Maximum Stats"
+cheat6_code = "430010C2+6400+00000006+001C+430010C4+6400+00000006+001C+430010C6+6400+00000006+001C"
+cheat6_enable = false
+
+cheat7_desc = "Hella KI"
+cheat7_code = "82013278+FFFF"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Flight Power"
+cheat8_code = "830007AC+6300"
+cheat8_enable = false
+
+cheat9_desc = "Quick Level Gain"
+cheat9_code = "820132A8+FFFF"
+cheat9_enable = false
+
+cheat10_desc = "Have Saiyan Hair"
+cheat10_code = "8200389C+1F64+83000A00+A9F4"
+cheat10_enable = false
+
+cheat11_desc = "Have All Powers"
+cheat11_code = "8300004C+0729"
+cheat11_enable = false
+
+cheat12_desc = "Walk Thru Walls (Press L And The Direction You Want To Go)"
+cheat12_code = "74000130+01BF+E30007C2+FFEF+74000130+017F+E30007C2+0010+74000130+01DF+E30007C0+FFEF+74000130+01EF+E30007C0+0010"
+cheat12_enable = false

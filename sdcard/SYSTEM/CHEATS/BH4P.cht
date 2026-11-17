@@ -1,0 +1,61 @@
+cheats = 15
+
+cheat0_desc = "5 People Rescued"
+cheat0_code = "32013625+0005"
+cheat0_enable = false
+
+cheat1_desc = "Access Cheat Menu (Enter Option Menu)"
+cheat1_code = "7200D0E4+0601+3200D0E5+0000+7200D1F0+0601+3200D1F1+0000"
+cheat1_enable = false
+
+cheat2_desc = "Flight+Charge"
+cheat2_code = "320135B1+0009"
+cheat2_enable = false
+
+cheat3_desc = "Health"
+cheat3_code = "320135AE+0004"
+cheat3_enable = false
+
+cheat4_desc = "Inferno+Punch"
+cheat4_code = "320135AF+0004"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Health"
+cheat5_code = "32013648+0001"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Power"
+cheat6_code = "32013647+0001"
+cheat6_enable = false
+
+cheat7_desc = "Invincible"
+cheat7_code = "32013645+0001"
+cheat7_enable = false
+
+cheat8_desc = "Maximum Power"
+cheat8_code = "320135AC+0009"
+cheat8_enable = false
+
+cheat9_desc = "Maximum Score"
+cheat9_code = "82013628+423F+8201362A+000F"
+cheat9_enable = false
+
+cheat10_desc = "Moto X"
+cheat10_code = "320136C5+0001"
+cheat10_enable = false
+
+cheat11_desc = "Skip Level [Press Select+L]"
+cheat11_code = "74000130+01FB+32013784+0003"
+cheat11_enable = false
+
+cheat12_desc = "Snowboarding"
+cheat12_code = "320136C4+0001"
+cheat12_enable = false
+
+cheat13_desc = "Stop Timer"
+cheat13_code = "3201361F+0000"
+cheat13_enable = false
+
+cheat14_desc = "Supernova+Fireball"
+cheat14_code = "320135B0+0004"
+cheat14_enable = false

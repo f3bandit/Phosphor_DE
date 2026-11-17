@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Infinite Credits-Single Player Modes"
+cheat0_code = "320016A5+0005"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Time~Double Dragon and Single Player Modes"
+cheat1_code = "3200170E+0063"
+cheat1_enable = false
+
+cheat2_desc = "Survival Mode - Max Baddies Beaten"
+cheat2_code = "8200172C+FFFF"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health"
+cheat3_code = "32037BC2+0064"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Lives"
+cheat4_code = "320016AD+0009"
+cheat4_enable = false
+
+cheat5_desc = "Invinciblity"
+cheat5_code = "32037BBE+0062"
+cheat5_enable = false
+
+cheat6_desc = "Press Select To Rise To Ceiling"
+cheat6_code = "D0000020+0004+32037C06+0090"
+cheat6_enable = false

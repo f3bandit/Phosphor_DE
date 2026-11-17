@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Time stopped"
+cheat0_code = "88021010+46C0+8803658C+46C0"
+cheat0_enable = false

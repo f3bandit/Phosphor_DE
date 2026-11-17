@@ -1,0 +1,45 @@
+cheats = 11
+
+cheat0_desc = "Have 999 Coins"
+cheat0_code = "83004118+0999"
+cheat0_enable = false
+
+cheat1_desc = "Have All Costumes"
+cheat1_code = "3202EC67+0003"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Ammo"
+cheat2_code = "3300410B+001C+3300410D+001C"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health + Invincibility"
+cheat3_code = "8300408C+0B0B+83004060+0002"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Hearts"
+cheat4_code = "320008EA+000A"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Lives"
+cheat5_code = "3300411B+000A"
+cheat5_enable = false
+
+cheat6_desc = "Jump in Midair"
+cheat6_code = "8203FF00+4B06+8203FF02+B408+8203FF04+23E1+8203FF06+5CE3+8203FF08+2208+8203FF0A+4013+8203FF0C+D001+8203FF0E+2000+8203FF10+70E0+8203FF12+0080+8203FF14+1840+8203FF16+6801+8203FF18+1C20+8203FF1A+BD00+8203FF1C+EC31+8203FF1E+0800+8800EC28+4B00+8800EC2A+4718+8800EC2C+FF01+8800EC2E+0203"
+cheat6_enable = false
+
+cheat7_desc = "Max Lives"
+cheat7_code = "32000985+0009"
+cheat7_enable = false
+
+cheat8_desc = "Moon Jump"
+cheat8_code = "D0000020+0001+3300409C+0080"
+cheat8_enable = false
+
+cheat9_desc = "Start With Hi-Score"
+cheat9_code = "73004114+0000+83004114+C350"
+cheat9_enable = false
+
+cheat10_desc = "Turbo"
+cheat10_code = "73004064+0002"
+cheat10_enable = false

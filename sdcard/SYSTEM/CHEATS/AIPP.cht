@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Infinite Credits"
+cheat0_code = "330043B5+0009"
+cheat0_enable = false
+
+cheat1_desc = "Low Total Time"
+cheat1_code = "330043E4+0000"
+cheat1_enable = false
+
+cheat2_desc = "Max Hit Points"
+cheat2_code = "3200A068+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Quick Shot"
+cheat3_code = "3200A050+0000"
+cheat3_enable = false
+
+cheat4_desc = "Stop Time"
+cheat4_code = "330043F8+0060"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Health"
+cheat5_code = "3300A048+000A"
+cheat5_enable = false

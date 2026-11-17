@@ -1,0 +1,21 @@
+cheats = 5
+
+cheat0_desc = "Have All Biocards+Icons"
+cheat0_code = "42003568+FFFF+00000035+0002+82003E70+FFFF+32003E72+000F+4200353C+0001+00000016+0002"
+cheat0_enable = false
+
+cheat1_desc = "Have All SFX+Music"
+cheat1_code = "82003568+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "Have Asset Viewer"
+cheat2_code = "82003568+FFFF+82003586+FFFF+820035C0+FFFF"
+cheat2_enable = false
+
+cheat3_desc = "Infinite HP"
+cheat3_code = "42003498+017C+00000005+0002"
+cheat3_enable = false
+
+cheat4_desc = "Infinite SP"
+cheat4_code = "420034A2+0118+00000005+0002"
+cheat4_enable = false

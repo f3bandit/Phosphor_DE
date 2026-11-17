@@ -1,0 +1,37 @@
+cheats = 9
+
+cheat0_desc = "Access All Rounds"
+cheat0_code = "33001EFA+0064+33003030+0064"
+cheat0_enable = false
+
+cheat1_desc = "Have All Library Items"
+cheat1_code = "430030B8+FFFF+0000000A+0002+8300302C+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Lives"
+cheat2_code = "33002FBE+0006"
+cheat2_enable = false
+
+cheat3_desc = "Invincible P1"
+cheat3_code = "33002FCA+0096"
+cheat3_enable = false
+
+cheat4_desc = "Invincible P2"
+cheat4_code = "33002FE6+009E"
+cheat4_enable = false
+
+cheat5_desc = "Press Select To Skip To Next Round"
+cheat5_code = "730018E4+0004+8300154C+0001"
+cheat5_enable = false
+
+cheat6_desc = "Rapid Fire"
+cheat6_code = "73002FBC+1200+83002FBC+0000"
+cheat6_enable = false
+
+cheat7_desc = "Spectator Mode (CPU Plays For You)"
+cheat7_code = "33002FC4+0002"
+cheat7_enable = false
+
+cheat8_desc = "Super Jump"
+cheat8_code = "7300026E+0027+8300026E+0005"
+cheat8_enable = false

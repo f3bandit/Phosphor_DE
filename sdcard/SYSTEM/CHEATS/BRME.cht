@@ -1,0 +1,109 @@
+cheats = 27
+
+cheat0_desc = "All Characters"
+cheat0_code = "830046E8+FFFF"
+cheat0_enable = false
+
+cheat1_desc = "All Fighters RPG Mode"
+cheat1_code = "32004798+00FF"
+cheat1_enable = false
+
+cheat2_desc = "Always Have Item"
+cheat2_code = "3300498C+0001"
+cheat2_enable = false
+
+cheat3_desc = "Always In Power Up Mode"
+cheat3_code = "83004958+0229"
+cheat3_enable = false
+
+cheat4_desc = "Easy Win [Press Start]"
+cheat4_code = "D0000020+0008+3300494A+000F+D0000020+0008+3300498C+0001"
+cheat4_enable = false
+
+cheat5_desc = "Enemy Never Has Item"
+cheat5_code = "33004BB8+0000"
+cheat5_enable = false
+
+cheat6_desc = "Have $50,000"
+cheat6_code = "82004770+C350"
+cheat6_enable = false
+
+cheat7_desc = "Have 3 Power Bars"
+cheat7_code = "3300495C+0003"
+cheat7_enable = false
+
+cheat8_desc = "Have 50 Kills"
+cheat8_code = "330046EE+0032"
+cheat8_enable = false
+
+cheat9_desc = "Have All Battle Cries"
+cheat9_code = "330046E9+00FF"
+cheat9_enable = false
+
+cheat10_desc = "Have All Players (Rank)"
+cheat10_code = "32004798+002F"
+cheat10_enable = false
+
+cheat11_desc = "Have Highest Rank"
+cheat11_code = "82004796+0101"
+cheat11_enable = false
+
+cheat12_desc = "Have Max Capacity"
+cheat12_code = "3200479A+000A"
+cheat12_enable = false
+
+cheat13_desc = "Infinite Players (Rank)"
+cheat13_code = "4200479C+0909+00000008+0002"
+cheat13_enable = false
+
+cheat14_desc = "Life Bar Is Flashing"
+cheat14_code = "3300494A+000F"
+cheat14_enable = false
+
+cheat15_desc = "Max E for Ranking Battle"
+cheat15_code = "82004770+967F+82004772+0098"
+cheat15_enable = false
+
+cheat16_desc = "Max Fighters RPG Mode"
+cheat16_code = "4200479C+6363+00000008+0002"
+cheat16_enable = false
+
+cheat17_desc = "Max Pickable Fighters RPG Mode"
+cheat17_code = "3200479A+000F"
+cheat17_enable = false
+
+cheat18_desc = "No Timer (Press L+R)"
+cheat18_code = "74000130+00FF+830046D2+0026"
+cheat18_enable = false
+
+cheat19_desc = "Unlock All Players"
+cheat19_code = "43005794+0001+00000005+0084"
+cheat19_enable = false
+
+cheat20_desc = "Unlock Doryu"
+cheat20_code = "330059A4+0001"
+cheat20_enable = false
+
+cheat21_desc = "Unlock Expert Mode"
+cheat21_code = "330052EA+0003"
+cheat21_enable = false
+
+cheat22_desc = "Unlock Gale"
+cheat22_code = "33005794+0001"
+cheat22_enable = false
+
+cheat23_desc = "Unlock King"
+cheat23_code = "33005818+0001"
+cheat23_enable = false
+
+cheat24_desc = "Unlock Lucia"
+cheat24_code = "3300589C+0001"
+cheat24_enable = false
+
+cheat25_desc = "Unlock Ogre"
+cheat25_code = "33005920+0001"
+cheat25_enable = false
+
+cheat26_desc = "Invincible"
+cheat26_code = "330049EA+000D+330049EE+00FF"
+cheat26_enable = false

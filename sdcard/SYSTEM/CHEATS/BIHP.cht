@@ -1,0 +1,37 @@
+cheats = 9
+
+cheat0_desc = "Access All Extras"
+cheat0_code = "4300552E+FF03+00000006+0004"
+cheat0_enable = false
+
+cheat1_desc = "Access All Levels"
+cheat1_code = "4300552C+FFFF+00000006+0004"
+cheat1_enable = false
+
+cheat2_desc = "Access All Rewards"
+cheat2_code = "33006D4C+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Have 9999 Points"
+cheat3_code = "73005B20+0001+830055AE+270F"
+cheat3_enable = false
+
+cheat4_desc = "Have All Masks"
+cheat4_code = "330055A5+0002+430055A6+0202+00000003+0002"
+cheat4_enable = false
+
+cheat5_desc = "Have All Weapons"
+cheat5_code = "43005594+0101+00000004+0002"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Health"
+cheat6_code = "330055A0+00C8"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Power"
+cheat7_code = "A30055A4+0001+830055AC+0064"
+cheat7_enable = false
+
+cheat8_desc = "Maximum Health"
+cheat8_code = "330055A2+00C8"
+cheat8_enable = false

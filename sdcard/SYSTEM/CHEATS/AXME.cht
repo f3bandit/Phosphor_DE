@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Level 1 Blob And Level 3 Gambit"
+cheat0_code = "88085724+0E4D"
+cheat0_enable = false
+
+cheat1_desc = "Stage 01 - Xavier Mansion"
+cheat1_code = "A201A944+91D2"
+cheat1_enable = false
+
+cheat2_desc = "Unknown 4"
+cheat2_code = "89006B0C+AA73"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Time"
+cheat3_code = "82000CD4+03E7"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Health"
+cheat4_code = "82000D84+0168"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Lives"
+cheat5_code = "82000D88+000A"
+cheat5_enable = false
+
+cheat6_desc = "Max Mutant Power"
+cheat6_code = "82000DF0+00FF"
+cheat6_enable = false

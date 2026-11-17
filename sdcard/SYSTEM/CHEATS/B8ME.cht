@@ -1,0 +1,49 @@
+cheats = 12
+
+cheat0_desc = "(M)"
+cheat0_code = "881B1D58+D67F"
+cheat0_enable = false
+
+cheat1_desc = "Have 50,000 Coins"
+cheat1_code = "83004410+C350"
+cheat1_enable = false
+
+cheat2_desc = "Have All Gadgets"
+cheat2_code = "420318B8+FFFF+00000005+0002+320318C0+000F"
+cheat2_enable = false
+
+cheat3_desc = "Have All Mini-Games"
+cheat3_code = "420318C0+FFFF+00000004+0002"
+cheat3_enable = false
+
+cheat4_desc = "Have Complete Character List"
+cheat4_code = "42034E06+FFFF+00000005+0002"
+cheat4_enable = false
+
+cheat5_desc = "Have Quest Data Complete"
+cheat5_code = "42034E14+FFFF+00000004+0002"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Money (For Gadgets)"
+cheat6_code = "83004410+6363+83004412+6363"
+cheat6_enable = false
+
+cheat7_desc = "Max Mushrooms (Story)"
+cheat7_code = "8868A0E8+C1ED"
+cheat7_enable = false
+
+cheat8_desc = "Unlock Bowser Land"
+cheat8_code = "3203105E+000F"
+cheat8_enable = false
+
+cheat9_desc = "Unlock Dual Dash"
+cheat9_code = "3203105D+000F"
+cheat9_enable = false
+
+cheat10_desc = "Unlock Game Room"
+cheat10_code = "3203105F+000F"
+cheat10_enable = false
+
+cheat11_desc = "Unlock Mini-Game Attack"
+cheat11_code = "3203105B+000F"
+cheat11_enable = false

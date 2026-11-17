@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Always Low Time"
+cheat0_code = "83006F6C+0000"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Continues"
+cheat1_code = "33006F61+0009"
+cheat1_enable = false
+
+cheat2_desc = "Max First Aid Kits"
+cheat2_code = "33006D8D+0063"
+cheat2_enable = false
+
+cheat3_desc = "Max Med Kits"
+cheat3_code = "33006D8C+0063"
+cheat3_enable = false
+
+cheat4_desc = "Max Smokescreen Launcher"
+cheat4_code = "33006D89+0063"
+cheat4_enable = false
+
+cheat5_desc = "Max Tranquilizer Ammo"
+cheat5_code = "33006D88+0063"
+cheat5_enable = false

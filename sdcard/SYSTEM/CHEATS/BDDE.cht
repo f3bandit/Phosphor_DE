@@ -1,0 +1,177 @@
+cheats = 44
+
+cheat0_desc = "Infinite Credits-Single Player Modes (Alternate Code)"
+cheat0_code = "320016A5+0005"
+cheat0_enable = false
+
+cheat1_desc = "Invinciblity"
+cheat1_code = "32037BBE+0062"
+cheat1_enable = false
+
+cheat2_desc = "Max Baddies Beaten"
+cheat2_code = "8200172C+FFFF"
+cheat2_enable = false
+
+cheat3_desc = "Press Select For Weapon Modifier"
+cheat3_code = "74000130+01FB+82037BA2+0111"
+cheat3_enable = false
+
+cheat4_desc = "Press Select To Rise To Ceiling"
+cheat4_code = "D0000020+0004+32037C06+0090"
+cheat4_enable = false
+
+cheat5_desc = "Skip Stage [Press Select+L]"
+cheat5_code = "74000130+01FB"
+cheat5_enable = false
+
+cheat6_desc = "Start With Hi-Score"
+cheat6_code = "720016C0+0000"
+cheat6_enable = false
+
+cheat7_desc = "Stop Timer"
+cheat7_code = "3200170C+0000"
+cheat7_enable = false
+
+cheat8_desc = "Transparent"
+cheat8_code = "32037BBE+0002"
+cheat8_enable = false
+
+cheat9_desc = "10 Credits in Options"
+cheat9_code = "320016A6+000A"
+cheat9_enable = false
+
+cheat10_desc = "10 Lives in Options"
+cheat10_code = "320016A5+000A"
+cheat10_enable = false
+
+cheat11_desc = "Add Points Just by Attacking"
+cheat11_code = "32037BC3+0001"
+cheat11_enable = false
+
+cheat12_desc = "Always Start with 99 Seconds"
+cheat12_code = "320016A7+0063"
+cheat12_enable = false
+
+cheat13_desc = "Difficulty Modifier"
+cheat13_code = "320016A4+0000"
+cheat13_enable = false
+
+cheat14_desc = "Disable Scrolling Lock"
+cheat14_code = "32032BA5+0004"
+cheat14_enable = false
+
+cheat15_desc = "Enemy 1 Dies After Being Knocked Down"
+cheat15_code = "32037C22+0000"
+cheat15_enable = false
+
+cheat16_desc = "Enemy 1 Modifier"
+cheat16_code = "82037C18+0000"
+cheat16_enable = false
+
+cheat17_desc = "Enemy 1 Weapon Modifier"
+cheat17_code = "82037C02+0000"
+cheat17_enable = false
+
+cheat18_desc = "Enemy 2 Dies After Being Knocked Down"
+cheat18_code = "32037C82+0000"
+cheat18_enable = false
+
+cheat19_desc = "Enemy 2 Modifier"
+cheat19_code = "82037C78+0000"
+cheat19_enable = false
+
+cheat20_desc = "Enemy 2 Weapon Modifier"
+cheat20_code = "82037C62+0000"
+cheat20_enable = false
+
+cheat21_desc = "Enemy 3 Dies After Being Knocked Down"
+cheat21_code = "32037CE2+0000"
+cheat21_enable = false
+
+cheat22_desc = "Enemy 3 Modifier"
+cheat22_code = "82037CD8+0000"
+cheat22_enable = false
+
+cheat23_desc = "Enemy 3 Weapon Modifier"
+cheat23_code = "82037CC2+0000"
+cheat23_enable = false
+
+cheat24_desc = "Enemy 4 Dies After Being Knocked Down"
+cheat24_code = "32037D42+0000"
+cheat24_enable = false
+
+cheat25_desc = "Enemy 4 Modifier"
+cheat25_code = "82037D38+0000"
+cheat25_enable = false
+
+cheat26_desc = "Enemy 4 Weapon Modifier"
+cheat26_code = "82037D22+0000"
+cheat26_enable = false
+
+cheat27_desc = "Enemy 5 Dies After Being Knocked Down"
+cheat27_code = "32037DA2+0000"
+cheat27_enable = false
+
+cheat28_desc = "Enemy 5 Modifier"
+cheat28_code = "82037D98+0000"
+cheat28_enable = false
+
+cheat29_desc = "Enemy 5 Weapon Modifier"
+cheat29_code = "82037D82+0000"
+cheat29_enable = false
+
+cheat30_desc = "Enemy 6 Dies After Being Knocked Down"
+cheat30_code = "32037E02+0000"
+cheat30_enable = false
+
+cheat31_desc = "Enemy 6 Modifier"
+cheat31_code = "82037DF8+0000"
+cheat31_enable = false
+
+cheat32_desc = "Enemy 6 Weapon Modifier"
+cheat32_code = "82037DE2+0000"
+cheat32_enable = false
+
+cheat33_desc = "Hit Anywhere"
+cheat33_code = "8800E68E+E055+8800E730+46C0+8800E73C+46C0"
+cheat33_enable = false
+
+cheat34_desc = "Infinite Health"
+cheat34_code = "32037BC2+0064"
+cheat34_enable = false
+
+cheat35_desc = "Infinite lives"
+cheat35_code = "320016AD+0009"
+cheat35_enable = false
+
+cheat36_desc = "Infinite Time (Double Dragon and Single Player Modes)"
+cheat36_code = "3200170E+0063"
+cheat36_enable = false
+
+cheat37_desc = "Invincible"
+cheat37_code = "8800F5CA+46C0"
+cheat37_enable = false
+
+cheat38_desc = "Most Attacks Don't Hurt You"
+cheat38_code = "32037BAC+0001"
+cheat38_enable = false
+
+cheat39_desc = "Music Plays During Marian's Kidnapping"
+cheat39_code = "320016C8+0001"
+cheat39_enable = false
+
+cheat40_desc = "Music Speed Modifier"
+cheat40_code = "32001570+0000"
+cheat40_enable = false
+
+cheat41_desc = "No Music"
+cheat41_code = "3200157F+0001"
+cheat41_enable = false
+
+cheat42_desc = "Push Start to Disable Music"
+cheat42_code = "320016B0+0000"
+cheat42_enable = false
+
+cheat43_desc = "Stage Modifier"
+cheat43_code = "320016A8+0000"
+cheat43_enable = false

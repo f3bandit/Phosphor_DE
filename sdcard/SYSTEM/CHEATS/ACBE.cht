@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Earn 50,000 From Jobs"
+cheat0_code = "72000002+0001+82000018+C350"
+cheat0_enable = false
+
+cheat1_desc = "Have All MAT's [Press Select]"
+cheat1_code = "D0000020+0004+42000CAA+0000+00000006+0002"
+cheat1_enable = false
+
+cheat2_desc = "Start With 50,000"
+cheat2_code = "7201F6F0+0000+8201F6F0+C350"
+cheat2_enable = false

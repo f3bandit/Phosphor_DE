@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "End/Win Race [Press L+R+Select]"
+cheat0_code = "74000130+00FB+32000A80+0015"
+cheat0_enable = false
+
+cheat1_desc = "Engine Tuned"
+cheat1_code = "82000774+0C00"
+cheat1_enable = false
+
+cheat2_desc = "Extra Top Speed"
+cheat2_code = "3200076C+000C"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Blue Star"
+cheat3_code = "33000C64+0001"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Red Star"
+cheat4_code = "3300035C+0001"
+cheat4_enable = false
+
+cheat5_desc = "Jump [Press A+Down]"
+cheat5_code = "74000130+037E+33001EC8+0004"
+cheat5_enable = false
+
+cheat6_desc = "Start On 3rd Lap"
+cheat6_code = "72000A80+0000+32000A80+0008"
+cheat6_enable = false

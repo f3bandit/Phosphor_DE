@@ -1,0 +1,281 @@
+cheats = 70
+
+cheat0_desc = "Akabane: Infinite HP"
+cheat0_code = "82001D5C+270F"
+cheat0_enable = false
+
+cheat1_desc = "Akabane: Infinite MP"
+cheat1_code = "82001D60+03E7"
+cheat1_enable = false
+
+cheat2_desc = "Akabane: Maximum AP"
+cheat2_code = "82001D64+03E7"
+cheat2_enable = false
+
+cheat3_desc = "Akabane: Maximum DP"
+cheat3_code = "82001D66+03E7"
+cheat3_enable = false
+
+cheat4_desc = "Akabane: Maximum HP"
+cheat4_code = "82001D5E+270F"
+cheat4_enable = false
+
+cheat5_desc = "Akabane: Maximum MP"
+cheat5_code = "82001D62+03E7"
+cheat5_enable = false
+
+cheat6_desc = "Akabane: Maximum SP"
+cheat6_code = "82001D68+03E7"
+cheat6_enable = false
+
+cheat7_desc = "Ban: Infinite HP"
+cheat7_code = "82001B4C+270F"
+cheat7_enable = false
+
+cheat8_desc = "Ban: Infinite MP"
+cheat8_code = "82001B50+03E7"
+cheat8_enable = false
+
+cheat9_desc = "Ban: Maximum AP"
+cheat9_code = "82001B54+03E7"
+cheat9_enable = false
+
+cheat10_desc = "Ban: Maximum DP"
+cheat10_code = "82001B56+03E7"
+cheat10_enable = false
+
+cheat11_desc = "Ban: Maximum HP"
+cheat11_code = "82001B4E+270F"
+cheat11_enable = false
+
+cheat12_desc = "Ban: Maximum MP"
+cheat12_code = "82001B52+03E7"
+cheat12_enable = false
+
+cheat13_desc = "Ban: Maximum SP"
+cheat13_code = "82001B58+03E7"
+cheat13_enable = false
+
+cheat14_desc = "Emishi: Infinite HP"
+cheat14_code = "82001F6C+270F"
+cheat14_enable = false
+
+cheat15_desc = "Emishi: Infinite MP"
+cheat15_code = "82001F70+03E7"
+cheat15_enable = false
+
+cheat16_desc = "Emishi: Maximum AP"
+cheat16_code = "82001F74+03E7"
+cheat16_enable = false
+
+cheat17_desc = "Emishi: Maximum DP"
+cheat17_code = "82001F76+03E7"
+cheat17_enable = false
+
+cheat18_desc = "Emishi: Maximum HP"
+cheat18_code = "82001F6E+270F"
+cheat18_enable = false
+
+cheat19_desc = "Emishi: Maximum MP"
+cheat19_code = "82001F72+03E7"
+cheat19_enable = false
+
+cheat20_desc = "Emishi: Maximum SP"
+cheat20_code = "82001F78+03E7"
+cheat20_enable = false
+
+cheat21_desc = "Ginji: Infinite HP"
+cheat21_code = "82001BFC+270F"
+cheat21_enable = false
+
+cheat22_desc = "Ginji: Infinite MP"
+cheat22_code = "82001C00+03E7"
+cheat22_enable = false
+
+cheat23_desc = "Ginji: Maximum AP"
+cheat23_code = "82001C04+03E7"
+cheat23_enable = false
+
+cheat24_desc = "Ginji: Maximum DP"
+cheat24_code = "82001C06+03E7"
+cheat24_enable = false
+
+cheat25_desc = "Ginji: Maximum HP"
+cheat25_code = "82001BFE+270F"
+cheat25_enable = false
+
+cheat26_desc = "Ginji: Maximum MP"
+cheat26_code = "82001C02+03E7"
+cheat26_enable = false
+
+cheat27_desc = "Ginji: Maximum SP"
+cheat27_code = "82001C08+03E7"
+cheat27_enable = false
+
+cheat28_desc = "Have All Equipment"
+cheat28_code = "42002454+0000+0001003C+0004+42002456+0063+0000003C+0004"
+cheat28_enable = false
+
+cheat29_desc = "Have All Items"
+cheat29_code = "4200221C+0000+00010044+0004+4200221E+0063+00000044+0004"
+cheat29_enable = false
+
+cheat30_desc = "Have All KeyItems"
+cheat30_code = "4200232C+0000+0001004A+0004"
+cheat30_enable = false
+
+cheat31_desc = "Have All Players [Press Select+B+Up]"
+cheat31_code = "74000130+03B9+42001B00+0000+00010009+0002"
+cheat31_enable = false
+
+cheat32_desc = "Have All Scenes"
+cheat32_code = "42002544+FFFF+0000000D+0002"
+cheat32_enable = false
+
+cheat33_desc = "Himiko: Infinite HP"
+cheat33_code = "82001CAC+270F"
+cheat33_enable = false
+
+cheat34_desc = "Himiko: Infinite MP"
+cheat34_code = "82001CB0+03E7"
+cheat34_enable = false
+
+cheat35_desc = "Himiko: Maximum AP"
+cheat35_code = "82001CB4+03E7"
+cheat35_enable = false
+
+cheat36_desc = "Himiko: Maximum DP"
+cheat36_code = "82001CB6+03E7"
+cheat36_enable = false
+
+cheat37_desc = "Himiko: Maximum HP"
+cheat37_code = "82001CAE+270F"
+cheat37_enable = false
+
+cheat38_desc = "Himiko: Maximum MP"
+cheat38_code = "82001CB2+03E7"
+cheat38_enable = false
+
+cheat39_desc = "Himiko: Maximum SP"
+cheat39_code = "82001CB8+03E7"
+cheat39_enable = false
+
+cheat40_desc = "Jubei: Infinite HP"
+cheat40_code = "8200201C+270F"
+cheat40_enable = false
+
+cheat41_desc = "Jubei: Infinite MP"
+cheat41_code = "82002020+03E7"
+cheat41_enable = false
+
+cheat42_desc = "Jubei: Maximum AP"
+cheat42_code = "82002024+03E7"
+cheat42_enable = false
+
+cheat43_desc = "Jubei: Maximum DP"
+cheat43_code = "82002026+03E7"
+cheat43_enable = false
+
+cheat44_desc = "Jubei: Maximum HP"
+cheat44_code = "8200201E+270F"
+cheat44_enable = false
+
+cheat45_desc = "Jubei: Maximum MP"
+cheat45_code = "82002022+03E7"
+cheat45_enable = false
+
+cheat46_desc = "Jubei: Maximum SP"
+cheat46_code = "82002028+03E7"
+cheat46_enable = false
+
+cheat47_desc = "Kadsuki: Infinite HP"
+cheat47_code = "82001E0C+270F"
+cheat47_enable = false
+
+cheat48_desc = "Kadsuki: Infinite MP"
+cheat48_code = "82001E10+03E7"
+cheat48_enable = false
+
+cheat49_desc = "Kadsuki: Maximum AP"
+cheat49_code = "82001E14+03E7"
+cheat49_enable = false
+
+cheat50_desc = "Kadsuki: Maximum DP"
+cheat50_code = "82001E16+03E7"
+cheat50_enable = false
+
+cheat51_desc = "Kadsuki: Maximum HP"
+cheat51_code = "82001E0E+270F"
+cheat51_enable = false
+
+cheat52_desc = "Kadsuki: Maximum MP"
+cheat52_code = "82001E12+03E7"
+cheat52_enable = false
+
+cheat53_desc = "Kadsuki: Maximum SP"
+cheat53_code = "82001E18+03E7"
+cheat53_enable = false
+
+cheat54_desc = "No Random Battles"
+cheat54_code = "82000D70+FFFF"
+cheat54_enable = false
+
+cheat55_desc = "Quick Level Gain"
+cheat55_code = "82034186+03E7"
+cheat55_enable = false
+
+cheat56_desc = "Shido: Infinite HP"
+cheat56_code = "82001EBC+270F"
+cheat56_enable = false
+
+cheat57_desc = "Shido: Infinite MP"
+cheat57_code = "82001EC0+03E7"
+cheat57_enable = false
+
+cheat58_desc = "Shido: Maximum AP"
+cheat58_code = "82001EC4+03E7"
+cheat58_enable = false
+
+cheat59_desc = "Shido: Maximum DP"
+cheat59_code = "82001EC6+03E7"
+cheat59_enable = false
+
+cheat60_desc = "Shido: Maximum HP"
+cheat60_code = "82001EBE+270F"
+cheat60_enable = false
+
+cheat61_desc = "Shido: Maximum MP"
+cheat61_code = "82001EC2+03E7"
+cheat61_enable = false
+
+cheat62_desc = "Shido: Maximum SP"
+cheat62_code = "82001EC8+03E7"
+cheat62_enable = false
+
+cheat63_desc = "Uryu: Infinite HP"
+cheat63_code = "820020CC+270F"
+cheat63_enable = false
+
+cheat64_desc = "Uryu: Infinite MP"
+cheat64_code = "820020D0+03E7"
+cheat64_enable = false
+
+cheat65_desc = "Uryu: Maximum AP"
+cheat65_code = "820020D4+03E7"
+cheat65_enable = false
+
+cheat66_desc = "Uryu: Maximum DP"
+cheat66_code = "820020D6+03E7"
+cheat66_enable = false
+
+cheat67_desc = "Uryu: Maximum HP"
+cheat67_code = "820020CE+270F"
+cheat67_enable = false
+
+cheat68_desc = "Uryu: Maximum MP"
+cheat68_code = "820020D2+03E7"
+cheat68_enable = false
+
+cheat69_desc = "Uryu: Maximum SP"
+cheat69_code = "820020D8+03E7"
+cheat69_enable = false

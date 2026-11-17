@@ -1,0 +1,161 @@
+cheats = 40
+
+cheat0_desc = "A1-Ring"
+cheat0_code = "33001D0D+0001"
+cheat0_enable = false
+
+cheat1_desc = "All Tracks"
+cheat1_code = "43001D08+0101+00000008+0002+33001D18+0001"
+cheat1_enable = false
+
+cheat2_desc = "Always Drive As Pilot Modifier"
+cheat2_code = "33001D3F+0001"
+cheat2_enable = false
+
+cheat3_desc = "Always Drive On Racetrack Modifier"
+cheat3_code = "33003C30+0000"
+cheat3_enable = false
+
+cheat4_desc = "Always Good Tires"
+cheat4_code = "830003AC+FFFF+830003AE+02FF"
+cheat4_enable = false
+
+cheat5_desc = "Always in First Place"
+cheat5_code = "8837304C+46C0"
+cheat5_enable = false
+
+cheat6_desc = "Barcelona"
+cheat6_code = "33001D0C+0001"
+cheat6_enable = false
+
+cheat7_desc = "Camera Height Modifier (Default Is 0000)"
+cheat7_code = "83000398+0000"
+cheat7_enable = false
+
+cheat8_desc = "Car Position Modifier (X-Axis)"
+cheat8_code = "83000390+0000+83000392+0000"
+cheat8_enable = false
+
+cheat9_desc = "Car Position Modifier (Y-Axis)"
+cheat9_code = "83000394+0000+83000396+0000"
+cheat9_enable = false
+
+cheat10_desc = "Drive On Lap Modifier"
+cheat10_code = "330003D2+0000"
+cheat10_enable = false
+
+cheat11_desc = "Game 100% Complete (Press Select)"
+cheat11_code = "D0000020+0004+33007D1C+0064"
+cheat11_enable = false
+
+cheat12_desc = "Have All Championships Won"
+cheat12_code = "D0000020+0004+33007D20+0003"
+cheat12_enable = false
+
+cheat13_desc = "Hockenheim"
+cheat13_code = "33001D13+0001"
+cheat13_enable = false
+
+cheat14_desc = "Hungaroring"
+cheat14_code = "33001D14+0001"
+cheat14_enable = false
+
+cheat15_desc = "Imola"
+cheat15_code = "33001D0B+0001"
+cheat15_enable = false
+
+cheat16_desc = "Indianapolis"
+cheat16_code = "33001D17+0001"
+cheat16_enable = false
+
+cheat17_desc = "Instant Win [Press Select+L]"
+cheat17_code = "74000130+01FB"
+cheat17_enable = false
+
+cheat18_desc = "Interlagos"
+cheat18_code = "33001D0A+0001"
+cheat18_enable = false
+
+cheat19_desc = "Low Lap Time"
+cheat19_code = "830002F8+0000"
+cheat19_enable = false
+
+cheat20_desc = "Low Times"
+cheat20_code = "830002F8+0000+830002FA+0000"
+cheat20_enable = false
+
+cheat21_desc = "Magny-Cours"
+cheat21_code = "33001D12+0001"
+cheat21_enable = false
+
+cheat22_desc = "Max Points (Pilots Ranking)"
+cheat22_code = "33001D19+00FF"
+cheat22_enable = false
+
+cheat23_desc = "Melbourne"
+cheat23_code = "33001D08+0001"
+cheat23_enable = false
+
+cheat24_desc = "Monaco"
+cheat24_code = "33001D0E+0001"
+cheat24_enable = false
+
+cheat25_desc = "Montreal"
+cheat25_code = "33001D0F+0001"
+cheat25_enable = false
+
+cheat26_desc = "Monza"
+cheat26_code = "33001D16+0001"
+cheat26_enable = false
+
+cheat27_desc = "Nürburgring"
+cheat27_code = "33001D10+0001"
+cheat27_enable = false
+
+cheat28_desc = "No Tire Wear"
+cheat28_code = "330003AF+0002"
+cheat28_enable = false
+
+cheat29_desc = "Opponents Have No Fuel"
+cheat29_code = "430003FA+0000+00000000+0000"
+cheat29_enable = false
+
+cheat30_desc = "Press L Button To Instantly Halt"
+cheat30_code = "D0000020+0200+830003B8+0000"
+cheat30_enable = false
+
+cheat31_desc = "Press R Button For Turbo Boost"
+cheat31_code = "D0000020+0100+830003B8+4E20"
+cheat31_enable = false
+
+cheat32_desc = "Sepang"
+cheat32_code = "33001D09+0001"
+cheat32_enable = false
+
+cheat33_desc = "Silverstone"
+cheat33_code = "33001D11+0001"
+cheat33_enable = false
+
+cheat34_desc = "Spa"
+cheat34_code = "33001D15+0001"
+cheat34_enable = false
+
+cheat35_desc = "Start On Lap #3"
+cheat35_code = "730003D2+1600"
+cheat35_enable = false
+
+cheat36_desc = "Start On Racetrack Modifier (Start A New Season)"
+cheat36_code = "73003C30+0001+33003C30+0000+73007D70+0001+33007D70+0000"
+cheat36_enable = false
+
+cheat37_desc = "Suzuka"
+cheat37_code = "33001D18+0001"
+cheat37_enable = false
+
+cheat38_desc = "Turbo"
+cheat38_code = "D0000020+0001"
+cheat38_enable = false
+
+cheat39_desc = "Win After Crossing the Finish Line"
+cheat39_code = "88372FBE+4289+8837304C+46C0"
+cheat39_enable = false

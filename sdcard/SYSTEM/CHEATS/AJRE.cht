@@ -1,0 +1,233 @@
+cheats = 58
+
+cheat0_desc = "Access Jet Crush: Benten-Cho"
+cheat0_code = "3200815D+0001"
+cheat0_enable = false
+
+cheat1_desc = "Access Jet Crush: Grind City"
+cheat1_code = "32008161+0001"
+cheat1_enable = false
+
+cheat2_desc = "Access Jet Crush: Kogane-Cho"
+cheat2_code = "32008159+0001"
+cheat2_enable = false
+
+cheat3_desc = "Access Jet Crush: Shibuya-Cho"
+cheat3_code = "32008155+0001"
+cheat3_enable = false
+
+cheat4_desc = "Access Jet Graffiti: Benten-Cho"
+cheat4_code = "3200815B+0001"
+cheat4_enable = false
+
+cheat5_desc = "Access Jet Graffiti: Grind City"
+cheat5_code = "3200815F+0001"
+cheat5_enable = false
+
+cheat6_desc = "Access Jet Graffiti: Kogane-Cho"
+cheat6_code = "32008157+0001"
+cheat6_enable = false
+
+cheat7_desc = "Access Jet Graffiti: Shibuya-Cho"
+cheat7_code = "32008153+0001"
+cheat7_enable = false
+
+cheat8_desc = "Access Jet Technique: Benten-Cho"
+cheat8_code = "3200815C+0001"
+cheat8_enable = false
+
+cheat9_desc = "Access Jet Technique: Grind City"
+cheat9_code = "32008160+0001"
+cheat9_enable = false
+
+cheat10_desc = "Access Jet Technique: Kogane-Cho"
+cheat10_code = "32008158+0001"
+cheat10_enable = false
+
+cheat11_desc = "Access Jet Technique: Shibuya-Cho"
+cheat11_code = "32008154+0001"
+cheat11_enable = false
+
+cheat12_desc = "Benten Burning: Infinite Cans"
+cheat12_code = "72022DDC+0044+32022DC4+0063"
+cheat12_enable = false
+
+cheat13_desc = "Benten Burning: Infinite Health"
+cheat13_code = "72022DDC+0044+32022DC8+0058"
+cheat13_enable = false
+
+cheat14_desc = "Benten Burning: Infinite Time"
+cheat14_code = "72022DDC+0044+32022DD0+0050"
+cheat14_enable = false
+
+cheat15_desc = "Explosion: Infinite Cans"
+cheat15_code = "7202628C+0044+32026274+0063"
+cheat15_enable = false
+
+cheat16_desc = "Explosion: Infinite Health"
+cheat16_code = "7202628C+0044+32026278+0058"
+cheat16_enable = false
+
+cheat17_desc = "Explosion: Infinite Time"
+cheat17_code = "7202628C+0044+32026280+0050"
+cheat17_enable = false
+
+cheat18_desc = "Fight or Flight: Infinite Cans"
+cheat18_code = "7202754C+0044+32027534+0063"
+cheat18_enable = false
+
+cheat19_desc = "Fight or Flight: Infinite Health"
+cheat19_code = "7202754C+0044+32027538+0058"
+cheat19_enable = false
+
+cheat20_desc = "Fight or Flight: Infinite Time"
+cheat20_code = "7202754C+0044+32027540+0050"
+cheat20_enable = false
+
+cheat21_desc = "Final Stage: Infinite Cans"
+cheat21_code = "7201DDD0+0044+3201DDB8+0063"
+cheat21_enable = false
+
+cheat22_desc = "Final Stage: Infinite Health"
+cheat22_code = "7201DDD0+0044+3201DDBC+0058"
+cheat22_enable = false
+
+cheat23_desc = "Final Stage: Infinite Time"
+cheat23_code = "7201DDD0+0044+3201DDC4+0050"
+cheat23_enable = false
+
+cheat24_desc = "Graffiti High: Infinite Cans"
+cheat24_code = "72020B70+0044+32020B58+0063"
+cheat24_enable = false
+
+cheat25_desc = "Graffiti High: Infinite Health"
+cheat25_code = "72020B70+0044+32020B5C+0058"
+cheat25_enable = false
+
+cheat26_desc = "Graffiti High: Infinite Time"
+cheat26_code = "72020B70+0044+32020B64+0050"
+cheat26_enable = false
+
+cheat27_desc = "Infinite Spray Cans"
+cheat27_code = "3201F0D8+0063"
+cheat27_enable = false
+
+cheat28_desc = "Love Attack: Infinite Cans"
+cheat28_code = "72024484+0044+3202446C+0063"
+cheat28_enable = false
+
+cheat29_desc = "Love Attack: Infinite Health"
+cheat29_code = "72024484+0044+32024470+0058"
+cheat29_enable = false
+
+cheat30_desc = "Love Attack: Infinite Time"
+cheat30_code = "72024484+0044+32024478+0050"
+cheat30_enable = false
+
+cheat31_desc = "Max Points"
+cheat31_code = "3201F0E0+003F"
+cheat31_enable = false
+
+cheat32_desc = "Noise Reduction: Infinite Cans"
+cheat32_code = "72020F34+0044+32020F1C+0063"
+cheat32_enable = false
+
+cheat33_desc = "Noise Reduction: Infinite Health"
+cheat33_code = "72020F34+0044+32020F20+0058"
+cheat33_enable = false
+
+cheat34_desc = "Noise Reduction: Infinite Time"
+cheat34_code = "72020F34+0044+32020F28+0050"
+cheat34_enable = false
+
+cheat35_desc = "Story Mode - Benten Boogie: Infinite Cans"
+cheat35_code = "7201EEBC+0044+3201EEA4+0063"
+cheat35_enable = false
+
+cheat36_desc = "Story Mode - Benten Boogie: Infinite Health"
+cheat36_code = "7201EEBC+0044+3201EEA8+0058"
+cheat36_enable = false
+
+cheat37_desc = "Story Mode - Benten Boogie: Infinite Time"
+cheat37_code = "7201EEBC+0044+3201EEB0+0050"
+cheat37_enable = false
+
+cheat38_desc = "Story Mode - Kogane Circus: Infinite Cans"
+cheat38_code = "72021CB8+0044+32021CA0+0063"
+cheat38_enable = false
+
+cheat39_desc = "Story Mode - Kogane Circus: Infinite Health"
+cheat39_code = "72021CB8+0044+32021CA4+0058"
+cheat39_enable = false
+
+cheat40_desc = "Story Mode - Kogane Circus: Infinite Time"
+cheat40_code = "72021CB8+0044+32021CAC+0050"
+cheat40_enable = false
+
+cheat41_desc = "Story Mode - Love Trap: Infinite Cans"
+cheat41_code = "7201F938+0044+3201F920+0063"
+cheat41_enable = false
+
+cheat42_desc = "Story Mode - Love Trap: Infinite Health"
+cheat42_code = "7201F938+0044+3201F924+0058"
+cheat42_enable = false
+
+cheat43_desc = "Story Mode - Love Trap: Infinite Time"
+cheat43_code = "7201F938+0044+3201F92C+0050"
+cheat43_enable = false
+
+cheat44_desc = "Story Mode - Monster of Kogane: Infinite Cans"
+cheat44_code = "72022148+0044+32022130+0063"
+cheat44_enable = false
+
+cheat45_desc = "Story Mode - Monster of Kogane: Infinite Health"
+cheat45_code = "72022148+0044+32022134+0058"
+cheat45_enable = false
+
+cheat46_desc = "Story Mode - Monster of Kogane: Infinite Time"
+cheat46_code = "72022148+0044+3202213C+0050"
+cheat46_enable = false
+
+cheat47_desc = "Story Mode - No. 540: Infinite Cans"
+cheat47_code = "7201CAE4+0044+3201CACC+0063"
+cheat47_enable = false
+
+cheat48_desc = "Story Mode - No. 540: Infinite Health"
+cheat48_code = "7201CAE4+0044+3201CAD0+0058"
+cheat48_enable = false
+
+cheat49_desc = "Story Mode - No. 540: Infinite Time"
+cheat49_code = "7201CAE4+0044+3201CAD8+0050"
+cheat49_enable = false
+
+cheat50_desc = "Story Mode - Shibuya GG: Infinite Cans"
+cheat50_code = "7201F0F0+0044+3201F0D8+0063"
+cheat50_enable = false
+
+cheat51_desc = "Story Mode - Shibuya GG: Infinite Health"
+cheat51_code = "7201F0F0+0044+3201F0DC+0058"
+cheat51_enable = false
+
+cheat52_desc = "Story Mode - Shibuya GG: Infinite Time"
+cheat52_code = "7201F0F0+0044+3201F0E4+0050"
+cheat52_enable = false
+
+cheat53_desc = "Tag or Die: Infinite Cans"
+cheat53_code = "72020558+0044+32020540+0063"
+cheat53_enable = false
+
+cheat54_desc = "Tag or Die: Infinite Health"
+cheat54_code = "72020558+0044+32020544+0058"
+cheat54_enable = false
+
+cheat55_desc = "Tag or Die: Infinite Time"
+cheat55_code = "72020558+0044+3202054C+0050"
+cheat55_enable = false
+
+cheat56_desc = "Unlock All Graffiti"
+cheat56_code = "42008114+FFFF+00000006+0002"
+cheat56_enable = false
+
+cheat57_desc = "Unlock All Players"
+cheat57_code = "4200812A+0101+00000006+0002"
+cheat57_enable = false

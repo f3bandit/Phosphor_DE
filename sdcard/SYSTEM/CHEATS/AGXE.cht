@@ -1,0 +1,73 @@
+cheats = 18
+
+cheat0_desc = "Hit Anywhere Both Players"
+cheat0_code = "8801D040+E024+8801D4FC+E0EF"
+cheat0_enable = false
+
+cheat1_desc = "Invincibility P1"
+cheat1_code = "8801D6D8+45D1+8801D6DA+DC00"
+cheat1_enable = false
+
+cheat2_desc = "P1 One Hit Kills"
+cheat2_code = "A201DC32+3AAB"
+cheat2_enable = false
+
+cheat3_desc = "Player 1/Partner: 1 Win Victory"
+cheat3_code = "720006F8+0001+32000695+0002"
+cheat3_enable = false
+
+cheat4_desc = "Player 1/Partner: Can't Be Dazed"
+cheat4_code = "82002F7A+0000"
+cheat4_enable = false
+
+cheat5_desc = "Player 1/Partner: Daze Opponent [Press Select]"
+cheat5_code = "72000006+0004+32002F8B+0001"
+cheat5_enable = false
+
+cheat6_desc = "Player 1/Partner: Infinite Health"
+cheat6_code = "82002F76+01B8"
+cheat6_enable = false
+
+cheat7_desc = "Player 2/Partner: 1 Win Victory"
+cheat7_code = "7200070C+0001+320006B1+0002"
+cheat7_enable = false
+
+cheat8_desc = "Player 2/Partner: Can't Win Round"
+cheat8_code = "3200070C+0000+320006B1+0000"
+cheat8_enable = false
+
+cheat9_desc = "Player 2/Partner: Half Health"
+cheat9_code = "72002F86+01B8+82002F86+00DC"
+cheat9_enable = false
+
+cheat10_desc = "Player 2/Partner: Infinite Health"
+cheat10_code = "82002F86+01B8"
+cheat10_enable = false
+
+cheat11_desc = "Press Select + R To Daze Opponent"
+cheat11_code = "73000044+FD04+32002F8B+0001"
+cheat11_enable = false
+
+cheat12_desc = "Unlock All Extras"
+cheat12_code = "42000024+FFFF+00000003+0002"
+cheat12_enable = false
+
+cheat13_desc = "Unlock Extra Fighters"
+cheat13_code = "32000024+0003"
+cheat13_enable = false
+
+cheat14_desc = "Unlock Extra Options"
+cheat14_code = "32000028+000F"
+cheat14_enable = false
+
+cheat15_desc = "Max Level In Survival Mode"
+cheat15_code = "8200060C+03E6"
+cheat15_enable = false
+
+cheat16_desc = "Infinite Death Meter"
+cheat16_code = "82002F7E+03E8"
+cheat16_enable = false
+
+cheat17_desc = "Always Have Death Meter"
+cheat17_code = "72002F74+0002+82002F74+0001"
+cheat17_enable = false

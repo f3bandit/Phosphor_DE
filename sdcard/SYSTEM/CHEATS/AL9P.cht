@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Golden Gun Ammo"
+cheat0_code = "82007A78+03E7"
+cheat0_enable = false
+
+cheat1_desc = "Have All Items+Weapons"
+cheat1_code = "82007A84+FFFF+82007A86+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "Large Medikit"
+cheat2_code = "82007A80+03E7"
+cheat2_enable = false
+
+cheat3_desc = "Press Select+L To Skip Level"
+cheat3_code = "74000130+01FB+32007CC6+0007"
+cheat3_enable = false
+
+cheat4_desc = "Small Medikit"
+cheat4_code = "82007A7E+03E7"
+cheat4_enable = false
+
+cheat5_desc = "Uzi Ammo"
+cheat5_code = "82007A74+03E7"
+cheat5_enable = false

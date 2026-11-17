@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Challenge Stage-Flash"
+cheat0_code = "33003DDF+0063"
+cheat0_enable = false
+
+cheat1_desc = "Have 5 Of All Magic Gems"
+cheat1_code = "43002A40+0505+0000001B+0002"
+cheat1_enable = false

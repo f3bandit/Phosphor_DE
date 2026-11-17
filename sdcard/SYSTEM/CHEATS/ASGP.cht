@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Infinite Time"
+cheat0_code = "83003484+6ADF"
+cheat0_enable = false
+
+cheat1_desc = "Quick Score Gain"
+cheat1_code = "8300323C+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "Max Score"
+cheat2_code = "8300323C+E0FF+8300323E+05F5"
+cheat2_enable = false

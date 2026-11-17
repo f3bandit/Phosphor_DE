@@ -1,0 +1,81 @@
+cheats = 20
+
+cheat0_desc = "Earth"
+cheat0_code = "8200C1F6+03E7+8200C204+03E7"
+cheat0_enable = false
+
+cheat1_desc = "Fire"
+cheat1_code = "8200C1FA+03E7+8200C208+03E7"
+cheat1_enable = false
+
+cheat2_desc = "Have All Collected"
+cheat2_code = "8200C24C+FFFF"
+cheat2_enable = false
+
+cheat3_desc = "Ice"
+cheat3_code = "8200C1FC+03E7+8200C20A+03E7"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Health"
+cheat4_code = "8200C25C+03E7"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Special"
+cheat5_code = "8200C260+03E7"
+cheat5_enable = false
+
+cheat6_desc = "Light"
+cheat6_code = "8200C200+03E7+8200C20E+03E7"
+cheat6_enable = false
+
+cheat7_desc = "Max Att/Def Stats: Earth"
+cheat7_code = "8200C1F6+03E7"
+cheat7_enable = false
+
+cheat8_desc = "Max Att/Def Stats: Fire"
+cheat8_code = "8200C1FA+03E7"
+cheat8_enable = false
+
+cheat9_desc = "Max Att/Def Stats: Ice"
+cheat9_code = "8200C1FC+03E7"
+cheat9_enable = false
+
+cheat10_desc = "Max Att/Def Stats: Light"
+cheat10_code = "8200C200+03E7"
+cheat10_enable = false
+
+cheat11_desc = "Max Att/Def Stats: Mech"
+cheat11_code = "8200C1F4+03E7"
+cheat11_enable = false
+
+cheat12_desc = "Max Att/Def Stats: Shad"
+cheat12_code = "8200C1FE+03E7"
+cheat12_enable = false
+
+cheat13_desc = "Max Att/Def Stats: Wind"
+cheat13_code = "8200C1F8+03E7"
+cheat13_enable = false
+
+cheat14_desc = "Maximum Health"
+cheat14_code = "8200C1EE+03E7"
+cheat14_enable = false
+
+cheat15_desc = "Maximum Special"
+cheat15_code = "8200C1F2+03E7"
+cheat15_enable = false
+
+cheat16_desc = "Mech"
+cheat16_code = "8200C1F4+03E7+8200C202+03E7"
+cheat16_enable = false
+
+cheat17_desc = "Shad"
+cheat17_code = "8200C1FE+03E7+8200C20C+03E7"
+cheat17_enable = false
+
+cheat18_desc = "Stop Timer"
+cheat18_code = "8200C1E4+0000"
+cheat18_enable = false
+
+cheat19_desc = "Wind"
+cheat19_code = "8200C1F8+03E7+8200C206+03E7"
+cheat19_enable = false

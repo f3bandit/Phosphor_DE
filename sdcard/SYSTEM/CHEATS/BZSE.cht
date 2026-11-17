@@ -1,0 +1,21 @@
+cheats = 5
+
+cheat0_desc = "Max Cash"
+cheat0_code = "82015548+270F"
+cheat0_enable = false
+
+cheat1_desc = "Max/Infinite Health"
+cheat1_code = "320176C4+0006+32015502+0006"
+cheat1_enable = false
+
+cheat2_desc = "Max/Infinite Pies"
+cheat2_code = "32015529+00F2"
+cheat2_enable = false
+
+cheat3_desc = "Max/Infinite Transformation Bar"
+cheat3_code = "82015544+06FF"
+cheat3_enable = false
+
+cheat4_desc = "Vison Changer (Picture Modifier)"
+cheat4_code = "320154F0+0001"
+cheat4_enable = false

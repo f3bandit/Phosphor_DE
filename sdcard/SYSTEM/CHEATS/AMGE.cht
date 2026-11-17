@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Max Power When Casting"
+cheat0_code = "320001D6+0008"
+cheat0_enable = false
+
+cheat1_desc = "No Line Tension"
+cheat1_code = "320001E6+0000"
+cheat1_enable = false
+
+cheat2_desc = "Catch 1 Fish For Max Weight"
+cheat2_code = "820000D2+7FFF"
+cheat2_enable = false

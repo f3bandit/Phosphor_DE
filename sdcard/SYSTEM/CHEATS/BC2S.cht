@@ -1,0 +1,57 @@
+cheats = 14
+
+cheat0_desc = "6 Card Slots"
+cheat0_code = "32034A72+0006"
+cheat0_enable = false
+
+cheat1_desc = "Have All Cos-Plays"
+cheat1_code = "32034A69+00FF"
+cheat1_enable = false
+
+cheat2_desc = "Have All Figures"
+cheat2_code = "32034AA7+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Have All Items"
+cheat3_code = "82034A86+FFFF+82034A88+FFFF+82034A8A+FFFF"
+cheat3_enable = false
+
+cheat4_desc = "Inf. Coins"
+cheat4_code = "82034A6A+03E7"
+cheat4_enable = false
+
+cheat5_desc = "Inf. HP / Max HP"
+cheat5_code = "82034A64+0A0A"
+cheat5_enable = false
+
+cheat6_desc = "Inf. Lives"
+cheat6_code = "32034A68+0063"
+cheat6_enable = false
+
+cheat7_desc = "Inf. Stars"
+cheat7_code = "82034A66+0A0A"
+cheat7_enable = false
+
+cheat8_desc = "Invincible"
+cheat8_code = "32028BDC+00FF"
+cheat8_enable = false
+
+cheat9_desc = "Multi-Stage Jumps"
+cheat9_code = "82028C38+0101"
+cheat9_enable = false
+
+cheat10_desc = "Total Time = 00:00"
+cheat10_code = "82034A98+0000+82034A9A+0000"
+cheat10_enable = false
+
+cheat11_desc = "Unlock All Mini-Games"
+cheat11_code = "32034AA6+00FF"
+cheat11_enable = false
+
+cheat12_desc = "Unlock All Stages"
+cheat12_code = "82034A9C+0F0F+82034A9E+0F0F+82034AA0+0F0F+82034AA2+0F0F"
+cheat12_enable = false
+
+cheat13_desc = "Unlock All Theater"
+cheat13_code = "82034A74+FFFF+82034A76+FFFF+82034A78+FFFF+82034A7A+FFFF"
+cheat13_enable = false

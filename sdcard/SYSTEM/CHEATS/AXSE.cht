@@ -1,0 +1,141 @@
+cheats = 35
+
+cheat0_desc = "All Medals Vert - Bob Burnquist"
+cheat0_code = "83006D38+6363+83006D3A+0063"
+cheat0_enable = false
+
+cheat1_desc = "All Medals Vert - Carlos DeAndrade"
+cheat1_code = "83006E14+6363+83006E16+0063"
+cheat1_enable = false
+
+cheat2_desc = "All Medals Vert - Chad Fernandez"
+cheat2_code = "83006E40+6363+83006E42+0063"
+cheat2_enable = false
+
+cheat3_desc = "All Medals Vert - Chris Senn"
+cheat3_code = "83006DBC+6363+83006DBE+0063"
+cheat3_enable = false
+
+cheat4_desc = "All Medals Vert - Colin McKay"
+cheat4_code = "83006D64+6363+83006D66+0063"
+cheat4_enable = false
+
+cheat5_desc = "All Medals Vert - Kerry Getz"
+cheat5_code = "83006DE8+6363+83006DEA+0063"
+cheat5_enable = false
+
+cheat6_desc = "All Medals Vert - KW"
+cheat6_code = "83006EC4+6363+83006EC6+0063"
+cheat6_enable = false
+
+cheat7_desc = "All Medals Vert - Lincoln Ueda"
+cheat7_code = "83006D90+6363+83006D92+0063"
+cheat7_enable = false
+
+cheat8_desc = "All Medals Vert - Rick McCrank"
+cheat8_code = "83006E6C+6363+83006E6E+0063"
+cheat8_enable = false
+
+cheat9_desc = "All Medals Vert - Rollie M"
+cheat9_code = "83006ED8+6363+83006EDA+0063"
+cheat9_enable = false
+
+cheat10_desc = "Bob Burnquist"
+cheat10_code = "83006D34+967F+83006D36+0098"
+cheat10_enable = false
+
+cheat11_desc = "Carlos DeAndrade"
+cheat11_code = "83006E10+967F+83006E12+0098"
+cheat11_enable = false
+
+cheat12_desc = "Chad Fernandez"
+cheat12_code = "83006E3C+967F+83006E3E+0098"
+cheat12_enable = false
+
+cheat13_desc = "Chris Senn"
+cheat13_code = "83006DB8+967F+83006DBA+0098"
+cheat13_enable = false
+
+cheat14_desc = "Colin McKay"
+cheat14_code = "83006D60+967F+83006D62+0098"
+cheat14_enable = false
+
+cheat15_desc = "Have All Dragon Gems"
+cheat15_code = "33006F20+0063+33006F22+0063+33006F24+0063+33006F26+0063"
+cheat15_enable = false
+
+cheat16_desc = "Kerry Getz"
+cheat16_code = "83006DE4+967F+83006DE6+0098"
+cheat16_enable = false
+
+cheat17_desc = "Lincoln Ueda"
+cheat17_code = "83006D8C+967F+83006D8E+0098"
+cheat17_enable = false
+
+cheat18_desc = "Max Appeal (Side Bar)"
+cheat18_code = "8300705A+00C8"
+cheat18_enable = false
+
+cheat19_desc = "Max Overall Appeal"
+cheat19_code = "8300705C+00C8"
+cheat19_enable = false
+
+cheat20_desc = "Max Score X-Rage"
+cheat20_code = "83006B68+E0FF+83006B6A+05F5"
+cheat20_enable = false
+
+cheat21_desc = "Max Skills - Bob Burnquist"
+cheat21_code = "83006D34+E0FF+83006D36+05F5"
+cheat21_enable = false
+
+cheat22_desc = "Max Skills - Carlos DeAndrade"
+cheat22_code = "83006E10+E0FF+83006E12+05F5"
+cheat22_enable = false
+
+cheat23_desc = "Max Skills - Chad Ffernandez"
+cheat23_code = "83006E3C+E0FF+83006E3E+05F5"
+cheat23_enable = false
+
+cheat24_desc = "Max Skills - Chris Senn"
+cheat24_code = "83006DB8+E0FF+83006DBA+05F5"
+cheat24_enable = false
+
+cheat25_desc = "Max Skills - Colin McKay"
+cheat25_code = "83006D60+E0FF+83006D62+05F5"
+cheat25_enable = false
+
+cheat26_desc = "Max Skills - Kerry Getz"
+cheat26_code = "83006DE4+E0FF+83006DE6+05F5"
+cheat26_enable = false
+
+cheat27_desc = "Max Skills - KW"
+cheat27_code = "83006EC0+E0FF+83006EC2+05F5"
+cheat27_enable = false
+
+cheat28_desc = "Max Skills - Lincoln Ueda"
+cheat28_code = "83006D8C+E0FF+83006D8E+05F5"
+cheat28_enable = false
+
+cheat29_desc = "Max Skills - Rick McCrank"
+cheat29_code = "83006E68+E0FF+83006E6A+05F5"
+cheat29_enable = false
+
+cheat30_desc = "Max Skills - Rollie M"
+cheat30_code = "83006ED4+E0FF+83006ED6+05F5"
+cheat30_enable = false
+
+cheat31_desc = "Max Skillz"
+cheat31_code = "8300704C+967F+8300704E+0098"
+cheat31_enable = false
+
+cheat32_desc = "Rick McCrank"
+cheat32_code = "83006E68+967F+83006E6A+0098"
+cheat32_enable = false
+
+cheat33_desc = "Unlock Kialie"
+cheat33_code = "33006D1D+0001"
+cheat33_enable = false
+
+cheat34_desc = "Unlock Rollie"
+cheat34_code = "33006D1C+0001"
+cheat34_enable = false

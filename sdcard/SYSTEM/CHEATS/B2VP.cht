@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "End Puzzle [Press L+R+Up]"
+cheat0_code = "74000130+00BF+33002724+0080"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Continues"
+cheat1_code = "33002728+0008"
+cheat1_enable = false
+
+cheat2_desc = "No Weight Penalty"
+cheat2_code = "33000E00+0000"
+cheat2_enable = false
+
+cheat3_desc = "Part 2/2"
+cheat3_code = "7203F500+0070+33002F80+0007+7203F500+0080+33002F80+0008+7203F500+0090+33002F80+0009+7203F500+00A0+33002F80+000A+7203F500+00B0+33002F80+000B+7203F500+00C0+33002F80+000C"
+cheat3_enable = false
+
+cheat4_desc = "Snood Rotator"
+cheat4_code = "74000130+03BB+E203F500+0001+74000130+037B+E203F500+FFFF+7203F500+00C1+8203F500+0002+7203F500+FFFE+8203F500+00C0"
+cheat4_enable = false
+
+cheat5_desc = "Unlock All Bonus Games"
+cheat5_code = "430037F0+0001+00000004+0004"
+cheat5_enable = false

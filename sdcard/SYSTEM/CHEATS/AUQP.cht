@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Infinite Stealth"
+cheat0_code = "33002B7F+0002"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Turbo"
+cheat1_code = "33002B85+0002"
+cheat1_enable = false
+
+cheat2_desc = "Press Select+L To Complete Level"
+cheat2_code = "74000130+01FB+82000610+0026+74000130+01FB+82000626+0001"
+cheat2_enable = false

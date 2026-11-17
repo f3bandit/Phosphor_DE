@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Max Acorns"
+cheat0_code = "8201D0C4+03E7"
+cheat0_enable = false
+
+cheat1_desc = "Max Loves Rescued"
+cheat1_code = "8201D0CC+03E7+3201D0CA+0040"
+cheat1_enable = false
+
+cheat2_desc = "Max Rocks"
+cheat2_code = "8201D0C6+03E7"
+cheat2_enable = false
+
+cheat3_desc = "Max Sunflower Seeds"
+cheat3_code = "8201D0C2+03E7"
+cheat3_enable = false

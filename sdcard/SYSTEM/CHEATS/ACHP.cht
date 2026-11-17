@@ -1,0 +1,717 @@
+cheats = 179
+
+cheat0_desc = "All Enemy Info"
+cheat0_code = "42018854+FFFF+00000006+0002"
+cheat0_enable = false
+
+cheat1_desc = "All Relics"
+cheat1_code = "3201883F+00FF+32018840+00FF"
+cheat1_enable = false
+
+cheat2_desc = "All Spells"
+cheat2_code = "3201883E+00FF"
+cheat2_enable = false
+
+cheat3_desc = "All Whip Parts"
+cheat3_code = "820187BC+FFFF"
+cheat3_enable = false
+
+cheat4_desc = "Ancient Armor"
+cheat4_code = "320187CF+0063"
+cheat4_enable = false
+
+cheat5_desc = "Ancient Robe"
+cheat5_code = "320187E8+0063"
+cheat5_enable = false
+
+cheat6_desc = "Ankle Guards"
+cheat6_code = "32018815+0063"
+cheat6_enable = false
+
+cheat7_desc = "Anti-Venom"
+cheat7_code = "320187A7+0063"
+cheat7_enable = false
+
+cheat8_desc = "Arm Guards"
+cheat8_code = "3201880F+0063"
+cheat8_enable = false
+
+cheat9_desc = "Arm Plates"
+cheat9_code = "32018810+0063"
+cheat9_enable = false
+
+cheat10_desc = "Armet"
+cheat10_code = "320187F9+0063"
+cheat10_enable = false
+
+cheat11_desc = "Aurora Ring"
+cheat11_code = "3201883C+0063"
+cheat11_enable = false
+
+cheat12_desc = "Bangle"
+cheat12_code = "32018827+0063"
+cheat12_enable = false
+
+cheat13_desc = "Barbuta"
+cheat13_code = "320187F7+0063"
+cheat13_enable = false
+
+cheat14_desc = "Barrel Helmet"
+cheat14_code = "320187FC+0063"
+cheat14_enable = false
+
+cheat15_desc = "Bascinet"
+cheat15_code = "320187FA+0063"
+cheat15_enable = false
+
+cheat16_desc = "Battle Armor"
+cheat16_code = "320187D5+0063"
+cheat16_enable = false
+
+cheat17_desc = "Bicocette"
+cheat17_code = "320187F3+0063"
+cheat17_enable = false
+
+cheat18_desc = "Big Mana Prism"
+cheat18_code = "320187A4+0063"
+cheat18_enable = false
+
+cheat19_desc = "Blizzard Robe"
+cheat19_code = "320187E3+0063"
+cheat19_enable = false
+
+cheat20_desc = "Bloody Glove"
+cheat20_code = "32018811+0063"
+cheat20_enable = false
+
+cheat21_desc = "Brigandine"
+cheat21_code = "320187CE+0063"
+cheat21_enable = false
+
+cheat22_desc = "Bronze Armor"
+cheat22_code = "320187C3+0063"
+cheat22_enable = false
+
+cheat23_desc = "Bronze Boots"
+cheat23_code = "32018816+0063"
+cheat23_enable = false
+
+cheat24_desc = "Cabacete"
+cheat24_code = "32018802+0063"
+cheat24_enable = false
+
+cheat25_desc = "Castle Map 1"
+cheat25_code = "320187AD+0063"
+cheat25_enable = false
+
+cheat26_desc = "Castle Map 2"
+cheat26_code = "320187AE+0063"
+cheat26_enable = false
+
+cheat27_desc = "Castle Map 3"
+cheat27_code = "320187AF+0063"
+cheat27_enable = false
+
+cheat28_desc = "Casual Wear"
+cheat28_code = "320187DB+0063"
+cheat28_enable = false
+
+cheat29_desc = "Ceramic Armor"
+cheat29_code = "320187D8+0063"
+cheat29_enable = false
+
+cheat30_desc = "Chain Mail"
+cheat30_code = "320187C9+0063"
+cheat30_enable = false
+
+cheat31_desc = "Chaos Ring"
+cheat31_code = "32018838+0063"
+cheat31_enable = false
+
+cheat32_desc = "Cipher's Charm"
+cheat32_code = "32018833+0063"
+cheat32_enable = false
+
+cheat33_desc = "Cloth Helmet"
+cheat33_code = "320187F0+0063"
+cheat33_enable = false
+
+cheat34_desc = "Cloth Tunic"
+cheat34_code = "320187C2+0063"
+cheat34_enable = false
+
+cheat35_desc = "Crested Band"
+cheat35_code = "3201882A+0063"
+cheat35_enable = false
+
+cheat36_desc = "Crimson Cloak"
+cheat36_code = "32018823+0063"
+cheat36_enable = false
+
+cheat37_desc = "Crush Boots"
+cheat37_code = "320187EB+0063"
+cheat37_enable = false
+
+cheat38_desc = "Cuirass Armor"
+cheat38_code = "320187C5+0063"
+cheat38_enable = false
+
+cheat39_desc = "Diamond"
+cheat39_code = "320187BB+0063"
+cheat39_enable = false
+
+cheat40_desc = "Double Mail"
+cheat40_code = "320187D2+0063"
+cheat40_enable = false
+
+cheat41_desc = "Drumstick"
+cheat41_code = "320187A5+0063"
+cheat41_enable = false
+
+cheat42_desc = "Earth Ring"
+cheat42_code = "3201883D+0063"
+cheat42_enable = false
+
+cheat43_desc = "Elixir"
+cheat43_code = "320187A2+0063"
+cheat43_enable = false
+
+cheat44_desc = "Emerald Cloak"
+cheat44_code = "32018821+0063"
+cheat44_enable = false
+
+cheat45_desc = "Face-Guard"
+cheat45_code = "320187F5+0063"
+cheat45_enable = false
+
+cheat46_desc = "Fancy Bandana"
+cheat46_code = "320187EC+0063"
+cheat46_enable = false
+
+cheat47_desc = "Fancy Clothes"
+cheat47_code = "320187E0+0063"
+cheat47_enable = false
+
+cheat48_desc = "Field Armor"
+cheat48_code = "320187C0+0063"
+cheat48_enable = false
+
+cheat49_desc = "Fire Mail"
+cheat49_code = "320187CD+0063"
+cheat49_enable = false
+
+cheat50_desc = "Floating Boots"
+cheat50_code = "3201881C+0063"
+cheat50_enable = false
+
+cheat51_desc = "Floodgate Key"
+cheat51_code = "320187AC+0063"
+cheat51_enable = false
+
+cheat52_desc = "Full Helmet"
+cheat52_code = "32018801+0063"
+cheat52_enable = false
+
+cheat53_desc = "Gauntlets"
+cheat53_code = "3201880B+0063"
+cheat53_enable = false
+
+cheat54_desc = "Gloves"
+cheat54_code = "3201880C+0063"
+cheat54_enable = false
+
+cheat55_desc = "Gold Headband"
+cheat55_code = "32018807+0063"
+cheat55_enable = false
+
+cheat56_desc = "Gold Necklace"
+cheat56_code = "3201882D+0063"
+cheat56_enable = false
+
+cheat57_desc = "Greaves"
+cheat57_code = "32018819+0063"
+cheat57_enable = false
+
+cheat58_desc = "Greed Amulet"
+cheat58_code = "32018831+0063"
+cheat58_enable = false
+
+cheat59_desc = "Greek Helm"
+cheat59_code = "320187F4+0063"
+cheat59_enable = false
+
+cheat60_desc = "Guardian Armor"
+cheat60_code = "320187CC+0063"
+cheat60_enable = false
+
+cheat61_desc = "Guardian Boots"
+cheat61_code = "32018817+0063"
+cheat61_enable = false
+
+cheat62_desc = "Guardian Glove"
+cheat62_code = "3201880E+0063"
+cheat62_enable = false
+
+cheat63_desc = "Guardian Helm"
+cheat63_code = "320187F8+0063"
+cheat63_enable = false
+
+cheat64_desc = "Hard Gloves"
+cheat64_code = "3201880D+0063"
+cheat64_enable = false
+
+cheat65_desc = "Have All Equipment"
+cheat65_code = "420187BE+6363+00000040+0002"
+cheat65_enable = false
+
+cheat66_desc = "Have All Items"
+cheat66_code = "420187A0+6363+0000000E+0002"
+cheat66_enable = false
+
+cheat67_desc = "Have Encyclopedia"
+cheat67_code = "32018841+00FF"
+cheat67_enable = false
+
+cheat68_desc = "Healing Mail"
+cheat68_code = "320187CB+0063"
+cheat68_enable = false
+
+cheat69_desc = "Heart Choker"
+cheat69_code = "32018830+0063"
+cheat69_enable = false
+
+cheat70_desc = "Heaven's Ring"
+cheat70_code = "3201883B+0063"
+cheat70_enable = false
+
+cheat71_desc = "Heavy Armor"
+cheat71_code = "320187D0+0063"
+cheat71_enable = false
+
+cheat72_desc = "High Potion"
+cheat72_code = "320187A1+0063"
+cheat72_enable = false
+
+cheat73_desc = "Hint Card 1"
+cheat73_code = "320187B0+0063"
+cheat73_enable = false
+
+cheat74_desc = "Hint Card 2"
+cheat74_code = "320187B1+0063"
+cheat74_enable = false
+
+cheat75_desc = "Hint Card 3"
+cheat75_code = "320187B2+0063"
+cheat75_enable = false
+
+cheat76_desc = "Hint Card 4"
+cheat76_code = "320187B3+0063"
+cheat76_enable = false
+
+cheat77_desc = "Hint Card 5"
+cheat77_code = "320187B4+0063"
+cheat77_enable = false
+
+cheat78_desc = "Hint Card 6"
+cheat78_code = "320187B5+0063"
+cheat78_enable = false
+
+cheat79_desc = "Holy Ring"
+cheat79_code = "32018836+0063"
+cheat79_enable = false
+
+cheat80_desc = "Infinite Boots"
+cheat80_code = "3201881E+0063"
+cheat80_enable = false
+
+cheat81_desc = "Infinite Heart"
+cheat81_code = "82018794+03E7"
+cheat81_enable = false
+
+cheat82_desc = "Infinite HP"
+cheat82_code = "8201854E+03E7"
+cheat82_enable = false
+
+cheat83_desc = "Infinite MP"
+cheat83_code = "82018550+03E7"
+cheat83_enable = false
+
+cheat84_desc = "Iron Boots"
+cheat84_code = "32018818+0063"
+cheat84_enable = false
+
+cheat85_desc = "Iron Helmet"
+cheat85_code = "320187FF+0063"
+cheat85_enable = false
+
+cheat86_desc = "Kaiser Armor"
+cheat86_code = "320187DA+0063"
+cheat86_enable = false
+
+cheat87_desc = "Kaiser Knuckle"
+cheat87_code = "32018828+0063"
+cheat87_enable = false
+
+cheat88_desc = "Kettle Hat"
+cheat88_code = "320187FE+0063"
+cheat88_enable = false
+
+cheat89_desc = "Leather Armor"
+cheat89_code = "320187BE+0063"
+cheat89_enable = false
+
+cheat90_desc = "Leather Boots"
+cheat90_code = "32018813+0063"
+cheat90_enable = false
+
+cheat91_desc = "Leather Cap"
+cheat91_code = "320187EF+0063"
+cheat91_enable = false
+
+cheat92_desc = "Leather Gloves"
+cheat92_code = "3201880A+0063"
+cheat92_enable = false
+
+cheat93_desc = "Leather Helmet"
+cheat93_code = "320187F1+0063"
+cheat93_enable = false
+
+cheat94_desc = "Leggings"
+cheat94_code = "3201881A+0063"
+cheat94_enable = false
+
+cheat95_desc = "Lightning Robe"
+cheat95_code = "320187E6+0063"
+cheat95_enable = false
+
+cheat96_desc = "Logoth's Ring"
+cheat96_code = "3201883A+0063"
+cheat96_enable = false
+
+cheat97_desc = "Loose Clothing"
+cheat97_code = "320187E1+0063"
+cheat97_enable = false
+
+cheat98_desc = "Lucky Charm"
+cheat98_code = "3201882C+0063"
+cheat98_enable = false
+
+cheat99_desc = "Lucky Ring"
+cheat99_code = "32018835+0063"
+cheat99_enable = false
+
+cheat100_desc = "Lure Key"
+cheat100_code = "320187AA+0063"
+cheat100_enable = false
+
+cheat101_desc = "Magic Necklace"
+cheat101_code = "3201882E+0063"
+cheat101_enable = false
+
+cheat102_desc = "Magical Armor"
+cheat102_code = "320187D9+0063"
+cheat102_enable = false
+
+cheat103_desc = "Mana Prism"
+cheat103_code = "320187A3+0063"
+cheat103_enable = false
+
+cheat104_desc = "Max DEF"
+cheat104_code = "82018554+03E7"
+cheat104_enable = false
+
+cheat105_desc = "Max Heart"
+cheat105_code = "8201878A+03E7"
+cheat105_enable = false
+
+cheat106_desc = "Max HP"
+cheat106_code = "82018786+03E7"
+cheat106_enable = false
+
+cheat107_desc = "Max INT"
+cheat107_code = "82018556+03E7"
+cheat107_enable = false
+
+cheat108_desc = "Max LCK"
+cheat108_code = "82018558+03E7"
+cheat108_enable = false
+
+cheat109_desc = "Max MP"
+cheat109_code = "82018788+03E7"
+cheat109_enable = false
+
+cheat110_desc = "Max STR"
+cheat110_code = "82018552+03E7"
+cheat110_enable = false
+
+cheat111_desc = "Medicine Jar"
+cheat111_code = "320187A9+0063"
+cheat111_enable = false
+
+cheat112_desc = "Medusa Pendant"
+cheat112_code = "3201882F+0063"
+cheat112_enable = false
+
+cheat113_desc = "Mirror Pendant"
+cheat113_code = "32018834+0063"
+cheat113_enable = false
+
+cheat114_desc = "MK's Bracelet"
+cheat114_code = "320187EA+0063"
+cheat114_enable = false
+
+cheat115_desc = "Moon Armor"
+cheat115_code = "320187D4+0063"
+cheat115_enable = false
+
+cheat116_desc = "Morion"
+cheat116_code = "320187FD+0063"
+cheat116_enable = false
+
+cheat117_desc = "Mystic Brooch"
+cheat117_code = "32018832+0063"
+cheat117_enable = false
+
+cheat118_desc = "Mystical Robe"
+cheat118_code = "320187E5+0063"
+cheat118_enable = false
+
+cheat119_desc = "Night Goggles"
+cheat119_code = "320187E9+0063"
+cheat119_enable = false
+
+cheat120_desc = "Ninja Cloak"
+cheat120_code = "32018824+0063"
+cheat120_enable = false
+
+cheat121_desc = "Noble Robe"
+cheat121_code = "320187E4+0063"
+cheat121_enable = false
+
+cheat122_desc = "Noon Star"
+cheat122_code = "320187B6+0063"
+cheat122_enable = false
+
+cheat123_desc = "Nova Ring"
+cheat123_code = "32018839+0063"
+cheat123_enable = false
+
+cheat124_desc = "Opal"
+cheat124_code = "320187B7+0063"
+cheat124_enable = false
+
+cheat125_desc = "Padded Armor"
+cheat125_code = "320187C6+0063"
+cheat125_enable = false
+
+cheat126_desc = "Parade Armor"
+cheat126_code = "320187C8+0063"
+cheat126_enable = false
+
+cheat127_desc = "Pendant"
+cheat127_code = "3201882B+0063"
+cheat127_enable = false
+
+cheat128_desc = "Piros Helm"
+cheat128_code = "320187F6+0063"
+cheat128_enable = false
+
+cheat129_desc = "Plain Circlet"
+cheat129_code = "320187EE+0063"
+cheat129_enable = false
+
+cheat130_desc = "Plate Armor"
+cheat130_code = "320187C1+0063"
+cheat130_enable = false
+
+cheat131_desc = "Plate Mail"
+cheat131_code = "320187D1+0063"
+cheat131_enable = false
+
+cheat132_desc = "Platinum Crown"
+cheat132_code = "32018808+0063"
+cheat132_enable = false
+
+cheat133_desc = "Platinum Shoes"
+cheat133_code = "3201881D+0063"
+cheat133_enable = false
+
+cheat134_desc = "Pot Helm"
+cheat134_code = "32018803+0063"
+cheat134_enable = false
+
+cheat135_desc = "Potion"
+cheat135_code = "320187A0+0063"
+cheat135_enable = false
+
+cheat136_desc = "Puff Coat"
+cheat136_code = "320187C7+0063"
+cheat136_enable = false
+
+cheat137_desc = "Quick Level Up"
+cheat137_code = "3201879A+000F"
+cheat137_enable = false
+
+cheat138_desc = "Ramail Coat"
+cheat138_code = "320187E2+0063"
+cheat138_enable = false
+
+cheat139_desc = "Rare Ring"
+cheat139_code = "32018837+0063"
+cheat139_enable = false
+
+cheat140_desc = "Red Silk Hat"
+cheat140_code = "32018809+0063"
+cheat140_enable = false
+
+cheat141_desc = "Rock Leather"
+cheat141_code = "320187C4+0063"
+cheat141_enable = false
+
+cheat142_desc = "Rubber Armor"
+cheat142_code = "320187BF+0063"
+cheat142_enable = false
+
+cheat143_desc = "Ruby"
+cheat143_code = "320187BA+0063"
+cheat143_enable = false
+
+cheat144_desc = "Sallet"
+cheat144_code = "320187F2+0063"
+cheat144_enable = false
+
+cheat145_desc = "Sapphire"
+cheat145_code = "320187B9+0063"
+cheat145_enable = false
+
+cheat146_desc = "Scale Armor"
+cheat146_code = "320187CA+0063"
+cheat146_enable = false
+
+cheat147_desc = "Shin Guards"
+cheat147_code = "32018814+0063"
+cheat147_enable = false
+
+cheat148_desc = "Silk Cloak"
+cheat148_code = "3201881F+0063"
+cheat148_enable = false
+
+cheat149_desc = "Silk Hat"
+cheat149_code = "320187FB+0063"
+cheat149_enable = false
+
+cheat150_desc = "Silver Armor"
+cheat150_code = "320187D7+0063"
+cheat150_enable = false
+
+cheat151_desc = "Silver Bangle"
+cheat151_code = "32018829+0063"
+cheat151_enable = false
+
+cheat152_desc = "Silver Boots"
+cheat152_code = "3201881B+0063"
+cheat152_enable = false
+
+cheat153_desc = "Silver Tiara"
+cheat153_code = "32018804+0063"
+cheat153_enable = false
+
+cheat154_desc = "Skull Key"
+cheat154_code = "320187AB+0063"
+cheat154_enable = false
+
+cheat155_desc = "Start With 99 Mill"
+cheat155_code = "7201879E+0000+8201879C+E0FF+7201879E+0000+8201879E+05F5"
+cheat155_enable = false
+
+cheat156_desc = "Steel Glove"
+cheat156_code = "32018812+0063"
+cheat156_enable = false
+
+cheat157_desc = "Steel Helmet"
+cheat157_code = "32018805+0063"
+cheat157_enable = false
+
+cheat158_desc = "Sturdy Turban"
+cheat158_code = "320187ED+0063"
+cheat158_enable = false
+
+cheat159_desc = "Summer Clothes"
+cheat159_code = "320187DC+0063"
+cheat159_enable = false
+
+cheat160_desc = "Sun Armor"
+cheat160_code = "320187D3+0063"
+cheat160_enable = false
+
+cheat161_desc = "T-Shirt"
+cheat161_code = "320187DE+0063"
+cheat161_enable = false
+
+cheat162_desc = "Thin Robe"
+cheat162_code = "320187DF+0063"
+cheat162_enable = false
+
+cheat163_desc = "Turkey"
+cheat163_code = "320187A6+0063"
+cheat163_enable = false
+
+cheat164_desc = "Turquoise"
+cheat164_code = "320187B8+0063"
+cheat164_enable = false
+
+cheat165_desc = "Twilight Cloak"
+cheat165_code = "32018825+0063"
+cheat165_enable = false
+
+cheat166_desc = "Uncurse Potion"
+cheat166_code = "320187A8+0063"
+cheat166_enable = false
+
+cheat167_desc = "Velvet Cloak"
+cheat167_code = "32018820+0063"
+cheat167_enable = false
+
+cheat168_desc = "Viking Helm"
+cheat168_code = "32018806+0063"
+cheat168_enable = false
+
+cheat169_desc = "Walk Armor"
+cheat169_code = "320187D6+0063"
+cheat169_enable = false
+
+cheat170_desc = "War Fatigues"
+cheat170_code = "320187E7+0063"
+cheat170_enable = false
+
+cheat171_desc = "Wind Cloak"
+cheat171_code = "32018822+0063"
+cheat171_enable = false
+
+cheat172_desc = "Wristband"
+cheat172_code = "32018826+0063"
+cheat172_enable = false
+
+cheat173_desc = "Super Jump"
+cheat173_code = "D0000020+0001+3200046D+0000"
+cheat173_enable = false
+
+cheat174_desc = "Infinite Jumps (After Equipping Sylph Feather)"
+cheat174_code = "3200043A+0001"
+cheat174_enable = false
+
+cheat175_desc = "Can Move During Cutscenes"
+cheat175_code = "32000404+0000+3200001B+0000"
+cheat175_enable = false
+
+cheat176_desc = "Debug Mode (Reset After Starting Game)"
+cheat176_code = "880007A4+200D"
+cheat176_enable = false
+
+cheat177_desc = "Rare Ghost Always Appears In Clock Tower B (Hold L When Entering Room)"
+cheat177_code = "D0000020+0200+32000F22+0001"
+cheat177_enable = false
+
+cheat178_desc = "All Enemy Info In Encyclopedia"
+cheat178_code = "42018854+FFFF+00000018+0002"
+cheat178_enable = false

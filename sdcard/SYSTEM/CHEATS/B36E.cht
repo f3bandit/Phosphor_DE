@@ -1,0 +1,77 @@
+cheats = 19
+
+cheat0_desc = "Max Kills"
+cheat0_code = "820031C0+270F"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Life"
+cheat1_code = "82003180+03E7"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Musou"
+cheat2_code = "32003184+0064"
+cheat2_enable = false
+
+cheat3_desc = "Max Ability"
+cheat3_code = "320031CA+0005"
+cheat3_enable = false
+
+cheat4_desc = "Always Powered Up Musou"
+cheat4_code = "32003170+0064"
+cheat4_enable = false
+
+cheat5_desc = "Infinite HP"
+cheat5_code = "8200316C+03E7"
+cheat5_enable = false
+
+cheat6_desc = "Max HP"
+cheat6_code = "8200316E+03E7"
+cheat6_enable = false
+
+cheat7_desc = "Max Attack"
+cheat7_code = "82003174+03E7"
+cheat7_enable = false
+
+cheat8_desc = "Max Defense"
+cheat8_code = "82003176+03E7"
+cheat8_enable = false
+
+cheat9_desc = "Max Movement"
+cheat9_code = "82003178+03E7"
+cheat9_enable = false
+
+cheat10_desc = "Max Weapon Stat 1"
+cheat10_code = "32003194+00FF"
+cheat10_enable = false
+
+cheat11_desc = "Max Weapon Stat 2"
+cheat11_code = "32003196+00FF"
+cheat11_enable = false
+
+cheat12_desc = "Max Weapon Stat 3"
+cheat12_code = "32003198+00FF"
+cheat12_enable = false
+
+cheat13_desc = "Fast K.O./EXP Gain"
+cheat13_code = "320031AC+03E7"
+cheat13_enable = false
+
+cheat14_desc = "Infinite Power Ups"
+cheat14_code = "320031B6+0005"
+cheat14_enable = false
+
+cheat15_desc = "Always Players Turn (First Mission Only)"
+cheat15_code = "32016BA9+0000"
+cheat15_enable = false
+
+cheat16_desc = "Level 99"
+cheat16_code = "32003168+0063"
+cheat16_enable = false
+
+cheat17_desc = "Tap Select For Powerup Select"
+cheat17_code = "74000130+03FB+E20031B4+0100+720031B4+06FF+820031B4+00FF"
+cheat17_enable = false
+
+cheat18_desc = "Max Level Powerups"
+cheat18_code = "420031B8+0101+00000002+0002+320031B7+0001"
+cheat18_enable = false

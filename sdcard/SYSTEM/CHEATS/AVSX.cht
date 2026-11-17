@@ -1,0 +1,49 @@
+cheats = 12
+
+cheat0_desc = "1HitKill"
+cheat0_code = "88B47130+882C"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Money"
+cheat1_code = "82020D20+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "Have All Items"
+cheat2_code = "42020D58+0063+00000064+0002+42000E50+0063+00000011+0002"
+cheat2_enable = false
+
+cheat3_desc = "Have All Medallions"
+cheat3_code = "42020E20+0063+00000018+0002"
+cheat3_enable = false
+
+cheat4_desc = "Monster Album Complete"
+cheat4_code = "42020F38+0001+0000007A+0002"
+cheat4_enable = false
+
+cheat5_desc = "Hold B & Any Direction To Walk Thru Walls"
+cheat5_code = "74000130+03DD+E2001660+FFFE+74000130+03ED+E2001660+0002+74000130+03BD+E2001662+FFFE+74000130+037D+E2001662+0002"
+cheat5_enable = false
+
+cheat6_desc = "Press Select & Up To Activate Fight Mode"
+cheat6_code = "74000130+03BB+820003E4+0001"
+cheat6_enable = false
+
+cheat7_desc = "Press Select & Down To Deactivate Fight Mode"
+cheat7_code = "74000130+037B+820003E4+0000"
+cheat7_enable = false
+
+cheat8_desc = "Always Have Level Up In Menu"
+cheat8_code = "320203F2+008B"
+cheat8_enable = false
+
+cheat9_desc = "Weapon Modifier, B Is For Monsters.."
+cheat9_code = "32001772+000B"
+cheat9_enable = false
+
+cheat10_desc = "Unlimited Wisdom Use"
+cheat10_code = "82020D23+0012+82020D27+0000+82020D35+0000"
+cheat10_enable = false
+
+cheat11_desc = "Class Fix"
+cheat11_code = "82020D35+0001"
+cheat11_enable = false

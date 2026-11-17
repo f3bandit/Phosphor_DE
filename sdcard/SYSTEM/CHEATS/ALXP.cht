@@ -1,0 +1,33 @@
+cheats = 8
+
+cheat0_desc = "Have Amulet Piece"
+cheat0_code = "33001DA4+0001"
+cheat0_enable = false
+
+cheat1_desc = "Have Key"
+cheat1_code = "33001E44+0001"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Ammo"
+cheat2_code = "33002144+0008"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health"
+cheat3_code = "33002694+0008"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Lives"
+cheat4_code = "33001DC8+0005"
+cheat4_enable = false
+
+cheat5_desc = "Invincible"
+cheat5_code = "330060FC+0002"
+cheat5_enable = false
+
+cheat6_desc = "Press A+Down For Wings Off"
+cheat6_code = "74000130+037E+83004000+0000+73004000+0000+330069F8+0000"
+cheat6_enable = false
+
+cheat7_desc = "Press A+Up For Wings On"
+cheat7_code = "74000130+03BE+83004000+0001+73004000+0001+330069F8+0020"
+cheat7_enable = false

@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Always Ally"
+cheat0_code = "73004190+0000+33004191+0001"
+cheat0_enable = false
+
+cheat1_desc = "Max Popularity"
+cheat1_code = "830049A4+03E8"
+cheat1_enable = false
+
+cheat2_desc = "Max Teamwork"
+cheat2_code = "830049B8+03E8"
+cheat2_enable = false
+
+cheat3_desc = "No Countout"
+cheat3_code = "330031D2+0000"
+cheat3_enable = false

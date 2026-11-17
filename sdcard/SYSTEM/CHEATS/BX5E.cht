@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Infinite Blue Spheres"
+cheat0_code = "3200CF66+0063"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Health"
+cheat1_code = "3200DDB4+0003"
+cheat1_enable = false

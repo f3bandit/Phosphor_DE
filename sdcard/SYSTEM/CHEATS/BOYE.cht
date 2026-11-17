@@ -1,0 +1,41 @@
+cheats = 10
+
+cheat0_desc = "Ghost Gallery Complete"
+cheat0_code = "43001D1C+FFFF+00000004+0002"
+cheat0_enable = false
+
+cheat1_desc = "Have All Weapons"
+cheat1_code = "7300375E+0004+43003714+0001+0000000C+0004"
+cheat1_enable = false
+
+cheat2_desc = "Hit Anywhere Main Weapon"
+cheat2_code = "8804656A+2001+88046752+E06B"
+cheat2_enable = false
+
+cheat3_desc = "Infinite GP"
+cheat3_code = "73000C08+0C10+830039CE+0100"
+cheat3_enable = false
+
+cheat4_desc = "Infinite GP (Fenton)"
+cheat4_code = "73000C08+0C20+83003828+4000"
+cheat4_enable = false
+
+cheat5_desc = "Infinite HP"
+cheat5_code = "73000C08+0C10+830039CC+0100"
+cheat5_enable = false
+
+cheat6_desc = "Infinite HP (Fenton)"
+cheat6_code = "73000C08+0C20+8300373C+4000"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Lives"
+cheat7_code = "33001CAC+0009"
+cheat7_enable = false
+
+cheat8_desc = "Skip Stage [Press Select+Up]"
+cheat8_code = "74000130+03BB+3300370A+0001"
+cheat8_enable = false
+
+cheat9_desc = "Unlock All Extras"
+cheat9_code = "33001D25+0085+83001D26+0501+83001D30+FFFF+33001D32+00FF"
+cheat9_enable = false

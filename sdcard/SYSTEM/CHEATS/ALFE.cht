@@ -1,0 +1,409 @@
+cheats = 102
+
+cheat0_desc = "Access Test Menu"
+cheat0_code = "7202B32C+0001+3202B32C+0002"
+cheat0_enable = false
+
+cheat1_desc = "Album"
+cheat1_code = "33000FCD+0001"
+cheat1_enable = false
+
+cheat2_desc = "Apt. A Card"
+cheat2_code = "33000FD5+0001"
+cheat2_enable = false
+
+cheat3_desc = "Apt. B Card"
+cheat3_code = "33000FD6+0001"
+cheat3_enable = false
+
+cheat4_desc = "Autograph"
+cheat4_code = "33000FE4+0001"
+cheat4_enable = false
+
+cheat5_desc = "Bait"
+cheat5_code = "33000FE6+0001"
+cheat5_enable = false
+
+cheat6_desc = "Blue Card"
+cheat6_code = "33000FE2+0001"
+cheat6_enable = false
+
+cheat7_desc = "Can Always Attack (Even When U Have The Egg)"
+cheat7_code = "83000CFC+0001"
+cheat7_enable = false
+
+cheat8_desc = "Club Sandwich"
+cheat8_code = "33000FCE+0001"
+cheat8_enable = false
+
+cheat9_desc = "Cookie"
+cheat9_code = "33000FD0+0063"
+cheat9_enable = false
+
+cheat10_desc = "Dragon Ball With 1 Star"
+cheat10_code = "330011F4+0001"
+cheat10_enable = false
+
+cheat11_desc = "Dragon Ball With 2 Stars"
+cheat11_code = "330011F5+0001"
+cheat11_enable = false
+
+cheat12_desc = "Dragon Ball With 3 Stars"
+cheat12_code = "330011F6+0001"
+cheat12_enable = false
+
+cheat13_desc = "Dragon Ball With 4 Stars"
+cheat13_code = "330011F7+0001"
+cheat13_enable = false
+
+cheat14_desc = "Dragon Ball With 5 Stars"
+cheat14_code = "330011F8+0001"
+cheat14_enable = false
+
+cheat15_desc = "Dragon Ball With 6 Stars"
+cheat15_code = "330011F9+0001"
+cheat15_enable = false
+
+cheat16_desc = "Dragon Ball With 7 Stars"
+cheat16_code = "330011FA+0001"
+cheat16_enable = false
+
+cheat17_desc = "Dragon Radar"
+cheat17_code = "33000FE7+0001"
+cheat17_enable = false
+
+cheat18_desc = "Enable All Characters"
+cheat18_code = "43000EB0+007F+00000005+001C+33000F3C+0043"
+cheat18_enable = false
+
+cheat19_desc = "END Capsule +1"
+cheat19_code = "33000FC3+0063"
+cheat19_enable = false
+
+cheat20_desc = "END Capsule +3"
+cheat20_code = "33000FC4+0063"
+cheat20_enable = false
+
+cheat21_desc = "END Capsule +5"
+cheat21_code = "33000FC5+0063"
+cheat21_enable = false
+
+cheat22_desc = "Fish"
+cheat22_code = "33000FE5+0003"
+cheat22_enable = false
+
+cheat23_desc = "Gohan - Infinite EP"
+cheat23_code = "83000EA0+03E7"
+cheat23_enable = false
+
+cheat24_desc = "Gohan - Infinite Health"
+cheat24_code = "83000E9C+270F"
+cheat24_enable = false
+
+cheat25_desc = "Gohan - Infinite HP"
+cheat25_code = "83000E9C+03E7"
+cheat25_enable = false
+
+cheat26_desc = "Gohan - Max END"
+cheat26_code = "33000EAB+0064"
+cheat26_enable = false
+
+cheat27_desc = "Gohan - Max Ep"
+cheat27_code = "83000EA2+270F"
+cheat27_enable = false
+
+cheat28_desc = "Gohan - Max EXP"
+cheat28_code = "83000EAC+E0FF+83000EAE+05F5"
+cheat28_enable = false
+
+cheat29_desc = "Gohan - Max Health"
+cheat29_code = "83000E9E+270F"
+cheat29_enable = false
+
+cheat30_desc = "Gohan - Max POW"
+cheat30_code = "33000EA9+0064"
+cheat30_enable = false
+
+cheat31_desc = "Gohan - Max STR"
+cheat31_code = "33000EA7+0064"
+cheat31_enable = false
+
+cheat32_desc = "Gohan - Maximum EP"
+cheat32_code = "83000EA2+03E7"
+cheat32_enable = false
+
+cheat33_desc = "Gohan - Maximum HP"
+cheat33_code = "83000E9E+03E7"
+cheat33_enable = false
+
+cheat34_desc = "Goku - Infinite EP"
+cheat34_code = "83000F10+03E7"
+cheat34_enable = false
+
+cheat35_desc = "Goku - Infinite HP"
+cheat35_code = "83000F0C+03E7"
+cheat35_enable = false
+
+cheat36_desc = "Goku - Max END"
+cheat36_code = "33000F1B+0064"
+cheat36_enable = false
+
+cheat37_desc = "Goku - Max EXP"
+cheat37_code = "83000F1C+E0FF+83000F1E+05F5"
+cheat37_enable = false
+
+cheat38_desc = "Goku - Max POW"
+cheat38_code = "33000F19+0064"
+cheat38_enable = false
+
+cheat39_desc = "Goku - Max STR"
+cheat39_code = "33000F17+0064"
+cheat39_enable = false
+
+cheat40_desc = "Goku - Maximum EP"
+cheat40_code = "83000F12+03E7"
+cheat40_enable = false
+
+cheat41_desc = "Goku - Maximum HP"
+cheat41_code = "83000F0E+03E7"
+cheat41_enable = false
+
+cheat42_desc = "Grandpa's Key"
+cheat42_code = "33000FDF+0001"
+cheat42_enable = false
+
+cheat43_desc = "Have All 25 Golden Capsules (Glitchy)"
+cheat43_code = "33007C6C+0019+33006A06+0019+330021A0+0019+330011E8+0019+330011D9+0019"
+cheat43_enable = false
+
+cheat44_desc = "Have All Characters/Abilities"
+cheat44_code = "43000EB0+007F+00000005+001C+83000F3C+0043"
+cheat44_enable = false
+
+cheat45_desc = "Hercule - Infinite EP"
+cheat45_code = "83000F2C+03E7"
+cheat45_enable = false
+
+cheat46_desc = "Hercule - Infinite HP"
+cheat46_code = "83000F28+03E7"
+cheat46_enable = false
+
+cheat47_desc = "Hercule - Max END"
+cheat47_code = "33000F37+0064"
+cheat47_enable = false
+
+cheat48_desc = "Hercule - Max EXP"
+cheat48_code = "83000F38+E0FF+83000F3A+05F5"
+cheat48_enable = false
+
+cheat49_desc = "Hercule - Max POW"
+cheat49_code = "33000F35+0064"
+cheat49_enable = false
+
+cheat50_desc = "Hercule - Max STR"
+cheat50_code = "33000F33+0064"
+cheat50_enable = false
+
+cheat51_desc = "Hercule - Maximum EP"
+cheat51_code = "83000F2E+03E7"
+cheat51_enable = false
+
+cheat52_desc = "Hercule - Maximum HP"
+cheat52_code = "83000F2A+03E7"
+cheat52_enable = false
+
+cheat53_desc = "Infinite Health"
+cheat53_code = "330010D4+0068+330010D5+0068+330010D6+0068+330010D7+0068+330010D8+0068+330010D9+0068+330010DA+0068+330010DB+0068+330010D6+0068+330010D7+0068+330010D8+0068+330010D9+0068+330010DA+0068+330010DB+0068+330010DC+0068+330010DD+0068"
+cheat53_enable = false
+
+cheat54_desc = "Math Book"
+cheat54_code = "33000FE0+0001"
+cheat54_enable = false
+
+cheat55_desc = "Max Exp"
+cheat55_code = "83000EC8+E0FF+83000ECA+05F5"
+cheat55_enable = false
+
+cheat56_desc = "Max Health"
+cheat56_code = "83000EBA+270F"
+cheat56_enable = false
+
+cheat57_desc = "Max Level"
+cheat57_code = "43000EAC+E0FF+00000006+001C+43000EAE+05F5+00000006+001C"
+cheat57_enable = false
+
+cheat58_desc = "Maximum EP"
+cheat58_code = "43000EA2+03E7+00000006+001C"
+cheat58_enable = false
+
+cheat59_desc = "Maximum HP"
+cheat59_code = "43000E9E+03E7+00000006+001C"
+cheat59_enable = false
+
+cheat60_desc = "Newspaper"
+cheat60_code = "33000FCF+0001"
+cheat60_enable = false
+
+cheat61_desc = "Piccolo - Infinite EP"
+cheat61_code = "83000EBC+03E7"
+cheat61_enable = false
+
+cheat62_desc = "Piccolo - Infinite HP"
+cheat62_code = "83000EB8+03E7"
+cheat62_enable = false
+
+cheat63_desc = "Piccolo - Max END"
+cheat63_code = "33000EC7+0064"
+cheat63_enable = false
+
+cheat64_desc = "Piccolo - Max POW"
+cheat64_code = "33000EC5+0064"
+cheat64_enable = false
+
+cheat65_desc = "Piccolo - Max STR"
+cheat65_code = "33000EC3+0064"
+cheat65_enable = false
+
+cheat66_desc = "Piccolo - Maximum EP"
+cheat66_code = "83000EBE+03E7"
+cheat66_enable = false
+
+cheat67_desc = "Piccolo - Maximum HP"
+cheat67_code = "83000EBA+03E7"
+cheat67_enable = false
+
+cheat68_desc = "Power Capsule +1"
+cheat68_code = "33000FC0+0063"
+cheat68_enable = false
+
+cheat69_desc = "Power Capsule +3"
+cheat69_code = "33000FC1+0063"
+cheat69_enable = false
+
+cheat70_desc = "Power Capsule +5"
+cheat70_code = "33000FC2+0063"
+cheat70_enable = false
+
+cheat71_desc = "Press L For All Nameks Found"
+cheat71_code = "74000130+01FF+83000F68+43FF"
+cheat71_enable = false
+
+cheat72_desc = "Red Card"
+cheat72_code = "33000FE3+0001"
+cheat72_enable = false
+
+cheat73_desc = "Scouter"
+cheat73_code = "33000FD1+0001"
+cheat73_enable = false
+
+cheat74_desc = "Scouter Note"
+cheat74_code = "33000FD2+0001"
+cheat74_enable = false
+
+cheat75_desc = "Scouter Part #1"
+cheat75_code = "33000FD3+0001"
+cheat75_enable = false
+
+cheat76_desc = "Scouter Part #2"
+cheat76_code = "33000FD4+0001"
+cheat76_enable = false
+
+cheat77_desc = "Senzu Bean"
+cheat77_code = "33000FBA+0003"
+cheat77_enable = false
+
+cheat78_desc = "STR Capsule +1"
+cheat78_code = "33000FBD+0063"
+cheat78_enable = false
+
+cheat79_desc = "STR Capsule +3"
+cheat79_code = "33000FBE+0063"
+cheat79_enable = false
+
+cheat80_desc = "STR Capsule +5"
+cheat80_code = "33000FBF+0063"
+cheat80_enable = false
+
+cheat81_desc = "Trunks - Infinite EP"
+cheat81_code = "83000EF4+03E7"
+cheat81_enable = false
+
+cheat82_desc = "Trunks - Infinite Health"
+cheat82_code = "83000EF0+270F"
+cheat82_enable = false
+
+cheat83_desc = "Trunks - Infinite HP"
+cheat83_code = "83000EF0+03E7"
+cheat83_enable = false
+
+cheat84_desc = "Trunks - Max END"
+cheat84_code = "33000EFF+0064"
+cheat84_enable = false
+
+cheat85_desc = "Trunks - Max Ep"
+cheat85_code = "83000EF6+270F"
+cheat85_enable = false
+
+cheat86_desc = "Trunks - Max EXP"
+cheat86_code = "83000F00+E0FF+83000F02+05F5"
+cheat86_enable = false
+
+cheat87_desc = "Trunks - Max Health"
+cheat87_code = "83000EF2+270F"
+cheat87_enable = false
+
+cheat88_desc = "Trunks - Max POW"
+cheat88_code = "33000EFD+0064"
+cheat88_enable = false
+
+cheat89_desc = "Trunks - Max STR"
+cheat89_code = "33000EFB+0064"
+cheat89_enable = false
+
+cheat90_desc = "Trunks - Maximum EP"
+cheat90_code = "83000EF6+03E7"
+cheat90_enable = false
+
+cheat91_desc = "Trunks - Maximum HP"
+cheat91_code = "83000EF2+03E7"
+cheat91_enable = false
+
+cheat92_desc = "Vegeta - Infinite EP"
+cheat92_code = "83000ED8+03E7"
+cheat92_enable = false
+
+cheat93_desc = "Vegeta - Infinite HP"
+cheat93_code = "83000ED4+03E7"
+cheat93_enable = false
+
+cheat94_desc = "Vegeta - Max END"
+cheat94_code = "33000EE3+0064"
+cheat94_enable = false
+
+cheat95_desc = "Vegeta - Max EXP"
+cheat95_code = "83000EE4+E0FF+83000EE6+05F5"
+cheat95_enable = false
+
+cheat96_desc = "Vegeta - Max POW"
+cheat96_code = "33000EE1+0064"
+cheat96_enable = false
+
+cheat97_desc = "Vegeta - Max STR"
+cheat97_code = "33000EDF+0064"
+cheat97_enable = false
+
+cheat98_desc = "Vegeta - Maximum EP"
+cheat98_code = "83000EDA+03E7"
+cheat98_enable = false
+
+cheat99_desc = "Vegeta - Maximum HP"
+cheat99_code = "83000ED6+03E7"
+cheat99_enable = false
+
+cheat100_desc = "Walk Anywhere"
+cheat100_code = "88011E6A+46C0"
+cheat100_enable = false
+
+cheat101_desc = "Infinite Super Saiyan Power/Namek Power"
+cheat101_code = "83000E98+0000"
+cheat101_enable = false

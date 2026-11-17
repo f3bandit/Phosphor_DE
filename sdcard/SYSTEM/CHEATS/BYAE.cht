@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Complete Mission [Press R+Select]"
+cheat0_code = "74000130+02FB+330047A0+0018"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Ammo"
+cheat1_code = "4300333A+03E7+00000004+0002"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Fuel"
+cheat2_code = "830032DE+0E10"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health"
+cheat3_code = "330032C8+009F"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Lives"
+cheat4_code = "330047A8+0009"
+cheat4_enable = false
+
+cheat5_desc = "Quick Missile Launch"
+cheat5_code = "73002E70+02EE+83002E70+0001"
+cheat5_enable = false

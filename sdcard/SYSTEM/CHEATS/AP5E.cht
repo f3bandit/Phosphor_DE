@@ -1,0 +1,69 @@
+cheats = 17
+
+cheat0_desc = "All Items Found"
+cheat0_code = "82002200+FFFF+82002202+FFFF"
+cheat0_enable = false
+
+cheat1_desc = "Bad 0%"
+cheat1_code = "7200A4D0+FFFF+3200A4F0+0000"
+cheat1_enable = false
+
+cheat2_desc = "Boogie Frights Fever"
+cheat2_code = "32006D4E+0001"
+cheat2_enable = false
+
+cheat3_desc = "Easy Combo Gain"
+cheat3_code = "7200A508+0001+3200A508+0032"
+cheat3_enable = false
+
+cheat4_desc = "Great! 0%"
+cheat4_code = "7200A4D0+FFFF+3200A4E8+0000"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Balls"
+cheat5_code = "72008070+0004+32007F9C+0004"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Health"
+cheat6_code = "42003B0C+0064+00000003+0004"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Lives"
+cheat7_code = "72003008+1388+32002E24+0004"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Power"
+cheat8_code = "42003B18+1D4C+00000003+0004"
+cheat8_enable = false
+
+cheat9_desc = "Miss 0%"
+cheat9_code = "7200A4D0+FFFF+3200A4F4+0000"
+cheat9_enable = false
+
+cheat10_desc = "Mojo On The Gogo"
+cheat10_code = "32006D4F+0001"
+cheat10_enable = false
+
+cheat11_desc = "Okay! 0%"
+cheat11_code = "7200A4D0+FFFF+3200A4EC+0000"
+cheat11_enable = false
+
+cheat12_desc = "Perfect! 100%"
+cheat12_code = "7200A4D0+FFFF+3200A4E4+0064"
+cheat12_enable = false
+
+cheat13_desc = "Powerpuff Pinball"
+cheat13_code = "32006D50+0001"
+cheat13_enable = false
+
+cheat14_desc = "Start On X5"
+cheat14_code = "72007FCC+0001+32007FCC+0005"
+cheat14_enable = false
+
+cheat15_desc = "Stop Timer"
+cheat15_code = "72003008+1388+32003018+0000"
+cheat15_enable = false
+
+cheat16_desc = "Unlock Music/SFX Tests"
+cheat16_code = "32006D51+0001"
+cheat16_enable = false

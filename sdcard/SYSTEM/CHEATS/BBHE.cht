@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Infinite Ammo"
+cheat0_code = "430058C4+0063+00000005+0004"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Health"
+cheat1_code = "830056F0+0140"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Lives"
+cheat2_code = "330058E4+0009"
+cheat2_enable = false
+
+cheat3_desc = "Start With Hi-Score"
+cheat3_code = "730058E8+0000+830058E8+C350"
+cheat3_enable = false

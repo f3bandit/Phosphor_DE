@@ -1,0 +1,37 @@
+cheats = 9
+
+cheat0_desc = "Access All Levels (Enter Password Menu)"
+cheat0_code = "73000090+E31D+33000094+0003+73000090+E31D+430033F8+0200+FE680002+0002"
+cheat0_enable = false
+
+cheat1_desc = "Clear Mission [Press Select+Up]"
+cheat1_code = "74000130+03BB+33000094+000B"
+cheat1_enable = false
+
+cheat2_desc = "Infinite EN"
+cheat2_code = "730033E0+05C5+330034B3+0040"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Lives"
+cheat3_code = "730033E0+162D+330000AB+0009"
+cheat3_enable = false
+
+cheat4_desc = "Invincible"
+cheat4_code = "730033E0+162D+3300343B+0002"
+cheat4_enable = false
+
+cheat5_desc = "Multi Jump"
+cheat5_code = "73003452+0102+33003453+0009"
+cheat5_enable = false
+
+cheat6_desc = "Quick Mission"
+cheat6_code = "73005C24+0BD4+33005CB1+0000"
+cheat6_enable = false
+
+cheat7_desc = "Stop Timer"
+cheat7_code = "73005C24+0BD4+83005C28+1C20"
+cheat7_enable = false
+
+cheat8_desc = "Weak Opponent"
+cheat8_code = "73005D7C+1808+33005CE0+0000"
+cheat8_enable = false

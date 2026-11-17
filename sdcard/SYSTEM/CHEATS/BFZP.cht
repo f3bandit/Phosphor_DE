@@ -1,0 +1,89 @@
+cheats = 22
+
+cheat0_desc = "Always First Place"
+cheat0_code = "83001250+0300+83001252+0102"
+cheat0_enable = false
+
+cheat1_desc = "End Race [Press Select+Up]"
+cheat1_code = "74000130+03BB+320149DC+0005"
+cheat1_enable = false
+
+cheat2_desc = "Have All Cars"
+cheat2_code = "82008C18+FFFF+82008C1A+FFFF"
+cheat2_enable = false
+
+cheat3_desc = "Have All Cups Open"
+cheat3_code = "82008C2C+FFFF+82008C28+FFFF"
+cheat3_enable = false
+
+cheat4_desc = "Have All Gran Prix Races Won"
+cheat4_code = "82008C2A+FFFF"
+cheat4_enable = false
+
+cheat5_desc = "Have All Story Levels Open"
+cheat5_code = "42008C30+1F1F+00000004+0002"
+cheat5_enable = false
+
+cheat6_desc = "Have All Zero Test Classes Open"
+cheat6_code = "32008C48+0004"
+cheat6_enable = false
+
+cheat7_desc = "Have All Zero Tests Complete"
+cheat7_code = "42008CAC+FFFF+00000008+0002"
+cheat7_enable = false
+
+cheat8_desc = "Have Booster"
+cheat8_code = "320149EB+0001"
+cheat8_enable = false
+
+cheat9_desc = "Infinite Boost Time"
+cheat9_code = "720149BC+0001+320149BC+00FF"
+cheat9_enable = false
+
+cheat10_desc = "Infinite Health"
+cheat10_code = "820149BA+3400"
+cheat10_enable = false
+
+cheat11_desc = "Infinite Power"
+cheat11_code = "320149BB+0064"
+cheat11_enable = false
+
+cheat12_desc = "Infinite Spare Machines"
+cheat12_code = "3300122D+0004"
+cheat12_enable = false
+
+cheat13_desc = "Kill Opposition [Press Select+Down]"
+cheat13_code = "74000130+037B+42014A8A+0000+00000004+00D0"
+cheat13_enable = false
+
+cheat14_desc = "Low Time"
+cheat14_code = "7201759C+0001+8201759C+0000"
+cheat14_enable = false
+
+cheat15_desc = "Max Cash In Story Mode"
+cheat15_code = "42008C38+FFFF+00000004+0002"
+cheat15_enable = false
+
+cheat16_desc = "Max Race Points"
+cheat16_code = "83001690+03E7"
+cheat16_enable = false
+
+cheat17_desc = "Maximum Earnings"
+cheat17_code = "43000FE0+03E7+00000008+0002"
+cheat17_enable = false
+
+cheat18_desc = "Start on Last Lap"
+cheat18_code = "720149DC+00FF+820149DC+0404"
+cheat18_enable = false
+
+cheat19_desc = "Turbo Boost"
+cheat19_code = "D0000020+0001+820149A4+5000"
+cheat19_enable = false
+
+cheat20_desc = "Unlock All Players (Cup Mode)"
+cheat20_code = "73002DA0+0303+43002DA2+0303+00000010+0002"
+cheat20_enable = false
+
+cheat21_desc = "Unlock All Players (Story Mode)"
+cheat21_code = "43000FF0+0101+00000004+0002"
+cheat21_enable = false

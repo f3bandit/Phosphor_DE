@@ -1,0 +1,57 @@
+cheats = 14
+
+cheat0_desc = "99 Keys"
+cheat0_code = "33000983+0063"
+cheat0_enable = false
+
+cheat1_desc = "Access Cheat Menu"
+cheat1_code = "43000948+FFFF+00000006+0002"
+cheat1_enable = false
+
+cheat2_desc = "Access Mini-Games"
+cheat2_code = "3300091A+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Have All Chips"
+cheat3_code = "43000920+FFFF+00000006+0002"
+cheat3_enable = false
+
+cheat4_desc = "Have All Chips & Cheats"
+cheat4_code = "43000920+FFFF+00000020+0002"
+cheat4_enable = false
+
+cheat5_desc = "Have All Sectors Cleared"
+cheat5_code = "320386E0+0063+320386DC+0063"
+cheat5_enable = false
+
+cheat6_desc = "Have Best Chip Equipped"
+cheat6_code = "33000967+00FF"
+cheat6_enable = false
+
+cheat7_desc = "Infinite Energy In Firewall"
+cheat7_code = "32036ADA+0003+32039106+0003"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Health"
+cheat8_code = "3203861C+00C8"
+cheat8_enable = false
+
+cheat9_desc = "Infinite Lives-Mercury"
+cheat9_code = "7300097E+0043+8300097E+0049"
+cheat9_enable = false
+
+cheat10_desc = "Infinite Lives-Tron"
+cheat10_code = "7300097E+0063+8300097E+0069"
+cheat10_enable = false
+
+cheat11_desc = "Maximum Energy"
+cheat11_code = "33000984+0096"
+cheat11_enable = false
+
+cheat12_desc = "Press L+R To Refill Security Puzzle Timer"
+cheat12_code = "74000130+00FF+32037637+0011+74000130+00FF+3203ABEB+0011+74000130+00FF+32039753+0011"
+cheat12_enable = false
+
+cheat13_desc = "Refill Health"
+cheat13_code = "33000984+00C8"
+cheat13_enable = false

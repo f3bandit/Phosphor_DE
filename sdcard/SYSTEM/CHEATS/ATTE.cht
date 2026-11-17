@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Infinite Health"
+cheat0_code = "83000D94+8000"
+cheat0_enable = false
+
+cheat1_desc = "Start With 9 Attacks"
+cheat1_code = "83000D96+0384"
+cheat1_enable = false

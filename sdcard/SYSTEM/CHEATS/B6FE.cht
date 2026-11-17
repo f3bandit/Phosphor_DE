@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "999 Shots Fired"
+cheat0_code = "83002AB0+03E7"
+cheat0_enable = false
+
+cheat1_desc = "Always Have Machine Gun"
+cheat1_code = "88007BA0+2003"
+cheat1_enable = false
+
+cheat2_desc = "Hit Anywhere"
+cheat2_code = "8800A27A+E018+8800A19C+E03D"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Ammo"
+cheat3_code = "430057D4+0F01+00000006+0008"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Energy"
+cheat4_code = "33002ADC+0064"
+cheat4_enable = false
+
+cheat5_desc = "Quick Gauge Fill"
+cheat5_code = "73002B06+0001+33002B07+0004"
+cheat5_enable = false
+
+cheat6_desc = "Start With Hi-Score"
+cheat6_code = "73002A90+0000+83002A90+C350"
+cheat6_enable = false

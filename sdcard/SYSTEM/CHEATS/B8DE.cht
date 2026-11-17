@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "All Icons"
+cheat0_code = "82003BB4+0001+82003BB6+0000+82003BB8+0001+82003BBA+0000+82003BBC+0001+82003BBE+0000+82003BC0+0001+82003BC2+0000"
+cheat0_enable = false
+
+cheat1_desc = "Have All Icons"
+cheat1_code = "42003BB4+0001+00000004+0004"
+cheat1_enable = false
+
+cheat2_desc = "Maximum Health"
+cheat2_code = "33004A0C+0050"
+cheat2_enable = false
+
+cheat3_desc = "Multi Jump"
+cheat3_code = "D0000020+0002+83001A9C+F800+D0000020+0002+83001A9E+FFFF"
+cheat3_enable = false
+
+cheat4_desc = "Quick Recovery"
+cheat4_code = "33004AE8+0000"
+cheat4_enable = false
+
+cheat5_desc = "Max Coins"
+cheat5_code = "83001508+0063"
+cheat5_enable = false
+
+cheat6_desc = "Max Health Vials"
+cheat6_code = "33004AF0+0009"
+cheat6_enable = false

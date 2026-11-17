@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Infinite LP"
+cheat0_code = "82012384+FFFF"
+cheat0_enable = false
+
+cheat1_desc = "Instant Win"
+cheat1_code = "320130E8+0000"
+cheat1_enable = false

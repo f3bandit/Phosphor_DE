@@ -1,0 +1,121 @@
+cheats = 30
+
+cheat0_desc = "Andrew Reynolds - Infinite Stat Points"
+cheat0_code = "32005274+000A"
+cheat0_enable = false
+
+cheat1_desc = "Andrew Reynolds - Max Stats"
+cheat1_code = "3200526B+000A+3200526C+000A+3200526D+000A+3200526E+000A+3200526F+000A+32005270+000A+32005271+000A+32005272+000A+32005273+000A"
+cheat1_enable = false
+
+cheat2_desc = "Bam Margera - Infinite Stat Points"
+cheat2_code = "32005184+000A"
+cheat2_enable = false
+
+cheat3_desc = "Bam Margera - Max Stats"
+cheat3_code = "3200517B+000A+3200517C+000A+3200517D+000A+3200517E+000A+3200517F+000A+32005180+000A+32005181+000A+32005182+000A+32005183+000A"
+cheat3_enable = false
+
+cheat4_desc = "Bob Burnquist - Infinite Stat Points"
+cheat4_code = "32004FA4+000A"
+cheat4_enable = false
+
+cheat5_desc = "Bucky Lasek - Infinite Stat Points"
+cheat5_code = "32005134+000A"
+cheat5_enable = false
+
+cheat6_desc = "Bucky Lasek - Max Stat"
+cheat6_code = "3200512B+000A+3200512C+000A+3200512D+000A+3200512E+000A+3200512F+000A+32005130+000A+32005131+000A+32005132+000A+32005133+000A"
+cheat6_enable = false
+
+cheat7_desc = "Chad Muska - Infinite Stat Points"
+cheat7_code = "32005224+000A"
+cheat7_enable = false
+
+cheat8_desc = "Chad Muska - Max Stats"
+cheat8_code = "3200521B+000A+3200521C+000A+3200521D+000A+3200521E+000A+3200521F+000A+32005220+000A+32005221+000A+32005222+000A+32005223+000A"
+cheat8_enable = false
+
+cheat9_desc = "Custom Skater - Infinite Stat Points"
+cheat9_code = "320054F4+000A"
+cheat9_enable = false
+
+cheat10_desc = "Custom Skater - Max Stats"
+cheat10_code = "320054EB+000A+320054EC+000A+320054ED+000A+320054EE+000A+320054EF+000A+320054F0+000A+320054F1+000A+320054F2+000A+320054F3+000A"
+cheat10_enable = false
+
+cheat11_desc = "Elissa Steamer - Infinite Stat Points"
+cheat11_code = "32005314+000A"
+cheat11_enable = false
+
+cheat12_desc = "Elissa Steamer - Max Stats"
+cheat12_code = "3200530B+000A+3200530C+000A+3200530D+000A+3200530E+000A+3200530F+000A+32005310+000A+32005311+000A+32005312+000A+32005313+000A"
+cheat12_enable = false
+
+cheat13_desc = "Eric Koston - Infinite Stat Points"
+cheat13_code = "320050E4+000A"
+cheat13_enable = false
+
+cheat14_desc = "Eric Koston - Max Stats"
+cheat14_code = "320050DB+000A+320050DC+000A+320050DD+000A+320050DE+000A+320050DF+000A+320050E0+000A+320050E1+000A+320050E2+000A+320050E3+000A"
+cheat14_enable = false
+
+cheat15_desc = "Geoff Rowley - Infinite Stat Points"
+cheat15_code = "320052C4+000A"
+cheat15_enable = false
+
+cheat16_desc = "Geoff Rowley - Max Stats"
+cheat16_code = "320052BB+000A+320052BC+000A+320052BD+000A+320052BE+000A+320052BF+000A+320052C0+000A+320052C1+000A+320052C2+000A+320052C3+000A"
+cheat16_enable = false
+
+cheat17_desc = "Infinite Goal Points"
+cheat17_code = "32005588+0063"
+cheat17_enable = false
+
+cheat18_desc = "Jamie Thomas - Infinite Stat Points"
+cheat18_code = "32005364+000A"
+cheat18_enable = false
+
+cheat19_desc = "Jamie Thomas - Max Stats"
+cheat19_code = "3200535B+000A+3200535C+000A+3200535D+000A+3200535E+000A+3200535F+000A+32005360+000A+32005361+000A+32005362+000A+32005363+000A"
+cheat19_enable = false
+
+cheat20_desc = "Kareem Campbell - Infinite Stat Points"
+cheat20_code = "32005044+000A"
+cheat20_enable = false
+
+cheat21_desc = "Kareem Campbell - Max Stats"
+cheat21_code = "3200503B+000A+3200503C+000A+3200503D+000A+3200503E+000A+3200503F+000A+32005040+000A+32005041+000A+32005042+000A+32005043+000A"
+cheat21_enable = false
+
+cheat22_desc = "Rodney Mullen - Infinite Stat Points"
+cheat22_code = "320051D4+000A"
+cheat22_enable = false
+
+cheat23_desc = "Rodney Mullen - Max Stats"
+cheat23_code = "320051CB+000A+320051CC+000A+320051CD+000A+320051CE+000A+320051CF+000A+320051D0+000A+320051D1+000A+320051D2+000A+320051D3+000A"
+cheat23_enable = false
+
+cheat24_desc = "Rune Glifberg - Infinite Stat Points"
+cheat24_code = "32005094+000A"
+cheat24_enable = false
+
+cheat25_desc = "Rune Glifberg - Max Stats"
+cheat25_code = "3200508B+000A+3200508C+000A+3200508D+000A+3200508E+000A+3200508F+000A+32005090+000A+32005091+000A+32005092+000A+32005093+000A"
+cheat25_enable = false
+
+cheat26_desc = "Steve Caballero - Infinite Stat Points"
+cheat26_code = "32004FF4+000A"
+cheat26_enable = false
+
+cheat27_desc = "Steve Caballero - Max Stats"
+cheat27_code = "32004FEB+000A+32004FEC+000A+32004FED+000A+32004FEE+000A+32004FEF+000A+32004FF0+000A+32004FF1+000A+32004FF2+000A+32004FF3+000A"
+cheat27_enable = false
+
+cheat28_desc = "Tony Hawk - Infinite Stat Points"
+cheat28_code = "32004F54+000A"
+cheat28_enable = false
+
+cheat29_desc = "Tony Hawk - Max Stats"
+cheat29_code = "32004F4B+000A+32004F4C+000A+32004F4D+000A+32004F4E+000A+32004F4F+000A+32004F50+000A+32004F51+000A+32004F52+000A+32004F53+000A"
+cheat29_enable = false

@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Infinite Money"
+cheat0_code = "83001CD0+FFFF"
+cheat0_enable = false
+
+cheat1_desc = "Max Money"
+cheat1_code = "83001CD0+423F+83001CD2+000F"
+cheat1_enable = false

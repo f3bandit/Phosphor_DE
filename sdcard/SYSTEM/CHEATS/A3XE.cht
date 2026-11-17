@@ -1,0 +1,801 @@
+cheats = 200
+
+cheat0_desc = "10 Chips In-Battle"
+cheat0_code = "32006CAE+000A"
+cheat0_enable = false
+
+cheat1_desc = "99 Regular MB"
+cheat1_code = "32001897+0063"
+cheat1_enable = false
+
+cheat2_desc = "9999 Bug Frags"
+cheat2_code = "820018FA+270F"
+cheat2_enable = false
+
+cheat3_desc = "9999 Bug Pieces"
+cheat3_code = "820018F8+270F"
+cheat3_enable = false
+
+cheat4_desc = "All Navi Blocks Compressed"
+cheat4_code = "42000310+FFFF+0000000D+0002"
+cheat4_enable = false
+
+cheat5_desc = "All P.a Notes"
+cheat5_code = "82000358+FFFF+8200035A+FFFF"
+cheat5_enable = false
+
+cheat6_desc = "All Sub Chips"
+cheat6_code = "82001A30+0808+82001A32+0808+82001A34+0808"
+cheat6_enable = false
+
+cheat7_desc = "Aspirin"
+cheat7_code = "320019E6+0001"
+cheat7_enable = false
+
+cheat8_desc = "Attack+1 (P)"
+cheat8_code = "32001B25+0001"
+cheat8_enable = false
+
+cheat9_desc = "Attack+1 (W)"
+cheat9_code = "32001B24+0001"
+cheat9_enable = false
+
+cheat10_desc = "Attack+1 (Y)"
+cheat10_code = "32001B26+0001"
+cheat10_enable = false
+
+cheat11_desc = "Bag"
+cheat11_code = "320019CB+0001"
+cheat11_enable = false
+
+cheat12_desc = "Beat Program"
+cheat12_code = "32001B04+0001"
+cheat12_enable = false
+
+cheat13_desc = "Black Mind"
+cheat13_code = "3200577C+0001"
+cheat13_enable = false
+
+cheat14_desc = "BsmntKey"
+cheat14_code = "320019D7+0001"
+cheat14_enable = false
+
+cheat15_desc = "Buster Damage = 2000+"
+cheat15_code = "32005778+00FF+3200577D+00FF+820384F6+FFFF"
+cheat15_enable = false
+
+cheat16_desc = "Buster Max Charged"
+cheat16_code = "820384F6+FFFF"
+cheat16_enable = false
+
+cheat17_desc = "CACDCPas"
+cheat17_code = "32001A1C+0001"
+cheat17_enable = false
+
+cheat18_desc = "Camera"
+cheat18_code = "320019F6+0001"
+cheat18_enable = false
+
+cheat19_desc = "CardKey"
+cheat19_code = "320019E5+0001"
+cheat19_enable = false
+
+cheat20_desc = "CashData"
+cheat20_code = "320019ED+0001"
+cheat20_enable = false
+
+cheat21_desc = "CBeacPas"
+cheat21_code = "32001A1F+0001"
+cheat21_enable = false
+
+cheat22_desc = "Change Energy"
+cheat22_code = "32005794+0001"
+cheat22_enable = false
+
+cheat23_desc = "Change To Lan [Press Select+Up+B]"
+cheat23_code = "74000130+03B9+820095E8+73F8+74000130+03B9+820095EA+0834+74000130+03B9+820095EC+73F8+74000130+03B9+820095EE+0834"
+cheat23_enable = false
+
+cheat24_desc = "Charge+1 (P)"
+cheat24_code = "32001B2D+0001"
+cheat24_enable = false
+
+cheat25_desc = "Charge+1 (W)"
+cheat25_code = "32001B2C+0001"
+cheat25_enable = false
+
+cheat26_desc = "Charge+1 (Y)"
+cheat26_code = "32001B2E+0001"
+cheat26_enable = false
+
+cheat27_desc = "Chips Damage = 5000"
+cheat27_code = "4203406C+1388+00000005+0002"
+cheat27_enable = false
+
+cheat28_desc = "Complete Library+Pack+PA"
+cheat28_code = "74000130+02F7+82000330+FF7F+74000130+02F7+82000356+80FF+74000130+02F7+820019B0+D32D+74000130+02F7+42000332+FFFF+00000012+0002+74000130+02F7+42000358+FFFF+00000003+0002+74000130+02F7+42001F72+6363+000000C2+0012+74000130+02F7+42001F74+6363+000000C2+0012+74000130+02F7+42001F76+6363+000000C2+0012+74000130+02F7+42002D28+0063+00000075+0012"
+cheat28_enable = false
+
+cheat29_desc = "CSciPass"
+cheat29_code = "32001A1D+0001"
+cheat29_enable = false
+
+cheat30_desc = "Custom#1 (B)"
+cheat30_code = "32001AAB+0001"
+cheat30_enable = false
+
+cheat31_desc = "Custom#1 (Y)"
+cheat31_code = "32001AAA+0001"
+cheat31_enable = false
+
+cheat32_desc = "Custom#2 (B)"
+cheat32_code = "32001AAF+0001"
+cheat32_enable = false
+
+cheat33_desc = "Customizer Map Size Maxed"
+cheat33_code = "32001A21+0002"
+cheat33_enable = false
+
+cheat34_desc = "CYokaPas"
+cheat34_code = "32001A1E+0001"
+cheat34_enable = false
+
+cheat35_desc = "DadsNote"
+cheat35_code = "320019E4+0001"
+cheat35_enable = false
+
+cheat36_desc = "Dark Licence"
+cheat36_code = "32001B48+0001"
+cheat36_enable = false
+
+cheat37_desc = "DataDisk"
+cheat37_code = "320019CF+0001"
+cheat37_enable = false
+
+cheat38_desc = "Delete Time = 0:00"
+cheat38_code = "32006CE0+0000"
+cheat38_enable = false
+
+cheat39_desc = "DexCode"
+cheat39_code = "32001A11+0001"
+cheat39_enable = false
+
+cheat40_desc = "Easy Enemies"
+cheat40_code = "32037368+0000+3203743C+0000+32037510+0000"
+cheat40_enable = false
+
+cheat41_desc = "Equipped Guts/Shadow Navi Programs: Break Buster"
+cheat41_code = "32005776+0001"
+cheat41_enable = false
+
+cheat42_desc = "Equipped Guts/Shadow Navi Programs: Break Charge"
+cheat42_code = "3200577E+0001"
+cheat42_enable = false
+
+cheat43_desc = "Equipped Guts/Shadow Navi Programs: Super Armor"
+cheat43_code = "32005771+0001"
+cheat43_enable = false
+
+cheat44_desc = "Equipped Navi Programs: Air Shoes"
+cheat44_code = "32005773+0001"
+cheat44_enable = false
+
+cheat45_desc = "Equipped Navi Programs: Bug Stopper"
+cheat45_code = "32005793+0001"
+cheat45_enable = false
+
+cheat46_desc = "Equipped Navi Programs: Buster Max"
+cheat46_code = "3200578E+0001"
+cheat46_enable = false
+
+cheat47_desc = "Equipped Navi Programs: Collectors Eye"
+cheat47_code = "3200578D+0002"
+cheat47_enable = false
+
+cheat48_desc = "Equipped Navi Programs: Humor Sense"
+cheat48_code = "32005777+0001"
+cheat48_enable = false
+
+cheat49_desc = "Equipped Navi Programs: Press Program"
+cheat49_code = "32001AB0+0001"
+cheat49_enable = false
+
+cheat50_desc = "Equipped Navi Programs: Protoscope"
+cheat50_code = "32005795+0001"
+cheat50_enable = false
+
+cheat51_desc = "Equipped Navi Programs: Quick Gauge"
+cheat51_code = "32005788+0001"
+cheat51_enable = false
+
+cheat52_desc = "Equipped Navi Programs: Shinobi Dash"
+cheat52_code = "3200578A+0001"
+cheat52_enable = false
+
+cheat53_desc = "Equipped Navi Programs: Under Shirt"
+cheat53_code = "32005798+0001"
+cheat53_enable = false
+
+cheat54_desc = "FireData"
+cheat54_code = "320019D8+0001"
+cheat54_enable = false
+
+cheat55_desc = "FlamData"
+cheat55_code = "320019DA+0001"
+cheat55_enable = false
+
+cheat56_desc = "Full Custom Bar"
+cheat56_code = "32006CCD+0040"
+cheat56_enable = false
+
+cheat57_desc = "Full Custom Gauge"
+cheat57_code = "82006CCC+4000"
+cheat57_enable = false
+
+cheat58_desc = "GigaFolder#1"
+cheat58_code = "32001B40+0001"
+cheat58_enable = false
+
+cheat59_desc = "GigFreez"
+cheat59_code = "320019E2+0001"
+cheat59_enable = false
+
+cheat60_desc = "GramNote"
+cheat60_code = "320019EB+0001"
+cheat60_enable = false
+
+cheat61_desc = "HadesKey"
+cheat61_code = "320019D1+0001"
+cheat61_enable = false
+
+cheat62_desc = "Have All Chips In Pack"
+cheat62_code = "4201881C+0001+000100FF+0020+4201A7FC+0100+00010030+0020+4201ADFC+0135+00010003+0020"
+cheat62_enable = false
+
+cheat63_desc = "Have All Subchips"
+cheat63_code = "42001A30+0404+00000003+0002"
+cheat63_enable = false
+
+cheat64_desc = "Have Complete Library+Pack+PA - Part 1"
+cheat64_code = "74000130+02F7+82000330+FF7F+74000130+02F7+82000356+80FF+74000130+02F7+820019B0+D32D+74000130+02F7+42000332+FFFF+00000012+0002+74000130+02F7+42000358+FFFF+00000003+0002"
+cheat64_enable = false
+
+cheat65_desc = "Have Complete Library+Pack+PA - Part 2"
+cheat65_code = "74000130+02F7+42001F72+6363+00000138+0012+74000130+02F7+42001F74+6363+00000138+0012+74000130+02F7+42001F76+6363+00000138+0012"
+cheat65_enable = false
+
+cheat66_desc = "Have Navi Customizer"
+cheat66_code = "32000041+00C8"
+cheat66_enable = false
+
+cheat67_desc = "Have Navi Customizer Blocks Aim Fish"
+cheat67_code = "32001AE5+0001"
+cheat67_enable = false
+
+cheat68_desc = "Have Navi Customizer Blocks Air Shoes"
+cheat68_code = "32001AF4+0001"
+cheat68_enable = false
+
+cheat69_desc = "Have Navi Customizer Blocks Battery Mode"
+cheat69_code = "32001AEB+0001"
+cheat69_enable = false
+
+cheat70_desc = "Have Navi Customizer Blocks Block"
+cheat70_code = "32001ABB+0001"
+cheat70_enable = false
+
+cheat71_desc = "Have Navi Customizer Blocks Break Buster"
+cheat71_code = "32001A8B+0001"
+cheat71_enable = false
+
+cheat72_desc = "Have Navi Customizer Blocks Break Charge"
+cheat72_code = "32001A8F+0001"
+cheat72_enable = false
+
+cheat73_desc = "Have Navi Customizer Blocks Bug Stopper"
+cheat73_code = "32001B30+0001"
+cheat73_enable = false
+
+cheat74_desc = "Have Navi Customizer Blocks Buster Max"
+cheat74_code = "32001B3D+0001"
+cheat74_enable = false
+
+cheat75_desc = "Have Navi Customizer Blocks Collectors Eye"
+cheat75_code = "32001AF1+0001"
+cheat75_enable = false
+
+cheat76_desc = "Have Navi Customizer Blocks Float Shoes"
+cheat76_code = "32001ACB+0001"
+cheat76_enable = false
+
+cheat77_desc = "Have Navi Customizer Blocks HP+100 (P)"
+cheat77_code = "32001B11+0001"
+cheat77_enable = false
+
+cheat78_desc = "Have Navi Customizer Blocks HP+100 (W)"
+cheat78_code = "32001B10+0001"
+cheat78_enable = false
+
+cheat79_desc = "Have Navi Customizer Blocks HP+100 (Y)"
+cheat79_code = "32001B12+0001"
+cheat79_enable = false
+
+cheat80_desc = "Have Navi Customizer Blocks HP+200 (P)"
+cheat80_code = "32001B15+0001"
+cheat80_enable = false
+
+cheat81_desc = "Have Navi Customizer Blocks HP+200 (W)"
+cheat81_code = "32001B14+0001"
+cheat81_enable = false
+
+cheat82_desc = "Have Navi Customizer Blocks HP+200 (Y)"
+cheat82_code = "32001B16+0001"
+cheat82_enable = false
+
+cheat83_desc = "Have Navi Customizer Blocks HP+300 (P)"
+cheat83_code = "32001B19+0001"
+cheat83_enable = false
+
+cheat84_desc = "Have Navi Customizer Blocks HP+300 (W)"
+cheat84_code = "32001B18+0001"
+cheat84_enable = false
+
+cheat85_desc = "Have Navi Customizer Blocks HP+300 (Y)"
+cheat85_code = "32001B1A+0001"
+cheat85_enable = false
+
+cheat86_desc = "Have Navi Customizer Blocks HP+500 (P)"
+cheat86_code = "32001B1D+0001"
+cheat86_enable = false
+
+cheat87_desc = "Have Navi Customizer Blocks HP+500 (W)"
+cheat87_code = "32001B1C+0001"
+cheat87_enable = false
+
+cheat88_desc = "Have Navi Customizer Blocks HP+500 (Y)"
+cheat88_code = "32001B1E+0001"
+cheat88_enable = false
+
+cheat89_desc = "Have Navi Customizer Blocks Humor Sense"
+cheat89_code = "32001B35+0001"
+cheat89_enable = false
+
+cheat90_desc = "Have Navi Customizer Blocks Jungle Land"
+cheat90_code = "32001AEC+0001"
+cheat90_enable = false
+
+cheat91_desc = "Have Navi Customizer Blocks Kawarimi Magic"
+cheat91_code = "32001A8C+0001"
+cheat91_enable = false
+
+cheat92_desc = "Have Navi Customizer Blocks MegaFolder#1 (G)"
+cheat92_code = "32001AB3+0001"
+cheat92_enable = false
+
+cheat93_desc = "Have Navi Customizer Blocks MegaFolder#1 (P)"
+cheat93_code = "32001AB1+0001"
+cheat93_enable = false
+
+cheat94_desc = "Have Navi Customizer Blocks MegaFolder#2 (G)"
+cheat94_code = "32001AB7+0001"
+cheat94_enable = false
+
+cheat95_desc = "Have Navi Customizer Blocks Oil Body"
+cheat95_code = "32001AE3+0001"
+cheat95_enable = false
+
+cheat96_desc = "Have Navi Customizer Blocks Quick Gauge"
+cheat96_code = "32001AFD+0001"
+cheat96_enable = false
+
+cheat97_desc = "Have Navi Customizer Blocks Rapid+1 (P)"
+cheat97_code = "32001B29+0001"
+cheat97_enable = false
+
+cheat98_desc = "Have Navi Customizer Blocks Rapid+1 (W)"
+cheat98_code = "32001B28+0001"
+cheat98_enable = false
+
+cheat99_desc = "Have Navi Customizer Blocks Rapid+1 (Y)"
+cheat99_code = "32001B2A+0001"
+cheat99_enable = false
+
+cheat100_desc = "Have Navi Customizer Blocks Reflect"
+cheat100_code = "32001AC3+0001"
+cheat100_enable = false
+
+cheat101_desc = "Have Navi Customizer Blocks RegMB+5 (P)"
+cheat101_code = "32001B21+0001"
+cheat101_enable = false
+
+cheat102_desc = "Have Navi Customizer Blocks RegMB+5 (W)"
+cheat102_code = "32001B20+0001"
+cheat102_enable = false
+
+cheat103_desc = "Have Navi Customizer Blocks RegMB+5 (Y)"
+cheat103_code = "32001B22+0001"
+cheat103_enable = false
+
+cheat104_desc = "Have Navi Customizer Blocks Rush Support"
+cheat104_code = "32001B02+0001"
+cheat104_enable = false
+
+cheat105_desc = "Have Navi Customizer Blocks Saito Patch"
+cheat105_code = "32001B44+0001"
+cheat105_enable = false
+
+cheat106_desc = "Have Navi Customizer Blocks Set Green"
+cheat106_code = "32001A93+0001"
+cheat106_enable = false
+
+cheat107_desc = "Have Navi Customizer Blocks Set Holy"
+cheat107_code = "32001AA7+0001"
+cheat107_enable = false
+
+cheat108_desc = "Have Navi Customizer Blocks Set Ice"
+cheat108_code = "32001A97+0001"
+cheat108_enable = false
+
+cheat109_desc = "Have Navi Customizer Blocks Set Lava"
+cheat109_code = "32001A9B+0001"
+cheat109_enable = false
+
+cheat110_desc = "Have Navi Customizer Blocks Set Metal"
+cheat110_code = "32001AA3+0001"
+cheat110_enable = false
+
+cheat111_desc = "Have Navi Customizer Blocks Set Sand"
+cheat111_code = "32001A9F+0001"
+cheat111_enable = false
+
+cheat112_desc = "Have Navi Customizer Blocks Shadow Shoes"
+cheat112_code = "32001AC7+0001"
+cheat112_enable = false
+
+cheat113_desc = "Have Navi Customizer Blocks Shield"
+cheat113_code = "32001ABF+0001"
+cheat113_enable = false
+
+cheat114_desc = "Have Navi Customizer Blocks Shinobi Dash"
+cheat114_code = "32001ADE+0001"
+cheat114_enable = false
+
+cheat115_desc = "Have Navi Customizer Blocks Super Armor"
+cheat115_code = "32001A87+0001"
+cheat115_enable = false
+
+cheat116_desc = "Have Navi Customizer Blocks Tango Support"
+cheat116_code = "32001B09+0001"
+cheat116_enable = false
+
+cheat117_desc = "Have Navi Customizer Blocks Under Shirt"
+cheat117_code = "32001AF8+0001"
+cheat117_enable = false
+
+cheat118_desc = "Have Navi Customizer Blocks Weapon+1 (P)"
+cheat118_code = "32001B0D+0001"
+cheat118_enable = false
+
+cheat119_desc = "Have Navi Customizer Blocks Weapon+1 (W)"
+cheat119_code = "32001B0C+0001"
+cheat119_enable = false
+
+cheat120_desc = "Have Navi Customizer Blocks Weapon+1 (Y)"
+cheat120_code = "32001B0E+0001"
+cheat120_enable = false
+
+cheat121_desc = "HeatData"
+cheat121_code = "320019D9+0001"
+cheat121_enable = false
+
+cheat122_desc = "HospCode"
+cheat122_code = "32001A14+0001"
+cheat122_enable = false
+
+cheat123_desc = "Hyper Mode"
+cheat123_code = "32008F20+0000"
+cheat123_enable = false
+
+cheat124_desc = "ID-DataA"
+cheat124_code = "320019E7+0001"
+cheat124_enable = false
+
+cheat125_desc = "ID-DataB"
+cheat125_code = "320019E8+0001"
+cheat125_enable = false
+
+cheat126_desc = "ID-DataC"
+cheat126_code = "320019E9+0001"
+cheat126_enable = false
+
+cheat127_desc = "ID-DataD"
+cheat127_code = "320019EA+0001"
+cheat127_enable = false
+
+cheat128_desc = "InsrData"
+cheat128_code = "320019D3+0001"
+cheat128_enable = false
+
+cheat129_desc = "KawarimiMagic"
+cheat129_code = "32001ACF+0001"
+cheat129_enable = false
+
+cheat130_desc = "KeydataA"
+cheat130_code = "320019C4+0001"
+cheat130_enable = false
+
+cheat131_desc = "KeydataB"
+cheat131_code = "320019C5+0001"
+cheat131_enable = false
+
+cheat132_desc = "KeydataC"
+cheat132_code = "320019C6+0001"
+cheat132_enable = false
+
+cheat133_desc = "LandTome"
+cheat133_code = "320019F1+0001"
+cheat133_enable = false
+
+cheat134_desc = "Library Complete"
+cheat134_code = "32000330+007F+32000331+00FF+42000332+FFFF+00000011+0002+82000354+FFFF+82000356+80FF"
+cheat134_enable = false
+
+cheat135_desc = "Max HP"
+cheat135_code = "820018A2+270F"
+cheat135_enable = false
+
+cheat136_desc = "Max Speed"
+cheat136_code = "32005779+0062"
+cheat136_enable = false
+
+cheat137_desc = "Max Weapon Level"
+cheat137_code = "3200577D+00FF"
+cheat137_enable = false
+
+cheat138_desc = "Maximum HP"
+cheat138_code = "820018A0+270F+820018A2+270F"
+cheat138_enable = false
+
+cheat139_desc = "MaylCode"
+cheat139_code = "32001A10+0001"
+cheat139_enable = false
+
+cheat140_desc = "ModTools"
+cheat140_code = "320019F7+0001"
+cheat140_enable = false
+
+cheat141_desc = "Needle"
+cheat141_code = "320019CE+0001"
+cheat141_enable = false
+
+cheat142_desc = "OfclPass"
+cheat142_code = "320019E3+0001"
+cheat142_enable = false
+
+cheat143_desc = "Old Doll"
+cheat143_code = "320019EE+0001"
+cheat143_enable = false
+
+cheat144_desc = "Old Tool"
+cheat144_code = "320019EC+0001"
+cheat144_enable = false
+
+cheat145_desc = "OrderSys"
+cheat145_code = "320019CC+0001"
+cheat145_enable = false
+
+cheat146_desc = "Origami"
+cheat146_code = "320019E1+0001"
+cheat146_enable = false
+
+cheat147_desc = "Parasol"
+cheat147_code = "320019C3+0001"
+cheat147_enable = false
+
+cheat148_desc = "PasswrdA"
+cheat148_code = "320019C7+0001"
+cheat148_enable = false
+
+cheat149_desc = "PasswrdB"
+cheat149_code = "320019C8+0001"
+cheat149_enable = false
+
+cheat150_desc = "PasswrdC"
+cheat150_code = "320019C9+0001"
+cheat150_enable = false
+
+cheat151_desc = "Pet Case"
+cheat151_code = "320019D0+0001"
+cheat151_enable = false
+
+cheat152_desc = "Photo"
+cheat152_code = "320019F5+0001"
+cheat152_enable = false
+
+cheat153_desc = "PresData"
+cheat153_code = "320019CD+0001"
+cheat153_enable = false
+
+cheat154_desc = "Press Select To Delete All Enemies"
+cheat154_code = "D0000020+0004+42037368+0000+00000003+00D4"
+cheat154_enable = false
+
+cheat155_desc = "Protoscope(*)"
+cheat155_code = "32001AD9+0001"
+cheat155_enable = false
+
+cheat156_desc = "Quick Style Level Gain"
+cheat156_code = "42000E60+FFFF+00000004+0002+32001896+0001"
+cheat156_enable = false
+
+cheat157_desc = "Rank 1"
+cheat157_code = "320019FA+0001"
+cheat157_enable = false
+
+cheat158_desc = "Rank 10"
+cheat158_code = "320019DB+0001"
+cheat158_enable = false
+
+cheat159_desc = "Rank 2"
+cheat159_code = "320019E0+0001"
+cheat159_enable = false
+
+cheat160_desc = "Rank 3"
+cheat160_code = "320019DF+0001"
+cheat160_enable = false
+
+cheat161_desc = "Rank 7"
+cheat161_code = "320019DE+0001"
+cheat161_enable = false
+
+cheat162_desc = "Rank 8"
+cheat162_code = "320019DD+0001"
+cheat162_enable = false
+
+cheat163_desc = "Rank 9"
+cheat163_code = "320019DC+0001"
+cheat163_enable = false
+
+cheat164_desc = "Rank S***"
+cheat164_code = "3200F331+0003+32037908+000B"
+cheat164_enable = false
+
+cheat165_desc = "SeaTome"
+cheat165_code = "320019F2+0001"
+cheat165_enable = false
+
+cheat166_desc = "SkyTome"
+cheat166_code = "320019F0+0001"
+cheat166_enable = false
+
+cheat167_desc = "SpinBlue"
+cheat167_code = "32001A0B+0001"
+cheat167_enable = false
+
+cheat168_desc = "SpinDark"
+cheat168_code = "32001A0F+0001"
+cheat168_enable = false
+
+cheat169_desc = "SpinGrn"
+cheat169_code = "32001A0C+0001"
+cheat169_enable = false
+
+cheat170_desc = "SpinOrng"
+cheat170_code = "32001A0D+0001"
+cheat170_enable = false
+
+cheat171_desc = "SpinPink"
+cheat171_code = "32001A08+0001"
+cheat171_enable = false
+
+cheat172_desc = "SpinPrpl"
+cheat172_code = "32001A0E+0001"
+cheat172_enable = false
+
+cheat173_desc = "SpinRed"
+cheat173_code = "32001A0A+0001"
+cheat173_enable = false
+
+cheat174_desc = "SpinWhit"
+cheat174_code = "32001A07+0001"
+cheat174_enable = false
+
+cheat175_desc = "SpinYllw"
+cheat175_code = "32001A09+0001"
+cheat175_enable = false
+
+cheat176_desc = "StmpCard"
+cheat176_code = "320019F3+0001"
+cheat176_enable = false
+
+cheat177_desc = "SubPET"
+cheat177_code = "320019CA+0001"
+cheat177_enable = false
+
+cheat178_desc = "Tally"
+cheat178_code = "320019D5+0001"
+cheat178_enable = false
+
+cheat179_desc = "TamaCode"
+cheat179_code = "32001A13+0001"
+cheat179_enable = false
+
+cheat180_desc = "Tea"
+cheat180_code = "320019D6+0001"
+cheat180_enable = false
+
+cheat181_desc = "TickStub"
+cheat181_code = "320019D4+0001"
+cheat181_enable = false
+
+cheat182_desc = "Transparent"
+cheat182_code = "3203729A+0003"
+cheat182_enable = false
+
+cheat183_desc = "VictData"
+cheat183_code = "320019D2+0001"
+cheat183_enable = false
+
+cheat184_desc = "Virus Breeding-Max Attack: Bunny"
+cheat184_code = "82000004+FFFF+82000006+FFFF"
+cheat184_enable = false
+
+cheat185_desc = "Virus Breeding-Max Attack: Jelly"
+cheat185_code = "82000014+FFFF+82000016+FFFF"
+cheat185_enable = false
+
+cheat186_desc = "Virus Breeding-Max Attack: KillerEye"
+cheat186_code = "82000018+FFFF+8200001A+FFFF"
+cheat186_enable = false
+
+cheat187_desc = "Virus Breeding-Max Attack: Mettaur"
+cheat187_code = "82000000+FFFF+82000002+FFFF"
+cheat187_enable = false
+
+cheat188_desc = "Virus Breeding-Max Attack: Momogra"
+cheat188_code = "8200001C+FFFF+8200001E+FFFF"
+cheat188_enable = false
+
+cheat189_desc = "Virus Breeding-Max Attack: Mushy"
+cheat189_code = "82000010+FFFF+82000012+FFFF"
+cheat189_enable = false
+
+cheat190_desc = "Virus Breeding-Max Attack: Scuttlest"
+cheat190_code = "82000020+FFFF+82000022+FFFF+32000024+00FF"
+cheat190_enable = false
+
+cheat191_desc = "Virus Breeding-Max Attack: Spikey"
+cheat191_code = "8200000C+FFFF+8200000E+FFFF"
+cheat191_enable = false
+
+cheat192_desc = "Virus Breeding-Max Attack: Swordy"
+cheat192_code = "82000008+FFFF+8200000A+FFFF"
+cheat192_enable = false
+
+cheat193_desc = "Virus Breeding: Have All Viruses"
+cheat193_code = "8200003A+FFFF+8200003C+FFFF+3200003E+00FF"
+cheat193_enable = false
+
+cheat194_desc = "Virus Breeding: Infinite Food"
+cheat194_code = "72009DB0+000C+82009DD4+01F4"
+cheat194_enable = false
+
+cheat195_desc = "Walk Through Walls"
+cheat195_code = "3200956C+0000"
+cheat195_enable = false
+
+cheat196_desc = "Will"
+cheat196_code = "320019F4+0001"
+cheat196_enable = false
+
+cheat197_desc = "WrstBand"
+cheat197_code = "320019F9+0001"
+cheat197_enable = false
+
+cheat198_desc = "WWW-ID"
+cheat198_code = "320019EF+0001"
+cheat198_enable = false
+
+cheat199_desc = "YaiCode"
+cheat199_code = "32001A12+0001"
+cheat199_enable = false

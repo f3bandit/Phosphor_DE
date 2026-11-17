@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Max Agility"
+cheat0_code = "3200C180+0032"
+cheat0_enable = false
+
+cheat1_desc = "Max Power"
+cheat1_code = "3200C181+0032"
+cheat1_enable = false
+
+cheat2_desc = "Max Speed"
+cheat2_code = "3200C182+0032"
+cheat2_enable = false
+
+cheat3_desc = "No P1 Gauge"
+cheat3_code = "830026FA+0000"
+cheat3_enable = false
+
+cheat4_desc = "Max P2 Gauge"
+cheat4_code = "830026F6+0064"
+cheat4_enable = false
+
+cheat5_desc = "No P2 Gauge"
+cheat5_code = "830026F6+0000"
+cheat5_enable = false

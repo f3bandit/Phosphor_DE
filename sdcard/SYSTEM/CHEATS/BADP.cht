@@ -1,0 +1,33 @@
+cheats = 8
+
+cheat0_desc = "All Gems Found"
+cheat0_code = "330005E0+000A"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Fruit"
+cheat1_code = "830005CE+9999"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Health"
+cheat2_code = "330005CD+0005"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Lives"
+cheat3_code = "330005CA+000A"
+cheat3_enable = false
+
+cheat4_desc = "Maximum Health"
+cheat4_code = "330005CC+0005"
+cheat4_enable = false
+
+cheat5_desc = "Moon Jump"
+cheat5_code = "D0000020+0001+33005288+0040"
+cheat5_enable = false
+
+cheat6_desc = "Start With 50 Gems"
+cheat6_code = "730005D0+0000+830005D0+5050"
+cheat6_enable = false
+
+cheat7_desc = "Transparent"
+cheat7_code = "33004CD0+0009"
+cheat7_enable = false

@@ -1,0 +1,77 @@
+cheats = 19
+
+cheat0_desc = "Allow Use Of Special Continuously"
+cheat0_code = "32018540+0000"
+cheat0_enable = false
+
+cheat1_desc = "Always Shoot Invisible Ice"
+cheat1_code = "320006A2+0002+320006A3+0002+320006A4+0002"
+cheat1_enable = false
+
+cheat2_desc = "Experience Level Always 99"
+cheat2_code = "32018770+0063"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Double Jump"
+cheat3_code = "3200043A+0001"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Hearts"
+cheat4_code = "82018788+03E7"
+cheat4_enable = false
+
+cheat5_desc = "Infinite HP"
+cheat5_code = "82018542+03E7"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Money"
+cheat6_code = "82008790+FFFF"
+cheat6_enable = false
+
+cheat7_desc = "Infinite MP"
+cheat7_code = "82018544+03E7"
+cheat7_enable = false
+
+cheat8_desc = "Invincible"
+cheat8_code = "3200048C+000D"
+cheat8_enable = false
+
+cheat9_desc = "Max DEF"
+cheat9_code = "82018548+03E7"
+cheat9_enable = false
+
+cheat10_desc = "Max Hearts"
+cheat10_code = "8201877E+03E7"
+cheat10_enable = false
+
+cheat11_desc = "Max HP"
+cheat11_code = "8201877A+03E7"
+cheat11_enable = false
+
+cheat12_desc = "Max INT"
+cheat12_code = "8201854A+03E7"
+cheat12_enable = false
+
+cheat13_desc = "Max Luck"
+cheat13_code = "8201854C+03E7"
+cheat13_enable = false
+
+cheat14_desc = "Max MP"
+cheat14_code = "8201877C+03E7"
+cheat14_enable = false
+
+cheat15_desc = "Max STR"
+cheat15_code = "82018546+03E7"
+cheat15_enable = false
+
+cheat16_desc = "Mega Jump"
+cheat16_code = "3200046D+0099"
+cheat16_enable = false
+
+cheat17_desc = "Perpertual Reboot"
+cheat17_code = "32001E1A+0001"
+cheat17_enable = false
+
+cheat18_desc = "Quick Level Gain"
+cheat18_code = "8201878C+FFFF"
+cheat18_enable = false

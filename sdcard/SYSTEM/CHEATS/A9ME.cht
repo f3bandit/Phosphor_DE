@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Always 1st"
+cheat0_code = "42032CBA+0000+00000007+0048"
+cheat0_enable = false
+
+cheat1_desc = "Always in First Place"
+cheat1_code = "3201A58E+0001"
+cheat1_enable = false
+
+cheat2_desc = "Bike Speed Modifer"
+cheat2_code = "74000130+03FE+320340E5+0000"
+cheat2_enable = false
+
+cheat3_desc = "Drive Thru Objects"
+cheat3_code = "32032C8D+0000"
+cheat3_enable = false
+
+cheat4_desc = "End Race [Press Select+L]"
+cheat4_code = "74000130+01FB+3201A55B+0007"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Nitro"
+cheat5_code = "320340F4+00F0"
+cheat5_enable = false
+
+cheat6_desc = "Unlock Everything"
+cheat6_code = "4203F024+FFFF+00000009+0002"
+cheat6_enable = false

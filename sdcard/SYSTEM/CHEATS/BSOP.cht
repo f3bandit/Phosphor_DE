@@ -1,0 +1,97 @@
+cheats = 24
+
+cheat0_desc = "Have 50,000 Yen"
+cheat0_code = "83002310+C350"
+cheat0_enable = false
+
+cheat1_desc = "Have 99 Dolls"
+cheat1_code = "3300235A+0063"
+cheat1_enable = false
+
+cheat2_desc = "Have 99 Leaves"
+cheat2_code = "33002358+0063"
+cheat2_enable = false
+
+cheat3_desc = "Have 99 Pebbles"
+cheat3_code = "33002359+0063"
+cheat3_enable = false
+
+cheat4_desc = "Have All Spirits"
+cheat4_code = "3300235B+00FF+4300235C+FFFF+00000004+0002+33002364+00FF"
+cheat4_enable = false
+
+cheat5_desc = "Infinite HP"
+cheat5_code = "33003636+0078"
+cheat5_enable = false
+
+cheat6_desc = "Infinite SP"
+cheat6_code = "330022BE+0050"
+cheat6_enable = false
+
+cheat7_desc = "Invincible"
+cheat7_code = "33003630+0003"
+cheat7_enable = false
+
+cheat8_desc = "Maximum ATK"
+cheat8_code = "830022C2+03E7"
+cheat8_enable = false
+
+cheat9_desc = "Maximum DEF"
+cheat9_code = "830022C4+03E7"
+cheat9_enable = false
+
+cheat10_desc = "Multi Jump"
+cheat10_code = "D0000020+0001+83003654+0320+D0000020+0001+83003656+0000"
+cheat10_enable = false
+
+cheat11_desc = "Reveal All Paths"
+cheat11_code = "43002316+00FF+00000008+0002+43001DDE+0909+00000026+0002"
+cheat11_enable = false
+
+cheat12_desc = "Skip Stage [Press Select+Up]"
+cheat12_code = "74000130+03BB+320062D8+0006"
+cheat12_enable = false
+
+cheat13_desc = "65535 Yen"
+cheat13_code = "83002310+FFFF"
+cheat13_enable = false
+
+cheat14_desc = "Max HP (HP 9999)"
+cheat14_code = "830022BA+270F"
+cheat14_enable = false
+
+cheat15_desc = "Current HP (HP 9999)"
+cheat15_code = "83003636+270F"
+cheat15_enable = false
+
+cheat16_desc = "Current MP (MP 9999)"
+cheat16_code = "830022BE+270F"
+cheat16_enable = false
+
+cheat17_desc = "Max MP (MP 9999)"
+cheat17_code = "830022C0+270F"
+cheat17_enable = false
+
+cheat18_desc = "255 Attack"
+cheat18_code = "330022C2+00FF"
+cheat18_enable = false
+
+cheat19_desc = "255 Defense"
+cheat19_code = "330022C4+00FF"
+cheat19_enable = false
+
+cheat20_desc = "Graphic Effect: Yoh On Speed"
+cheat20_code = "330035E9+00FF"
+cheat20_enable = false
+
+cheat21_desc = "Have All 5 Slots To Equip Spirits"
+cheat21_code = "33002365+001F"
+cheat21_enable = false
+
+cheat22_desc = "All Characters In House"
+cheat22_code = "33001E2F+00FF+43001E30+FFFF+00000003+0002"
+cheat22_enable = false
+
+cheat23_desc = "Invincibility"
+cheat23_code = "830022BA+00FF+83003636+00FF"
+cheat23_enable = false

@@ -1,0 +1,21 @@
+cheats = 5
+
+cheat0_desc = "Have All Keycards"
+cheat0_code = "32003292+00FF"
+cheat0_enable = false
+
+cheat1_desc = "Have All Weapons"
+cheat1_code = "320032BC+00FF+320032BE+00FF"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Health"
+cheat2_code = "32003291+0005"
+cheat2_enable = false
+
+cheat3_desc = "Photo Album Complete"
+cheat3_code = "32003298+0030"
+cheat3_enable = false
+
+cheat4_desc = "Walk-Thru-Walls [Press L]"
+cheat4_code = "D0000020+0200+82018ED4+0000"
+cheat4_enable = false

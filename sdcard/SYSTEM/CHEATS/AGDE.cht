@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "1 Providence"
+cheat0_code = "8203E728+0003+8203E72A+0000"
+cheat0_enable = false

@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Have All Gems+Crystals"
+cheat0_code = "4200949C+FFFF+00000012+0002"
+cheat0_enable = false
+
+cheat1_desc = "Max Gems Collected"
+cheat1_code = "82008E40+03E7"
+cheat1_enable = false
+
+cheat2_desc = "Max Wumpa Fruit"
+cheat2_code = "820094FC+270F"
+cheat2_enable = false
+
+cheat3_desc = "Start With 2 Masks"
+cheat3_code = "32009520+0002"
+cheat3_enable = false

@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Collect Items From Anywhere"
+cheat0_code = "880155CC+2001+8801D210+2001+8801D280+2001"
+cheat0_enable = false
+
+cheat1_desc = "End Level [Press Select+L]"
+cheat1_code = "74000130+01FB+33001A14+0002+74000130+01FB+33001A80+0002"
+cheat1_enable = false

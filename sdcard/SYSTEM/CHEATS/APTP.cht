@@ -1,0 +1,53 @@
+cheats = 13
+
+cheat0_desc = "Access All Levels"
+cheat0_code = "33003D1F+00FF"
+cheat0_enable = false
+
+cheat1_desc = "Have 999 Jewels"
+cheat1_code = "83003D24+03E7"
+cheat1_enable = false
+
+cheat2_desc = "Have All Weapons"
+cheat2_code = "43003BAA+00FF+00000003+0002"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health"
+cheat3_code = "43003D18+0064+00000003+0002"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Health Blossom"
+cheat4_code = "33003D18+0064"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Health Buttercup"
+cheat5_code = "33003D1C+0064"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Health Green"
+cheat6_code = "33003D1A+0064"
+cheat6_enable = false
+
+cheat7_desc = "Loads Of Crystals"
+cheat7_code = "83003D24+270F"
+cheat7_enable = false
+
+cheat8_desc = "Quick Score Gain"
+cheat8_code = "83003BA0+FFFF"
+cheat8_enable = false
+
+cheat9_desc = "Max Score"
+cheat9_code = "83003BA0+423F+83003BA2+000F"
+cheat9_enable = false
+
+cheat10_desc = "All Weapons (Blossom)"
+cheat10_code = "83003BAA+FFFF"
+cheat10_enable = false
+
+cheat11_desc = "All Weapons (Buttercup)"
+cheat11_code = "83003BAC+FFFF"
+cheat11_enable = false
+
+cheat12_desc = "All Weapons (Bubbles)"
+cheat12_code = "83003BAE+FFFF"
+cheat12_enable = false

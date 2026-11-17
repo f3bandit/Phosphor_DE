@@ -1,0 +1,77 @@
+cheats = 19
+
+cheat0_desc = "Easy Win [Press R+A]"
+cheat0_code = "74000130+02FE+33004150+0004+74000130+02FE+33004158+0001"
+cheat0_enable = false
+
+cheat1_desc = "Have 50000 Credits"
+cheat1_code = "830043EC+C350"
+cheat1_enable = false
+
+cheat2_desc = "Have All Cards"
+cheat2_code = "430043F2+0909+00000096+0002"
+cheat2_enable = false
+
+cheat3_desc = "Have All Decks"
+cheat3_code = "43004572+0101+00000008+0002"
+cheat3_enable = false
+
+cheat4_desc = "Have All Passes+Games"
+cheat4_code = "33004202+0001+33004206+0001+3300420E+0001+33004214+0001"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Shields"
+cheat5_code = "33001689+000A"
+cheat5_enable = false
+
+cheat6_desc = "Infinite Shop Passes"
+cheat6_code = "330041F0+0063"
+cheat6_enable = false
+
+cheat7_desc = "Rival Has No Shields"
+cheat7_code = "330016B5+0000"
+cheat7_enable = false
+
+cheat8_desc = "Your Turn"
+cheat8_code = "D0000020+0004+330016E0+0000"
+cheat8_enable = false
+
+cheat9_desc = "Walk Through Walls"
+cheat9_code = "830008C8+0010"
+cheat9_enable = false
+
+cheat10_desc = "Infinite Money"
+cheat10_code = "830043BC+FFFF"
+cheat10_enable = false
+
+cheat11_desc = "Max Money"
+cheat11_code = "830043BC+E0FF+830043BE+05F5"
+cheat11_enable = false
+
+cheat12_desc = "Have All Preset Decks"
+cheat12_code = "43004542+0101+00000004+0002"
+cheat12_enable = false
+
+cheat13_desc = "Max Passes"
+cheat13_code = "330041C0+00C8"
+cheat13_enable = false
+
+cheat14_desc = "Have All Cool Stuff"
+cheat14_code = "430041C2+FFFF+00000014+0002"
+cheat14_enable = false
+
+cheat15_desc = "Have All Artifacts"
+cheat15_code = "430041EE+FFFF+00000003+0002"
+cheat15_enable = false
+
+cheat16_desc = "Start Duel With 2 Mana"
+cheat16_code = "730015C8+0000+830015C8+0200"
+cheat16_enable = false
+
+cheat17_desc = "Tap R To Summon With No Sacrifices"
+cheat17_code = "74000130+02FF+E3001458+0001+33001459+0001+73001458+010A+83001458+0101"
+cheat17_enable = false
+
+cheat18_desc = "Press L+R For Enemies Have No Shields"
+cheat18_code = "74000130+00FF+330016A5+0000"
+cheat18_enable = false

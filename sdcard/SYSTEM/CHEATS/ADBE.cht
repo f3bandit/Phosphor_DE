@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "1 Move Taken"
+cheat0_code = "33005478+0000"
+cheat0_enable = false
+
+cheat1_desc = "Access Test Menu [Press Select+R While On Main Menu]"
+cheat1_code = "74000130+02FB+33006AEC+0031+74000130+02FB+330031A5+0001+74000130+02FB+33006B88+0004"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Time"
+cheat2_code = "83006A2C+0000"
+cheat2_enable = false

@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Infinite Ammo"
+cheat0_code = "88020D92+46C0+88020F02+46C0+88020F24+46C0+880312C8+46C0"
+cheat0_enable = false
+
+cheat1_desc = "Open All Missions"
+cheat1_code = "8200A884+7FFF"
+cheat1_enable = false

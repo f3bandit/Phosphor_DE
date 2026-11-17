@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Multi-Jump"
+cheat0_code = "8802B274+E009+8802B4E6+46C0+8802B578+9840+8802DBD4+9840"
+cheat0_enable = false
+
+cheat1_desc = "No Damage From High Falls"
+cheat1_code = "8802F2F2+3300"
+cheat1_enable = false

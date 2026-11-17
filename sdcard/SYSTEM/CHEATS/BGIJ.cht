@@ -1,0 +1,21 @@
+cheats = 5
+
+cheat0_desc = "Infinite AE"
+cheat0_code = "33001D4D+0062"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Money"
+cheat1_code = "83001C6C+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Selection Time"
+cheat2_code = "330045BE+00FF"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Weapon Usage"
+cheat3_code = "33001D4E+0020+33001D4F+0020+33001D50+0020"
+cheat3_enable = false
+
+cheat4_desc = "Quick Level Up"
+cheat4_code = "33001D16+0063"
+cheat4_enable = false

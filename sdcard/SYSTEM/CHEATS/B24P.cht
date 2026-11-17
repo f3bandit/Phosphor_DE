@@ -1,0 +1,1141 @@
+cheats = 285
+
+cheat0_desc = "Access All Dungeons"
+cheat0_code = "42000B26+FFFF+00000003+0002"
+cheat0_enable = false
+
+cheat1_desc = "Brave"
+cheat1_code = "320048D8+0007"
+cheat1_enable = false
+
+cheat2_desc = "Calm"
+cheat2_code = "320048F4+0007"
+cheat2_enable = false
+
+cheat3_desc = "Docile"
+cheat3_code = "320048D4+0007"
+cheat3_enable = false
+
+cheat4_desc = "Easy Recruit"
+cheat4_code = "4203D5D0+0000+00000002+0002"
+cheat4_enable = false
+
+cheat5_desc = "Enemies are Asleep"
+cheat5_code = "42004A58+0201+00000005+0208"
+cheat5_enable = false
+
+cheat6_desc = "Enter Debug Menu [Press Select+Up]"
+cheat6_code = "74000130+03BB+4203B918+0001+FFFF0002+0016"
+cheat6_enable = false
+
+cheat7_desc = "Exit Debug Menu [Press Select+Down]"
+cheat7_code = "74000130+037B+4203B918+0001+00040002+0016"
+cheat7_enable = false
+
+cheat8_desc = "Extra Belly"
+cheat8_code = "820042D0+03E7"
+cheat8_enable = false
+
+cheat9_desc = "Hardy"
+cheat9_code = "320048D0+0007"
+cheat9_enable = false
+
+cheat10_desc = "Hasty"
+cheat10_code = "320048EC+0007"
+cheat10_enable = false
+
+cheat11_desc = "Have Aerial Ace"
+cheat11_code = "8203ABB8+0063"
+cheat11_enable = false
+
+cheat12_desc = "Have Alert Specs"
+cheat12_code = "8203AAB8+0063"
+cheat12_enable = false
+
+cheat13_desc = "Have All Friend Areas"
+cheat13_code = "4203ACA0+0101+0000001D+0002"
+cheat13_enable = false
+
+cheat14_desc = "Have All Items"
+cheat14_code = "8202C2F1+B946+8202C2F3+48D6"
+cheat14_enable = false
+
+cheat15_desc = "Have All Items (See Note 1)"
+cheat15_code = "4203AA70+0063+000000F0+0002"
+cheat15_enable = false
+
+cheat16_desc = "Have Allure Seed"
+cheat16_code = "8203AAEA+0063"
+cheat16_enable = false
+
+cheat17_desc = "Have APPle"
+cheat17_code = "8203AB14+0063"
+cheat17_enable = false
+
+cheat18_desc = "Have Attract"
+cheat18_code = "8203ABC2+0063"
+cheat18_enable = false
+
+cheat19_desc = "Have Banana"
+cheat19_code = "8203AB3E+0063"
+cheat19_enable = false
+
+cheat20_desc = "Have Beatup Orb"
+cheat20_code = "8203AC48+0063"
+cheat20_enable = false
+
+cheat21_desc = "Have Beauty Scarf"
+cheat21_code = "8203AACE+0063"
+cheat21_enable = false
+
+cheat22_desc = "Have Big APPle"
+cheat22_code = "8203AB16+0063"
+cheat22_enable = false
+
+cheat23_desc = "Have Black Gummi"
+cheat23_code = "8203AB3A+0063"
+cheat23_enable = false
+
+cheat24_desc = "Have Blast Seed"
+cheat24_code = "8203AB00+0063"
+cheat24_enable = false
+
+cheat25_desc = "Have Blinker Seed"
+cheat25_code = "8203AAE6+0063"
+cheat25_enable = false
+
+cheat26_desc = "Have Blizzard"
+cheat26_code = "8203AB84+0063"
+cheat26_enable = false
+
+cheat27_desc = "Have Blowback Orb"
+cheat27_code = "8203ABDE+0063"
+cheat27_enable = false
+
+cheat28_desc = "Have Blue Gummi"
+cheat28_code = "8203AB20+0063"
+cheat28_enable = false
+
+cheat29_desc = "Have Bounce Band"
+cheat29_code = "8203AABC+0063"
+cheat29_enable = false
+
+cheat30_desc = "Have Brick Break"
+cheat30_code = "8203ABA6+0063"
+cheat30_enable = false
+
+cheat31_desc = "Have Brown Gummi"
+cheat31_code = "8203AB2C+0063"
+cheat31_enable = false
+
+cheat32_desc = "Have Bulk Up"
+cheat32_code = "8203AB78+0063"
+cheat32_enable = false
+
+cheat33_desc = "Have Bullet Speed"
+cheat33_code = "8203AB7A+0063"
+cheat33_enable = false
+
+cheat34_desc = "Have Cacnea Spike"
+cheat34_code = "8203AA7A+0063"
+cheat34_enable = false
+
+cheat35_desc = "Have Calcium"
+cheat35_code = "8203AB0E+0063"
+cheat35_enable = false
+
+cheat36_desc = "Have Calm Mind"
+cheat36_code = "8203AB70+0063"
+cheat36_enable = false
+
+cheat37_desc = "Have Cheri Berry"
+cheat37_code = "8203AAF6+0063"
+cheat37_enable = false
+
+cheat38_desc = "Have Chestnut"
+cheat38_code = "8203AB40+0063"
+cheat38_enable = false
+
+cheat39_desc = "Have Chesto Berry"
+cheat39_code = "8203AB06+0063"
+cheat39_enable = false
+
+cheat40_desc = "Have Cleanse Orb"
+cheat40_code = "8203ABF2+0063"
+cheat40_enable = false
+
+cheat41_desc = "Have Clear Gummi"
+cheat41_code = "8203AB26+0063"
+cheat41_enable = false
+
+cheat42_desc = "Have Corsola Twig"
+cheat42_code = "8203AA7C+0063"
+cheat42_enable = false
+
+cheat43_desc = "Have Curve Band"
+cheat43_code = "8203AABE+0063"
+cheat43_enable = false
+
+cheat44_desc = "Have Cut"
+cheat44_code = "8203AC30+0063"
+cheat44_enable = false
+
+cheat45_desc = "Have Decoy Orb"
+cheat45_code = "8203ABF6+0063"
+cheat45_enable = false
+
+cheat46_desc = "Have Deepseascale"
+cheat46_code = "8203AB4A+0063"
+cheat46_enable = false
+
+cheat47_desc = "Have Deepseatooth"
+cheat47_code = "8203AB4C+0063"
+cheat47_enable = false
+
+cheat48_desc = "Have Def Scarf"
+cheat48_code = "8203AAAC+0063"
+cheat48_enable = false
+
+cheat49_desc = "Have Detect Band"
+cheat49_code = "8203AAB6+0063"
+cheat49_enable = false
+
+cheat50_desc = "Have Diet Ribbon"
+cheat50_code = "8203AAA6+0063"
+cheat50_enable = false
+
+cheat51_desc = "Have Dig"
+cheat51_code = "8203ABA0+0063"
+cheat51_enable = false
+
+cheat52_desc = "Have Dive"
+cheat52_code = "8203AC3E+0063"
+cheat52_enable = false
+
+cheat53_desc = "Have Dodge Scarf"
+cheat53_code = "8203AABA+0063"
+cheat53_enable = false
+
+cheat54_desc = "Have Doom Seed"
+cheat54_code = "8203AAE8+0063"
+cheat54_enable = false
+
+cheat55_desc = "Have Dragon Claw"
+cheat55_code = "8203AB6C+0063"
+cheat55_enable = false
+
+cheat56_desc = "Have Dragon Scale"
+cheat56_code = "8203AB5A+0063"
+cheat56_enable = false
+
+cheat57_desc = "Have Drought Orb"
+cheat57_code = "8203AC06+0063"
+cheat57_enable = false
+
+cheat58_desc = "Have Earthquake"
+cheat58_code = "8203AB9C+0063"
+cheat58_enable = false
+
+cheat59_desc = "Have Escape Orb"
+cheat59_code = "8203AC00+0063"
+cheat59_enable = false
+
+cheat60_desc = "Have Evasion Orb"
+cheat60_code = "8203ABA8+0063"
+cheat60_enable = false
+
+cheat61_desc = "Have Excavate"
+cheat61_code = "8203ABD0+0063"
+cheat61_enable = false
+
+cheat62_desc = "Have Eyedrop Seed"
+cheat62_code = "8203AAE2+0063"
+cheat62_enable = false
+
+cheat63_desc = "Have Facade"
+cheat63_code = "8203ABBC+0063"
+cheat63_enable = false
+
+cheat64_desc = "Have Fill-in Orb"
+cheat64_code = "8203AC1C+0063"
+cheat64_enable = false
+
+cheat65_desc = "Have Fire Blast"
+cheat65_code = "8203ABB4+0063"
+cheat65_enable = false
+
+cheat66_desc = "Have Fire Stone"
+cheat66_code = "8203AB52+0063"
+cheat66_enable = false
+
+cheat67_desc = "Have Flamethrower"
+cheat67_code = "8203ABAE+0063"
+cheat67_enable = false
+
+cheat68_desc = "Have Flash"
+cheat68_code = "8203AC38+0063"
+cheat68_enable = false
+
+cheat69_desc = "Have Fly"
+cheat69_code = "8203AC32+0063"
+cheat69_enable = false
+
+cheat70_desc = "Have Focus Punch"
+cheat70_code = "8203AB6A+0063"
+cheat70_enable = false
+
+cheat71_desc = "Have Friend Bow"
+cheat71_code = "8203AACC+0063"
+cheat71_enable = false
+
+cheat72_desc = "Have Frustration"
+cheat72_code = "8203AB92+0063"
+cheat72_enable = false
+
+cheat73_desc = "Have G Machine 6"
+cheat73_code = "8203AC4A+0063"
+cheat73_enable = false
+
+cheat74_desc = "Have G Machine 7"
+cheat74_code = "8203AC4C+0063"
+cheat74_enable = false
+
+cheat75_desc = "Have G Machine 8"
+cheat75_code = "8203AC4E+0063"
+cheat75_enable = false
+
+cheat76_desc = "Have Geopebble"
+cheat76_code = "8203AA80+0063"
+cheat76_enable = false
+
+cheat77_desc = "Have Giga Drain"
+cheat77_code = "8203AB8E+0063"
+cheat77_enable = false
+
+cheat78_desc = "Have Ginseng"
+cheat78_code = "8203AB02+0063"
+cheat78_enable = false
+
+cheat79_desc = "Have Goggle Specs"
+cheat79_code = "8203AAA4+0063"
+cheat79_enable = false
+
+cheat80_desc = "Have Gold Fang"
+cheat80_code = "8203AA78+0063"
+cheat80_enable = false
+
+cheat81_desc = "Have Gold Gummi"
+cheat81_code = "8203AB30+0063"
+cheat81_enable = false
+
+cheat82_desc = "Have Gold Ribbon"
+cheat82_code = "8203AAA2+0063"
+cheat82_enable = false
+
+cheat83_desc = "Have Grass Gummi"
+cheat83_code = "8203AB22+0063"
+cheat83_enable = false
+
+cheat84_desc = "Have Gravelerock"
+cheat84_code = "8203AA7E+0063"
+cheat84_enable = false
+
+cheat85_desc = "Have Gray Gummi"
+cheat85_code = "8203AB34+0063"
+cheat85_enable = false
+
+cheat86_desc = "Have Green Gummi"
+cheat86_code = "8203AB32+0063"
+cheat86_enable = false
+
+cheat87_desc = "Have Grimy Food"
+cheat87_code = "8203AB18+0063"
+cheat87_enable = false
+
+cheat88_desc = "Have Hail Orb"
+cheat88_code = "8203AB76+0063"
+cheat88_enable = false
+
+cheat89_desc = "Have Heal Ribbon"
+cheat89_code = "8203AA84+0063"
+cheat89_enable = false
+
+cheat90_desc = "Have Heal Seed"
+cheat90_code = "8203AADA+0063"
+cheat90_enable = false
+
+cheat91_desc = "Have Hinder Power"
+cheat91_code = "8203AB7C+0063"
+cheat91_enable = false
+
+cheat92_desc = "Have Huge APPle"
+cheat92_code = "8203AB1A+0063"
+cheat92_enable = false
+
+cheat93_desc = "Have Hunger Seed"
+cheat93_code = "8203AAF0+0063"
+cheat93_enable = false
+
+cheat94_desc = "Have Hurl Orb"
+cheat94_code = "8203AC24+0063"
+cheat94_enable = false
+
+cheat95_desc = "Have Hyper Beam"
+cheat95_code = "8203AB86+0063"
+cheat95_enable = false
+
+cheat96_desc = "Have Ice Beam"
+cheat96_code = "8203AB82+0063"
+cheat96_enable = false
+
+cheat97_desc = "Have Ice Part"
+cheat97_code = "8203AB5E+0063"
+cheat97_enable = false
+
+cheat98_desc = "Have Identify Orb"
+cheat98_code = "8203AC10+0063"
+cheat98_enable = false
+
+cheat99_desc = "Have Insomniscope"
+cheat99_code = "8203AA9A+0063"
+cheat99_enable = false
+
+cheat100_desc = "Have Invisify Orb"
+cheat100_code = "8203AC0C+0063"
+cheat100_enable = false
+
+cheat101_desc = "Have Iron"
+cheat101_code = "8203AB10+0063"
+cheat101_enable = false
+
+cheat102_desc = "Have Iron Tail"
+cheat102_code = "8203AB96+0063"
+cheat102_enable = false
+
+cheat103_desc = "Have Iron Thorn"
+cheat103_code = "8203AA74+0063"
+cheat103_enable = false
+
+cheat104_desc = "Have Itemizer Orb"
+cheat104_code = "8203AC22+0063"
+cheat104_enable = false
+
+cheat105_desc = "Have Joy Ribbon"
+cheat105_code = "8203AA90+0063"
+cheat105_enable = false
+
+cheat106_desc = "Have Joy Seed"
+cheat106_code = "8203AB04+0063"
+cheat106_enable = false
+
+cheat107_desc = "Have Key"
+cheat107_code = "8203AB66+0063"
+cheat107_enable = false
+
+cheat108_desc = "Have King's Rock"
+cheat108_code = "8203AB46+0063"
+cheat108_enable = false
+
+cheat109_desc = "Have Leaf Stone"
+cheat109_code = "8203AB58+0063"
+cheat109_enable = false
+
+cheat110_desc = "Have Life Seed"
+cheat110_code = "8203AAEC+0063"
+cheat110_enable = false
+
+cheat111_desc = "Have Light Screen"
+cheat111_code = "8203AB88+0063"
+cheat111_enable = false
+
+cheat112_desc = "Have Link Box"
+cheat112_code = "8203AC40+0063"
+cheat112_enable = false
+
+cheat113_desc = "Have Link Cable"
+cheat113_code = "8203AB5C+0063"
+cheat113_enable = false
+
+cheat114_desc = "Have Lob Orb"
+cheat114_code = "8203ABDA+0063"
+cheat114_enable = false
+
+cheat115_desc = "Have Lockon Specs"
+cheat115_code = "8203AAC4+0063"
+cheat115_enable = false
+
+cheat116_desc = "Have Longtoss Orb"
+cheat116_code = "8203AC2C+0063"
+cheat116_enable = false
+
+cheat117_desc = "Have Luminous Orb"
+cheat117_code = "8203ABE8+0063"
+cheat117_enable = false
+
+cheat118_desc = "Have Lunar Ribbon"
+cheat118_code = "8203AAD2+0063"
+cheat118_enable = false
+
+cheat119_desc = "Have Max Elixir"
+cheat119_code = "8203AB0A+0063"
+cheat119_enable = false
+
+cheat120_desc = "Have Metal Coat"
+cheat120_code = "8203AB56+0063"
+cheat120_enable = false
+
+cheat121_desc = "Have Mime Jr Fig"
+cheat121_code = "8203AC46+0063"
+cheat121_enable = false
+
+cheat122_desc = "Have Mobile Orb"
+cheat122_code = "8203AC26+0063"
+cheat122_enable = false
+
+cheat123_desc = "Have Mobile Scarf"
+cheat123_code = "8203AA82+0063"
+cheat123_enable = false
+
+cheat124_desc = "Have Moon Stone"
+cheat124_code = "8203AB50+0063"
+cheat124_enable = false
+
+cheat125_desc = "Have Mug Orb"
+cheat125_code = "8203ABD6+0063"
+cheat125_enable = false
+
+cheat126_desc = "Have Munch Belt"
+cheat126_code = "8203AAC6+0063"
+cheat126_enable = false
+
+cheat127_desc = "Have Music Box"
+cheat127_code = "8203AB64+0063"
+cheat127_enable = false
+
+cheat128_desc = "Have No-aim Scope"
+cheat128_code = "8203AAC2+0063"
+cheat128_enable = false
+
+cheat129_desc = "Have No-stick Cap"
+cheat129_code = "8203AA8C+0063"
+cheat129_enable = false
+
+cheat130_desc = "Have Observer Orb"
+cheat130_code = "8203ABF4+0063"
+cheat130_enable = false
+
+cheat131_desc = "Have One-room Orb"
+cheat131_code = "8203AC1A+0063"
+cheat131_enable = false
+
+cheat132_desc = "Have One-shot Orb"
+cheat132_code = "8203AC0E+0063"
+cheat132_enable = false
+
+cheat133_desc = "Have Oran Berry"
+cheat133_code = "8203AADE+0063"
+cheat133_enable = false
+
+cheat134_desc = "Have Orange Gummi"
+cheat134_code = "8203AB28+0063"
+cheat134_enable = false
+
+cheat135_desc = "Have Overheat"
+cheat135_code = "8203ABCC+0063"
+cheat135_enable = false
+
+cheat136_desc = "Have Pass Scarf"
+cheat136_code = "8203AAC8+0063"
+cheat136_enable = false
+
+cheat137_desc = "Have Patsy Band"
+cheat137_code = "8203AA8A+0063"
+cheat137_enable = false
+
+cheat138_desc = "Have Pecha Berry"
+cheat138_code = "8203AAF4+0063"
+cheat138_enable = false
+
+cheat139_desc = "Have Pecha Scarf"
+cheat139_code = "8203AA98+0063"
+cheat139_enable = false
+
+cheat140_desc = "Have Persim Band"
+cheat140_code = "8203AA94+0063"
+cheat140_enable = false
+
+cheat141_desc = "Have Petrify Orb"
+cheat141_code = "8203ABEA+0063"
+cheat141_enable = false
+
+cheat142_desc = "Have Pierce Band"
+cheat142_code = "8203AA8E+0063"
+cheat142_enable = false
+
+cheat143_desc = "Have Pierce Orb"
+cheat143_code = "8203AC2E+0063"
+cheat143_enable = false
+
+cheat144_desc = "Have Pink Gummi"
+cheat144_code = "8203AB2A+0063"
+cheat144_enable = false
+
+cheat145_desc = "Have Plain Ribbon"
+cheat145_code = "8203AAB0+0063"
+cheat145_enable = false
+
+cheat146_desc = "Have Plain Seed"
+cheat146_code = "8203AAFC+0063"
+cheat146_enable = false
+
+cheat147_desc = "Have Possess Orb"
+cheat147_code = "8203AC20+0063"
+cheat147_enable = false
+
+cheat148_desc = "Have Pounce Orb"
+cheat148_code = "8203ABEE+0063"
+cheat148_enable = false
+
+cheat149_desc = "Have Power Band"
+cheat149_code = "8203AA96+0063"
+cheat149_enable = false
+
+cheat150_desc = "Have Protect"
+cheat150_code = "8203AB8A+0063"
+cheat150_enable = false
+
+cheat151_desc = "Have Protein"
+cheat151_code = "8203AB0C+0063"
+cheat151_enable = false
+
+cheat152_desc = "Have Psychic"
+cheat152_code = "8203ABA2+0063"
+cheat152_enable = false
+
+cheat153_desc = "Have Purple Gummi"
+cheat153_code = "8203AB36+0063"
+cheat153_enable = false
+
+cheat154_desc = "Have Quick Orb"
+cheat154_code = "8203ABE6+0063"
+cheat154_enable = false
+
+cheat155_desc = "Have Quick Seed"
+cheat155_code = "8203AAF2+0063"
+cheat155_enable = false
+
+cheat156_desc = "Have Racket Band"
+cheat156_code = "8203AAAA+0063"
+cheat156_enable = false
+
+cheat157_desc = "Have Radar Orb"
+cheat157_code = "8203AC04+0063"
+cheat157_enable = false
+
+cheat158_desc = "Have Rainy Orb"
+cheat158_code = "8203AB8C+0063"
+cheat158_enable = false
+
+cheat159_desc = "Have Rawst Berry"
+cheat159_code = "8203AAEE+0063"
+cheat159_enable = false
+
+cheat160_desc = "Have Rebound Orb"
+cheat160_code = "8203ABD8+0063"
+cheat160_enable = false
+
+cheat161_desc = "Have Red Gummi"
+cheat161_code = "8203AB1E+0063"
+cheat161_enable = false
+
+cheat162_desc = "Have Reflect"
+cheat162_code = "8203ABAA+0063"
+cheat162_enable = false
+
+cheat163_desc = "Have Rest"
+cheat163_code = "8203ABC0+0063"
+cheat163_enable = false
+
+cheat164_desc = "Have Return"
+cheat164_code = "8203AB9E+0063"
+cheat164_enable = false
+
+cheat165_desc = "Have Reviver Orb"
+cheat165_code = "8203AC14+0063"
+cheat165_enable = false
+
+cheat166_desc = "Have Reviver Seed"
+cheat166_code = "8203AAE4+0063"
+cheat166_enable = false
+
+cheat167_desc = "Have Ring D"
+cheat167_code = "8203AAD4+0063"
+cheat167_enable = false
+
+cheat168_desc = "Have Ring E"
+cheat168_code = "8203AAD6+0063"
+cheat168_enable = false
+
+cheat169_desc = "Have Ring F"
+cheat169_code = "8203AAD8+0063"
+cheat169_enable = false
+
+cheat170_desc = "Have Roar"
+cheat170_code = "8203AB72+0063"
+cheat170_enable = false
+
+cheat171_desc = "Have Rock Part"
+cheat171_code = "8203AB62+0063"
+cheat171_enable = false
+
+cheat172_desc = "Have Rock Smash"
+cheat172_code = "8203AC3A+0063"
+cheat172_enable = false
+
+cheat173_desc = "Have Rocky Orb"
+cheat173_code = "8203ABB6+0063"
+cheat173_enable = false
+
+cheat174_desc = "Have Rollcall Orb"
+cheat174_code = "8203AC0A+0063"
+cheat174_enable = false
+
+cheat175_desc = "Have Royal Gummi"
+cheat175_code = "8203AB38+0063"
+cheat175_enable = false
+
+cheat176_desc = "Have Safeguard"
+cheat176_code = "8203AB90+0063"
+cheat176_enable = false
+
+cheat177_desc = "Have Sandy Orb"
+cheat177_code = "8203ABB2+0063"
+cheat177_enable = false
+
+cheat178_desc = "Have Scanner Orb"
+cheat178_code = "8203AC02+0063"
+cheat178_enable = false
+
+cheat179_desc = "Have Scope Lens"
+cheat179_code = "8203AA88+0063"
+cheat179_enable = false
+
+cheat180_desc = "Have Secret Power"
+cheat180_code = "8203ABBE+0063"
+cheat180_enable = false
+
+cheat181_desc = "Have See-trap Orb"
+cheat181_code = "8203ABD4+0063"
+cheat181_enable = false
+
+cheat182_desc = "Have Shadow Ball"
+cheat182_code = "8203ABA4+0063"
+cheat182_enable = false
+
+cheat183_desc = "Have Shocker Orb"
+cheat183_code = "8203AC16+0063"
+cheat183_enable = false
+
+cheat184_desc = "Have Shockwave"
+cheat184_code = "8203ABAC+0063"
+cheat184_enable = false
+
+cheat185_desc = "Have Silence Orb"
+cheat185_code = "8203ABFE+0063"
+cheat185_enable = false
+
+cheat186_desc = "Have Silver Gummi"
+cheat186_code = "8203AB3C+0063"
+cheat186_enable = false
+
+cheat187_desc = "Have Silver Spike"
+cheat187_code = "8203AA76+0063"
+cheat187_enable = false
+
+cheat188_desc = "Have Sitrus Berry"
+cheat188_code = "8203AAE0+0063"
+cheat188_enable = false
+
+cheat189_desc = "Have Sizebust Orb"
+cheat189_code = "8203AC18+0063"
+cheat189_enable = false
+
+cheat190_desc = "Have Skill Swap"
+cheat190_code = "8203ABC8+0063"
+cheat190_enable = false
+
+cheat191_desc = "Have Sky Gummi"
+cheat191_code = "8203AB2E+0063"
+cheat191_enable = false
+
+cheat192_desc = "Have Sleep Seed"
+cheat192_code = "8203AAFA+0063"
+cheat192_enable = false
+
+cheat193_desc = "Have Slow Orb"
+cheat193_code = "8203ABE4+0063"
+cheat193_enable = false
+
+cheat194_desc = "Have Sludge Bomb"
+cheat194_code = "8203ABB0+0063"
+cheat194_enable = false
+
+cheat195_desc = "Have Slumber Orb"
+cheat195_code = "8203ABF8+0063"
+cheat195_enable = false
+
+cheat196_desc = "Have Snatch Orb"
+cheat196_code = "8203ABCA+0063"
+cheat196_enable = false
+
+cheat197_desc = "Have Sneak Scarf"
+cheat197_code = "8203AAA0+0063"
+cheat197_enable = false
+
+cheat198_desc = "Have Solar Beam"
+cheat198_code = "8203AB94+0063"
+cheat198_enable = false
+
+cheat199_desc = "Have Special Band"
+cheat199_code = "8203AAB2+0063"
+cheat199_enable = false
+
+cheat200_desc = "Have Spin Slash"
+cheat200_code = "8203ABD2+0063"
+cheat200_enable = false
+
+cheat201_desc = "Have Stairs Orb"
+cheat201_code = "8203AC2A+0063"
+cheat201_enable = false
+
+cheat202_desc = "Have Stamina Band"
+cheat202_code = "8203AAAE+0063"
+cheat202_enable = false
+
+cheat203_desc = "Have Stayaway Orb"
+cheat203_code = "8203ABEC+0063"
+cheat203_enable = false
+
+cheat204_desc = "Have Steel Part"
+cheat204_code = "8203AB60+0063"
+cheat204_enable = false
+
+cheat205_desc = "Have Steel Wing"
+cheat205_code = "8203ABC6+0063"
+cheat205_enable = false
+
+cheat206_desc = "Have Stick"
+cheat206_code = "8203AA72+0063"
+cheat206_enable = false
+
+cheat207_desc = "Have Strength"
+cheat207_code = "8203AC36+0063"
+cheat207_enable = false
+
+cheat208_desc = "Have Stun Seed"
+cheat208_code = "8203AB08+0063"
+cheat208_enable = false
+
+cheat209_desc = "Have Sun Ribbon"
+cheat209_code = "8203AAD0+0063"
+cheat209_enable = false
+
+cheat210_desc = "Have Sun Stone"
+cheat210_code = "8203AB4E+0063"
+cheat210_enable = false
+
+cheat211_desc = "Have Sunny Orb"
+cheat211_code = "8203AB7E+0063"
+cheat211_enable = false
+
+cheat212_desc = "Have Surf"
+cheat212_code = "8203AC34+0063"
+cheat212_enable = false
+
+cheat213_desc = "Have Switch Box"
+cheat213_code = "8203AC42+0063"
+cheat213_enable = false
+
+cheat214_desc = "Have Switcher Orb"
+cheat214_code = "8203ABDC+0063"
+cheat214_enable = false
+
+cheat215_desc = "Have Taunt"
+cheat215_code = "8203AB80+0063"
+cheat215_enable = false
+
+cheat216_desc = "Have Thief"
+cheat216_code = "8203ABC4+0063"
+cheat216_enable = false
+
+cheat217_desc = "Have Thuderstone"
+cheat217_code = "8203AB48+0063"
+cheat217_enable = false
+
+cheat218_desc = "Have Thunder"
+cheat218_code = "8203AB9A+0063"
+cheat218_enable = false
+
+cheat219_desc = "Have Thunderbolt"
+cheat219_code = "8203AB98+0063"
+cheat219_enable = false
+
+cheat220_desc = "Have Tight Belt"
+cheat220_code = "8203AA9E+0063"
+cheat220_enable = false
+
+cheat221_desc = "Have Torment"
+cheat221_code = "8203ABBA+0063"
+cheat221_enable = false
+
+cheat222_desc = "Have Toss Orb"
+cheat222_code = "8203AC28+0063"
+cheat222_enable = false
+
+cheat223_desc = "Have Totter Orb"
+cheat223_code = "8203ABFA+0063"
+cheat223_enable = false
+
+cheat224_desc = "Have Totter Seed"
+cheat224_code = "8203AAF8+0063"
+cheat224_enable = false
+
+cheat225_desc = "Have Toxic"
+cheat225_code = "8203AB74+0063"
+cheat225_enable = false
+
+cheat226_desc = "Have Transfer Orb"
+cheat226_code = "8203ABE2+0063"
+cheat226_enable = false
+
+cheat227_desc = "Have Trap Scarf"
+cheat227_code = "8203AAA8+0063"
+cheat227_enable = false
+
+cheat228_desc = "Have Trapbust Orb"
+cheat228_code = "8203AC08+0063"
+cheat228_enable = false
+
+cheat229_desc = "Have TraPPer Orb"
+cheat229_code = "8203AC1E+0063"
+cheat229_enable = false
+
+cheat230_desc = "Have Trawl Orb"
+cheat230_code = "8203ABF0+0063"
+cheat230_enable = false
+
+cheat231_desc = "Have Twist Band"
+cheat231_code = "8203AA86+0063"
+cheat231_enable = false
+
+cheat232_desc = "Have Two-edge Orb"
+cheat232_code = "8203ABFC+0063"
+cheat232_enable = false
+
+cheat233_desc = "Have Upgrade"
+cheat233_code = "8203AB44+0063"
+cheat233_enable = false
+
+cheat234_desc = "Have Vacuum-cut"
+cheat234_code = "8203AC12+0063"
+cheat234_enable = false
+
+cheat235_desc = "Have Warp Orb"
+cheat235_code = "8203ABE0+0063"
+cheat235_enable = false
+
+cheat236_desc = "Have Warp Scarf"
+cheat236_code = "8203AA9C+0063"
+cheat236_enable = false
+
+cheat237_desc = "Have Warp Seed"
+cheat237_code = "8203AAFE+0063"
+cheat237_enable = false
+
+cheat238_desc = "Have Water Pulse"
+cheat238_code = "8203AB6E+0063"
+cheat238_enable = false
+
+cheat239_desc = "Have Water Stone"
+cheat239_code = "8203AB54+0063"
+cheat239_enable = false
+
+cheat240_desc = "Have Waterfall"
+cheat240_code = "8203AC3C+0063"
+cheat240_enable = false
+
+cheat241_desc = "Have Weather Band"
+cheat241_code = "8203AACA+0063"
+cheat241_enable = false
+
+cheat242_desc = "Have Weavile Fig"
+cheat242_code = "8203AC44+0063"
+cheat242_enable = false
+
+cheat243_desc = "Have Whiff Specs"
+cheat243_code = "8203AAC0+0063"
+cheat243_enable = false
+
+cheat244_desc = "Have White Gummi"
+cheat244_code = "8203AB1C+0063"
+cheat244_enable = false
+
+cheat245_desc = "Have Wide Slash"
+cheat245_code = "8203ABCE+0063"
+cheat245_enable = false
+
+cheat246_desc = "Have Wish Stone"
+cheat246_code = "8203AADC+0063"
+cheat246_enable = false
+
+cheat247_desc = "Have X-ray Specs"
+cheat247_code = "8203AA92+0063"
+cheat247_enable = false
+
+cheat248_desc = "Have Yellow Gummi"
+cheat248_code = "8203AB24+0063"
+cheat248_enable = false
+
+cheat249_desc = "Have Zinc"
+cheat249_code = "8203AB12+0063"
+cheat249_enable = false
+
+cheat250_desc = "Have Zinc Band"
+cheat250_code = "8203AAB4+0063"
+cheat250_enable = false
+
+cheat251_desc = "Impish"
+cheat251_code = "320048E0+0007"
+cheat251_enable = false
+
+cheat252_desc = "Infinite Belly"
+cheat252_code = "72000AE8+00FF+820042CC+270E"
+cheat252_enable = false
+
+cheat253_desc = "Infinite Money"
+cheat253_code = "8203AC80+967F+8203AC82+0098"
+cheat253_enable = false
+
+cheat254_desc = "Jolly"
+cheat254_code = "320048DC+0007"
+cheat254_enable = false
+
+cheat255_desc = "Lonely"
+cheat255_code = "320048FC+0007"
+cheat255_enable = false
+
+cheat256_desc = "Max/Infinite Belly"
+cheat256_code = "820042CC+03E6+820042D0+03E7"
+cheat256_enable = false
+
+cheat257_desc = "Max/Infinite Money"
+cheat257_code = "8203AC80+869F+8203AC82+0001"
+cheat257_enable = false
+
+cheat258_desc = "Max/Infinite Savings"
+cheat258_code = "8203AC84+967F+8203AC86+0098"
+cheat258_enable = false
+
+cheat259_desc = "Maximum Belly"
+cheat259_code = "72000AE8+00FF+820042D0+270F"
+cheat259_enable = false
+
+cheat260_desc = "Maximum Rank Pts"
+cheat260_code = "8203AC94+E0FF+8203AC96+05F5"
+cheat260_enable = false
+
+cheat261_desc = "Naive"
+cheat261_code = "320048E4+0007"
+cheat261_enable = false
+
+cheat262_desc = "Quirky"
+cheat262_code = "32004900+0007"
+cheat262_enable = false
+
+cheat263_desc = "Relaxed"
+cheat263_code = "320048F8+0007"
+cheat263_enable = false
+
+cheat264_desc = "Sassy"
+cheat264_code = "320048F0+0007"
+cheat264_enable = false
+
+cheat265_desc = "Stop Enemy Respawn"
+cheat265_code = "32004158+0000"
+cheat265_enable = false
+
+cheat266_desc = "Timid"
+cheat266_code = "320048E8+0007"
+cheat266_enable = false
+
+cheat267_desc = "Weak Enemies"
+cheat267_code = "42004BC6+0000+00000004+0208"
+cheat267_enable = false
+
+cheat268_desc = "Weaken Legendary [L+R+Dwn]"
+cheat268_code = "74000130+007F+820049BE+0000"
+cheat268_enable = false
+
+cheat269_desc = "Infinite HP"
+cheat269_code = "82004193+0063"
+cheat269_enable = false
+
+cheat270_desc = "Infinite HP (Alternate)"
+cheat270_code = "4200419E+03E7+00000004+0208+420041A0+03E7+00000002+0208"
+cheat270_enable = false
+
+cheat271_desc = "Max Status"
+cheat271_code = "420041A4+FFFF+00000002+0208+420041A6+FFFF+00000002+0208"
+cheat271_enable = false
+
+cheat272_desc = "Max EXP"
+cheat272_code = "420041A8+967F+00000002+0208+420041AA+0098+00000002+0208"
+cheat272_enable = false
+
+cheat273_desc = "Max Belly Size"
+cheat273_code = "820042D0+00FF"
+cheat273_enable = false
+
+cheat274_desc = "Items Cost 1 Poke (Shop)"
+cheat274_code = "820039B8+0001"
+cheat274_enable = false
+
+cheat275_desc = "Max Poke (Money)"
+cheat275_code = "82038C08+423F+82038C0A+000F"
+cheat275_enable = false
+
+cheat276_desc = "Infinite Max HP ALL PokÃÂ©mon (In-Battle Only)"
+cheat276_code = "4200419E+03E7+00000004+0208+420041A0+03E7+00000004+0208"
+cheat276_enable = false
+
+cheat277_desc = "Max Stats ALL PokÃÂ©mon (In-Battle Only)"
+cheat277_code = "420041A4+FFFF+00000004+0208+420041A6+FFFF+00000004+0208"
+cheat277_enable = false
+
+cheat278_desc = "Max Stats"
+cheat278_code = "820047BC+FFFF+820047BE+FFFF"
+cheat278_enable = false
+
+cheat279_desc = "One Fight For Max Level Up ALL PokÃÂ©mon (In-Battle Only)"
+cheat279_code = "420041AA+0020+00000004+0208"
+cheat279_enable = false
+
+cheat280_desc = "Friend Areas Cost 1 Poke"
+cheat280_code = "820039C4+0001"
+cheat280_enable = false
+
+cheat281_desc = "Completed Dungeon [Press L+R+Start]"
+cheat281_code = "74000130+00F7+32004139+0020"
+cheat281_enable = false
+
+cheat282_desc = "All Friend Areas Unlocked"
+cheat282_code = "42038C20+1111+00000021+0002"
+cheat282_enable = false
+
+cheat283_desc = "Level 100 Main Character"
+cheat283_code = "32004199+0064"
+cheat283_enable = false
+
+cheat284_desc = "Encounter Rate Set To Max"
+cheat284_code = "32004156+0023"
+cheat284_enable = false

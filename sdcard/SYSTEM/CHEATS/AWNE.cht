@@ -1,0 +1,61 @@
+cheats = 15
+
+cheat0_desc = "Have 99 Souls"
+cheat0_code = "33000876+0063+33000879+0063"
+cheat0_enable = false
+
+cheat1_desc = "Have 99 Sparks"
+cheat1_code = "33000874+0063"
+cheat1_enable = false
+
+cheat2_desc = "Have 99 Sweets"
+cheat2_code = "33000877+0063+33000878+0063"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Double Jumps"
+cheat3_code = "33000935+0008"
+cheat3_enable = false
+
+cheat4_desc = "Max Food Found"
+cheat4_code = "33000877+00FF"
+cheat4_enable = false
+
+cheat5_desc = "Max Score"
+cheat5_code = "83000870+423F+83000872+000F"
+cheat5_enable = false
+
+cheat6_desc = "Max Souls Found"
+cheat6_code = "33000876+00FF"
+cheat6_enable = false
+
+cheat7_desc = "Max/Infinite Stars (Health)"
+cheat7_code = "33000874+00FF"
+cheat7_enable = false
+
+cheat8_desc = "Multi Jump"
+cheat8_code = "D0000020+0001+330008F8+0012"
+cheat8_enable = false
+
+cheat9_desc = "Skip Level [Press Select+L]"
+cheat9_code = "74000130+01FB+33000A30+0001"
+cheat9_enable = false
+
+cheat10_desc = "Transform Into Alicia [Press L+A]"
+cheat10_code = "74000130+01FE+3300092D+0000"
+cheat10_enable = false
+
+cheat11_desc = "Transform Into Greg [Press L+B]"
+cheat11_code = "74000130+01FD+3300092D+0004"
+cheat11_enable = false
+
+cheat12_desc = "Transparent"
+cheat12_code = "33000924+0004"
+cheat12_enable = false
+
+cheat13_desc = "Invincible"
+cheat13_code = "83000924+0101"
+cheat13_enable = false
+
+cheat14_desc = "Infinite Lives"
+cheat14_code = "33000875+00FF"
+cheat14_enable = false

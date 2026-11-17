@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Access All Cups (In Shop)"
+cheat0_code = "330005C4+0005"
+cheat0_enable = false
+
+cheat1_desc = "All Extras Bought"
+cheat1_code = "830005B0+FFFF+830005B2+FFFF+830005B4+FFFF"
+cheat1_enable = false
+
+cheat2_desc = "Always Win Championship"
+cheat2_code = "33002A4B+0001"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Checkpoint Time"
+cheat3_code = "830005D8+02EE"
+cheat3_enable = false
+
+cheat4_desc = "Infinite RP"
+cheat4_code = "83000604+C350"
+cheat4_enable = false
+
+cheat5_desc = "Low Total Time"
+cheat5_code = "830005CE+0000"
+cheat5_enable = false
+
+cheat6_desc = "Press R For Turbo Boost"
+cheat6_code = "D0000020+0100+33002A35+0030"
+cheat6_enable = false

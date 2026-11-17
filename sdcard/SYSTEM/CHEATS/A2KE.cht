@@ -1,0 +1,41 @@
+cheats = 10
+
+cheat0_desc = "Bonuses 100%"
+cheat0_code = "32005AEC+0001+32005AF0+0001"
+cheat0_enable = false
+
+cheat1_desc = "Gadgets 100%"
+cheat1_code = "32005AC8+0001+32005ACC+0001"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Fuel"
+cheat2_code = "320013AD+00C0"
+cheat2_enable = false
+
+cheat3_desc = "Magnamen 100%"
+cheat3_code = "32005AFC+0001+32005B00+0001"
+cheat3_enable = false
+
+cheat4_desc = "Mines 100%"
+cheat4_code = "32005AF4+0001+32005AF8+0001"
+cheat4_enable = false
+
+cheat5_desc = "Moon Jump"
+cheat5_code = "D0000020+0001+82001360+F9B8"
+cheat5_enable = false
+
+cheat6_desc = "Powerups 100%"
+cheat6_code = "32005B04+0001+32005B08+0001"
+cheat6_enable = false
+
+cheat7_desc = "Rescued 100%"
+cheat7_code = "32005AD0+0064"
+cheat7_enable = false
+
+cheat8_desc = "Upgrades 100%"
+cheat8_code = "32005ADC+0001+32005AE0+0001"
+cheat8_enable = false
+
+cheat9_desc = "Weapons 100%"
+cheat9_code = "32005AD4+0001+32005AD8+0001"
+cheat9_enable = false

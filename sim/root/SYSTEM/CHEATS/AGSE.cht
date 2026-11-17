@@ -1,0 +1,541 @@
+cheats = 135
+
+cheat0_desc = "9,999,999 EXP Gained From Battle"
+cheat0_code = "82030580+967F+82030582+0098"
+cheat0_enable = false
+
+cheat1_desc = "Access All Summons"
+cheat1_code = "8200024C+FFFF+42035998+0707+00000008+0002"
+cheat1_enable = false
+
+cheat2_desc = "Access Djinn"
+cheat2_code = "32000618+0007"
+cheat2_enable = false
+
+cheat3_desc = "All Artifacts Available in Shop"
+cheat3_code = "42000380+6363+00000030+0002"
+cheat3_enable = false
+
+cheat4_desc = "All charaters have two turns"
+cheat4_code = "32000644+0002+32000790+0002+320008DC+0002+32000A28+0002"
+cheat4_enable = false
+
+cheat5_desc = "Always Have More Than Maximum Cash"
+cheat5_code = "32000253+007E"
+cheat5_enable = false
+
+cheat6_desc = "Debug Room 1"
+cheat6_code = "32000400+00C7+32000408+00C7"
+cheat6_enable = false
+
+cheat7_desc = "Debug Room 2"
+cheat7_code = "32000400+00C8+32000408+00C8"
+cheat7_enable = false
+
+cheat8_desc = "Enter Debug Room 1 [Press L+B+Up]"
+cheat8_code = "74000130+01BD+32030170+0001+74000130+01BD+32000400+00C8"
+cheat8_enable = false
+
+cheat9_desc = "Enter Debug Room 2 [Press R+B+Up]"
+cheat9_code = "74000130+02BD+32030170+0001+74000130+02BD+32000400+00C7"
+cheat9_enable = false
+
+cheat10_desc = "Exit To Vale Sanctum [Press L+B+Down]"
+cheat10_code = "74000130+017D+32030170+0001+74000130+017D+32000400+0009+74000130+017D+32000402+0002"
+cheat10_enable = false
+
+cheat11_desc = "Garet Earth Djinni"
+cheat11_code = "32000754+007F"
+cheat11_enable = false
+
+cheat12_desc = "Garet Fire Djinni"
+cheat12_code = "3200075C+007F"
+cheat12_enable = false
+
+cheat13_desc = "Garet Has Red Djinn"
+cheat13_code = "82000744+0000+82000748+0000+8200074C+007F+82000750+0000+82000764+0000+82000766+0007"
+cheat13_enable = false
+
+cheat14_desc = "Garet Have Item - Slot 1"
+cheat14_code = "32000724+005C"
+cheat14_enable = false
+
+cheat15_desc = "Garet Infinite HP"
+cheat15_code = "82000680+03E7+82000684+03E7"
+cheat15_enable = false
+
+cheat16_desc = "Garet Infinite PP"
+cheat16_code = "82000682+03E7+82000686+03E7"
+cheat16_enable = false
+
+cheat17_desc = "Garet Max AG"
+cheat17_code = "3200068C+00FF"
+cheat17_enable = false
+
+cheat18_desc = "Garet Max AT"
+cheat18_code = "32000688+00FF"
+cheat18_enable = false
+
+cheat19_desc = "Garet Max DF"
+cheat19_code = "3200068A+00FF"
+cheat19_enable = false
+
+cheat20_desc = "Garet Max Exp"
+cheat20_code = "82000770+E0FF+82000772+05F5"
+cheat20_enable = false
+
+cheat21_desc = "Garet Max LK"
+cheat21_code = "3200068E+00FF"
+cheat21_enable = false
+
+cheat22_desc = "Garet Max Lvl"
+cheat22_code = "3200065B+0063"
+cheat22_enable = false
+
+cheat23_desc = "Garet Maximum Element Power And Resist"
+cheat23_code = "82000694+03E7+82000696+03E7+82000698+03E7+8200069A+03E7+8200069C+03E7+8200069E+03E7+820006A0+03E7+820006A2+03E7"
+cheat23_enable = false
+
+cheat24_desc = "Garet Water Djinni"
+cheat24_code = "32000758+007F"
+cheat24_enable = false
+
+cheat25_desc = "Garet Wind Djinni"
+cheat25_code = "32000760+007F"
+cheat25_enable = false
+
+cheat26_desc = "Garet: Maximum Agility"
+cheat26_code = "8200068C+03E7"
+cheat26_enable = false
+
+cheat27_desc = "Garet: Maximum Attack"
+cheat27_code = "82000688+03E7"
+cheat27_enable = false
+
+cheat28_desc = "Garet: Maximum Defense"
+cheat28_code = "8200068A+03E7"
+cheat28_enable = false
+
+cheat29_desc = "Garet: Maximum HP"
+cheat29_code = "82000680+03E7"
+cheat29_enable = false
+
+cheat30_desc = "Garet: Maximum Pow/Res"
+cheat30_code = "42000694+03E7+00000008+0002"
+cheat30_enable = false
+
+cheat31_desc = "Garet: Maximum PP"
+cheat31_code = "82000682+03E7"
+cheat31_enable = false
+
+cheat32_desc = "Garret Has All Seven Wind Djinn"
+cheat32_code = "32000766+0007+3200076A+0007+8200074C+007F+8200075C+007F"
+cheat32_enable = false
+
+cheat33_desc = "Have 50,000 Coins"
+cheat33_code = "82000250+C350"
+cheat33_enable = false
+
+cheat34_desc = "Have Two Turns"
+cheat34_code = "32000644+0004+32000790+0004+320008DC+0004+32000A28+0004"
+cheat34_enable = false
+
+cheat35_desc = "Improve Version of Debug Room"
+cheat35_code = "73001AE8+0304+82030170+0001+73001AE8+0304+32000400+00C7+73001AE8+0308+82030170+0001+73001AE8+0308+32000400+00C8+73001AE8+0302+83007EA0+C919"
+cheat35_enable = false
+
+cheat36_desc = "Infinite Coins"
+cheat36_code = "82000250+967F+82000252+0098"
+cheat36_enable = false
+
+cheat37_desc = "Infinite Summons"
+cheat37_code = "32000257+00FF"
+cheat37_enable = false
+
+cheat38_desc = "Isaac Earth Djinni"
+cheat38_code = "32000608+007F"
+cheat38_enable = false
+
+cheat39_desc = "Isaac Fire Djinni"
+cheat39_code = "32000610+007F"
+cheat39_enable = false
+
+cheat40_desc = "Isaac Has All Seven Earth Djinn"
+cheat40_code = "32000618+0007+3200061C+0007+820005F8+007F+82000608+007F"
+cheat40_enable = false
+
+cheat41_desc = "Isaac Infinite HP"
+cheat41_code = "82000534+03E7+82000538+03E7"
+cheat41_enable = false
+
+cheat42_desc = "Isaac Infinite PP"
+cheat42_code = "82000536+03E7+8200053A+03E7"
+cheat42_enable = false
+
+cheat43_desc = "Isaac Max AG"
+cheat43_code = "32000540+00FF"
+cheat43_enable = false
+
+cheat44_desc = "Isaac Max AT"
+cheat44_code = "3200053C+00FF"
+cheat44_enable = false
+
+cheat45_desc = "Isaac Max DF"
+cheat45_code = "3200053E+00FF"
+cheat45_enable = false
+
+cheat46_desc = "Isaac Max Exp"
+cheat46_code = "82000624+E0FF+82000626+05F5"
+cheat46_enable = false
+
+cheat47_desc = "Isaac Max LK"
+cheat47_code = "32000542+00FF"
+cheat47_enable = false
+
+cheat48_desc = "Isaac Max Lvl"
+cheat48_code = "3200050F+0063"
+cheat48_enable = false
+
+cheat49_desc = "Isaac Maximum Element Power And Resist"
+cheat49_code = "82000548+03E7+8200054A+03E7+8200054C+03E7+8200054E+03E7+82000550+03E7+82000552+03E7+82000554+03E7+82000556+03E7"
+cheat49_enable = false
+
+cheat50_desc = "Isaac Water Djinni"
+cheat50_code = "3200060C+007F"
+cheat50_enable = false
+
+cheat51_desc = "Isaac Wind Djinni"
+cheat51_code = "32000614+007F"
+cheat51_enable = false
+
+cheat52_desc = "Isaac: Maximum Agility"
+cheat52_code = "82000540+03E7"
+cheat52_enable = false
+
+cheat53_desc = "Isaac: Maximum Attack"
+cheat53_code = "8200053C+03E7"
+cheat53_enable = false
+
+cheat54_desc = "Isaac: Maximum Defense"
+cheat54_code = "8200053E+03E7"
+cheat54_enable = false
+
+cheat55_desc = "Isaac: Maximum HP"
+cheat55_code = "82000534+03E7"
+cheat55_enable = false
+
+cheat56_desc = "Isaac: Maximum Pow/Res"
+cheat56_code = "42000548+03E7+00000008+0002"
+cheat56_enable = false
+
+cheat57_desc = "Isaac: Maximum PP"
+cheat57_code = "82000536+03E7"
+cheat57_enable = false
+
+cheat58_desc = "Issac Has Orange Djinn"
+cheat58_code = "820005F8+007F+820005FC+0000+82000600+0000+82000604+0000+82000618+0007+8200061A+0000"
+cheat58_enable = false
+
+cheat59_desc = "Ivan Earth Djinni"
+cheat59_code = "320008A0+007F"
+cheat59_enable = false
+
+cheat60_desc = "Ivan Fire Djinni"
+cheat60_code = "320008A8+007F"
+cheat60_enable = false
+
+cheat61_desc = "Ivan Has All Seven Wind Djinn"
+cheat61_code = "320008B3+0007+320008B7+0007+8200089C+007F+820008AC+007F"
+cheat61_enable = false
+
+cheat62_desc = "Ivan Has Purple Djinn"
+cheat62_code = "82000890+0000+82000894+0000+82000898+0000+8200089C+007F+820008B0+0000+820008B2+0700"
+cheat62_enable = false
+
+cheat63_desc = "Ivan Infinite HP"
+cheat63_code = "820007CC+03E7+820007D0+03E7"
+cheat63_enable = false
+
+cheat64_desc = "Ivan Infinite PP"
+cheat64_code = "820007CE+03E7+820007D2+03E7"
+cheat64_enable = false
+
+cheat65_desc = "Ivan Max AG"
+cheat65_code = "320007D8+00FF"
+cheat65_enable = false
+
+cheat66_desc = "Ivan Max AT"
+cheat66_code = "320007D4+00FF"
+cheat66_enable = false
+
+cheat67_desc = "Ivan Max DF"
+cheat67_code = "320007D6+00FF"
+cheat67_enable = false
+
+cheat68_desc = "Ivan Max Exp"
+cheat68_code = "820008BC+E0FF+820008BE+05F5"
+cheat68_enable = false
+
+cheat69_desc = "Ivan Max LK"
+cheat69_code = "320007DA+00FF"
+cheat69_enable = false
+
+cheat70_desc = "Ivan Max Lvl"
+cheat70_code = "320007A7+0063"
+cheat70_enable = false
+
+cheat71_desc = "Ivan Maximum Element Power And Resist"
+cheat71_code = "820007E0+03E7+820007E2+03E7+820007E4+03E7+820007E6+03E7+820007E8+03E7+820007EA+03E7+820007EC+03E7+820007EE+03E7"
+cheat71_enable = false
+
+cheat72_desc = "Ivan Water Djinni"
+cheat72_code = "320008A4+007F"
+cheat72_enable = false
+
+cheat73_desc = "Ivan Wind Djinni"
+cheat73_code = "320008AC+007F"
+cheat73_enable = false
+
+cheat74_desc = "Ivan: Maximum Agility"
+cheat74_code = "820007D8+03E7"
+cheat74_enable = false
+
+cheat75_desc = "Ivan: Maximum Attack"
+cheat75_code = "820007D4+03E7"
+cheat75_enable = false
+
+cheat76_desc = "Ivan: Maximum Defense"
+cheat76_code = "820007D6+03E7"
+cheat76_enable = false
+
+cheat77_desc = "Ivan: Maximum HP"
+cheat77_code = "820007CC+03E7"
+cheat77_enable = false
+
+cheat78_desc = "Ivan: Maximum Pow/Res"
+cheat78_code = "420007E0+03E7+00000008+0002"
+cheat78_enable = false
+
+cheat79_desc = "Ivan: Maximum PP"
+cheat79_code = "820007CE+03E7"
+cheat79_enable = false
+
+cheat80_desc = "Jenna Infinite HP"
+cheat80_code = "82000BB0+03E7+82000BB4+03E7"
+cheat80_enable = false
+
+cheat81_desc = "Jenna Infinite PP"
+cheat81_code = "82000BB2+03E7+82000BB6+03E7"
+cheat81_enable = false
+
+cheat82_desc = "Jenna Max AG"
+cheat82_code = "32000BBC+00FF"
+cheat82_enable = false
+
+cheat83_desc = "Jenna Max AT"
+cheat83_code = "32000BB8+00FF"
+cheat83_enable = false
+
+cheat84_desc = "Jenna Max DF"
+cheat84_code = "32000BBA+00FF"
+cheat84_enable = false
+
+cheat85_desc = "Jenna Max Exp"
+cheat85_code = "82000CA0+E0FF+82000CA2+05F5"
+cheat85_enable = false
+
+cheat86_desc = "Jenna Max LK"
+cheat86_code = "32000BBE+00FF"
+cheat86_enable = false
+
+cheat87_desc = "Jenna Max Lvl"
+cheat87_code = "32000B8B+0063"
+cheat87_enable = false
+
+cheat88_desc = "Jenna: Maximum Agility"
+cheat88_code = "82000BBC+03E7"
+cheat88_enable = false
+
+cheat89_desc = "Jenna: Maximum Attack"
+cheat89_code = "82000BB8+03E7"
+cheat89_enable = false
+
+cheat90_desc = "Jenna: Maximum Defense"
+cheat90_code = "82000BBA+03E7"
+cheat90_enable = false
+
+cheat91_desc = "Jenna: Maximum HP"
+cheat91_code = "82000BB0+03E7"
+cheat91_enable = false
+
+cheat92_desc = "Jenna: Maximum Pow/Res"
+cheat92_code = "42000BC4+03E7+00000008+0002"
+cheat92_enable = false
+
+cheat93_desc = "Jenna: Maximum PP"
+cheat93_code = "82000BB2+03E7"
+cheat93_enable = false
+
+cheat94_desc = "Max Coins"
+cheat94_code = "82000250+E0FF+82000252+05F5"
+cheat94_enable = false
+
+cheat95_desc = "Max Permanent Agility"
+cheat95_code = "4200051C+270F+00000004+014C"
+cheat95_enable = false
+
+cheat96_desc = "Max Permanent DEF"
+cheat96_code = "4200051A+270F+00000004+014C"
+cheat96_enable = false
+
+cheat97_desc = "Max Permanent Luck"
+cheat97_code = "3200051E+0080+3200066A+0080+320007B6+0080+32000902+0080+32000A4E+0080+32000B9A+0080+32000CE6+0080"
+cheat97_enable = false
+
+cheat98_desc = "Max Permanent STR"
+cheat98_code = "42000518+270F+00000004+014C"
+cheat98_enable = false
+
+cheat99_desc = "Max. Permanent HP"
+cheat99_code = "42000510+270F+00000004+014C"
+cheat99_enable = false
+
+cheat100_desc = "Max. Permanent PP"
+cheat100_code = "42000512+270F+00000004+014C"
+cheat100_enable = false
+
+cheat101_desc = "Mia Earth Djinni"
+cheat101_code = "320009EC+007F"
+cheat101_enable = false
+
+cheat102_desc = "Mia Fire Djinni"
+cheat102_code = "320009F4+007F"
+cheat102_enable = false
+
+cheat103_desc = "Mia Has All Seven Water Djinn"
+cheat103_code = "320009FD+0007+32000A01+0007+820009E0+007F+820009F0+007F"
+cheat103_enable = false
+
+cheat104_desc = "Mia Has Blue Djinn"
+cheat104_code = "820009DC+0000+820009E0+007F+820009E4+0000+820009E8+0000+820009FC+0700+820009FE+0000"
+cheat104_enable = false
+
+cheat105_desc = "Mia Infinite HP"
+cheat105_code = "82000918+03E7+8200091C+03E7"
+cheat105_enable = false
+
+cheat106_desc = "Mia Infinite PP"
+cheat106_code = "8200091A+03E7+8200091E+03E7"
+cheat106_enable = false
+
+cheat107_desc = "Mia Max AG"
+cheat107_code = "32000924+00FF"
+cheat107_enable = false
+
+cheat108_desc = "Mia Max AT"
+cheat108_code = "32000920+00FF"
+cheat108_enable = false
+
+cheat109_desc = "Mia Max DF"
+cheat109_code = "32000922+00FF"
+cheat109_enable = false
+
+cheat110_desc = "Mia Max Exp"
+cheat110_code = "82000A08+E0FF+82000A0A+05F5"
+cheat110_enable = false
+
+cheat111_desc = "Mia Max LK"
+cheat111_code = "32000926+00FF"
+cheat111_enable = false
+
+cheat112_desc = "Mia Max Lvl"
+cheat112_code = "320008E3+0063"
+cheat112_enable = false
+
+cheat113_desc = "Mia Maximum Element Power and Resist"
+cheat113_code = "8200092C+03E7+8200092E+03E7+82000930+03E7+82000932+03E7+82000934+03E7+82000936+03E7+82000938+03E7+8200093A+03E7"
+cheat113_enable = false
+
+cheat114_desc = "Mia Water Djinni"
+cheat114_code = "320009F0+007F"
+cheat114_enable = false
+
+cheat115_desc = "Mia Wind Djinni"
+cheat115_code = "320009F8+007F"
+cheat115_enable = false
+
+cheat116_desc = "Mia: Maximum Agility"
+cheat116_code = "82000924+03E7"
+cheat116_enable = false
+
+cheat117_desc = "Mia: Maximum Attack"
+cheat117_code = "82000920+03E7"
+cheat117_enable = false
+
+cheat118_desc = "Mia: Maximum Defense"
+cheat118_code = "82000922+03E7"
+cheat118_enable = false
+
+cheat119_desc = "Mia: Maximum HP"
+cheat119_code = "82000918+03E7"
+cheat119_enable = false
+
+cheat120_desc = "Mia: Maximum Pow/Res"
+cheat120_code = "4200092C+03E7+00000008+0002"
+cheat120_enable = false
+
+cheat121_desc = "Mia: Maximum PP"
+cheat121_code = "8200091A+03E7"
+cheat121_enable = false
+
+cheat122_desc = "Quick Coin Gain"
+cheat122_code = "8203057C+C350"
+cheat122_enable = false
+
+cheat123_desc = "Quick Level Gain"
+cheat123_code = "82030580+07D0"
+cheat123_enable = false
+
+cheat124_desc = "Refresh Location(L + R + A)"
+cheat124_code = "73001AE8+0302+82030170+0001"
+cheat124_enable = false
+
+cheat125_desc = "Show Full Map"
+cheat125_code = "82000070+FFFF+82000072+FFFF+82000074+FFFF+82000076+FFFF"
+cheat125_enable = false
+
+cheat126_desc = "Take less damage in battle"
+cheat126_code = "3200062B+00FF+32000777+00FF+320008C3+00FF+32000A0F+00FF"
+cheat126_enable = false
+
+cheat127_desc = "Walk Through Walls Everywhere Else"
+cheat127_code = "73001AE8+0110+82030EE2+0001+73001AE8+0180+82030EEA+0001+73001AE8+0120+82030EE2+FFFE+73001AE8+0120+82030EE0+007F+73001AE8+0140+82030EEA+FFFE+73001AE8+0140+82030EE8+007F"
+cheat127_enable = false
+
+cheat128_desc = "Walk Through Walls On The World Map"
+cheat128_code = "73001AE8+0240+82030DD2+FFFE+73001AE8+0280+82030DD2+0001+73001AE8+0240+82030DD0+007F+73001AE8+0210+82030DCA+0001+73001AE8+0220+82030DCA+FFFE+73001AE8+0220+82030DC8+007F"
+cheat128_enable = false
+
+cheat129_desc = "Walk Thru Walls (Hold R and the direction you want to go)"
+cheat129_code = "74000130+02BF+E2030ECE+FFFF+74000130+027F+E2030ECE+0001+74000130+02DF+E2030EC6+FFFF+74000130+02EF+E2030EC6+0001"
+cheat129_enable = false
+
+cheat130_desc = "Walk Thru Walls - World Map (Hold B And The Direction You Want To Go)"
+cheat130_code = "74000130+03BD+E2030DB6+FFFF+74000130+037D+E2030DB6+0001+74000130+03DD+E2030DAE+FFFF+74000130+03ED+E2030DAE+0001"
+cheat130_enable = false
+
+cheat131_desc = "Weak Enemies"
+cheat131_code = "420308B0+0001+00000003+014C"
+cheat131_enable = false
+
+cheat132_desc = "Infinite HP"
+cheat132_code = "42000538+07CF+00000004+014C"
+cheat132_enable = false
+
+cheat133_desc = "Infinite PP"
+cheat133_code = "4200053A+07CF+00000004+014C"
+cheat133_enable = false
+
+cheat134_desc = "No Random Battles (Scripted Encounters Still Happen)"
+cheat134_code = "3200047A+0000"
+cheat134_enable = false

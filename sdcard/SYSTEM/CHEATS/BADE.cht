@@ -1,0 +1,41 @@
+cheats = 10
+
+cheat0_desc = "All Gems Found"
+cheat0_code = "330005E0+000A"
+cheat0_enable = false
+
+cheat1_desc = "Have Parachute"
+cheat1_code = "330005D4+0001"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Fruit"
+cheat2_code = "830005CE+9999"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health"
+cheat3_code = "330005CD+0005"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Lives"
+cheat4_code = "330005CA+000A"
+cheat4_enable = false
+
+cheat5_desc = "Jump in Midair"
+cheat5_code = "8203FF00+4907+8203FF02+B402+8203FF04+1C31+8203FF06+390C+8203FF08+7809+8203FF0A+2280+8203FF0C+4011+8203FF0E+D002+8203FF10+2200+8203FF12+1F92+8203FF14+0210+8203FF16+6320+8203FF18+1C20+8203FF1A+3033+8203FF1C+7801+8203FF1E+BD00+8203FF20+82D9+8203FF22+0801+880182D0+4900+880182D2+4708+880182D4+FF01+880182D6+0203"
+cheat5_enable = false
+
+cheat6_desc = "Maximum Health"
+cheat6_code = "330005CC+0005"
+cheat6_enable = false
+
+cheat7_desc = "Multi Jump"
+cheat7_code = "43005288+FC00+03FF0002+0002"
+cheat7_enable = false
+
+cheat8_desc = "Start With 50 Gems"
+cheat8_code = "730005D0+0000+830005D0+5050"
+cheat8_enable = false
+
+cheat9_desc = "Transparent"
+cheat9_code = "33004CD0+0009"
+cheat9_enable = false

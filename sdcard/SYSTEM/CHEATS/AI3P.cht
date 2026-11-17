@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Max Score"
+cheat0_code = "83000114+967F+83000116+0098"
+cheat0_enable = false
+
+cheat1_desc = "Rapid Fire"
+cheat1_code = "33000120+0000"
+cheat1_enable = false

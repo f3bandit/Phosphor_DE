@@ -1,0 +1,129 @@
+cheats = 32
+
+cheat0_desc = "999 Treated Animals"
+cheat0_code = "4203C078+270F+00000006+0004"
+cheat0_enable = false
+
+cheat1_desc = "Aardvark"
+cheat1_code = "32034244+000F+320340E0+0003"
+cheat1_enable = false
+
+cheat2_desc = "Aardvarks"
+cheat2_code = "32034240+0000"
+cheat2_enable = false
+
+cheat3_desc = "Access All Scenarios"
+cheat3_code = "32021336+000C"
+cheat3_enable = false
+
+cheat4_desc = "Diagnosis Correct"
+cheat4_code = "7203BECC+0007+3203BECC+0006"
+cheat4_enable = false
+
+cheat5_desc = "Elephant"
+cheat5_code = "32034218+000F+32034020+0003"
+cheat5_enable = false
+
+cheat6_desc = "Elephants"
+cheat6_code = "32034214+0000"
+cheat6_enable = false
+
+cheat7_desc = "Have All Books"
+cheat7_code = "4203BFCA+03FF+00000006+0002"
+cheat7_enable = false
+
+cheat8_desc = "Have All Equipment"
+cheat8_code = "4203C06C+0F0F+00000003+0002+4203C04C+FFFF+0000000F+0002"
+cheat8_enable = false
+
+cheat9_desc = "Have All Instruments"
+cheat9_code = "43004F94+0300+0000000C+0010"
+cheat9_enable = false
+
+cheat10_desc = "Have All Toys"
+cheat10_code = "83004158+FFFF"
+cheat10_enable = false
+
+cheat11_desc = "Have Large Hospital"
+cheat11_code = "3203C0F0+00FF"
+cheat11_enable = false
+
+cheat12_desc = "Have Maximum Cash"
+cheat12_code = "8203C024+967F+8203C026+0098"
+cheat12_enable = false
+
+cheat13_desc = "Infinite Attempts"
+cheat13_code = "3203BF44+0000"
+cheat13_enable = false
+
+cheat14_desc = "Infinite Energy"
+cheat14_code = "8203387C+0000+3203387E+0000"
+cheat14_enable = false
+
+cheat15_desc = "Infinite Fitness"
+cheat15_code = "82033880+0000+32033882+0000"
+cheat15_enable = false
+
+cheat16_desc = "Infinite Food"
+cheat16_code = "4203BFD8+00C8+00000012+0004"
+cheat16_enable = false
+
+cheat17_desc = "Infinite Health"
+cheat17_code = "32033876+0008"
+cheat17_enable = false
+
+cheat18_desc = "Infinite Leisure"
+cheat18_code = "82033884+0000+32033886+0000"
+cheat18_enable = false
+
+cheat19_desc = "Leopard"
+cheat19_code = "320341EC+000F+32034060+0003"
+cheat19_enable = false
+
+cheat20_desc = "Leopards"
+cheat20_code = "320341E8+0000"
+cheat20_enable = false
+
+cheat21_desc = "Lion"
+cheat21_code = "320341C0+000F+32033EE0+0003"
+cheat21_enable = false
+
+cheat22_desc = "Lions"
+cheat22_code = "320341BC+0000"
+cheat22_enable = false
+
+cheat23_desc = "Maximum Clean"
+cheat23_code = "320338A2+00FF"
+cheat23_enable = false
+
+cheat24_desc = "Maximum Cure"
+cheat24_code = "320338A0+00FF"
+cheat24_enable = false
+
+cheat25_desc = "Maximum Reputation"
+cheat25_code = "33004148+0080"
+cheat25_enable = false
+
+cheat26_desc = "Maximum Stroke"
+cheat26_code = "320338A1+00FF"
+cheat26_enable = false
+
+cheat27_desc = "Maximum Training"
+cheat27_code = "320338A4+00FF"
+cheat27_enable = false
+
+cheat28_desc = "Merekats"
+cheat28_code = "32034190+0000"
+cheat28_enable = false
+
+cheat29_desc = "Start With $50,000"
+cheat29_code = "7203C024+1388+8203C024+C350"
+cheat29_enable = false
+
+cheat30_desc = "Zebra"
+cheat30_code = "32034168+000F+32034120+0003"
+cheat30_enable = false
+
+cheat31_desc = "Zebras"
+cheat31_code = "32034164+0000"
+cheat31_enable = false

@@ -1,0 +1,153 @@
+cheats = 38
+
+cheat0_desc = "10th Stage - Have All Weapons & Ammo"
+cheat0_code = "7202D786+0202+8202D78C+03FF+7202D786+0202+4202D78E+03E7+0000000A+0002"
+cheat0_enable = false
+
+cheat1_desc = "10th Stage - Infinite Armor"
+cheat1_code = "7202D81C+0202+32039594+0064"
+cheat1_enable = false
+
+cheat2_desc = "10th Stage - Infinite Health"
+cheat2_code = "7202D786+0202+3202B0EA+0064"
+cheat2_enable = false
+
+cheat3_desc = "11th Stage - Have All Weapons & Ammo"
+cheat3_code = "7203C832+0203+8203C838+03FF+7203C832+0203+4203C83A+03E7+0000000A+0002"
+cheat3_enable = false
+
+cheat4_desc = "11th Stage - Infinite Armor"
+cheat4_code = "7203C832+0203+3203C8C8+0064"
+cheat4_enable = false
+
+cheat5_desc = "11th Stage - Infinite Health"
+cheat5_code = "7203C832+0203+3203ADD2+0064"
+cheat5_enable = false
+
+cheat6_desc = "12th Stage - Have All Weapons & Ammo"
+cheat6_code = "72036F4E+0203+82036F54+03FF+72036F4E+0203+42036F56+03E7+0000000A+0002"
+cheat6_enable = false
+
+cheat7_desc = "12th Stage - Infinite Armor"
+cheat7_code = "72036F4E+0203+32036FE4+0064"
+cheat7_enable = false
+
+cheat8_desc = "12th Stage - Infinite Health"
+cheat8_code = "72036F4E+0203+3203449E+0064"
+cheat8_enable = false
+
+cheat9_desc = "1st Stage - Have All Weapons & Ammo"
+cheat9_code = "72035922+0202+82035928+03FF+72035922+0202+4203592A+03E7+0000000A+0002"
+cheat9_enable = false
+
+cheat10_desc = "1st Stage - Infinite Armor"
+cheat10_code = "72035922+0202+320359B8+0064"
+cheat10_enable = false
+
+cheat11_desc = "1st Stage - Infinite Health"
+cheat11_code = "72035922+0202+32033212+0064"
+cheat11_enable = false
+
+cheat12_desc = "2nd Stage - Have All Weapons & Ammo"
+cheat12_code = "7203ABF2+0203+8203ABF8+03FF+7203ABF2+0203+4203ABFA+03E7+0000000A+0002"
+cheat12_enable = false
+
+cheat13_desc = "2nd Stage - Infinite Armor"
+cheat13_code = "7203ABF2+0203+3203AC88+0064"
+cheat13_enable = false
+
+cheat14_desc = "2nd Stage - Infinite Health"
+cheat14_code = "7203ABF2+0203+320392EE+0064"
+cheat14_enable = false
+
+cheat15_desc = "3rd Stage - Have All Weapons & Ammo"
+cheat15_code = "7203D136+0203+8203D13C+03FF+7203D136+0203+4203D13E+03E7+0000000A+0002"
+cheat15_enable = false
+
+cheat16_desc = "3rd Stage - Infinite Armor"
+cheat16_code = "7203D136+0203+3203D1CC+0064"
+cheat16_enable = false
+
+cheat17_desc = "3rd Stage - Infinite Health"
+cheat17_code = "7203D136+0203+3203C1B6+0064"
+cheat17_enable = false
+
+cheat18_desc = "4th Stage - Have All Weapons & Ammo"
+cheat18_code = "7203E11E+0203+8203E124+03FF+7203E11E+0203+4203E126+03E7+0000000A+0002"
+cheat18_enable = false
+
+cheat19_desc = "4th Stage - Infinite Armor"
+cheat19_code = "7203E11E+0203+3203E1B4+0064"
+cheat19_enable = false
+
+cheat20_desc = "4th Stage - Infinite Health"
+cheat20_code = "7203E11E+0203+3203CC2E+0064"
+cheat20_enable = false
+
+cheat21_desc = "5th Stage - Have All Weapons & Ammo"
+cheat21_code = "7203EDE2+0203+8203EDE8+03FF+7203EDE2+0203+4203EDEA+03E7+0000000A+0002"
+cheat21_enable = false
+
+cheat22_desc = "5th Stage - Infinite Armor"
+cheat22_code = "7203EDE2+0203+3203EE78+0064"
+cheat22_enable = false
+
+cheat23_desc = "5th Stage - Infinite Health"
+cheat23_code = "7203EDE2+0203+3203D6AE+0064"
+cheat23_enable = false
+
+cheat24_desc = "6th Stage - Have All Weapons & Ammo"
+cheat24_code = "7202F862+0202+8202F868+03FF+7202F862+0202+4202F86A+03E7+0000000A+0002"
+cheat24_enable = false
+
+cheat25_desc = "6th Stage - Infinite Armor"
+cheat25_code = "7202F862+0202+3202F8F8+0064"
+cheat25_enable = false
+
+cheat26_desc = "6th Stage - Infinite Health"
+cheat26_code = "7202F862+0202+3202CD3E+0064"
+cheat26_enable = false
+
+cheat27_desc = "7th Stage - Have All Weapons & Ammo"
+cheat27_code = "7203D382+0203+8203D388+03FF+7203D382+0203+4203D38A+03E7+0000000A+0002"
+cheat27_enable = false
+
+cheat28_desc = "7th Stage - Infinite Armor"
+cheat28_code = "7203D382+0203+3203D418+0064"
+cheat28_enable = false
+
+cheat29_desc = "7th Stage - Infinite Health"
+cheat29_code = "7203D382+0203+3203AF2A+0064"
+cheat29_enable = false
+
+cheat30_desc = "8th Stage - Have All Weapons & Ammo"
+cheat30_code = "720376B6+0203+820376BC+03FF+720376B6+0203+420376BE+03E7+0000000A+0002"
+cheat30_enable = false
+
+cheat31_desc = "8th Stage - Infinite Armor"
+cheat31_code = "720376B6+0203+3203774C+0064"
+cheat31_enable = false
+
+cheat32_desc = "8th Stage - Infinite Health"
+cheat32_code = "720376B6+0203+32035A12+0064"
+cheat32_enable = false
+
+cheat33_desc = "9th Stage - Infinite Armor"
+cheat33_code = "720394FE+0203+32039594+0064"
+cheat33_enable = false
+
+cheat34_desc = "9th Stage - Infinite Health"
+cheat34_code = "720394FE+0203+32037032+0064"
+cheat34_enable = false
+
+cheat35_desc = "Max Score"
+cheat35_code = "32000238+00FF"
+cheat35_enable = false
+
+cheat36_desc = "Skip Level [Press Select+Up]"
+cheat36_code = "74000130+03BB+330057B4+0001+74000130+03BB+830057C2+0844+74000130+03BB+830057C0+DEDC"
+cheat36_enable = false
+
+cheat37_desc = "Start With Hi-Score"
+cheat37_code = "72000238+0000+82000238+C350"
+cheat37_enable = false

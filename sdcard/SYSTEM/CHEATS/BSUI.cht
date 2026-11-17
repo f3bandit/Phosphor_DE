@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "1HitKill"
+cheat0_code = "8801512E+46C0"
+cheat0_enable = false
+
+cheat1_desc = "Invulnerable"
+cheat1_code = "8800EF9A+46C0"
+cheat1_enable = false

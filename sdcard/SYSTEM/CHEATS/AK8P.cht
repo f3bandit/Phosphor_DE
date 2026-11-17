@@ -1,0 +1,321 @@
+cheats = 80
+
+cheat0_desc = "1000/1000 Wins"
+cheat0_code = "83002B84+03E8+83002B86+03E8"
+cheat0_enable = false
+
+cheat1_desc = "Alien"
+cheat1_code = "8203ECB4+0063"
+cheat1_enable = false
+
+cheat2_desc = "Always Run"
+cheat2_code = "3300643C+0001"
+cheat2_enable = false
+
+cheat3_desc = "Bear"
+cheat3_code = "8203EC6C+0063"
+cheat3_enable = false
+
+cheat4_desc = "Big Key"
+cheat4_code = "83002BCC+6396"
+cheat4_enable = false
+
+cheat5_desc = "Blue Capsule"
+cheat5_code = "83002BFC+63AE"
+cheat5_enable = false
+
+cheat6_desc = "Broken Parts"
+cheat6_code = "83002BA8+6384"
+cheat6_enable = false
+
+cheat7_desc = "Deluxe Oil"
+cheat7_code = "83002BB6+638B"
+cheat7_enable = false
+
+cheat8_desc = "Devil"
+cheat8_code = "8203EC84+0063"
+cheat8_enable = false
+
+cheat9_desc = "Dog Outfit"
+cheat9_code = "83002BF0+63A8"
+cheat9_enable = false
+
+cheat10_desc = "Dress"
+cheat10_code = "83002BBA+638D"
+cheat10_enable = false
+
+cheat11_desc = "Erica's Medal"
+cheat11_code = "83002C08+63B6"
+cheat11_enable = false
+
+cheat12_desc = "Fiyun Stone"
+cheat12_code = "83002BDA+639D"
+cheat12_enable = false
+
+cheat13_desc = "Game Boy Red"
+cheat13_code = "83002C00+63B0"
+cheat13_enable = false
+
+cheat14_desc = "Ghost"
+cheat14_code = "8203ECA8+0063"
+cheat14_enable = false
+
+cheat15_desc = "Girl's Medal"
+cheat15_code = "83002BB0+6388"
+cheat15_enable = false
+
+cheat16_desc = "Gold Black Lure"
+cheat16_code = "83002BFA+63AD"
+cheat16_enable = false
+
+cheat17_desc = "Hampster"
+cheat17_code = "83002BBE+638F"
+cheat17_enable = false
+
+cheat18_desc = "Have All Medals Maxed"
+cheat18_code = "4203EC30+0063+0000000C+000C"
+cheat18_enable = false
+
+cheat19_desc = "Have All Medaparts"
+cheat19_code = "43004C40+0001+000001E0+0002"
+cheat19_enable = false
+
+cheat20_desc = "Have All Parts"
+cheat20_code = "4203ECC0+0001+0000007E+0004"
+cheat20_enable = false
+
+cheat21_desc = "Hero Costume"
+cheat21_code = "83002BB8+638C"
+cheat21_enable = false
+
+cheat22_desc = "Infinite Cash"
+cheat22_code = "83002B70+C350"
+cheat22_enable = false
+
+cheat23_desc = "Infinite Health"
+cheat23_code = "8201032A+00FF+00000004+0002"
+cheat23_enable = false
+
+cheat24_desc = "Infinte Health"
+cheat24_code = "42010012+00FF+00000004+0002"
+cheat24_enable = false
+
+cheat25_desc = "Invitation"
+cheat25_code = "83002BDC+639E"
+cheat25_enable = false
+
+cheat26_desc = "K's Autograph"
+cheat26_code = "83002BF4+63AA"
+cheat26_enable = false
+
+cheat27_desc = "Kabuto"
+cheat27_code = "8203EC30+0063"
+cheat27_enable = false
+
+cheat28_desc = "Karin's Medal"
+cheat28_code = "83002BF6+63AB"
+cheat28_enable = false
+
+cheat29_desc = "Kawagata"
+cheat29_code = "8203EC3C+0063"
+cheat29_enable = false
+
+cheat30_desc = "Key: A Class"
+cheat30_code = "83002BC8+6394"
+cheat30_enable = false
+
+cheat31_desc = "Key: B Class"
+cheat31_code = "83002BCA+6395"
+cheat31_enable = false
+
+cheat32_desc = "Keyword 1"
+cheat32_code = "83002BE0+63A0"
+cheat32_enable = false
+
+cheat33_desc = "Keyword 2"
+cheat33_code = "83002BE2+63A1"
+cheat33_enable = false
+
+cheat34_desc = "Keyword 3"
+cheat34_code = "83002BE4+63A2"
+cheat34_enable = false
+
+cheat35_desc = "Keyword 4"
+cheat35_code = "83002BE6+63A3"
+cheat35_enable = false
+
+cheat36_desc = "Kimono"
+cheat36_code = "83002BAA+6385"
+cheat36_enable = false
+
+cheat37_desc = "Lemon"
+cheat37_code = "83002BD4+639A"
+cheat37_enable = false
+
+cheat38_desc = "Lemon Battery"
+cheat38_code = "83002BD6+639B"
+cheat38_enable = false
+
+cheat39_desc = "Lemon Pack"
+cheat39_code = "83002BB4+638A"
+cheat39_enable = false
+
+cheat40_desc = "Letter"
+cheat40_code = "83002BA6+6383"
+cheat40_enable = false
+
+cheat41_desc = "Lunchbox"
+cheat41_code = "83002BA4+6382"
+cheat41_enable = false
+
+cheat42_desc = "Manhole Key"
+cheat42_code = "83002BCE+6397"
+cheat42_enable = false
+
+cheat43_desc = "Mermaid"
+cheat43_code = "8203EC48+0063"
+cheat43_enable = false
+
+cheat44_desc = "Monkey"
+cheat44_code = "8203EC78+0063"
+cheat44_enable = false
+
+cheat45_desc = "Nametag"
+cheat45_code = "83002BC2+6391"
+cheat45_enable = false
+
+cheat46_desc = "No Random Battles"
+cheat46_code = "3300640B+0000"
+cheat46_enable = false
+
+cheat47_desc = "Orange Juice"
+cheat47_code = "83002BB2+6389"
+cheat47_enable = false
+
+cheat48_desc = "Partsun Badge"
+cheat48_code = "83002BF8+63AC"
+cheat48_enable = false
+
+cheat49_desc = "Penlight"
+cheat49_code = "83002C06+63B3"
+cheat49_enable = false
+
+cheat50_desc = "Phoenix"
+cheat50_code = "8203EC9C+0063"
+cheat50_enable = false
+
+cheat51_desc = "Photo Of Karin"
+cheat51_code = "83002BC0+6390"
+cheat51_enable = false
+
+cheat52_desc = "Pink Flower"
+cheat52_code = "83002BFE+63AF"
+cheat52_enable = false
+
+cheat53_desc = "Polaroid"
+cheat53_code = "83002BD8+639C"
+cheat53_enable = false
+
+cheat54_desc = "Press Select+L To Turn On"
+cheat54_code = "74000130+01FB+82004200+0001+72004200+0001+330063F1+0000"
+cheat54_enable = false
+
+cheat55_desc = "Press Select+R To Turn Off"
+cheat55_code = "74000130+02FB+82004200+0000+72004200+0000+330063F1+0001"
+cheat55_enable = false
+
+cheat56_desc = "Quick Level Gain"
+cheat56_code = "72039650+0000+82039640+FFFF"
+cheat56_enable = false
+
+cheat57_desc = "Radiation"
+cheat57_code = "330006F9+0000"
+cheat57_enable = false
+
+cheat58_desc = "Rare Medawatch"
+cheat58_code = "83002C02+63B1"
+cheat58_enable = false
+
+cheat59_desc = "Rubberobo Suit"
+cheat59_code = "83002BC6+6393"
+cheat59_enable = false
+
+cheat60_desc = "Rubberoro Medal"
+cheat60_code = "83002C04+63B2"
+cheat60_enable = false
+
+cheat61_desc = "Rusted Parts"
+cheat61_code = "83002BE8+63A4"
+cheat61_enable = false
+
+cheat62_desc = "S.Animal Rappy"
+cheat62_code = "83002BAC+6386"
+cheat62_enable = false
+
+cheat63_desc = "Ship Ticket"
+cheat63_code = "83002BAE+6387"
+cheat63_enable = false
+
+cheat64_desc = "Skirt"
+cheat64_code = "83002BA2+6381"
+cheat64_enable = false
+
+cheat65_desc = "Spedabot"
+cheat65_code = "83002BF2+63A9"
+cheat65_enable = false
+
+cheat66_desc = "Spider"
+cheat66_code = "8203EC60+0063"
+cheat66_enable = false
+
+cheat67_desc = "Stop Battle Timer"
+cheat67_code = "33001856+000A"
+cheat67_enable = false
+
+cheat68_desc = "Stop Game Timer"
+cheat68_code = "83002B88+0000+83002B8A+0000"
+cheat68_enable = false
+
+cheat69_desc = "Switch"
+cheat69_code = "83002BEA+63A5"
+cheat69_enable = false
+
+cheat70_desc = "Telephoto Lens"
+cheat70_code = "83002BBC+638E"
+cheat70_enable = false
+
+cheat71_desc = "Town Map"
+cheat71_code = "83002BA0+6380"
+cheat71_enable = false
+
+cheat72_desc = "Unicorn"
+cheat72_code = "8203EC90+0063"
+cheat72_enable = false
+
+cheat73_desc = "Unknown?"
+cheat73_code = "8203EC54+0063"
+cheat73_enable = false
+
+cheat74_desc = "Waitress Uniform"
+cheat74_code = "83002BEE+63A7"
+cheat74_enable = false
+
+cheat75_desc = "Walkie Talkie"
+cheat75_code = "83002BDE+639F"
+cheat75_enable = false
+
+cheat76_desc = "Max Medaforce Leader"
+cheat76_code = "320100B0+0033"
+cheat76_enable = false
+
+cheat77_desc = "Max Medaforce Partner"
+cheat77_code = "320103C8+0033"
+cheat77_enable = false
+
+cheat78_desc = "Max/Infinite Rounds Leader"
+cheat78_code = "8201003A+0A0A"
+cheat78_enable = false
+
+cheat79_desc = "Max/Infinite Rounds Partner"
+cheat79_code = "82010352+0A0A"
+cheat79_enable = false

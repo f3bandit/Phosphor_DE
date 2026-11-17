@@ -1,0 +1,237 @@
+cheats = 59
+
+cheat0_desc = "9999 Crystals"
+cheat0_code = "82037EEE+270F"
+cheat0_enable = false
+
+cheat1_desc = "Access Elf Setup Menu [Press Select+R]"
+cheat1_code = "74000130+02FB+8202F8E2+3E03+7202F8E2+0203+8202F8E2+0303"
+cheat1_enable = false
+
+cheat2_desc = "Adult Animal ELFs"
+cheat2_code = "32037F69+0002+32037F6A+0001+32037F6B+0001+32037F6C+0001+32037F6D+0001+32037F6E+0001"
+cheat2_enable = false
+
+cheat3_desc = "Adult Hacker ELFs"
+cheat3_code = "32037F6E+0002+32037F6F+0001+32037F70+0001+32037F71+0001+32037F72+0001+32037F73+0001"
+cheat3_enable = false
+
+cheat4_desc = "Adult Nurse ELFs"
+cheat4_code = "32037F60+0002+32037F61+0001+32037F62+0001+32037F63+0001+32037F64+0001+32037F65+0001+32037F66+0001+32037F67+0001+32037F68+0001+32037F69+0001"
+cheat4_enable = false
+
+cheat5_desc = "All Elements"
+cheat5_code = "32037F01+000F"
+cheat5_enable = false
+
+cheat6_desc = "All ELFs"
+cheat6_code = "32037F18+00FF+32037F19+00FF+32037F1A+00FF+32037F1B+00FF+32037F1C+00FF+32037F1D+00FF+32037F1E+00FF+32037F1F+00FF+32037F20+00FF+32037F21+00FF+32037F22+00FF+32037F23+00FF+32037F24+00FF+32037F25+00FF+32037F26+00FF+32037F27+00FF+32037F28+00FF+32037F29+00FF+32037F2A+00FF+32037F2B+00FF+32037F2C+00FF+32037F2D+00FF+32037F2D+0007"
+cheat6_enable = false
+
+cheat7_desc = "All Elves Fully Grown"
+cheat7_code = "42037F60+0101+0000000A+0002+32037F60+0002+32037F69+0002+32037F6E+0002"
+cheat7_enable = false
+
+cheat8_desc = "All EX Skills"
+cheat8_code = "82037F06+07FF+82037F08+07FF"
+cheat8_enable = false
+
+cheat9_desc = "All Forms"
+cheat9_code = "82037EF0+07FF"
+cheat9_enable = false
+
+cheat10_desc = "All Weapon Levels Maxed"
+cheat10_code = "82037F12+0408+82037F14+0202"
+cheat10_enable = false
+
+cheat11_desc = "Always S Rank"
+cheat11_code = "32036BB5+0006"
+cheat11_enable = false
+
+cheat12_desc = "Checkpoint Modifier"
+cheat12_code = "74000130+03FB+3202EC32+0001"
+cheat12_enable = false
+
+cheat13_desc = "Ciel's Timer Hits 0 Fast"
+cheat13_code = "7202EDB4+1500+8202EDB4+0005"
+cheat13_enable = false
+
+cheat14_desc = "ELFs Fully Grown"
+cheat14_code = "82037F60+0101+82037F62+0101+82037F64+0101+82037F66+0101+82037F68+0101+82037F6A+0101+82037F6C+0101+82037F6E+0101+82037F70+0101+82037F72+0101+82037F72+0101+32037F73+0001+32037F69+0002+32037F60+0002+32037F6E+0002"
+cheat14_enable = false
+
+cheat15_desc = "For Diagonal Movement And Attacking While Moving [Optional]"
+cheat15_code = "74000130+039F+82037D50+FD80+74000130+039F+82037D52+FFFF+74000130+03AF+82037D50+FD80+74000130+03AF+82037D52+FFFF+74000130+039D+82037D50+FD80+74000130+039D+82037D52+FFFF+74000130+03AD+82037D50+FD80+74000130+03AD+82037D52+FFFF+74000130+03BD+82037D50+FD80+74000130+03BD+82037D52+FFFF+74000130+035F+82037D50+0280+74000130+035F+82037D52+0000+74000130+036F+82037D50+0280+74000130+036F+82037D52+0000+74000130+035D+82037D50+0280+74000130+035D+82037D52+0000+74000130+036D+82037D50+0280+74000130+036D+82037D52+0000+74000130+037D+82037D50+0280+74000130+037D+82037D52+0000"
+cheat15_enable = false
+
+cheat16_desc = "Free Fly Mode (Move The D-Pad Around While Holding R/Press Select To Turn Off)"
+cheat16_code = "74000130+02FF+32037CFD+000B+74000130+02EF+E2037D44+0300+74000130+02DF+E2037D44+FCFF+74000130+02BF+E2037D48+FCFF+74000130+027F+E2037D48+0300+74000130+03FB+32037CFD+0000+74000130+03FB+330032E0+0000"
+cheat16_enable = false
+
+cheat17_desc = "Have All Cyber Elves"
+cheat17_code = "42037F18+FFFF+0000000B+0002"
+cheat17_enable = false
+
+cheat18_desc = "Have All Elements Equipped"
+cheat18_code = "72037F04+0000+82037F04+0600"
+cheat18_enable = false
+
+cheat19_desc = "Have All EX Techs"
+cheat19_code = "82037F06+FFFF"
+cheat19_enable = false
+
+cheat20_desc = "Have All Forms"
+cheat20_code = "82037EF0+FFFF"
+cheat20_enable = false
+
+cheat21_desc = "Have All Weapons & Elements"
+cheat21_code = "82037F00+0F0F"
+cheat21_enable = false
+
+cheat22_desc = "Have Sub Tanks"
+cheat22_code = "32037EF4+0004"
+cheat22_enable = false
+
+cheat23_desc = "Hit Anywhere"
+cheat23_code = "8203FE00+4A07+8203FE02+B404+8203FE04+2800+8203FE06+D005+8203FE08+22FF+8203FE0A+0212+8203FE0C+8582+8203FE0E+85C2+8203FE10+8282+8203FE12+82C2+8203FE14+4A03+8203FE16+19D2+8203FE18+4691+8203FE1A+6811+8203FE1C+BD00+8203FE1E+0000+8203FE20+6D79+8203FE22+0800+8203FE24+0614+8203FE26+0000+88006D70+4A00+88006D72+4710+88006D74+FE01+88006D76+0203"
+cheat23_enable = false
+
+cheat24_desc = "Infinite All Sub Tanks"
+cheat24_code = "32037EF4+0004+82037EF6+1E1E+82037EF8+1E1E"
+cheat24_enable = false
+
+cheat25_desc = "Infinite Dash"
+cheat25_code = "32037E74+00FE"
+cheat25_enable = false
+
+cheat26_desc = "Infinite Elf Usage"
+cheat26_code = "42037F2E+0000+00000006+0002"
+cheat26_enable = false
+
+cheat27_desc = "Infinite Energy"
+cheat27_code = "32037E6E+0010+32037D94+0010"
+cheat27_enable = false
+
+cheat28_desc = "Infinite Health"
+cheat28_code = "82037D94+0024"
+cheat28_enable = false
+
+cheat29_desc = "Infinite Zenny"
+cheat29_code = "82037EEE+0999"
+cheat29_enable = false
+
+cheat30_desc = "Jump in Midair"
+cheat30_code = "8203FF00+32D8+8203FF02+9205+8203FF04+4903+8203FF06+B402+8203FF08+4903+8203FF0A+6639+8203FF0C+6811+8203FF0E+1C38+8203FF10+BD00+8203FF12+0000+8203FF14+43B5+8203FF16+0802+8203FF18+FB00+8203FF1A+FFFF+880243AC+4800+880243AE+4700+880243B0+FF01+880243B2+0203"
+cheat30_enable = false
+
+cheat31_desc = "Low Play Time"
+cheat31_code = "82036BC0+0040+82036BC2+0000"
+cheat31_enable = false
+
+cheat32_desc = "Max B. Shot Lvl"
+cheat32_code = "32037F12+0002"
+cheat32_enable = false
+
+cheat33_desc = "Max C. Rod Lvl"
+cheat33_code = "32037F14+0002"
+cheat33_enable = false
+
+cheat34_desc = "Max Health Bar"
+cheat34_code = "32037EED+0024"
+cheat34_enable = false
+
+cheat35_desc = "Max Kills"
+cheat35_code = "3202EBFC+0064"
+cheat35_enable = false
+
+cheat36_desc = "Max S. Boomerang Lvl"
+cheat36_code = "32037F15+0002"
+cheat36_enable = false
+
+cheat37_desc = "Max Weapons Stats"
+cheat37_code = "82037F12+0402+82037F14+0402+82037F16+0402+82037F18+0402+82037F1A+0402+82037F1C+0402+82037F1E+0402+82037F20+0402+82037F22+0402+82037F24+0402+82037F26+0402+82037F28+0402+82037F2A+0402+82037F2C+0402+82037F2E+0402+82037F30+0402+82037F32+0402+82037F34+0402+82037F36+0402+82037F38+0402+82037F14+0202+82037F16+0202+82037F18+0202+82037F1A+0202+82037F1C+0202+82037F1E+0202+82037F20+0202+82037F22+0202+82037F24+0202+82037F26+0202+82037F28+0202+82037F2A+0202+82037F2C+0202+82037F2E+0202+82037F30+0202+82037F32+0202+82037F34+0202+82037F36+0202+82037F38+0202+82037F3A+0202"
+cheat37_enable = false
+
+cheat38_desc = "Max Z Saber Lvl"
+cheat38_code = "32037F13+0004"
+cheat38_enable = false
+
+cheat39_desc = "No Damage Taken"
+cheat39_code = "3202EBFE+0000"
+cheat39_enable = false
+
+cheat40_desc = "No Elves Used"
+cheat40_code = "3202EC00+0000"
+cheat40_enable = false
+
+cheat41_desc = "No Lives Lost"
+cheat41_code = "3202EC04+0000"
+cheat41_enable = false
+
+cheat42_desc = "Rapid Fire"
+cheat42_code = "32037FAA+0000"
+cheat42_enable = false
+
+cheat43_desc = "Reactors Destroyed In Power Room"
+cheat43_code = "3202EC3A+0078"
+cheat43_enable = false
+
+cheat44_desc = "Skip Story Intro"
+cheat44_code = "880148AA+2101"
+cheat44_enable = false
+
+cheat45_desc = "Stage Modifier"
+cheat45_code = "74000130+03FB+3202EC30+0001"
+cheat45_enable = false
+
+cheat46_desc = "Sub Tanks Full"
+cheat46_code = "82037EF6+1E1E+82037EF8+1E1E"
+cheat46_enable = false
+
+cheat47_desc = "Super Zero Mode"
+cheat47_code = "82037D50+FFFF+82037D52+FFFF+74000130+03FF+82037D50+FFFE+74000130+03FF+82037D52+FFFF+74000130+03BF+82037D50+FD80+74000130+03BF+82037D52+FFFF+74000130+037F+82037D50+0280+74000130+037F+82037D52+0000+74000130+03EF+82037D50+FFFE+74000130+03EF+82037D52+FFFF+74000130+03DF+82037D50+FFFE+74000130+03DF+82037D52+FFFF"
+cheat47_enable = false
+
+cheat48_desc = "Time Taken = 0:00"
+cheat48_code = "8202EBF8+0000"
+cheat48_enable = false
+
+cheat49_desc = "Unknown?"
+cheat49_code = "3202EBF7+0014"
+cheat49_enable = false
+
+cheat50_desc = "Walk Through Walls"
+cheat50_code = "8801FC0E+46C0+8801F804+46C0"
+cheat50_enable = false
+
+cheat51_desc = "Weapons Do Max Damage"
+cheat51_code = "88039308+227F+8803AA26+227F+8803A22A+227F+8803D25C+227F"
+cheat51_enable = false
+
+cheat52_desc = "Zero Can Fly"
+cheat52_code = "82037D50+FFFF+82037D52+FFFF+74000130+03BF+82037D50+FD80+74000130+03BF+82037D52+FFFF+74000130+037F+82037D50+0280+74000130+037F+82037D52+0000"
+cheat52_enable = false
+
+cheat53_desc = "Zero Time"
+cheat53_code = "820308AA+00BA+820308AE+00BA+820308B0+00BA+820308B4+00BA+820308B8+00BA"
+cheat53_enable = false
+
+cheat54_desc = "Invincible"
+cheat54_code = "32037D84+0002"
+cheat54_enable = false
+
+cheat55_desc = "Infinite Lives"
+cheat55_code = "82036BB4+0009"
+cheat55_enable = false
+
+cheat56_desc = "Quick Weapon Charge"
+cheat56_code = "32037E78+00FF"
+cheat56_enable = false
+
+cheat57_desc = "Weak Bosses"
+cheat57_code = "8203BBF4+0001+8203BB10+0001"
+cheat57_enable = false
+
+cheat58_desc = "Multi Jump"
+cheat58_code = "74000130+03FE+82037D50+FD40+74000130+03FE+82037D52+FFFF"
+cheat58_enable = false

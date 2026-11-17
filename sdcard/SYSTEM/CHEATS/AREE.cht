@@ -1,0 +1,77 @@
+cheats = 19
+
+cheat0_desc = "15 Chips In-Battle"
+cheat0_code = "32003720+000F"
+cheat0_enable = false
+
+cheat1_desc = "Battle Gauge Full"
+cheat1_code = "3200374F+0040"
+cheat1_enable = false
+
+cheat2_desc = "Complete Library"
+cheat2_code = "4200001C+FFFF+00000010+0002"
+cheat2_enable = false
+
+cheat3_desc = "Delete All Enemies [Press Select]"
+cheat3_code = "D0000020+0004+32003715+0000"
+cheat3_enable = false
+
+cheat4_desc = "Delete Time = 0:00"
+cheat4_code = "82003730+0000"
+cheat4_enable = false
+
+cheat5_desc = "Full Sack"
+cheat5_code = "42019016+0003+0000049D+0020+420004B0+0303+000000ED+0010+420004B2+0303+000000ED+0010+420004B4+0303+000000ED+0010"
+cheat5_enable = false
+
+cheat6_desc = "Govt Pass"
+cheat6_code = "82018086+F197"
+cheat6_enable = false
+
+cheat7_desc = "Have Armor: AquaArmr"
+cheat7_code = "32000315+000F"
+cheat7_enable = false
+
+cheat8_desc = "Have Armor: HeatArmr"
+cheat8_code = "32000314+000F"
+cheat8_enable = false
+
+cheat9_desc = "Have Armor: WoodArmr"
+cheat9_code = "32000316+000F"
+cheat9_enable = false
+
+cheat10_desc = "Have Bass Cards"
+cheat10_code = "320001C0+00C7+320001C2+00C7+320001C4+00C7+320001C6+00C7+320001C8+00C7"
+cheat10_enable = false
+
+cheat11_desc = "Infinite Power-Ups"
+cheat11_code = "32000311+0063"
+cheat11_enable = false
+
+cheat12_desc = "Invincible"
+cheat12_code = "320066C7+0001"
+cheat12_enable = false
+
+cheat13_desc = "Max Damage"
+cheat13_code = "72003480+0000+32000224+00FF+72003480+0080+32000224+0004"
+cheat13_enable = false
+
+cheat14_desc = "Max Health"
+cheat14_code = "8200022C+270F+820066D0+270F"
+cheat14_enable = false
+
+cheat15_desc = "Own All Panels"
+cheat15_code = "820037AC+0101+820037AE+0001+820037B4+0101+820037B6+0001+820037BC+0101+820037BE+0001"
+cheat15_enable = false
+
+cheat16_desc = "Sal"
+cheat16_code = "420011A6+6417+00000000+0000"
+cheat16_enable = false
+
+cheat17_desc = "Unbreakable Panels"
+cheat17_code = "820037A8+0100+820037AA+0101+820037B0+0100+820037B2+0101+820037B8+0100+820037BA+0101"
+cheat17_enable = false
+
+cheat18_desc = "Walk Through Walls"
+cheat18_code = "320063FC+0000"
+cheat18_enable = false

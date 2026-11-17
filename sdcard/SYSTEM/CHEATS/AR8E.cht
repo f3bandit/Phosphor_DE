@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Instant K.D [Press Select]"
+cheat0_code = "D0000020+0004+82000110+0000"
+cheat0_enable = false

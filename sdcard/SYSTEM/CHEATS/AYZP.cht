@@ -1,0 +1,125 @@
+cheats = 31
+
+cheat0_desc = "All Abilities"
+cheat0_code = "3203FF61+00FF"
+cheat0_enable = false
+
+cheat1_desc = "All Levels Open"
+cheat1_code = "3203FFF5+00FF+3203FFF7+00FF+3203FFF8+00FF"
+cheat1_enable = false
+
+cheat2_desc = "All Lums+Cages Collected"
+cheat2_code = "4203FF72+0000+00000041+0002"
+cheat2_enable = false
+
+cheat3_desc = "Boulder Brink"
+cheat3_code = "73003DD8+AF54+33003DD6+0005+73003E5C+AF54+33003E5A+0005"
+cheat3_enable = false
+
+cheat4_desc = "Creeping Chaos"
+cheat4_code = "73003DC8+AF54+33003DC6+0005+73003DB0+AF54+33003DAE+0005"
+cheat4_enable = false
+
+cheat5_desc = "Den Of Rocky"
+cheat5_code = "73003BC4+AF54+33003BC2+0005"
+cheat5_enable = false
+
+cheat6_desc = "Garish Gears"
+cheat6_code = "73003BF8+AF54+33003BF6+0005"
+cheat6_enable = false
+
+cheat7_desc = "Heart Of The Ancients"
+cheat7_code = "73003BE8+AF54+33003BE6+0005"
+cheat7_enable = false
+
+cheat8_desc = "Hoodlum Hideout"
+cheat8_code = "73003E30+AF54+33003E2E+0005+73003EC0+AF54+33003EBE+0005"
+cheat8_enable = false
+
+cheat9_desc = "Infinite Lives"
+cheat9_code = "3203FFF6+0063"
+cheat9_enable = false
+
+cheat10_desc = "Infinite Power"
+cheat10_code = "8203FF66+019A"
+cheat10_enable = false
+
+cheat11_desc = "Jano's Nest"
+cheat11_code = "73003C44+AF54+33003C42+0005"
+cheat11_enable = false
+
+cheat12_desc = "Magma Mayhem"
+cheat12_code = "73003BDC+929C+33003BDA+0005"
+cheat12_enable = false
+
+cheat13_desc = "Magma Mayhem 2"
+cheat13_code = "73003C50+929C+33003C4E+0005"
+cheat13_enable = false
+
+cheat14_desc = "Mega Havoc 1"
+cheat14_code = "73003E28+AF54+33003E26+0005"
+cheat14_enable = false
+
+cheat15_desc = "Mega Havoc 2"
+cheat15_code = "73003E24+AF54+33003E22+0005"
+cheat15_enable = false
+
+cheat16_desc = "Mega Havoc 4"
+cheat16_code = "73003E70+AF54+33003E6E+0005"
+cheat16_enable = false
+
+cheat17_desc = "Prickly Passage"
+cheat17_code = "73003D30+AF54+33003D2E+0005+73003D3C+AF54+33003D3A+0005"
+cheat17_enable = false
+
+cheat18_desc = "Razor Slide"
+cheat18_code = "73003E28+AF54+33003E26+0005+73003DF8+AF54+33003DF8+0005"
+cheat18_enable = false
+
+cheat19_desc = "River Of Fire"
+cheat19_code = "73003D60+AF54+33003D5E+0005+73003DB4+AF54+33003DB2+0005"
+cheat19_enable = false
+
+cheat20_desc = "Scaleman's Keep"
+cheat20_code = "73003BCC+AF54+33003BCA+0005"
+cheat20_enable = false
+
+cheat21_desc = "Shining Glade"
+cheat21_code = "73003DF8+AF54+33003DF6+0005+73003DCC+AF54+33003DCA+0005"
+cheat21_enable = false
+
+cheat22_desc = "Swamp Of Begoniax"
+cheat22_code = "73003D60+7CE0+33003D5E+0005"
+cheat22_enable = false
+
+cheat23_desc = "Swamp Of Begoniax 2"
+cheat23_code = "73003E00+7CE0+33003DFE+0005"
+cheat23_enable = false
+
+cheat24_desc = "The Mettleworks"
+cheat24_code = "73003EEC+AF54+33003EEA+0005+73003E78+AF54+33003E76+0005"
+cheat24_enable = false
+
+cheat25_desc = "The Underlands"
+cheat25_code = "73003F8C+AF54+33003F8A+0005+73003EBC+AF54+33003EBA+0005"
+cheat25_enable = false
+
+cheat26_desc = "Vertigo Wastes"
+cheat26_code = "73003D80+AF54+33003D7E+0005+73003D38+AF54+33003D36+0005"
+cheat26_enable = false
+
+cheat27_desc = "Void Of Bones"
+cheat27_code = "73003F68+AF54+33003F66+0005+73003EA4+AF54+33003EA2+0005"
+cheat27_enable = false
+
+cheat28_desc = "Wanderwood Forest"
+cheat28_code = "73003DC0+AF54+33003DBE+0005"
+cheat28_enable = false
+
+cheat29_desc = "Wicked Flow"
+cheat29_code = "73003E5C+AF54+33003E5A+0005+73003DF4+AF54+33003DF2+0005"
+cheat29_enable = false
+
+cheat30_desc = "Wretched Ruins"
+cheat30_code = "73003E00+AF54+33003DFE+0005+73003EAC+AF54+33003EAA+0005"
+cheat30_enable = false

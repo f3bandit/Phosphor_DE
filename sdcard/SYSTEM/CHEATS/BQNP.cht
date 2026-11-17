@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Access All Cutscenes"
+cheat0_code = "33004915+0006"
+cheat0_enable = false
+
+cheat1_desc = "Access All Minigames"
+cheat1_code = "83004916+0306"
+cheat1_enable = false
+
+cheat2_desc = "Access Ending"
+cheat2_code = "33004914+0004"
+cheat2_enable = false
+
+cheat3_desc = "Stop Timer"
+cheat3_code = "73004A90+0B01+33004A90+0002"
+cheat3_enable = false

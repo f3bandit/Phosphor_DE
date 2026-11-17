@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Finish All 4 Rounds In One Round"
+cheat0_code = "72030B0C+0000+82030B0C+0500"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Time"
+cheat1_code = "820317CA+010C"
+cheat1_enable = false
+
+cheat2_desc = "Press L To Win Current Round"
+cheat2_code = "74000130+01FF+820317A2+0000"
+cheat2_enable = false

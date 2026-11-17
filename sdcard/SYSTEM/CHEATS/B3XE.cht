@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Access All Characters"
+cheat0_code = "73001844+00FF+33001844+0000+33003E50+0001"
+cheat0_enable = false
+
+cheat1_desc = "Access All Extras"
+cheat1_code = "33003E50+00FF"
+cheat1_enable = false
+
+cheat2_desc = "Access Debug Menu (Enter Tutorial)"
+cheat2_code = "73000544+000D+33000544+0002"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Charge"
+cheat3_code = "430009E8+027F+00000004+0002+3300054C+0002"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Health"
+cheat4_code = "83000E28+4040+83000E2A+4040"
+cheat4_enable = false
+
+cheat5_desc = "Multi Jump"
+cheat5_code = "D0000020+0001+83002B1E+FFFB"
+cheat5_enable = false
+
+cheat6_desc = "Super Speed/Jump"
+cheat6_code = "330071E1+0000+330071D6+0005+330071E6+0005"
+cheat6_enable = false

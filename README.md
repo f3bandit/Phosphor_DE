@@ -1,0 +1,387 @@
+# Phosphor_DE
+
+A custom kernel (the menu/firmware you see when you turn the cart on) for the **EZ-Flash Omega Definitive Edition** GBA flash cart, by **f3bandit**.
+
+Dark, readable, GBA-only, with a new cheat engine and a ready-made cheat pack of **31,168 cheats for 1,704 games**, every one ready to play with nothing to type in.
+
+![Phosphor_DE splash](docs/splash.png)
+
+![Walkthrough](docs/phosphor_de_walkthrough.gif)
+
+> **Read the [disclaimer](#disclaimer) before flashing anything.** You flash your cart at your own risk.
+
+---
+
+## Contents
+- [Which carts it works on](#which-carts-it-works-on)
+- [Features](#features)
+- [Quick start (install)](#quick-start-install)
+- [SD card layout](#sd-card-layout)
+- [Cheats](#cheats)
+- [Buttons](#buttons)
+- [Settings](#settings)
+- [Loader recolor (optional)](#loader-recolor-optional)
+- [Cart firmware (FPGA) and the white EZ-FLASH screen](#cart-firmware-fpga-and-the-white-ez-flash-screen)
+- [Going back to the official kernel](#going-back-to-the-official-kernel)
+- [What it doesn't do](#what-it-doesnt-do)
+- [Tools in this repo](#tools-in-this-repo)
+- [Building from source](#building-from-source)
+- [Repo layout](#repo-layout)
+- [Credits and licenses](#credits-and-licenses)
+- [Disclaimer](#disclaimer)
+
+---
+
+## Which carts it works on
+
+| Cart | Works? |
+|---|---|
+| EZ-Flash Omega **Definitive Edition, Rev B** (FPGA firmware 7) | **Yes.** This is the cart it's developed and tested on, mostly in an Analogue Pocket. |
+| EZ-Flash Omega **Definitive Edition, Rev A** (firmware 5) | Should work: the kernel detects Rev A and Rev B the same way EZ-Flash's kernel does. **Not tested.** |
+| EZ-Flash Omega Definitive Edition **B** (the newer blue board, "Rev.BLUE", official file `ezbluekernel.bin`) | **No.** Different kernel. Don't flash this on it. |
+| Original EZ-Flash Omega (not Definitive Edition) | **No.** Different hardware and kernel (`ezkernel.bin`). |
+| EZ-Flash IV, 3in1, Junior, Parallel, EZ-Flash Air, any other cart | **No.** |
+
+Not sure which you have? On the official kernel the cart revision shows on screen. On Phosphor_DE it's on **Settings > About** (for example `Rev B (LX16) FW7`).
+
+It runs on anything that plays GBA carts: GBA, GBA SP, Game Boy Micro, DS/DS Lite (GBA slot), Game Boy Player and the Analogue Pocket.
+
+---
+
+## Features
+
+### Menu
+- Tabs: **SD**, **NOR**, **Recent**, **Settings**. L/R switches tabs.
+- **GBA only.** The SD list shows folders and `.gba` / `.agb` files and nothing else, so there are no file-type icons.
+- **Long names scroll** everywhere (file list, game card, Recent, cheat list). Made for romhacks and patched games with long names.
+- **Readable**: Tamzen Bold font, light text on a dark grey background instead of white on black.
+- **Game card**: box art, game code and save type, with these actions:
+  - **Play**
+  - **Play clean** (no add-ons: no cheats, savestates, sleep or reset-to-menu)
+  - **Cheats**
+  - **Write to NOR** / **Write to NOR clean**
+  - save type on the d-pad
+- **Recent** list of the games you played last.
+- File names in any language (UTF-8). Accented letters are shown as plain letters.
+
+### Tools built in
+- **NOR Check**: press **START on the NOR tab** to test the 64 MB game NOR flash for dead cells. Good for catching a bad cart before it eats a save.
+- **Boot chip dump**: press **START on Settings > About** to copy the cart's 8 MB boot chip to `/SYSTEM/DUMP` as two 8 MB files (`BOOT8000.BIN`, `BOOT8002.BIN`). It only **reads** the chip; it never writes to it. You need 16 MB free on the SD card.
+
+### Kept from the EZ-Flash kernel
+Everything that makes games run is EZ-Flash's own engine, unchanged in what it does:
+- running games from SD (PSRAM) and from NOR
+- saves on the SD card, with auto save and optional save backups
+- savestates (in-game menu), reset to menu, sleep
+- the game clock (RTC)
+- LED settings
+- DS **Mode B** (Rumble, RAM, Cart)
+
+### Removed on purpose
+- Plugins and emulators (NES, GB, SMS and the rest). Phosphor_DE is GBA only.
+- EZ-Flash's cheat system and cheat library (replaced, see [Cheats](#cheats)).
+- Chinese language support and full-screen background images.
+
+---
+
+## Quick start (install)
+
+You need: the cart, a microSD card (FAT32), and a PC.
+
+1. Download the latest **release zip** from the [Releases page](../../releases).
+2. Unzip it. Copy everything inside the **`SD card`** folder to the **root** of your microSD card:
+   - `ezkernelnew.bin`
+   - the `SYSTEM` folder (it holds the cheat pack, `SYSTEM/CHEATS`)
+
+   If the card already has a `SYSTEM` folder, merge them. Nothing of yours gets overwritten except old Phosphor_DE cheat files.
+3. Put the SD card in the cart and the cart in your console.
+4. **Hold R** while you turn the console on, and keep holding it until the update screen appears.
+5. Let it finish. **Do not turn the power off while it writes.**
+6. The console boots into Phosphor_DE. You can delete `ezkernelnew.bin` from the SD card afterwards (keep a copy on your PC).
+
+`ezkernelnew.bin` for v0.1: 1,011,688 bytes, md5 `ea6c68266ac9495500f598d8653b5545`.
+
+Optional extras:
+- **Box art**: Phosphor_DE uses EZ-Flash's box art pack (`IMGS.zip` from EZ-Flash's site). Put its `IMGS` folder inside `SYSTEM`, so you have `SYSTEM/IMGS/A/X/AXVE.bmp` and so on. It isn't included here because it isn't ours to share.
+- **Loader recolor**: see [Loader recolor](#loader-recolor-optional).
+
+### Updating Phosphor_DE
+Same steps with the new `ezkernelnew.bin`: copy it to the SD root, hold R at power-on. Your saves, settings and cheat picks stay.
+
+---
+
+## SD card layout
+
+```
+SD card root
+├── ezkernelnew.bin              only needed when installing/updating (hold R at power-on)
+├── BACKUP/
+│   └── SAVER/                   save backups (when Settings > Saves > Back up saves is on)
+├── SYSTEM/
+│   ├── CHEATS/                  cheat pack: one file per game, named by game code
+│   │   ├── BPEE.cht             cheats for Pokemon Emerald (USA)
+│   │   └── BPEE.sel             your picks for that game (made by Phosphor_DE)
+│   ├── IMGS/                    box art (optional, EZ-Flash's IMGS pack)
+│   │   └── B/P/BPEE.bmp
+│   ├── SAVER/                   game saves
+│   ├── RTS/                     savestates
+│   ├── PATCH/                   per-game patch cache made by the engine
+│   ├── DUMP/                    boot chip dump (only after you run it)
+│   └── RECENT.TXT               the Recent list
+└── your games, in any folders you like (.gba)
+```
+
+Phosphor_DE makes the folders it needs by itself. The only ones you copy are `SYSTEM/CHEATS` (and `SYSTEM/IMGS` if you want box art).
+
+The **game code** is the 4-letter code inside every GBA ROM (Pokemon Emerald USA is `BPEE`). Cheats and box art are found by that code, so the ROM's file name doesn't matter.
+
+---
+
+## Cheats
+
+The cheat system is new; EZ-Flash's was dropped because its library is badly organized and a lot of its codes are unreliable.
+
+### Using them
+1. Pick a game, open its card, choose **Cheats**.
+2. **A** turns a cheat on or off, **SELECT** turns all off, **L/R** pages, **B** is done.
+3. Play. The card shows how many cheats are on. Your picks are remembered per game (`.sel` file).
+4. **Play clean** on the card starts the game with no cheats (and no other add-ons).
+
+- Cheats marked **auto** ("Anti DMA", "Must Be On") switch on by themselves whenever any other cheat is on. Some games (Pokemon in particular) move their data around in memory, and their codes only hit the right place with Anti DMA on.
+- A cheat marked **n/a** is one the engine can't run. The included pack has none.
+- Cheats can be turned off in-game from the in-game menu, and switched off entirely in **Settings > Add-ons > Cheats**.
+- Up to **448 cheats per game** are listed.
+
+### The cheat pack (`SYSTEM/CHEATS`)
+- **1,704 games, 31,168 cheats**, from **GameHacking.org** (all GBA games) and the **libretro cheat database**, merged per game code.
+- **Ready to play only.** Every cheat works the moment you turn it on:
+  - codes where you'd have to type in a value (`XXXX`, `??`) are **removed**, along with GameHacking's long "pick a value" lists made from them. Normal codes already have the value set (like 9999 gold).
+  - master / "must be on" codes are removed: Phosphor_DE doesn't need them. Anti-DMA fixes are kept.
+  - Action Replay and GameShark codes are converted to plain Code Breaker, decrypted where needed.
+  - every file was compiled with the Phosphor_DE cheat engine itself; anything it couldn't run was removed.
+- What was left out, game by game and why: [`cheats/CHEATS_REPORT.txt`](cheats/CHEATS_REPORT.txt).
+- Where it came from: [`cheats/CHEATS_SOURCE.txt`](cheats/CHEATS_SOURCE.txt).
+
+### Cheat file format
+Plain text, one file per game, `SYSTEM/CHEATS/<GAMECODE>.cht`. Two layouts are read:
+
+RetroArch layout (what the pack uses), from `BPEE.cht` (Pokemon Emerald USA):
+```
+cheats = 2
+
+cheat0_desc = "Anti DMA"
+cheat0_code = "88076BEE+2400"
+cheat0_enable = false
+
+cheat1_desc = "Max Money"
+cheat1_code = "82000568+423F+8200056A+000F"
+cheat1_enable = false
+```
+
+Plain text, as pasted from GameHacking.org (a name line, then code lines):
+```
+Anti DMA
+88076BEE 2400
+Max Money
+82000568 423F
+8200056A 000F
+```
+
+Codes are **unencrypted Code Breaker** (`XXXXXXXX YYYY`). Supported types: 8/16-bit writes, OR / AND / ADD, if equal / not equal / greater / less / AND, "if buttons held", fills (slides), and ROM patches (`8` codes to `0x08xxxxxx`, applied when the game loads). Encrypted Code Breaker codes (the ones that start with a `9` line) aren't supported on the cart; convert them first.
+
+### Adding your own
+Write the codes into `SYSTEM/CHEATS/<GAMECODE>.cht` in either layout above. To convert Action Replay / GameShark codes, use `tools/gbacodes.py` (see [Tools](#tools-in-this-repo)).
+
+---
+
+## Buttons
+
+| Where | Button | Does |
+|---|---|---|
+| Power-on | hold **R** | install / update the kernel from `ezkernelnew.bin` |
+| Power-on | hold **SELECT** | EZ-Flash safe mode (loader update / recovery, see below) |
+| Menu | **L / R** | switch tabs |
+| Menu | **A / B** | open / back |
+| NOR tab | **START** | NOR Check |
+| Settings > About | **START** | dump boot chip |
+| Cheat list | **A** / **SELECT** / **L R** / **B** | on-off / all off / page / done |
+| In game | **L + R + START** | in-game menu (savestates, cheats on/off) or reset to menu, depending on Settings > Add-ons |
+| In game | **L + R + SELECT** | sleep (when Settings > Add-ons > Sleep is on) |
+
+---
+
+## Settings
+
+| Section | Options |
+|---|---|
+| Add-ons | Reset to menu, Savestates, Sleep, Cheats, Patch engine (Normal / Fast) |
+| Saves | Auto save, Back up saves |
+| Clock | Game clock (RTC) |
+| Display | Box art, Reset type (Soft / Hard) |
+| LED | LED on/off, breathing and SD-activity colors |
+| Mode B | DS Mode B: Rumble / RAM / Cart |
+| About | version, cart revision and firmware, boot chip dump |
+
+---
+
+## Loader recolor (optional)
+
+**Why it exists:** the cart's **loader** (the screens you get while installing a kernel, "EZ-FLASH UPDATE MODE", "No kernel found") is a bright, eye-searing blue, and it was stupid next to a dark kernel. So this changes it to Phosphor grey.
+
+![Loader before and after](docs/loader_before_after.png)
+
+The loader is separate from the kernel and lives in the same boot chip, at the very start. It is updated through EZ-Flash's **safe mode** with EZ-Flash's own recovery image. The recolor changes **exactly 4 bytes** of that image: two color values. No code is touched.
+
+This repo doesn't ship EZ-Flash's image. You patch your own copy:
+
+1. Get EZ-Flash's **Omega Definitive Edition** loader recovery file, `de-recovery.img` (EZ-Flash publishes it; it's the DE one, **not** the original Omega one).
+2. Run:
+   ```
+   python tools/loader/patch_loader.py de-recovery.img de-recovery-phosphor.img
+   ```
+   The script checks the input is EZ-Flash's exact file (md5 `f8510d97f4da06fd5d413a4074e313d9`) and the result is the exact known-good file (md5 `557c6e79ad576c3054785bd27fa65340`). If either check fails it writes nothing.
+3. Write `de-recovery-phosphor.img` to a **spare** microSD card with **Win32 Disk Imager** (it wipes that card; Rufus may refuse the image).
+4. Put that card in the cart, **hold SELECT** while turning on (safe mode), choose **Update Loader**, and wait for 100%.
+5. Put your normal SD card back.
+
+**To undo it:** do the same with EZ-Flash's original `de-recovery.img`. Safe mode is separate from the loader and isn't changed, so this way back always stays available.
+
+---
+
+## Cart firmware (FPGA) and the white EZ-FLASH screen
+
+- The cart also has **FPGA firmware** (Rev B: FW7, Rev A: FW5). Phosphor_DE **never writes the FPGA firmware**. If your cart's firmware is older than the latest, Phosphor_DE shows a page saying so; install EZ-Flash's official kernel once to update it, then reinstall Phosphor_DE.
+- The kernel occupies the boot chip from `0x40000` up to about `0x137000`. The FPGA firmware sits much higher (from `0x1D5000`), so installing Phosphor_DE never touches it.
+- The **white "EZ-FLASH" screen** at power-on comes from the FPGA firmware, not the kernel or the loader. It can't be changed without changing the FPGA firmware, and that isn't worth the risk, so it stays.
+
+---
+
+## Going back to the official kernel
+
+Download EZ-Flash's official Omega DE kernel, put its `ezkernelnew.bin` on the SD root, hold R at power-on. Your saves stay. EZ-Flash's kernel ignores `SYSTEM/CHEATS`.
+
+---
+
+## What it doesn't do
+
+- No emulators or plugins (no NES, GB, GBC, SMS, PCE...). GBA only.
+- No EZ-Flash cheat library (`SYSTEM/CHEAT`); it uses `SYSTEM/CHEATS` instead.
+- No encrypted Code Breaker codes on the cart (about 1,400 such codes on GameHacking.org aren't in the pack).
+- No box art in the release (use EZ-Flash's IMGS pack).
+- No Chinese UI.
+- Can't change the white EZ-FLASH power-on screen (see above).
+- Doesn't update the cart's FPGA firmware (use the official kernel for that).
+
+---
+
+## Tools in this repo
+
+All PC-side, nothing here runs on the cart.
+
+| Tool | What it does |
+|---|---|
+| `tools/gba-cheat-downloader/` | **GBA Cheat Downloader**, a browser extension (Brave, Chrome, Edge). Downloads the cheats for every GBA game on GameHacking.org into one zip. See below. |
+| `tools/make_gh_pack.py` | Builds the cheat pack from that zip plus the libretro pack: drops XXXX codes and value lists, converts and decrypts codes, checks every file with the real engine, writes `SYSTEM/CHEATS` and the report. |
+| `tools/make_cheat_pack.py` | Builds a cheat pack from the libretro cheat database (game codes from the No-Intro GBA dat). |
+| `tools/gbacodes.py` | Converts Action Replay v3 / AR MAX and GameShark v1/v2 codes (encrypted or raw) to the plain Code Breaker that Phosphor_DE runs. |
+| `tools/cht_check.c` | The Phosphor_DE cheat parser and compiler built for the PC, used to check cheat files. |
+| `tools/loader/patch_loader.py` | The loader recolor (above). |
+| `tools/make_sim_disk.sh` | Makes the test SD card for the emulator build. |
+| `tools/bdf2font.py` | Turns a BDF font into the kernel's font header. |
+
+### GBA Cheat Downloader (browser extension)
+GameHacking.org sits behind Cloudflare, so the download has to run in your own browser.
+
+Install once:
+1. Open `brave://extensions` (Chrome: `chrome://extensions`, Edge: `edge://extensions`).
+2. Turn on **Developer mode** (top-right).
+3. Click **Load unpacked** and select the `tools/gba-cheat-downloader` folder.
+4. Pin it: puzzle-piece icon next to the address bar > pin **GBA Cheat Downloader**.
+
+Use:
+1. Click the gold **GBA** button. It opens gamehacking.org (pass the Cloudflare check if it shows one, then click the button again).
+2. Click **Start** in the box at the bottom-right. Keep the tab open; about 1,500 games take 20-30 minutes.
+3. When it's done, a Save window opens: choose where to save `gba_cheats_gamehacking.zip`.
+
+### Rebuilding the cheat pack
+```
+python tools/make_cheat_pack.py <libretro-database folder> libretro_pack
+python tools/make_gh_pack.py gba_cheats_gamehacking.zip libretro_pack <libretro-database folder> out
+```
+`out/SYSTEM/CHEATS` is the pack; `out/CHEATS_REPORT.txt` lists everything dropped. Needs Python 3 and gcc (for the engine check). The libretro database is https://github.com/libretro/libretro-database.
+
+---
+
+## Building from source
+
+Needs devkitPro with devkitARM and libgba.
+
+- Windows: `build.bat` (msys2 from devkitPro).
+- Linux/macOS: `make`.
+
+Output: `ezkernelnew.bin`. The build stops if the kernel is over 2 MB or its RAM data overflows. Building v0.1 from this repo gives the exact released file (md5 above).
+
+Emulator build for testing in mGBA (never flash this):
+```
+sh tools/make_sim_disk.sh     # needs mtools and dosfstools
+make SIM=1                    # -> phosphor_de_sim.gba with the test SD card from sim/root built in
+```
+
+---
+
+## Repo layout
+
+```
+source/        kernel source (pde_*.c is the Phosphor_DE UI, cheats and tools; the rest is the EZ-Flash engine)
+  norcheck/    NOR Check and the UI drawing code
+  ff15/        FatFs
+images/        graphics headers used by the build
+art/           splash screen and its generator
+fonts/         font licenses
+sdcard/        the SD card files (SYSTEM/CHEATS)
+cheats/        cheat pack source and report
+dist/          prebuilt ezkernelnew.bin
+tools/         PC tools (see above)
+sim/           test SD card contents for the emulator build
+docs/          pictures for this README
+```
+
+---
+
+## Credits and licenses
+
+**Phosphor_DE** by f3bandit. Licensed under the **Apache License 2.0** ([LICENSE](LICENSE)).
+
+It is built on, and includes:
+- **EZ-Flash Omega Definitive Edition kernel** (the engine that runs games), © EZ-Flash, Apache License 2.0.
+- **FatFs** by ChaN (its own permissive license, in `source/ff15`).
+- **Goomba Color** and **PocketNES** binaries, which ship inside EZ-Flash's kernel source (not used by Phosphor_DE's GBA-only menu).
+- **Tamzen** font (Suraj N. Kurapati, based on Tamsyn by Scott Fial) and **Spleen** font (Frederic Cambus); licenses in `fonts/`.
+
+Cheat data (not covered by Apache 2.0):
+- **GameHacking.org** (https://gamehacking.org), GBA code exports.
+- **libretro cheat database** (https://github.com/libretro/libretro-database), CC BY-SA 4.0.
+
+Tools: the Action Replay / GameShark decryption tables in `tools/_par_tables.py` and `tools/_gsa_tables.py` come from **mGBA** (© Jeffrey Pfau, Mozilla Public License 2.0).
+
+EZ-Flash, Game Boy Advance, Analogue Pocket and all game names are trademarks of their owners. This project isn't affiliated with or endorsed by EZ-Flash, Nintendo, Analogue, GameHacking.org or libretro.
+
+See [NOTICE](NOTICE) for the full list.
+
+---
+
+## Disclaimer
+
+**Use this at your own risk.**
+
+Phosphor_DE is unofficial software. Flashing a kernel or loader writes to your cart's boot chip, and anything that interrupts it (power loss, a bad SD card, the wrong file, the wrong cart) can leave the cart unbootable. Cheats write directly to a game's memory and can corrupt saves or crash games.
+
+This software is provided **"AS IS", WITHOUT WARRANTY OF ANY KIND**, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and non-infringement. **In no event shall the author or contributors be liable** for any claim, damages or other liability, including damage to your cart, console, SD card or save data, lost data, or any other loss, whether in contract, tort or otherwise, arising from or in connection with this software or its use. See sections 7 and 8 of the Apache License 2.0.
+
+Before you flash:
+- Make sure your cart is an **Omega Definitive Edition** (not the original Omega, not the newer blue "DE B").
+- Use a good battery or the power adapter, and don't touch anything while it writes.
+- Back up the `SYSTEM/SAVER` folder (your saves).
+- Know the way back: the official kernel (hold R) and EZ-Flash's loader recovery (hold SELECT).
+
+Use only games you own.

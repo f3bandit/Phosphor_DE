@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "All Items Collected"
+cheat0_code = "42000558+000A+0000000A+0004"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Film Reels"
+cheat1_code = "320001C8+00FF"
+cheat1_enable = false
+
+cheat2_desc = "Skip Scene [Press Select+R]"
+cheat2_code = "74000130+02FB+32000132+0001"
+cheat2_enable = false

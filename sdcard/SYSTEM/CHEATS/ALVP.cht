@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Baleog"
+cheat0_code = "33000FF4+0006+330012EC+0000"
+cheat0_enable = false
+
+cheat1_desc = "Eric"
+cheat1_code = "33000FF2+0006+330012EA+0000"
+cheat1_enable = false
+
+cheat2_desc = "Olaf"
+cheat2_code = "33000FF6+0006+330012EE+0000"
+cheat2_enable = false

@@ -1,0 +1,45 @@
+cheats = 11
+
+cheat0_desc = "Have 99 Notes"
+cheat0_code = "33001F30+0063"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Bombs"
+cheat1_code = "73003C2C+0101+33005DC8+0003"
+cheat1_enable = false
+
+cheat2_desc = "Infinite Health"
+cheat2_code = "73003C2C+3BF4+33003CB0+0006"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health (Bus)"
+cheat3_code = "73003C2C+0101+33003C82+0006"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Jam"
+cheat4_code = "73003C2C+3BF4+33003CC9+0038"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Lives"
+cheat5_code = "33001F1C+0009"
+cheat5_enable = false
+
+cheat6_desc = "Invincible"
+cheat6_code = "73003C2C+3BF4+33003E5C+0003"
+cheat6_enable = false
+
+cheat7_desc = "Jump in Midair"
+cheat7_code = "88013AE0+7806+88013B36+2000"
+cheat7_enable = false
+
+cheat8_desc = "Skip Stage [Press Select+Up]"
+cheat8_code = "74000130+03BB+33003B53+0001"
+cheat8_enable = false
+
+cheat9_desc = "Stop Timer"
+cheat9_code = "83001F24+0000+83001F26+0000"
+cheat9_enable = false
+
+cheat10_desc = "Unlock All Extras"
+cheat10_code = "4300201C+0202+0000000B+0002"
+cheat10_enable = false
