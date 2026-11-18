@@ -8,7 +8,7 @@
 #   1. checks dist/ezkernelnew.bin is a sane size (under the 2 MB kernel slot)
 #   2. builds Phosphor_DE_<version>.zip: "SD card" folder (ezkernelnew.bin + SYSTEM/CHEATS),
 #      loader recolor (de-recovery-phosphor.img, md5-checked, + patcher), README.txt, LICENSE, NOTICE,
-#      CHEATS_SOURCE.txt
+#      CHEATS_SOURCE.txt, SUPPORTED_CODES.txt
 #   3. creates the tag and the GitHub release with the zip and ezkernelnew.bin attached
 #
 # To release a new version: replace dist/ezkernelnew.bin (and sdcard/SYSTEM/CHEATS if the pack changed),
@@ -59,7 +59,7 @@ jobs:
           cp -r sdcard/SYSTEM/CHEATS "$d/SD card/SYSTEM/"
           cp loader/de-recovery-phosphor.img loader/patch_loader.py loader/README.txt "$d/loader/"
           test "$(md5sum "$d/loader/de-recovery-phosphor.img" | cut -d' ' -f1)" = "557c6e79ad576c3054785bd27fa65340" || { echo "::error::loader image md5 mismatch"; exit 1; }
-          cp LICENSE NOTICE cheats/CHEATS_SOURCE.txt "$d/"
+          cp LICENSE NOTICE cheats/CHEATS_SOURCE.txt cheats/SUPPORTED_CODES.txt "$d/"
           sed -e "s/{VERSION}/$v/g" -e "s/{SIZE}/$SIZE/g" -e "s/{MD5}/$MD5/g" release/README.txt | sed 's/$/\r/' > "$d/README.txt"
           sed -e "s/{VERSION}/$v/g" -e "s/{SIZE}/$SIZE/g" -e "s/{MD5}/$MD5/g" release/NOTES.md > out/notes.md
           (cd out && zip -qr "Phosphor_DE_$v.zip" "Phosphor_DE_$v")

@@ -6,3 +6,4 @@ libretro cheat database - https://github.com/libretro/libretro-database (CC BY-S
 Only ready-to-play codes are included: nothing has to be typed in or edited. Codes are stored as
 unencrypted Code Breaker; Action Replay / GameShark codes were converted (Anti-DMA patches kept).
 Every file was compiled with the Phosphor_DE cheat engine. Dropped codes: CHEATS_REPORT.txt
+Code types the engine supports: SUPPORTED_CODES.txt

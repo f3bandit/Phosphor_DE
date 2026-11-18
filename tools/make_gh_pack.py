@@ -14,7 +14,7 @@ Rules (ready-to-play codes only, nothing for the user to edit):
   - master / "must be on" codes are dropped (nothing to run); Anti-DMA ROM patches are kept
   - every file is compiled with the Phosphor_DE cheat code itself (cht_check); anything it can't run goes
   - at most 448 cheats per game (the cart's list size)
-Writes SYSTEM/CHEATS/<CODE>.cht, CHEATS_SOURCE.txt and CHEATS_REPORT.txt (every dropped code and why).
+Writes SYSTEM/CHEATS/<CODE>.cht, CHEATS_SOURCE.txt, SUPPORTED_CODES.txt and CHEATS_REPORT.txt (every dropped code and why).
 """
 import os, re, sys, csv, io, zipfile, subprocess, tempfile, shutil, collections
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -310,6 +310,63 @@ def convert(code, conv):
     raise g.Bad('Action Replay / GameShark code that won\'t decode')
 
 # ---------------------------------------------------------------- per game
+SUPPORTED = """Phosphor_DE cheat engine - supported codes
+==========================================
+
+The cart runs UNENCRYPTED CODE BREAKER codes: lines of 8 hex digits + 4 hex digits,
+  XXXXXXXX YYYY
+where the first digit is the code type. Every cheat in this pack uses only the types below
+(the pack builder compiles each file with the engine and drops anything it can't run).
+
+Type  Line format                    What it does                                 Supported
+----  -----------------------------  -------------------------------------------  ---------
+0, 1  0xxxxxxx yyyy / 1xxxxxxx yyyy  game ID / hook lines of master codes         ignored (not needed)
+2     2aaaaaaa vvvv                  16-bit OR  (set bits)                        yes
+3     3aaaaaaa 00vv                  8-bit write                                  yes
+4     4aaaaaaa vvvv                  fill / slide: 16-bit write repeated          yes
+      iiiinnnn ssss                    i = value step, n = count, s = address step
+5     5aaaaaaa nnnn                  write a list of n halfwords, data lines      yes
+      dddddddd dddd ...                follow (3 halfwords per line, byte-swapped)
+6     6aaaaaaa vvvv                  16-bit AND (clear bits)                      yes
+7     7aaaaaaa vvvv                  if 16-bit value == v, run the next code      yes
+8     8aaaaaaa vvvv                  16-bit write to RAM                          yes
+8     8800xxxx vvvv  (0x08xxxxxx)     ROM patch, applied once when the game loads  yes (not after a condition)
+9     9xxxxxxx yyyy                  encryption seed (encrypted Code Breaker)     NO
+A     Aaaaaaaa vvvv                  if 16-bit value != v, run the next code      yes
+B     Baaaaaaa vvvv                  if 16-bit value >  v (unsigned)              yes
+C     Caaaaaaa vvvv                  if 16-bit value <  v (unsigned)              yes
+D     D0000020 kkkk                  if buttons k are held, run the next code     yes (only D0000020)
+E     Eaaaaaaa vvvv                  16-bit ADD                                   yes
+F     Faaaaaaa vvvv                  if (16-bit value AND v) != 0, run next code  yes
+
+Addresses: RAM writes and conditions 0x02000000-0x07FFFFFF (EWRAM, IWRAM, I/O, palette,
+VRAM, OAM); ROM patches 0x08000000-0x09FFFFFF.
+A condition (7, A, B, C, D, F) covers the whole next code, including all lines of a fill or list.
+Codes run on every interrupt while cheats are on; ROM patches are applied when the game starts.
+
+NOT supported on the cart (convert them on a PC first, tools/gbacodes.py does it):
+  - encrypted Code Breaker (codes that start with a 9 line)
+  - Action Replay v3 / AR MAX and GameShark v1/v2 codes (8 + 8 digits), encrypted or raw
+  - codes with a value left to type in (XXXX, ??)
+  - Code Breaker D codes other than D0000020 (buttons), and other unknown types
+
+Game revisions: a cheat whose name ends in "(Rev 0)", "(Rev 1)", ... fits only that revision of
+the game (the ROM header's version byte). Phosphor_DE lists only the cheats that fit the ROM you
+picked (FireRed / LeafGreen 1.0 and 1.1 share a game code but not their code addresses).
+
+Auto codes: a cheat whose name contains "Anti DMA", "Anti-DMA" or "Must Be On" switches on by
+itself whenever any other cheat is on (shown as "auto" on the cart). They're always at the top of
+each list. Some games (Pokemon) move their data around and need them for the other codes to work.
+
+Limits: 448 cheats listed per game. The cheats switched on together compile to engine entries
+(one per write or condition, 2 per fill, one per halfword of a list; ROM patches don't count).
+The list holds up to 2,900; the room left in the in-game patch area (about 21 KB of VRAM) can
+make the real limit lower. The cart warns "Too many codes on" when it's hit.
+
+File: SYSTEM/CHEATS/<GAMECODE>.cht, RetroArch layout (cheatN_desc / cheatN_code with + between
+values) or plain text (a name line, then code lines).
+"""
+
 def gh_game(code, entries, report):
     # GameHacking spells out XXXX codes: one code template repeated with different values,
     # each under its own name (or the same name many times). Those all go.
@@ -444,7 +501,9 @@ def main(src, lrpack, db, out):
         'libretro cheat database - https://github.com/libretro/libretro-database (CC BY-SA 4.0)\n\n'
         'Only ready-to-play codes are included: nothing has to be typed in or edited. Codes are stored as\n'
         'unencrypted Code Breaker; Action Replay / GameShark codes were converted (Anti-DMA patches kept).\n'
-        'Every file was compiled with the Phosphor_DE cheat engine. Dropped codes: CHEATS_REPORT.txt\n')
+        'Every file was compiled with the Phosphor_DE cheat engine. Dropped codes: CHEATS_REPORT.txt\n'
+        'Code types the engine supports: SUPPORTED_CODES.txt\n')
+    open(os.path.join(out, 'SUPPORTED_CODES.txt'), 'w', encoding='utf-8', newline='\r\n').write(SUPPORTED)
     with open(os.path.join(out, 'CHEATS_REPORT.txt'), 'w', encoding='utf-8', newline='\r\n') as f:
         f.write('%d games, %d cheats\n\nDropped:\n' % (games, total))
         for w, n in why.most_common(): f.write('  %6d  %s\n' % (n, w))

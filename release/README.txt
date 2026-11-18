@@ -24,6 +24,9 @@ SD CARD AFTER INSTALL
   \BACKUP\SAVER\          save backups (made by the kernel)
   your .gba games, in any folders
 
+CHEATS
+  Which code types the cart runs (and which it doesn't): SUPPORTED_CODES.txt
+
 KEYS
   Power-on: hold R = install/update kernel, hold SELECT = EZ-Flash safe mode
   Menu: L/R tabs, A open, B back. NOR tab START = NOR Check. Settings > About START = dump boot chip

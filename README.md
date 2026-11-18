@@ -17,7 +17,7 @@ Dark, readable, GBA-only, with a new cheat engine and a ready-made cheat pack of
 - [Features](#features)
 - [Quick start (install)](#quick-start-install)
 - [SD card layout](#sd-card-layout)
-- [Cheats](#cheats)
+- [Cheats](#cheats) (and [Supported codes](#supported-codes))
 - [Buttons](#buttons)
 - [Settings](#settings)
 - [Loader recolor (optional)](#loader-recolor-optional)
@@ -164,6 +164,7 @@ The cheat system is new; EZ-Flash's was dropped because its library is badly org
   - **Pokemon Ruby, Sapphire, FireRed, LeafGreen and Emerald (USA)** were checked against byte-exact builds of the games (pret's decompilations): every ROM patch against the instruction it changes, every RAM address against the variable it hits. Broken ones were removed, FireRed/LeafGreen get the right Anti DMA for each revision, and Anti DMA also keeps the money key at 0, so money, coin and item-count cheats give real amounts.
 - What was left out, game by game and why: [`cheats/CHEATS_REPORT.txt`](cheats/CHEATS_REPORT.txt).
 - Where it came from: [`cheats/CHEATS_SOURCE.txt`](cheats/CHEATS_SOURCE.txt).
+- Which code types the engine runs: [Supported codes](#supported-codes) (also in the pack as `SUPPORTED_CODES.txt`).
 
 ### Cheat file format
 Plain text, one file per game, `SYSTEM/CHEATS/<GAMECODE>.cht`. Two layouts are read:
@@ -173,24 +174,56 @@ RetroArch layout (what the pack uses), from `BPEE.cht` (Pokemon Emerald USA):
 cheats = 2
 
 cheat0_desc = "Anti DMA"
-cheat0_code = "88076BEE+2400"
+cheat0_code = "88076BEA+2400+88076CD6+2400"
 cheat0_enable = false
 
-cheat1_desc = "Max Money"
-cheat1_code = "82000568+423F+8200056A+000F"
+cheat1_desc = "1-Hit Kill [Hold L]"
+cheat1_code = "74000130+01FF+8202479A+0000+74000130+01FF+8202479C+0000"
 cheat1_enable = false
 ```
 
 Plain text, as pasted from GameHacking.org (a name line, then code lines):
 ```
 Anti DMA
-88076BEE 2400
-Max Money
-82000568 423F
-8200056A 000F
+88076BEA 2400
+88076CD6 2400
+1-Hit Kill [Hold L]
+74000130 01FF
+8202479A 0000
+74000130 01FF
+8202479C 0000
 ```
 
-Codes are **unencrypted Code Breaker** (`XXXXXXXX YYYY`). Supported types: 8/16-bit writes, OR / AND / ADD, if equal / not equal / greater / less / AND, "if buttons held", fills (slides), and ROM patches (`8` codes to `0x08xxxxxx`, applied when the game loads). Encrypted Code Breaker codes (the ones that start with a `9` line) aren't supported on the cart; convert them first.
+### Supported codes
+
+The cart runs **unencrypted Code Breaker** codes: lines of 8 + 4 hex digits (`XXXXXXXX YYYY`), where the first digit is the code type. Every cheat in the pack uses only the supported types below; the pack builder compiles each file with the engine and drops anything it can't run. The same list ships with the pack as [`SUPPORTED_CODES.txt`](cheats/SUPPORTED_CODES.txt).
+
+| Type | Line | What it does | Supported |
+|---|---|---|---|
+| `0`, `1` | `0xxxxxxx yyyy` | game ID / hook lines of master codes | ignored (not needed) |
+| `2` | `2aaaaaaa vvvv` | 16-bit OR (set bits) | yes |
+| `3` | `3aaaaaaa 00vv` | 8-bit write | yes |
+| `4` | `4aaaaaaa vvvv` + `iiiinnnn ssss` | fill / slide: write `v` `n` times, value +`i`, address +`s` each time | yes |
+| `5` | `5aaaaaaa nnnn` + data lines | write a list of `n` halfwords (3 per data line, byte-swapped) | yes |
+| `6` | `6aaaaaaa vvvv` | 16-bit AND (clear bits) | yes |
+| `7` | `7aaaaaaa vvvv` | if 16-bit value **=** `v`, run the next code | yes |
+| `8` | `8aaaaaaa vvvv` | 16-bit write to RAM | yes |
+| `8` | `8800xxxx vvvv` (address `0x08xxxxxx`) | ROM patch, applied once when the game starts | yes (not after a condition) |
+| `9` | `9xxxxxxx yyyy` | encryption seed (encrypted Code Breaker) | **no** |
+| `A` | `Aaaaaaaa vvvv` | if 16-bit value **≠** `v`, run the next code | yes |
+| `B` | `Baaaaaaa vvvv` | if 16-bit value **>** `v` (unsigned) | yes |
+| `C` | `Caaaaaaa vvvv` | if 16-bit value **<** `v` (unsigned) | yes |
+| `D` | `D0000020 kkkk` | if buttons `k` are held, run the next code | yes (only `D0000020`) |
+| `E` | `Eaaaaaaa vvvv` | 16-bit ADD | yes |
+| `F` | `Faaaaaaa vvvv` | if (16-bit value AND `v`) ≠ 0, run the next code | yes |
+
+- **Addresses:** RAM writes and conditions `0x02000000`-`0x07FFFFFF` (EWRAM, IWRAM, I/O, palette, VRAM, OAM); ROM patches `0x08000000`-`0x09FFFFFF`.
+- A condition (`7`, `A`, `B`, `C`, `D`, `F`) covers the whole next code, including every line of a fill or list.
+- Codes run on every interrupt while cheats are on; ROM patches are applied when the game starts.
+- **Not supported on the cart** (convert on a PC first; `tools/gbacodes.py` does it): encrypted Code Breaker (codes starting with a `9` line), Action Replay v3 / AR MAX and GameShark v1/v2 codes (8 + 8 digits, encrypted or raw), codes with a value left to type in (`XXXX`, `??`), `D` codes other than `D0000020`.
+- **Revisions:** a cheat named `... (Rev N)` is listed only for that revision of the game.
+- **Auto codes:** a cheat whose name contains "Anti DMA", "Anti-DMA" or "Must Be On" switches on by itself with any other cheat, and sits at the top of the list.
+- **Limits:** 448 cheats listed per game. The cheats switched on together compile to engine entries (one per write or condition, 2 per fill, one per halfword of a list; ROM patches don't count). The list holds up to 2,900, and the room left in the in-game patch area (about 21 KB of VRAM) can make the real limit lower; the cart warns "Too many codes on" when it's hit.
 
 ### Adding your own
 Write the codes into `SYSTEM/CHEATS/<GAMECODE>.cht` in either layout above. To convert Action Replay / GameShark codes, use `tools/gbacodes.py` (see [Tools](#tools-in-this-repo)).
