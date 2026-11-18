@@ -104,12 +104,6 @@ static void draw_tabs(void)
 }
 static void hints(const char *const *h, int n) { ui_hints(h, n); }
 
-// small file-type badge, drawn (no image data)
-static void badge(int x, int y, const char *t, u16 c)
-{
-	ui_box(x - 1, y + 1, 20, 11, c, 0xFFFF);       // filled tag, dark letters
-	ui_text(x - 1 + (20 - (int)strlen(t) * 6) / 2 + 1, y, t, C_BG);
-}
 static void folder_icon(int x, int y, u16 c)
 {
 	ui_fill(x, y + 3, 7, 2, c); ui_fill(x, y + 4, 18, 7, c); ui_fill(x + 1, y + 5, 16, 5, C_BG);
@@ -119,19 +113,6 @@ static const char *ext_of(const char *f)
 	static char e4[5]; const char *e = strrchr(f, '.'); int i = 0;
 	if (e) for (e++; *e > ' ' && i < 4; e++) e4[i++] = *e;	// stop at CR/LF/space
 	e4[i] = 0; return e4;
-}
-static void type_badge(int x, int y, const char *fname, int sel)
-{
-	const char *e = ext_of(fname);
-	u16 c = sel ? C_TXT : C_DIM;
-	if (!strcasecmp(e, "gba") || !strcasecmp(e, "agb") || !strcasecmp(e, "bin")) badge(x, y, "GBA", RGB5(15, 22, 31));
-	else if (!strcasecmp(e, "gbc")) badge(x, y, "GBC", RGB5(28, 16, 26));
-	else if (!strcasecmp(e, "gb")) badge(x, y, "GB", RGB5(18, 26, 12));
-	else if (!strcasecmp(e, "sav") || !strcasecmp(e, "esv") || !strcasecmp(e, "rts")) badge(x, y, "SAV", C_GRN);
-	else if (!strcasecmp(e, "nes")) badge(x, y, "NES", RGB5(28, 10, 10));
-	else if (!strcasecmp(e, "gg") || !strcasecmp(e, "sms")) badge(x, y, "SEG", RGB5(10, 18, 30));
-	else if (!strcasecmp(e, "cht")) badge(x, y, "CHT", C_AC);
-	else badge(x, y, "...", c);
 }
 static void size_str(char *s, u32 sz)
 {
@@ -194,7 +175,7 @@ int pde_confirm(const char *title, const char *line)
 #define ROW_Y0 49
 #define ROW_H 13
 static u32 sel_sd, top_sd;
-static u8 folder_sel_stack[64], folder_top_stack[64];
+static u16 folder_sel_stack[64], folder_top_stack[64];   // a folder holds up to 0x100 folders + 0x200 games
 static int depth;
 
 // Phosphor_DE is GBA only: the list shows folders and GBA ROMs
@@ -211,10 +192,13 @@ static void read_sd_dir(void)
 			if (f_readdir(&dir, &fileinfo) != FR_OK || fileinfo.fname[0] == 0) break;
 			if (fileinfo.fname[0] == '.') continue;
 			if (fileinfo.fattrib & AM_HID) continue;
+			// names are kept in 100 bytes: a longer one would be cut and then not open, so it's listed by
+			// its short (8.3) name, which opens the same file
+			const char *nm = (strlen(fileinfo.fname) < 100 || !fileinfo.altname[0]) ? fileinfo.fname : fileinfo.altname;
 			if (fileinfo.fattrib & AM_DIR) {
-				if (folder_total < MAX_folder) { memcpy(pFolder[folder_total].filename, fileinfo.fname, 100); pFolder[folder_total].filename[99] = 0; folder_total++; }
+				if (folder_total < MAX_folder) { strncpy(pFolder[folder_total].filename, nm, 99); pFolder[folder_total].filename[99] = 0; folder_total++; }
 			} else if (game_total_SD < MAX_files && is_gba_rom(fileinfo.fname)) {
-				memcpy(pFilename_buffer[game_total_SD].filename, fileinfo.fname, 100);
+				strncpy(pFilename_buffer[game_total_SD].filename, nm, 99);
 				pFilename_buffer[game_total_SD].filename[99] = 0;
 				pFilename_buffer[game_total_SD].filesize = fileinfo.fsize;
 				game_total_SD++;
@@ -495,7 +479,8 @@ static int open_recent(u32 r)
 	const char *file;
 	if (!p) return 0;
 	memset(path, 0, sizeof path);
-	strncpy(path, p_recently_play[r], p - p_recently_play[r]);
+	u32 pl = p - p_recently_play[r]; if (pl > sizeof path - 1) pl = sizeof path - 1;
+	strncpy(path, p_recently_play[r], pl);
 	if (!path[0]) strcpy(path, "/");
 	file = p + 1;
 	strcpy(currentpath, path); f_chdir(currentpath); depth = 0;
@@ -549,7 +534,8 @@ int main(void)
 		}
 		VBlankIntrWait();
 		mq_tick();
-		{ u8 t[3]; rtc_enable(); rtc_gettime(t); rtc_disenable(); if (t[1] != last_min) { last_min = t[1]; draw_clock(); } }
+		static u32 frame;   // the clock chip is read twice a second, not every frame
+		if (++frame % 30 == 0) { u8 t[3]; rtc_enable(); rtc_gettime(t); rtc_disenable(); if (t[1] != last_min) { last_min = t[1]; draw_clock(); } }
 		u16 k = pde_keys_down();
 		if (k & KEY_L) { tab = (tab + TAB_COUNT - 1) % TAB_COUNT; if (tab == TAB_NOR) read_nor(); if (tab == TAB_RECENT) read_recent(); full = 1; continue; }
 		if (k & KEY_R) { tab = (tab + 1) % TAB_COUNT; if (tab == TAB_NOR) read_nor(); if (tab == TAB_RECENT) read_recent(); full = 1; continue; }

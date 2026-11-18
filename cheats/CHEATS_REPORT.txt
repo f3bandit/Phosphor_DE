@@ -1,4 +1,4 @@
-1700 games, 28642 cheats
+1700 games, 28835 cheats
 
 Dropped:
    24979  value list from an XXXX code
@@ -6,12 +6,12 @@ Dropped:
     1659  master / must-be-on code, not needed
     1413  Code Breaker code that is encrypted or broken
     1373  does nothing (only conditions / hooks)
-    1148  value list from an XXXX code (Modifier: the value to set was lost)
+    1157  value list from an XXXX code (Modifier: the value to set was lost)
      825  same code as another cheat
-     445  value list from an XXXX code (just "Slot N": the item to put there was lost)
-     390  over the 448-cheat list limit
+     407  value list from an XXXX code (just "Slot N": the item to put there was lost)
+     376  over the 448-cheat list limit
      171  the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
-     135  Phosphor_DE cheat engine can't run it
+     153  Phosphor_DE cheat engine can't run it
       45  encrypted code decoded wrong: one random value at a random address (mostly ROM)
       40  unknown code format
       30  the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
@@ -30851,7 +30851,7 @@ A2GJ | Enable Code (Must Be On) | does nothing (only conditions / hooks)
 BGCP | Enable Code (Must Be On) | does nothing (only conditions / hooks)
 BGCE | Enable Code (Must Be On) | does nothing (only conditions / hooks)
 AWRP | Enable Code (Must Be On) | does nothing (only conditions / hooks)
-AWRE | Enable Code (Must Be On) | does nothing (only conditions / hooks)
+AWRE | Enable Code (Must Be On) (Rev 0) | does nothing (only conditions / hooks)
 AW2E | Army #2 Flag Modifier | value list from an XXXX code (Modifier: the value to set was lost)
 AW2E | Army #3 Flag Modifier | value list from an XXXX code (Modifier: the value to set was lost)
 AW2E | Army #4 Flag Modifier | value list from an XXXX code (Modifier: the value to set was lost)
@@ -32095,6 +32095,7 @@ BFFE | Item Modifier Slot 6 | the value to set was lost (an XXXX list): writes t
 BFFE | Item Modifier Slot 7 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
 BFFE | Item Modifier Slot 8 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
 BFFE | Item Modifier Slot 9 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | [FFII] All Weapons Mastered | Phosphor_DE cheat engine can't run it
 BZ4P | Item After  BattleModifier Slot 3 | value list from an XXXX code (Modifier: the value to set was lost)
 BZ4P | Item After Battle Modifier Slot 1 | value list from an XXXX code (Modifier: the value to set was lost)
 BZ4P | Item After Battle Modifier Slot 2 | value list from an XXXX code (Modifier: the value to set was lost)
@@ -33239,6 +33240,21 @@ BPRE | All TM's/HM's (Part 1) | Phosphor_DE cheat engine can't run it
 BPRE | All TM's/HM's (Part 2) | Phosphor_DE cheat engine can't run it
 BPRE | Encounter Less | Phosphor_DE cheat engine can't run it
 BPRE | Battle Ho-oh [Press Select] | Phosphor_DE cheat engine can't run it
+BPRE | 2nd Position | Phosphor_DE cheat engine can't run it
+BPRE | All Berries (Part 1) | Phosphor_DE cheat engine can't run it
+BPRE | All Berries (Part 2) | Phosphor_DE cheat engine can't run it
+BPRE | All Hold Items (Part 1) | Phosphor_DE cheat engine can't run it
+BPRE | All Hold Items (Part 2) | Phosphor_DE cheat engine can't run it
+BPRE | All Key Items (Part 1) | Phosphor_DE cheat engine can't run it
+BPRE | All Key Items (Part 2) | Phosphor_DE cheat engine can't run it
+BPRE | All Misc Items (Part 1) | Phosphor_DE cheat engine can't run it
+BPRE | All Misc Items (Part 2) | Phosphor_DE cheat engine can't run it
+BPRE | All Pokeballs (Part 1) | Phosphor_DE cheat engine can't run it
+BPRE | All Pokeballs (Part 2) | Phosphor_DE cheat engine can't run it
+BPRE | All TM's/HM's (Part 1) | Phosphor_DE cheat engine can't run it
+BPRE | All TM's/HM's (Part 2) | Phosphor_DE cheat engine can't run it
+BPRE | Encounter Less | Phosphor_DE cheat engine can't run it
+BPRE | Battle Ho-oh [Press Select] | Phosphor_DE cheat engine can't run it
 BPGE | Pokemon Fire Red-Enable Code (Must Be On) | auto code that freezes the random seed (gRngValue) every frame; Anti DMA (Rev 0/1) does its job
 BPGE | Pokemon Leaf Green-Enable Code (Must Be On) | auto code that freezes the random seed (gRngValue) every frame; Anti DMA (Rev 0/1) does its job
 BPGE | Slot 1 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
@@ -33273,6 +33289,7 @@ BPGE | Slot 8 | the item to put in the slot was lost (an XXXX code): B+Up emptie
 BPGE | Slot 9 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
 BPGE | IV Modifier | value list from an XXXX code (Modifier: the value to set was lost)
 BPGE | Species Modifier | value list from an XXXX code (Modifier: the value to set was lost)
+BPGE | Battle Ho-oh [Press Select] | Phosphor_DE cheat engine can't run it
 BPGE | Battle Ho-oh [Press Select] | Phosphor_DE cheat engine can't run it
 AXPE | Hours Modifier | value list from an XXXX code (Modifier: the value to set was lost)
 AXPE | Total Key Item Modifier (00-14) | value list from an XXXX code (Modifier: the value to set was lost)
@@ -33826,54 +33843,16 @@ AA2E | Enable Code (Must Be On) | does nothing (only conditions / hooks)
 A3AP | Enable Code (Must Be On) | does nothing (only conditions / hooks)
 A3AE | Enable Code (Must Be On) | does nothing (only conditions / hooks)
 AX4P | Enable Code (Must Be On) | does nothing (only conditions / hooks)
-AX4E | Enemy Point Modifier | value list from an XXXX code (Modifier: the value to set was lost)
-AX4E | Slot 1 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 10 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 11 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 12 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 13 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 14 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 15 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 16 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 17 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 18 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 19 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 2 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 20 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 21 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 22 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 23 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 24 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 25 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 26 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 27 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 28 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 29 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 3 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 30 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 31 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 32 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 33 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 34 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 35 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 36 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 37 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 38 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 4 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 5 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 6 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 7 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 8 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Slot 9 | value list from an XXXX code (just "Slot N": the item to put there was lost)
-AX4E | Stage Type Modifier | value list from an XXXX code (Modifier: the value to set was lost)
-AX4E | Toad House Reward Modifier | value list from an XXXX code (Modifier: the value to set was lost)
+AX4E | Enemy Point Modifier (Rev 0) | value list from an XXXX code (Modifier: the value to set was lost)
+AX4E | Stage Type Modifier (Rev 0) | value list from an XXXX code (Modifier: the value to set was lost)
+AX4E | Toad House Reward Modifier (Rev 0) | value list from an XXXX code (Modifier: the value to set was lost)
 AX4E | Character Modifier (Rev 1) | value list from an XXXX code (Modifier: the value to set was lost)
 AX4E | In-Game Costume Modifier (Rev 1) | value list from an XXXX code (Modifier: the value to set was lost)
 AX4E | Infinite Lives (Rev 1) | ROM patch past the end of the game (8 MB)
 AX4E | Item In 1st Slot Modifier (Rev 1) | value list from an XXXX code (Modifier: the value to set was lost)
 AX4E | Music Speed Modifier (Rev 1) | value list from an XXXX code (Modifier: the value to set was lost)
 AX4E | World Modifier (Rev 1) | value list from an XXXX code (Modifier: the value to set was lost)
-AX4E | Enable Code (Must Be On) | does nothing (only conditions / hooks)
+AX4E | Enable Code (Must Be On) (Rev 0) | does nothing (only conditions / hooks)
 ALUP | Enable Code (Must Be On) | does nothing (only conditions / hooks)
 ALUE | Enable Code (Must Be On) | does nothing (only conditions / hooks)
 AZ8E | Player 1 Lower Piece Modifier | value list from an XXXX code (Modifier: the value to set was lost)
@@ -34093,11 +34072,21 @@ AYDJ | Enable Code (Must Be On) | does nothing (only conditions / hooks)
 AYDE | Enable Code (Must Be On) | does nothing (only conditions / hooks)
 AY8P | Enable Code (Must Be On) | does nothing (only conditions / hooks)
 AY8E | Enable Code (Must Be On) | does nothing (only conditions / hooks)
-AY5E | Mammoth Graveyard | over the 448-cheat list limit
-AY5E | Man Eater | over the 448-cheat list limit
-AY5E | Man-Eater Bug | over the 448-cheat list limit
-AY5E | Man-Eating BlackShark | over the 448-cheat list limit
-AY5E | Man-Eating Plant | over the 448-cheat list limit
+AY8E | Have All Cards | Phosphor_DE cheat engine can't run it
+AY5E | Magic/Trap Card Modifier Slot 1 | value list from an XXXX code (Modifier: the value to set was lost)
+AY5E | Magic/Trap Card Modifier Slot 2 | value list from an XXXX code (Modifier: the value to set was lost)
+AY5E | Magic/Trap Card Modifier Slot 3 | value list from an XXXX code (Modifier: the value to set was lost)
+AY5E | Magic/Trap Card Modifier Slot 4 | value list from an XXXX code (Modifier: the value to set was lost)
+AY5E | Magic/Trap Card Modifier Slot 5 | value list from an XXXX code (Modifier: the value to set was lost)
+AY5E | Monster Card Modifier Slot 1 | value list from an XXXX code (Modifier: the value to set was lost)
+AY5E | Monster Card Modifier Slot 2 | value list from an XXXX code (Modifier: the value to set was lost)
+AY5E | Monster Card Modifier Slot 3 | value list from an XXXX code (Modifier: the value to set was lost)
+AY5E | Monster Card Modifier Slot 4 | value list from an XXXX code (Modifier: the value to set was lost)
+AY5E | Monster Card Modifier Slot 5 | value list from an XXXX code (Modifier: the value to set was lost)
+AY5E | Monster Mode Modifier Slot  4 | value list from an XXXX code (Modifier: the value to set was lost)
+AY5E | Monster Mode Modifier Slot 1 | value list from an XXXX code (Modifier: the value to set was lost)
+AY5E | Monster Mode Modifier Slot 3 | value list from an XXXX code (Modifier: the value to set was lost)
+AY5E | Monster Mode Modifier Slot 5 | value list from an XXXX code (Modifier: the value to set was lost)
 AY5E | Man-Eating Treasure Chest | over the 448-cheat list limit
 AY5E | Manga Ryu-Ran | over the 448-cheat list limit
 AY5E | Marine Beast | over the 448-cheat list limit
@@ -34134,17 +34123,8 @@ AY5E | Mirror Force | over the 448-cheat list limit
 AY5E | Mirror Wall | over the 448-cheat list limit
 AY5E | Misairuzame | over the 448-cheat list limit
 AY5E | Molten Destruction | over the 448-cheat list limit
-AY5E | Monster Card Modifier Slot 1 | over the 448-cheat list limit
-AY5E | Monster Card Modifier Slot 2 | over the 448-cheat list limit
-AY5E | Monster Card Modifier Slot 3 | over the 448-cheat list limit
-AY5E | Monster Card Modifier Slot 4 | over the 448-cheat list limit
-AY5E | Monster Card Modifier Slot 5 | over the 448-cheat list limit
 AY5E | Monster Egg | over the 448-cheat list limit
 AY5E | Monster Eye | over the 448-cheat list limit
-AY5E | Monster Mode Modifier Slot  4 | over the 448-cheat list limit
-AY5E | Monster Mode Modifier Slot 1 | over the 448-cheat list limit
-AY5E | Monster Mode Modifier Slot 3 | over the 448-cheat list limit
-AY5E | Monster Mode Modifier Slot 5 | over the 448-cheat list limit
 AY5E | Monster Reborn | over the 448-cheat list limit
 AY5E | Monster Tamer | over the 448-cheat list limit
 AY5E | Monstrous Bird | over the 448-cheat list limit
@@ -34483,11 +34463,6 @@ AY5E | Zero (0) Loses Against Yugi Muto | over the 448-cheat list limit
 AY5E | Zoa | over the 448-cheat list limit
 AY5E | Zombie Warrior | over the 448-cheat list limit
 AY5E | Zone Eater | over the 448-cheat list limit
-AY5E | Magic/Trap Card Modifier Slot 1 | value list from an XXXX code (Modifier: the value to set was lost)
-AY5E | Magic/Trap Card Modifier Slot 2 | value list from an XXXX code (Modifier: the value to set was lost)
-AY5E | Magic/Trap Card Modifier Slot 3 | value list from an XXXX code (Modifier: the value to set was lost)
-AY5E | Magic/Trap Card Modifier Slot 4 | value list from an XXXX code (Modifier: the value to set was lost)
-AY5E | Magic/Trap Card Modifier Slot 5 | value list from an XXXX code (Modifier: the value to set was lost)
 AY7P | Enable Code (Must Be On) | does nothing (only conditions / hooks)
 AY7P | Alternate Master Code | does nothing (only conditions / hooks)
 AY7E | Enable Code (Must Be On) | does nothing (only conditions / hooks)

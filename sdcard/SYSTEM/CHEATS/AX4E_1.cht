@@ -1,0 +1,9 @@
+cheats = 2
+
+cheat0_desc = "Get All Chests in Toad Houses"
+cheat0_code = "88092ECE+2300+8809311E+2400"
+cheat0_enable = false
+
+cheat1_desc = "Infinite Star Power"
+cheat1_code = "880CB2A4+05FD"
+cheat1_enable = false

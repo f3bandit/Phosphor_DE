@@ -1,4 +1,4 @@
-cheats = 30
+cheats = 29
 
 cheat0_desc = "0 LP For Opponent"
 cheat0_code = "8202425A+0000"
@@ -112,10 +112,6 @@ cheat27_desc = "Infinite Money"
 cheat27_code = "82021DD0+FFFF"
 cheat27_enable = false
 
-cheat28_desc = "Have All Cards"
-cheat28_code = "42021791+6363+00000190+0002"
+cheat28_desc = "Max Deck Capacity"
+cheat28_code = "82021C1C+423F+82021C1E+000F"
 cheat28_enable = false
-
-cheat29_desc = "Max Deck Capacity"
-cheat29_code = "82021C1C+423F+82021C1E+000F"
-cheat29_enable = false

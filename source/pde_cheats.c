@@ -20,6 +20,7 @@
 #include "showcht.h"
 #include "ui.h"
 #include "pde.h"
+#include "GBApatch.h"
 
 extern FIL gfile;
 extern ST_entry pCHEAT[];
@@ -106,7 +107,7 @@ static void handle_line(char *raw, u32 start)
 	}
 	// plain text: a name line, then code lines
 	if (is_code_line(t)) {
-		if (pl_cur < 0) { char nm[16]; sprintf(nm, "Cheat %d", n_ch + 1); pl_cur = new_cheat(nm, 0); if (pl_cur < 0) return; }
+		if (pl_cur < 0) { char nm[24]; sprintf(nm, "Cheat %d", n_ch + 1); pl_cur = new_cheat(nm, 0); if (pl_cur < 0) return; }
 		if (!CH[pl_cur].off) CH[pl_cur].off = start;
 		CH[pl_cur].end = 0xFFFFFFFF;   // fixed up when the next name starts
 		return;
@@ -154,15 +155,25 @@ static int parse_cht(void)
 enum { OP_W8, OP_W16, OP_OR, OP_AND, OP_ADD, OP_IFEQ, OP_IFNE, OP_IFGT, OP_IFLT, OP_IFAND, OP_KEYS, OP_FILL, OP_ROM16 = 15 };
 static int cb_emit_ok;          // 0 = dry run (only check), 1 = really write pCHEAT
 static u32 cb_n;                // entries this cheat produced
+static u32 ram_n;               // entries for the in-game engine so far (ROM patches aren't in its table)
+static int skip_bad;            // a condition covers more than 255 entries: the engine can't skip that far
 static void emit(u32 w0, u32 w1)
 {
-	if (cb_emit_ok && gl_cheat_count < MAX_CHEAT_ENTRIES) { pCHEAT[gl_cheat_count].address = w0; pCHEAT[gl_cheat_count].VAL = w1; gl_cheat_count++; }
+	if (cb_emit_ok && gl_cheat_count < MAX_CHEAT_ENTRIES) {
+		pCHEAT[gl_cheat_count].address = w0; pCHEAT[gl_cheat_count].VAL = w1; gl_cheat_count++;
+		if ((w0 >> 28) < 14) ram_n++;
+	}
 	cb_n++;
 }
 static void set_skip(u32 idx, u32 skip)
 {
-	if (cb_emit_ok && idx < gl_cheat_count) pCHEAT[idx].VAL = (pCHEAT[idx].VAL & 0xFFFF) | ((skip > 255 ? 255 : skip) << 16);
+	if (skip > 255) { skip_bad = 1; return; }
+	if (cb_emit_ok && idx < gl_cheat_count) pCHEAT[idx].VAL = (pCHEAT[idx].VAL & 0xFFFF) | (skip << 16);
 }
+// room for the engine's table: the in-game patch is copied to free VRAM at 0x06012C00 and the table
+// (CHEAT) follows its code, up to 0x06018000 (GBApatch.c drops anything past that)
+static u32 engine_room(void) { return (0x06018000 - 0x06012C00 - ((u32)CHEAT - (u32)RTS_ReplaceIRQ_start)) / 8; }
+static int too_many;            // a cheat that's on didn't fit
 static int ram_ok(u32 a) { u32 r = a >> 24; return r >= 2 && r <= 7; }
 static int rom_ok(u32 a) { return a >= 0x08000000 && a < 0x0A000000; }
 static u16 swap16(u32 h) { return ((h >> 8) | (h << 8)) & 0xFFFF; }
@@ -185,12 +196,14 @@ static int cb_line(u32 op1, u32 op2)
 	case 0x0: case 0x1: code_done = 0; break;                              // game id / hook: nothing to run
 	case 0x2: if (!ram_ok(a)) return 0; emit((OP_OR << 28) | a, op2); break;
 	case 0x3: if (!ram_ok(a)) return 0; emit((OP_W8 << 28) | a, op2 & 0xFF); break;
-	case 0x4: if (!ram_ok(a)) return 0; emit((OP_FILL << 28) | a, op2); fill_wait = 1; code_done = 0; break;
+	case 0x4: if (!ram_ok(a) || (a & 1)) return 0; emit((OP_FILL << 28) | a, op2); fill_wait = 1; code_done = 0; break;
 	case 0x5: if (!ram_ok(a) || !op2) return 0; list_addr = a; list_left = op2; code_done = 0; break;
 	case 0x6: if (!ram_ok(a)) return 0; emit((OP_AND << 28) | a, op2); break;
 	case 0x8:
 		if (rom_ok(a)) { if (cond_wait) return 0; emit((OP_ROM16 << 28) | (a - 0x08000000), op2); }
-		else { if (!ram_ok(a)) return 0; emit((OP_W16 << 28) | a, op2); }
+		else if (!ram_ok(a)) return 0;
+		else if (a & 1) { emit((OP_W8 << 28) | a, op2 & 0xFF); emit((OP_W8 << 28) | (a + 1), op2 >> 8); }   // the CPU can't write 16 bits at an odd address
+		else emit((OP_W16 << 28) | a, op2);
 		break;
 	case 0x7: case 0xA: case 0xB: case 0xC: case 0xF:
 		if (!ram_ok(a)) return 0;
@@ -211,7 +224,7 @@ static int compile(int ci)
 	pc_cheat *c = &CH[ci];
 	u32 tok0 = 0, cur = 0; int nt = 0, digits = 0;
 	UINT br, bi;
-	fill_wait = list_left = cond_wait = 0;
+	fill_wait = list_left = cond_wait = skip_bad = 0;
 	if (!cht_open()) return 0;
 	f_lseek(CF, c->off);
 	u32 pos = c->off;
@@ -226,10 +239,10 @@ static int compile(int ci)
 			if (d >= 0) { cur = (cur << 4) | d; if (++digits > 8) return 0; continue; }
 			if (digits) {
 				if (nt == 0) { if (digits != 8) return 0; tok0 = cur; nt = 1; }
-				else { if (digits != 4) return 0; nt = 0; if (!cb_line(tok0, cur)) return 0; }
+				else { if (digits != 4) return 0; nt = 0; if (!cb_line(tok0, cur) || skip_bad) return 0; }
 			}
 			digits = 0; cur = 0;
-			if (end_here) return !(nt || fill_wait || list_left);
+			if (end_here) return !(nt || fill_wait || list_left || skip_bad);
 		}
 		pos += br;
 	}
@@ -245,12 +258,17 @@ static int count_on(void);
 static void apply(void)
 {
 	int any = count_on();
-	gl_cheat_count = 0;
+	u32 room = engine_room();
+	gl_cheat_count = 0; ram_n = 0; too_many = 0;
 	cb_emit_ok = 1;
+	// auto codes first (they're at the top of the list), then the picks; a cheat goes in whole or not at all
 	for (int i = 0; i < n_ch; i++) if ((CH[i].sel || (any && is_auto(i))) && !(CH[i].fl & FL_BAD)) {
-		u32 keep = gl_cheat_count;
+		u32 keep = gl_cheat_count, keep_ram = ram_n;
 		cb_n = 0;
-		if (!compile(i)) gl_cheat_count = keep;
+		if (!compile(i) || ram_n > room || gl_cheat_count >= MAX_CHEAT_ENTRIES) {
+			if (ram_n > room || gl_cheat_count >= MAX_CHEAT_ENTRIES) too_many = 1;
+			gl_cheat_count = keep; ram_n = keep_ram;
+		}
 	}
 }
 static void check_all(void)
@@ -261,23 +279,27 @@ static void check_all(void)
 static int count_on(void) { int n = 0; for (int i = 0; i < n_ch; i++) if (CH[i].sel && !(CH[i].fl & FL_BAD) && !is_auto(i)) n++; return n; }
 
 // ---------------------------------------------------------------- remembered picks
-static void load_sel(void)
+static void sel_line(char *p)
+{
+	char *nm = trim(p);
+	if (strlen(nm) > CH_NAME - 1) nm[CH_NAME - 1] = 0;   // names are kept to CH_NAME-1 characters
+	if (nm[0]) for (int i = 0; i < n_ch; i++) if (!CH[i].sel && !strcmp(CH[i].name, nm)) { CH[i].sel = 1; break; }
+}
+static void load_sel(void)   // the whole file (448 picks don't fit one read block)
 {
 	UINT br;
+	char ln[CH_NAME + 8]; int ll = 0;
 	if (!sel_path[0] || f_open(&gfile, sel_path, FA_READ) != FR_OK) return;
-	if (f_read(&gfile, BLK, PC_BLK_LEN - 1, &br) != FR_OK) br = 0;
-	f_close(&gfile);
-	BLK[br] = 0;
-	char *p = BLK;
-	while (*p) {
-		char *nl = strchr(p, '\n'); if (nl) *nl = 0;
-		char *cr = strchr(p, '\r'); if (cr) *cr = 0;
-		char *nm = trim(p);
-		if (strlen(nm) > CH_NAME - 1) nm[CH_NAME - 1] = 0;   // names are kept to CH_NAME-1 characters
-		for (int i = 0; i < n_ch; i++) if (!CH[i].sel && !strcmp(CH[i].name, nm)) { CH[i].sel = 1; break; }
-		if (!nl) break;
-		p = nl + 1;
+	for (;;) {
+		if (f_read(&gfile, BLK, PC_BLK_LEN, &br) != FR_OK || !br) break;
+		for (UINT i = 0; i < br; i++) {
+			char c = BLK[i];
+			if (c == '\n') { ln[ll] = 0; sel_line(ln); ll = 0; }
+			else if (c != '\r' && ll < (int)sizeof ln - 1) ln[ll++] = c;
+		}
 	}
+	f_close(&gfile);
+	if (ll) { ln[ll] = 0; sel_line(ln); }
 }
 static void save_sel(void)
 {
@@ -329,13 +351,24 @@ static void drop_other_revs(int rev)
 // ---------------------------------------------------------------- public
 int pde_cheats_probe(TCHAR *gamefile, const char *code)
 {
-	gl_cheat_count = 0; n_ch = 0;
+	gl_cheat_count = 0; n_ch = 0; too_many = 0;
 	cht_close();
 	if (!code[0]) return -1;
-	sprintf(cht_path, "/SYSTEM/CHEATS/%.4s.cht", code);
-	sprintf(sel_path, "/SYSTEM/CHEATS/%.4s.sel", code);
+	// a game revision with its own cheat file (BPRE_1.cht for FireRed 1.1, from the ROM header's version
+	// byte) uses that file and its own picks; otherwise the game code's file (BPRE.cht)
+	int rev = game_rev(gamefile);
+	cht_path[0] = 0;
+	if (rev > 0) {
+		sprintf(cht_path, "/SYSTEM/CHEATS/%.4s_%d.cht", code, rev);
+		if (cht_open()) sprintf(sel_path, "/SYSTEM/CHEATS/%.4s_%d.sel", code, rev);
+		else cht_path[0] = 0;
+	}
+	if (!cht_path[0]) {
+		sprintf(cht_path, "/SYSTEM/CHEATS/%.4s.cht", code);
+		sprintf(sel_path, "/SYSTEM/CHEATS/%.4s.sel", code);
+	}
 	if (!parse_cht()) { cht_close(); return -1; }
-	drop_other_revs(game_rev(gamefile));
+	drop_other_revs(rev);
 	check_all();
 	load_sel();
 	int n = count_on();
@@ -391,7 +424,7 @@ static void draw_row(int i, int r, int cur, int scroll)
 }
 int pde_cheats(TCHAR *gamefile, const char *code, const char *title)
 {
-	int cur = 0, top = 0, redraw = 2, dirty = 0;
+	int cur = 0, top = 0, redraw = 2, dirty = 0, changed = 0;
 	int scroll = 0, stimer = 0, slen = 0;
 	char s[48];
 	if (pde_cheats_probe(gamefile, code) < 0) {
@@ -412,7 +445,7 @@ int pde_cheats(TCHAR *gamefile, const char *code, const char *title)
 			ui_textw(x + 8, 22, title, C_DIM, 222 - cw - x - 16);
 			ui_text(228 - cw, 22, s, count_on() ? C_AC : C_FAINT);
 			if (!gl_cheat_on) ui_text(10, 33, "Cheats are off in Settings > Add-ons", C_RED);
-			else if (gl_cheat_count >= MAX_CHEAT_ENTRIES) ui_text(10, 33, "Too many codes on - some are dropped", C_RED);
+			else if (too_many) ui_text(10, 33, "Too many codes on - some are left out", C_RED);
 			else { sprintf(s, "%d cheats", n_ch); ui_text(10, 33, s, C_FAINT); }
 			ui_fill(8, 45, 224, 1, C_LINE);
 			for (int r = 0; r < CR_N; r++) draw_row(top + r, r, cur, top + r == cur ? scroll : 0);
@@ -443,12 +476,12 @@ int pde_cheats(TCHAR *gamefile, const char *code, const char *title)
 		if (k & KEY_UP) { cur = (cur + n_ch - 1) % n_ch; moved = 1; }
 		if (k & KEY_R) { cur += CR_N; if (cur >= n_ch) cur = n_ch - 1; moved = 1; }
 		if (k & KEY_L) { cur -= CR_N; if (cur < 0) cur = 0; moved = 1; }
-		if ((k & KEY_A) && !(CH[cur].fl & FL_BAD) && !is_auto(cur)) { CH[cur].sel = !CH[cur].sel; dirty = redraw = 1; }
-		if (k & KEY_SELECT) { for (int i = 0; i < n_ch; i++) CH[i].sel = 0; dirty = redraw = 1; }
+		if ((k & KEY_A) && !(CH[cur].fl & FL_BAD) && !is_auto(cur)) { CH[cur].sel = !CH[cur].sel; dirty = redraw = changed = 1; }
+		if (k & KEY_SELECT) { for (int i = 0; i < n_ch; i++) CH[i].sel = 0; dirty = redraw = changed = 1; }
 		if (moved) { redraw = 1; scroll = 0; stimer = 0; }
 		if (cur < top) top = cur;
 		if (cur >= top + CR_N) top = cur - CR_N + 1;
-		if (dirty && redraw) apply();   // keeps the count live
+		if (changed) { apply(); changed = 0; }   // recompile only when a pick changed (not on every move)
 	}
 	// the codes are already compiled (after each change, or by the probe); only the picks file is left
 	if (dirty) { ui_fill(150, 33, 80, 11, C_PANEL); ui_text(170, 33, "Saving...", C_AC); save_sel(); }

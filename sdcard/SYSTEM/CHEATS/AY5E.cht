@@ -1,4 +1,4 @@
-cheats = 443
+cheats = 448
 
 cheat0_desc = "7 Completed"
 cheat0_code = "32011C30+0009"
@@ -1771,3 +1771,23 @@ cheat441_enable = false
 cheat442_desc = "Malevolent Nuzzler"
 cheat442_code = "32012300+0009"
 cheat442_enable = false
+
+cheat443_desc = "Mammoth Graveyard"
+cheat443_code = "32012304+0009"
+cheat443_enable = false
+
+cheat444_desc = "Man Eater"
+cheat444_code = "32012308+0009"
+cheat444_enable = false
+
+cheat445_desc = "Man-Eater Bug"
+cheat445_code = "3201230C+0009"
+cheat445_enable = false
+
+cheat446_desc = "Man-Eating BlackShark"
+cheat446_code = "32012310+0009"
+cheat446_enable = false
+
+cheat447_desc = "Man-Eating Plant"
+cheat447_code = "32012314+0009"
+cheat447_enable = false

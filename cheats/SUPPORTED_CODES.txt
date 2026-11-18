@@ -38,9 +38,11 @@ NOT supported on the cart (convert them on a PC first, tools/gbacodes.py does it
   - codes with a value left to type in (XXXX, ??)
   - Code Breaker D codes other than D0000020 (buttons), and other unknown types
 
-Game revisions: a cheat whose name ends in "(Rev 0)", "(Rev 1)", ... fits only that revision of
-the game (the ROM header's version byte). Phosphor_DE lists only the cheats that fit the ROM you
-picked (FireRed / LeafGreen 1.0 and 1.1 share a game code but not their code addresses).
+Game revisions: a game that came out in more than one revision under one game code gets one file
+per revision: <CODE>.cht for the first release, <CODE>_N.cht for revision N (the ROM header's
+version byte). Phosphor_DE opens <CODE>_N.cht when it exists, else <CODE>.cht, and keeps the picks
+per revision too (<CODE>_N.sel). Inside a file, a cheat named "... (Rev N)" is listed only for that
+revision.
 
 Auto codes: a cheat whose name contains "Anti DMA", "Anti-DMA" or "Must Be On" switches on by
 itself whenever any other cheat is on (shown as "auto" on the cart). They're always at the top of

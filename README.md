@@ -2,7 +2,7 @@
 
 A custom kernel (the menu/firmware you see when you turn the cart on) for the **EZ-Flash Omega Definitive Edition** GBA flash cart, by **f3bandit**.
 
-Dark, readable, GBA-only, with a new cheat engine and a ready-made cheat pack of **28,642 cheats for 1,700 games**, every one ready to play with nothing to type in.
+Dark, readable, GBA-only, with a new cheat engine and a ready-made cheat pack of **28,835 cheats for 1,700 games**, every one ready to play with nothing to type in.
 
 ![Phosphor_DE splash](docs/splash.png)
 
@@ -120,7 +120,9 @@ SD card root
 ├── SYSTEM/
 │   ├── CHEATS/                  cheat pack: one file per game, named by game code
 │   │   ├── BPEE.cht             cheats for Pokemon Emerald (USA)
-│   │   └── BPEE.sel             your picks for that game (made by Phosphor_DE)
+│   │   ├── BPEE.sel             your picks for that game (made by Phosphor_DE)
+│   │   ├── BPRE.cht             FireRed 1.0 (the first release of a game: no number)
+│   │   └── BPRE_1.cht           FireRed 1.1: a later revision of a game gets its own file
 │   ├── IMGS/                    box art (optional, EZ-Flash's IMGS pack)
 │   │   └── B/P/BPEE.bmp
 │   ├── SAVER/                   game saves
@@ -149,19 +151,19 @@ The cheat system is new; EZ-Flash's was dropped because its library is badly org
 
 - Cheats marked **auto** ("Anti DMA", "Must Be On") switch on by themselves whenever any other cheat is on. Some games (Pokemon in particular) move their data around in memory, and their codes only hit the right place with Anti DMA on.
 - A cheat marked **n/a** is one the engine can't run. The included pack has none.
-- A cheat whose name ends in **(Rev 0)** or **(Rev 1)** fits only that revision of the game (FireRed and LeafGreen 1.0 and 1.1 share a game code but not their code). Phosphor_DE reads the revision from the ROM and lists only the cheats that fit it.
+- **Game revisions have their own cheat file.** Some games came out in more than one revision under the same game code (FireRed and LeafGreen 1.0 and 1.1, Super Mario Advance 4, Advance Wars), and a revision's code addresses differ, so one file can't serve both. Phosphor_DE reads the revision from the ROM header and opens `<CODE>_<rev>.cht` (e.g. `BPRE_1.cht`) when it exists, otherwise `<CODE>.cht`. Picks are saved per revision too (`BPRE_1.sel`).
 - Cheats can be turned off in-game from the in-game menu, and switched off entirely in **Settings > Add-ons > Cheats**.
 - Up to **448 cheats per game** are listed.
 
 ### The cheat pack (`SYSTEM/CHEATS`)
-- **1,700 games, 28,642 cheats**, from **GameHacking.org** (all GBA games) and the **libretro cheat database**, merged per game code.
+- **1,700 games, 28,835 cheats**, from **GameHacking.org** (all GBA games) and the **libretro cheat database**, merged per game code.
 - **Ready to play only.** Every cheat works the moment you turn it on:
   - codes where you'd have to type in a value (`XXXX`, `??`) are **removed**, along with GameHacking's long "pick a value" lists made from them. Normal codes already have the value set (like 9999 gold).
   - master / "must be on" codes are removed: Phosphor_DE doesn't need them. Anti-DMA fixes are kept.
   - Action Replay and GameShark codes are converted to plain Code Breaker, decrypted where needed.
   - every file was compiled with the Phosphor_DE cheat engine itself; anything it couldn't run was removed.
   - the whole pack is audited (`tools/audit_pack.py`): "Modifier" and plain "Slot N" codes whose value was lost, codes that only check a condition and write nothing, ROM patches past the end of the game, writes to the BIOS stack area and impossible button checks are removed; names are cleaned up (no HTML codes or characters the cart's font can't show).
-  - games with two revisions under one game code (Super Mario Advance 4, Advance Wars, FireRed, LeafGreen) get their revision-specific cheats tagged `(Rev 0)` / `(Rev 1)`, so the cart only lists the ones that fit your ROM.
+  - games with two revisions under one game code (Super Mario Advance 4, Advance Wars, FireRed, LeafGreen) get one file per revision (`AX4E.cht` and `AX4E_1.cht`); a revision's file only holds cheats made for that revision (or checked to work on both).
   - **Final Fantasy (I&II, IV, V, VI, Tactics Advance) and Fire Emblem** were gone through code by code: GameHacking "set slot to X" lists whose X was lost (they wrote 0 into every slot every frame, deleting items, units and classes) and item lists decoded with the wrong key (random writes into the game's code) were removed.
   - **Pokemon Ruby, Sapphire, FireRed, LeafGreen and Emerald (USA)** were checked against byte-exact builds of the games (pret's decompilations): every ROM patch against the instruction it changes, every RAM address against the variable it hits. Broken ones were removed, FireRed/LeafGreen get the right Anti DMA for each revision, and Anti DMA also keeps the money key at 0, so money, coin and item-count cheats give real amounts.
 - What was left out, game by game and why: [`cheats/CHEATS_REPORT.txt`](cheats/CHEATS_REPORT.txt).
@@ -223,7 +225,7 @@ The cart runs **unencrypted Code Breaker** codes: lines of 8 + 4 hex digits (`XX
 - A condition (`7`, `A`, `B`, `C`, `D`, `F`) covers the whole next code, including every line of a fill or list.
 - Codes run on every interrupt while cheats are on; ROM patches are applied when the game starts.
 - **Not supported on the cart** (convert on a PC first; `tools/gbacodes.py` does it): encrypted Code Breaker (codes starting with a `9` line), Action Replay v3 / AR MAX and GameShark v1/v2 codes (8 + 8 digits, encrypted or raw), codes with a value left to type in (`XXXX`, `??`), `D` codes other than `D0000020`.
-- **Revisions:** a cheat named `... (Rev N)` is listed only for that revision of the game.
+- **Revisions:** `<CODE>_N.cht` is used for revision N of a game (ROM header byte 0xBC) when it exists, else `<CODE>.cht`. (Inside a file, a cheat named `... (Rev N)` is also listed only for that revision.)
 - **Auto codes:** a cheat whose name contains "Anti DMA", "Anti-DMA" or "Must Be On" switches on by itself with any other cheat, and sits at the top of the list.
 - **Limits:** 448 cheats listed per game. The cheats switched on together compile to engine entries (one per write or condition, 2 per fill, one per halfword of a list; ROM patches don't count). The list holds up to 2,900, and the room left in the in-game patch area (about 21 KB of VRAM) can make the real limit lower; the cart warns "Too many codes on" when it's hit.
 
@@ -357,7 +359,7 @@ Needs devkitPro with devkitARM and libgba.
 - Windows: `build.bat` (msys2 from devkitPro).
 - Linux/macOS: `make`.
 
-Output: `ezkernelnew.bin`. The build stops if the kernel is over 2 MB or its RAM data overflows. Building v0.1 from this repo gives the exact released file (md5 above).
+Output: `ezkernelnew.bin`. The build stops if the kernel is over 2 MB or its RAM data overflows. `dist/ezkernelnew.bin` is the released, cart-tested build; the source may be newer.
 
 Emulator build for testing in mGBA (never flash this):
 ```

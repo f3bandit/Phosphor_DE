@@ -1,4 +1,4 @@
-cheats = 142
+cheats = 110
 
 cheat0_desc = "Always Fog of War"
 cheat0_code = "3300431D+0001"
@@ -308,262 +308,134 @@ cheat76_desc = "Weak Opponents"
 cheat76_code = "4201A244+0000+00000014+000C"
 cheat76_enable = false
 
-cheat77_desc = "Always Day 1 (Rev 1)"
-cheat77_code = "33004420+0001"
+cheat77_desc = "Always Nell"
+cheat77_code = "8201ABB8+0000"
 cheat77_enable = false
 
-cheat78_desc = "Always Get S Rank (Rev 1)"
-cheat78_code = "3201ABCA+0005"
+cheat78_desc = "Always Andy"
+cheat78_code = "8201ABB8+0100"
 cheat78_enable = false
 
-cheat79_desc = "Enemy No Funds (Rev 1)"
-cheat79_code = "8201AC04+0000"
+cheat79_desc = "Always Max"
+cheat79_code = "8201ABB8+0200"
 cheat79_enable = false
 
-cheat80_desc = "Enemy No Incoming Funds (Rev 1)"
-cheat80_code = "8201AC0C+0000"
+cheat80_desc = "Always Olaf"
+cheat80_code = "8201ABB8+0300"
 cheat80_enable = false
 
-cheat81_desc = "Inf Coins (Rev 1)"
-cheat81_code = "8201FDAC+270F"
+cheat81_desc = "Always Sami"
+cheat81_code = "8201ABB8+0400"
 cheat81_enable = false
 
-cheat82_desc = "Infinite Coins (Rev 1)"
-cheat82_code = "8201227C+FFFF"
+cheat82_desc = "Always Grit"
+cheat82_code = "8201ABB8+0500"
 cheat82_enable = false
 
-cheat83_desc = "Max Bases Captured(Quick Win) (Rev 1)"
-cheat83_code = "3201ABAC+0010"
+cheat83_desc = "Always Kanbei"
+cheat83_code = "8201ABB8+0600"
 cheat83_enable = false
 
-cheat84_desc = "Max Funds (Rev 1)"
-cheat84_code = "8201ABA6+000F"
+cheat84_desc = "Always Sonja"
+cheat84_code = "8201ABB8+0700"
 cheat84_enable = false
 
-cheat85_desc = "Max Incoming Funds (Rev 1)"
-cheat85_code = "8201ABA4+423F"
+cheat85_desc = "Always Eagle"
+cheat85_code = "8201ABB8+0800"
 cheat85_enable = false
 
-cheat86_desc = "Max Power Up (Rev 1)"
-cheat86_code = "3201ABBD+00FF"
+cheat86_desc = "Always Drake"
+cheat86_code = "8201ABB8+0900"
 cheat86_enable = false
 
-cheat87_desc = "Move All Around The Map (Rev 1)"
-cheat87_code = "830036D8+0101+830036DA+0101"
+cheat87_desc = "Always Sturm"
+cheat87_code = "8201ABB8+0A00"
 cheat87_enable = false
 
-cheat88_desc = "No Fog Of War (Rev 1)"
-cheat88_code = "3300431D+0000"
+cheat88_desc = "Nell Always CO"
+cheat88_code = "3201ABB9+0000"
 cheat88_enable = false
 
-cheat89_desc = "P1 Infinite CO Power (Rev 1)"
-cheat89_code = "8201ABBC+FFFF"
+cheat89_desc = "Andy Always CO"
+cheat89_code = "3201ABB9+0001"
 cheat89_enable = false
 
-cheat90_desc = "P1 Infinite G (Rev 1)"
-cheat90_code = "8201AB9C+423F+8201AB9E+000F"
+cheat90_desc = "Max Always CO"
+cheat90_code = "3201ABB9+0002"
 cheat90_enable = false
 
-cheat91_desc = "P1 No CO Power (Rev 1)"
-cheat91_code = "8201ABBC+0000"
+cheat91_desc = "Olaf Always CO"
+cheat91_code = "3201ABB9+0003"
 cheat91_enable = false
 
-cheat92_desc = "P1 No G (Rev 1)"
-cheat92_code = "8201AB9C+0000+8201AB9E+0000"
+cheat92_desc = "Sami Always CO"
+cheat92_code = "3201ABB9+0004"
 cheat92_enable = false
 
-cheat93_desc = "P2 Has No Buildings Captured (Rev 1)"
-cheat93_code = "3201AC14+0000"
+cheat93_desc = "Grit Always CO"
+cheat93_code = "3201ABB9+0005"
 cheat93_enable = false
 
-cheat94_desc = "P2 Infinite CO Power (Rev 1)"
-cheat94_code = "8201AC24+FFFF"
+cheat94_desc = "Kanbei Always CO"
+cheat94_code = "3201ABB9+0006"
 cheat94_enable = false
 
-cheat95_desc = "P2 Infinite G (Rev 1)"
-cheat95_code = "8201AC04+423F+8201AC06+000F"
+cheat95_desc = "Sonja Always CO"
+cheat95_code = "3201ABB9+0007"
 cheat95_enable = false
 
-cheat96_desc = "P2 No CO Power (Rev 1)"
-cheat96_code = "8201AC24+0000"
+cheat96_desc = "Eagle Always CO"
+cheat96_code = "3201ABB9+0008"
 cheat96_enable = false
 
-cheat97_desc = "P2 No G (Rev 1)"
-cheat97_code = "8201AC04+0000+8201AC06+0000"
+cheat97_desc = "Drake Always CO"
+cheat97_code = "3201ABB9+0009"
 cheat97_enable = false
 
-cheat98_desc = "P3 Infinite CO Power (Rev 1)"
-cheat98_code = "8201AC8C+FFFF"
+cheat98_desc = "Sturm Always CO"
+cheat98_code = "3201ABB9+000A"
 cheat98_enable = false
 
-cheat99_desc = "P3 Infinite G (Rev 1)"
-cheat99_code = "8201AC6C+423F+8201AC6E+000F"
+cheat99_desc = "Play Against Nell"
+cheat99_code = "3201AC21+0000"
 cheat99_enable = false
 
-cheat100_desc = "P3 No CO Power (Rev 1)"
-cheat100_code = "8201AC8C+0000"
+cheat100_desc = "Play Against Andy"
+cheat100_code = "3201AC21+0001"
 cheat100_enable = false
 
-cheat101_desc = "P3 No G (Rev 1)"
-cheat101_code = "8201AC6C+0000+8201AC6E+0000"
+cheat101_desc = "Play Against Max"
+cheat101_code = "3201AC21+0002"
 cheat101_enable = false
 
-cheat102_desc = "P4 Infinite CO Power (Rev 1)"
-cheat102_code = "8201ACF4+FFFF"
+cheat102_desc = "Play Against Olaf"
+cheat102_code = "3201AC21+0003"
 cheat102_enable = false
 
-cheat103_desc = "P4 Infinite G (Rev 1)"
-cheat103_code = "8201ACD4+423F+8201ACD6+000F"
+cheat103_desc = "Play Against Sami"
+cheat103_code = "3201AC21+0004"
 cheat103_enable = false
 
-cheat104_desc = "P4 No CO Power (Rev 1)"
-cheat104_code = "8201ACF4+0000"
+cheat104_desc = "Play Against Grit"
+cheat104_code = "3201AC21+0005"
 cheat104_enable = false
 
-cheat105_desc = "P4 No G (Rev 1)"
-cheat105_code = "8201ACD4+0000+8201ACD6+0000"
+cheat105_desc = "Play Against Kanbei"
+cheat105_code = "3201AC21+0006"
 cheat105_enable = false
 
-cheat106_desc = "Strum No Funds (Rev 1)"
-cheat106_code = "8201ACD4+0000"
+cheat106_desc = "Play Against Sonja"
+cheat106_code = "3201AC21+0007"
 cheat106_enable = false
 
-cheat107_desc = "Strum No Incoming Funds (Rev 1)"
-cheat107_code = "8201ACDC+0000"
+cheat107_desc = "Play Against Eagle"
+cheat107_code = "3201AC21+0008"
 cheat107_enable = false
 
-cheat108_desc = "Unlock Characters (Rev 1)"
-cheat108_code = "8201F9C2+0FFF"
+cheat108_desc = "Play Against Drake"
+cheat108_code = "3201AC21+0009"
 cheat108_enable = false
 
-cheat109_desc = "Always Nell"
-cheat109_code = "8201ABB8+0000"
+cheat109_desc = "Play Against Sturm"
+cheat109_code = "3201AC21+000A"
 cheat109_enable = false
-
-cheat110_desc = "Always Andy"
-cheat110_code = "8201ABB8+0100"
-cheat110_enable = false
-
-cheat111_desc = "Always Max"
-cheat111_code = "8201ABB8+0200"
-cheat111_enable = false
-
-cheat112_desc = "Always Olaf"
-cheat112_code = "8201ABB8+0300"
-cheat112_enable = false
-
-cheat113_desc = "Always Sami"
-cheat113_code = "8201ABB8+0400"
-cheat113_enable = false
-
-cheat114_desc = "Always Grit"
-cheat114_code = "8201ABB8+0500"
-cheat114_enable = false
-
-cheat115_desc = "Always Kanbei"
-cheat115_code = "8201ABB8+0600"
-cheat115_enable = false
-
-cheat116_desc = "Always Sonja"
-cheat116_code = "8201ABB8+0700"
-cheat116_enable = false
-
-cheat117_desc = "Always Eagle"
-cheat117_code = "8201ABB8+0800"
-cheat117_enable = false
-
-cheat118_desc = "Always Drake"
-cheat118_code = "8201ABB8+0900"
-cheat118_enable = false
-
-cheat119_desc = "Always Sturm"
-cheat119_code = "8201ABB8+0A00"
-cheat119_enable = false
-
-cheat120_desc = "Nell Always CO"
-cheat120_code = "3201ABB9+0000"
-cheat120_enable = false
-
-cheat121_desc = "Andy Always CO"
-cheat121_code = "3201ABB9+0001"
-cheat121_enable = false
-
-cheat122_desc = "Max Always CO"
-cheat122_code = "3201ABB9+0002"
-cheat122_enable = false
-
-cheat123_desc = "Olaf Always CO"
-cheat123_code = "3201ABB9+0003"
-cheat123_enable = false
-
-cheat124_desc = "Sami Always CO"
-cheat124_code = "3201ABB9+0004"
-cheat124_enable = false
-
-cheat125_desc = "Grit Always CO"
-cheat125_code = "3201ABB9+0005"
-cheat125_enable = false
-
-cheat126_desc = "Kanbei Always CO"
-cheat126_code = "3201ABB9+0006"
-cheat126_enable = false
-
-cheat127_desc = "Sonja Always CO"
-cheat127_code = "3201ABB9+0007"
-cheat127_enable = false
-
-cheat128_desc = "Eagle Always CO"
-cheat128_code = "3201ABB9+0008"
-cheat128_enable = false
-
-cheat129_desc = "Drake Always CO"
-cheat129_code = "3201ABB9+0009"
-cheat129_enable = false
-
-cheat130_desc = "Sturm Always CO"
-cheat130_code = "3201ABB9+000A"
-cheat130_enable = false
-
-cheat131_desc = "Play Against Nell"
-cheat131_code = "3201AC21+0000"
-cheat131_enable = false
-
-cheat132_desc = "Play Against Andy"
-cheat132_code = "3201AC21+0001"
-cheat132_enable = false
-
-cheat133_desc = "Play Against Max"
-cheat133_code = "3201AC21+0002"
-cheat133_enable = false
-
-cheat134_desc = "Play Against Olaf"
-cheat134_code = "3201AC21+0003"
-cheat134_enable = false
-
-cheat135_desc = "Play Against Sami"
-cheat135_code = "3201AC21+0004"
-cheat135_enable = false
-
-cheat136_desc = "Play Against Grit"
-cheat136_code = "3201AC21+0005"
-cheat136_enable = false
-
-cheat137_desc = "Play Against Kanbei"
-cheat137_code = "3201AC21+0006"
-cheat137_enable = false
-
-cheat138_desc = "Play Against Sonja"
-cheat138_code = "3201AC21+0007"
-cheat138_enable = false
-
-cheat139_desc = "Play Against Eagle"
-cheat139_code = "3201AC21+0008"
-cheat139_enable = false
-
-cheat140_desc = "Play Against Drake"
-cheat140_code = "3201AC21+0009"
-cheat140_enable = false
-
-cheat141_desc = "Play Against Sturm"
-cheat141_code = "3201AC21+000A"
-cheat141_enable = false

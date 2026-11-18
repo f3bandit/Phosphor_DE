@@ -352,9 +352,11 @@ NOT supported on the cart (convert them on a PC first, tools/gbacodes.py does it
   - codes with a value left to type in (XXXX, ??)
   - Code Breaker D codes other than D0000020 (buttons), and other unknown types
 
-Game revisions: a cheat whose name ends in "(Rev 0)", "(Rev 1)", ... fits only that revision of
-the game (the ROM header's version byte). Phosphor_DE lists only the cheats that fit the ROM you
-picked (FireRed / LeafGreen 1.0 and 1.1 share a game code but not their code addresses).
+Game revisions: a game that came out in more than one revision under one game code gets one file
+per revision: <CODE>.cht for the first release, <CODE>_N.cht for revision N (the ROM header's
+version byte). Phosphor_DE opens <CODE>_N.cht when it exists, else <CODE>.cht, and keeps the picks
+per revision too (<CODE>_N.sel). Inside a file, a cheat named "... (Rev N)" is listed only for that
+revision.
 
 Auto codes: a cheat whose name contains "Anti DMA", "Anti-DMA" or "Must Be On" switches on by
 itself whenever any other cheat is on (shown as "auto" on the cart). They're always at the top of
@@ -479,6 +481,22 @@ def audit_fix(code, cheats, report, romsize):
         res.append((n, c))
     return res
 
+REV_TAG = re.compile(r'\s*\(Rev (\d+)\)')
+
+def split_revs(code, cheats):
+    """one cheat file per game revision: CODE.cht for the first release (Rev 0), CODE_N.cht for Rev N
+    (the cart opens CODE_N.cht when the ROM header says revision N and that file exists). Cheats tagged
+    "(Rev N)" go to that revision only, untagged ones to all of them; the tags are taken off the names."""
+    revs = sorted({int(m.group(1)) for d, _ in cheats for m in [REV_TAG.search(d)] if m})
+    if not revs:
+        return [(code, cheats)]
+    out = []
+    for r in sorted(set(revs) | {0}):
+        part = [(REV_TAG.sub('', d), c) for d, c in cheats
+                if not REV_TAG.search(d) or int(REV_TAG.search(d).group(1)) == r]
+        out.append((code if r == 0 else '%s_%d' % (code, r), part))
+    return out
+
 def key(name):
     return re.sub(r'[^a-z0-9]', '', name.lower())
 
@@ -524,14 +542,12 @@ def main(src, lrpack, db, out):
             lst = by_code.setdefault(code, [])
             if rv and lst and code not in REV_BY_HAND:
                 # a later revision of a game already in the list (same game code, other code addresses):
-                # its cheats are tagged "(Rev N)" so the cart lists them only for that revision; the base
-                # version's cheats that differ from it, or patch the ROM, get "(Rev 0)"
-                n = rv.group(1); mine = {key(d): c for d, c in cheats}
-                rom = lambda c: bool(re.search(r'(^|\+)8[89][0-9A-F]{6}\+', c))
-                lst[:] = [(d + ' (Rev 0)', c) if '(Rev ' not in d and ((key(d) in mine and mine[key(d)] != c) or rom(c)) else (d, c)
-                          for d, c in lst]
-                have = {(key(d), c) for d, c in lst}
-                lst += [(d + ' (Rev %s)' % n, c) for d, c in cheats if (key(d), c) not in have and '(Rev ' not in d]
+                # cheats both versions have with the same code stay shared; the rest is tagged with the
+                # revision it came from, and each revision gets its own cheat file (see split_revs)
+                n = rv.group(1); mine = {(key(d), c) for d, c in cheats}
+                lst[:] = [(d, c) if '(Rev ' in d or (key(d), c) in mine else (d + ' (Rev 0)', c) for d, c in lst]
+                shared = {(key(d), c) for d, c in lst if '(Rev ' not in d}
+                lst += [(d + ' (Rev %s)' % n, c) for d, c in cheats if (key(d), c) not in shared and '(Rev ' not in d]
                 continue
             names = {key(d) for d, _ in lst}; cs = {c for _, c in lst}
             lst += [(d, c) for d, c in cheats if key(d) not in names and c not in cs]
@@ -545,6 +561,7 @@ def main(src, lrpack, db, out):
         names = {key(d) for d, _ in lst}; cs = {c for _, c in lst}
         for d, c in read_cht(open(os.path.join(lrdir, f), encoding='utf-8', errors='replace').read()):
             if c and key(d) not in names and c not in cs:
+                if code not in REV_BY_HAND and any('(Rev ' in x for x, _ in lst): d += ' (Rev 0)'
                 lst.append((d, c)); names.add(key(d)); cs.add(c); lr_added += 1
     dst = os.path.join(out, 'SYSTEM', 'CHEATS')
     if os.path.isdir(dst): shutil.rmtree(dst)
@@ -552,16 +569,17 @@ def main(src, lrpack, db, out):
     tmp = tempfile.mkdtemp()
     total = games = 0
     for code, cheats in by_code.items():
-        if len(cheats) > CH_MAX:
-            for d, _ in cheats[CH_MAX:]: report.append((code, d, 'over the 448-cheat list limit'))
-            cheats = cheats[:CH_MAX]
         cheats = post_fix(code, cheats, report)
         cheats = audit_fix(code, cheats, report, sizes.get(code))
         cheats = fix_auto(code, cheats, report)
-        cheats = engine_check(dst, code, cheats, report, checker, tmp)
-        if not cheats: continue
-        write_cht(os.path.join(dst, code + '.cht'), cheats)
-        total += len(cheats); games += 1
+        for fname, part in split_revs(code, cheats):
+            if len(part) > CH_MAX:
+                for d, _ in part[CH_MAX:]: report.append((fname, d, 'over the 448-cheat list limit'))
+                part = part[:CH_MAX]
+            part = engine_check(dst, code, part, report, checker, tmp)
+            if not part: continue
+            write_cht(os.path.join(dst, fname + '.cht'), part)
+            total += len(part); games += fname == code
     why = collections.Counter(w for _, _, w in report)
     open(os.path.join(out, 'CHEATS_SOURCE.txt'), 'w', encoding='utf-8', newline='\r\n').write(
         'Cheats in SYSTEM/CHEATS (one file per game code)\n\n'
