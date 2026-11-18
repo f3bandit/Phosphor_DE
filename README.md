@@ -20,6 +20,7 @@ Dark, readable, GBA-only, with a new cheat engine and a ready-made cheat pack of
 - [Cheats](#cheats) (and [Supported codes](#supported-codes))
 - [Buttons](#buttons)
 - [Settings](#settings)
+- [NOR Check (NOR flash tester)](#nor-check-nor-flash-tester)
 - [Loader recolor (optional)](#loader-recolor-optional)
 - [Cart firmware (FPGA) and the white EZ-FLASH screen](#cart-firmware-fpga-and-the-white-ez-flash-screen)
 - [Going back to the official kernel](#going-back-to-the-official-kernel)
@@ -65,7 +66,7 @@ Phosphor_DE has been **tested and working on real hardware and on the Analogue P
 - File names in any language (UTF-8). Accented letters are shown as plain letters.
 
 ### Tools built in
-- **NOR Check**: press **START on the NOR tab** to test the 64 MB game NOR flash for dead cells. Good for catching a bad cart before it eats a save.
+- **NOR Check** (NOR flash tester): press **START on the NOR tab** to test the cart's 64 MB game NOR flash for dead cells. See [NOR Check](#nor-check-nor-flash-tester).
 - **Boot chip dump**: press **START on Settings > About** to copy the cart's 8 MB boot chip to `/SYSTEM/DUMP` as two 8 MB files (`BOOT8000.BIN`, `BOOT8002.BIN`). It only **reads** the chip; it never writes to it. You need 16 MB free on the SD card.
 
 ### Kept from the EZ-Flash kernel
@@ -91,7 +92,7 @@ You need: the cart, a microSD card (FAT32), and a PC.
 1. Download the latest **release zip** from the [Releases page](../../releases).
 2. Unzip it. Copy everything inside the **`SD card`** folder to the **root** of your microSD card:
    - `ezkernelnew.bin`
-   - the `SYSTEM` folder (it holds the cheat pack, `SYSTEM/CHEATS`)
+   - the `SYSTEM` folder (the cheat pack, `SYSTEM/CHEATS`, and the box art, `SYSTEM/IMGS`)
 
    If the card already has a `SYSTEM` folder, merge them. Nothing of yours gets overwritten except old Phosphor_DE cheat files.
 3. Put the SD card in the cart and the cart in your console.
@@ -102,7 +103,7 @@ You need: the cart, a microSD card (FAT32), and a PC.
 `ezkernelnew.bin` for v0.1: 1,011,688 bytes, md5 `ea6c68266ac9495500f598d8653b5545`.
 
 Optional extras:
-- **Box art**: Phosphor_DE uses EZ-Flash's box art pack (`IMGS.zip` from EZ-Flash's site). Put its `IMGS` folder inside `SYSTEM`, so you have `SYSTEM/IMGS/A/X/AXVE.bmp` and so on. It isn't included here because it isn't ours to share.
+- **Box art** is included: `SYSTEM/IMGS` (2,767 games, EZ-Flash's box art pack, see [credits](#credits-and-licenses)). Turn it off in **Settings > Display > Box art** if you don't want it.
 - **Loader recolor**: `loader/de-recovery-phosphor.img` in the zip, see [Loader recolor](#loader-recolor-optional).
 
 ### Updating Phosphor_DE
@@ -121,7 +122,7 @@ SD card root
 │   ├── CHEATS/                  cheat pack: one file per game, named by game code
 │   │   ├── BPEE.cht             cheats for Pokemon Emerald (USA)
 │   │   └── BPEE.sel             your picks for that game (made by Phosphor_DE)
-│   ├── IMGS/                    box art (optional, EZ-Flash's IMGS pack)
+│   ├── IMGS/                    box art (included; EZ-Flash's box art pack)
 │   │   └── B/P/BPEE.bmp
 │   ├── SAVER/                   game saves
 │   ├── RTS/                     savestates
@@ -131,7 +132,7 @@ SD card root
 └── your games, in any folders you like (.gba)
 ```
 
-Phosphor_DE makes the folders it needs by itself. The only ones you copy are `SYSTEM/CHEATS` (and `SYSTEM/IMGS` if you want box art).
+Phosphor_DE makes the folders it needs by itself. The only ones you copy are `SYSTEM/CHEATS` and `SYSTEM/IMGS` (both in the release).
 
 The **game code** is the 4-letter code inside every GBA ROM (Pokemon Emerald USA is `BPEE`). Cheats and box art are found by that code, so the ROM's file name doesn't matter.
 
@@ -262,6 +263,26 @@ Write the codes into `SYSTEM/CHEATS/<GAMECODE>.cht` in either layout above. To c
 
 ---
 
+## NOR Check (NOR flash tester)
+
+The Omega DE keeps games written to NOR in a 64 MB NOR flash chip. Flash wears out, and a cart with dead NOR cells corrupts the games (and saves) that land on them. NOR Check finds them.
+
+**Start it:** NOR tab > **START**.
+
+| Test | Erases your NOR games? | What it finds |
+|---|---|---|
+| **Read check** | **No** | cells that read back differently twice in a row (unstable) |
+| **Quick test** | Yes | blocks that won't erase or won't program, bits stuck at 0 or at 1 (1 write pass) |
+| **Full test** | Yes | the same with both bit patterns, plus address-line faults (2 write passes) |
+
+- Quick and Full ask you to **hold A for 3 seconds** before they start, then erase every game on NOR. Write your games back from the SD card afterwards.
+- **START** pauses, **B** stops. Keep the console powered during Quick and Full.
+- The results list every bad block: its address, the fault (no erase, no write, stuck 0, stuck 1, unstable), the bits involved, and which NOR game it was part of.
+- A report, **`NORCHECK.TXT`**, is saved to the root of the SD card. Send it with an RMA request if the cart is bad.
+- **Safe for the cart:** only the 64 MB game NOR is ever sent erase or write commands. The boot chip (loader, kernel, cart firmware, your settings) is only read, never written.
+
+---
+
 ## Loader recolor (optional)
 
 **Why it exists:** the cart's **loader** (the screens you get while installing a kernel, "EZ-FLASH UPDATE MODE", "No kernel found") is a bright, eye-searing blue, and it was stupid next to a dark kernel. So this changes it to Phosphor grey.
@@ -304,7 +325,6 @@ Download EZ-Flash's official Omega DE kernel, put its `ezkernelnew.bin` on the S
 - No emulators or plugins (no NES, GB, GBC, SMS, PCE...). GBA only.
 - No EZ-Flash cheat library (`SYSTEM/CHEAT`); it uses `SYSTEM/CHEATS` instead.
 - No encrypted Code Breaker codes on the cart (about 1,400 such codes on GameHacking.org aren't in the pack).
-- No box art in the release (use EZ-Flash's IMGS pack).
 - No Chinese UI.
 - Can't change the white EZ-FLASH power-on screen (see above).
 - Doesn't update the cart's FPGA firmware (use the official kernel for that).
@@ -389,7 +409,7 @@ source/        kernel source (pde_*.c is the Phosphor_DE UI, cheats and tools; t
 images/        graphics headers used by the build
 art/           splash screen and its generator
 fonts/         font licenses
-sdcard/        the SD card files (SYSTEM/CHEATS)
+sdcard/        the SD card files (SYSTEM/CHEATS, SYSTEM/IMGS)
 cheats/        cheat pack source and report
 dist/          prebuilt ezkernelnew.bin
 tools/         PC tools (see above)
@@ -410,6 +430,8 @@ It is built on, and includes:
 - **FatFs** by ChaN (its own permissive license, in `source/ff15`).
 - **Goomba Color** and **PocketNES** binaries, which ship inside EZ-Flash's kernel source (not used by Phosphor_DE's GBA-only menu).
 - **Tamzen** font (Suraj N. Kurapati, based on Tamsyn by Scott Fial) and **Spleen** font (Frederic Cambus); licenses in `fonts/`.
+
+Box art (not covered by Apache 2.0): `SYSTEM/IMGS` is **EZ-Flash's GBA box art pack** (`IMGS.zip`, published by EZ-Flash for its Omega carts), included unchanged. The images are the game publishers' cover art and remain the property of their respective owners.
 
 Cheat data (not covered by Apache 2.0):
 - **GameHacking.org** (https://gamehacking.org), GBA code exports.

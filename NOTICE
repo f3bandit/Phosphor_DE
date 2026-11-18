@@ -15,6 +15,10 @@ This product includes software developed by others:
 - tools/_par_tables.py and tools/_gsa_tables.py: Action Replay / GameShark decryption tables from
   mGBA, Copyright Jeffrey Pfau. Mozilla Public License 2.0.
 
+Box art in sdcard/SYSTEM/IMGS is not covered by the Apache License: it is EZ-Flash's GBA box art
+pack (IMGS.zip, published by EZ-Flash for its Omega carts), included unchanged. The images are the
+game publishers' cover art and remain the property of their respective owners.
+
 Cheat data in sdcard/SYSTEM/CHEATS is not covered by the Apache License:
 - GameHacking.org (https://gamehacking.org), GBA code exports.
 - libretro cheat database (https://github.com/libretro/libretro-database), CC BY-SA 4.0.

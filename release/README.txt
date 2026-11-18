@@ -9,6 +9,7 @@ INSTALL
 1. Copy everything inside the "SD card" folder to the ROOT of your microSD card:
      ezkernelnew.bin
      SYSTEM\CHEATS\   (the cheat pack: 1,700 games, 28,642 ready-to-play cheats)
+     SYSTEM\IMGS\     (box art for 2,767 games: EZ-Flash's box art pack)
    If the card already has a SYSTEM folder, merge them.
 2. Put the card in the cart. HOLD R while turning the console on, until the update screen shows.
 3. Let it finish. DO NOT turn the power off while it writes.
@@ -19,7 +20,7 @@ ezkernelnew.bin: {SIZE} bytes, md5 {MD5}
 SD CARD AFTER INSTALL
   \ezkernelnew.bin        only needed to install/update
   \SYSTEM\CHEATS\         cheats, one file per game code (BPEE.cht = Pokemon Emerald USA)
-  \SYSTEM\IMGS\           box art (optional: EZ-Flash's IMGS pack, not included)
+  \SYSTEM\IMGS\           box art (EZ-Flash's box art pack, included)
   \SYSTEM\SAVER\          your saves (made by the kernel)  <- back this up
   \SYSTEM\RTS\            savestates (made by the kernel)
   \BACKUP\SAVER\          save backups (made by the kernel)
@@ -27,6 +28,10 @@ SD CARD AFTER INSTALL
 
 CHEATS
   Which code types the cart runs (and which it doesn't): SUPPORTED_CODES.txt
+
+NOR CHECK (NOR flash tester)
+  NOR tab > START. Read check keeps your NOR games; Quick / Full tests erase them (hold A 3 s).
+  Finds dead NOR cells; saves NORCHECK.TXT to the SD root. Never writes the boot chip.
 
 KEYS
   Power-on: hold R = install/update kernel, hold SELECT = EZ-Flash safe mode
