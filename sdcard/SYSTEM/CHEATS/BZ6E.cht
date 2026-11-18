@@ -1,4 +1,4 @@
-cheats = 55
+cheats = 53
 
 cheat0_desc = "10 Cactuars Defeated"
 cheat0_code = "32039898+000A"
@@ -20,202 +20,194 @@ cheat4_desc = "Armor Modifier"
 cheat4_code = "32001622+0000"
 cheat4_enable = false
 
-cheat5_desc = "Auction House Modifier"
-cheat5_code = "74000130+0000+8200059A+01DF"
+cheat5_desc = "Best Imperial Banquet Outcome"
+cheat5_code = "32001FC2+005D"
 cheat5_enable = false
 
-cheat6_desc = "Best Imperial Banquet Outcome"
-cheat6_code = "32001FC2+005D"
+cheat6_desc = "Complete Beastiary"
+cheat6_code = "42039800+0063+000001A3+0002"
 cheat6_enable = false
 
-cheat7_desc = "Complete Beastiary"
-cheat7_code = "42039800+0063+000001A3+0002"
+cheat7_desc = "Equipped Esper Modifier"
+cheat7_code = "3200161E+0000"
 cheat7_enable = false
 
-cheat8_desc = "Equipped Esper Modifier"
-cheat8_code = "3200161E+0000"
+cheat8_desc = "Exp After Battle Modifier (Select + UP)"
+cheat8_code = "74000130+03BB+32002F35+0000+74000130+03BB+32002F36+0000"
 cheat8_enable = false
 
-cheat9_desc = "Exp After Battle Modifier (Select + UP)"
-cheat9_code = "74000130+03BB+32002F35+0000+74000130+03BB+32002F36+0000"
+cheat9_desc = "Gil After Battle Modifier (Select + DOWN)"
+cheat9_code = "74000130+037B+82002F3E+0000"
 cheat9_enable = false
 
-cheat10_desc = "Gil After Battle Modifier (Select + DOWN)"
-cheat10_code = "74000130+037B+82002F3E+0000"
+cheat10_desc = "Have All Items"
+cheat10_code = "42039130+6363+000000FF+0001+42039010+0100+010100FF+0001"
 cheat10_enable = false
 
-cheat11_desc = "Have All Items"
-cheat11_code = "42039130+6363+000000FF+0001+42039010+0100+010100FF+0001"
+cheat11_desc = "Have All Key Items"
+cheat11_code = "82001EBA+FFFF+32001EBC+0009"
 cheat11_enable = false
 
-cheat12_desc = "Have All Key Items"
-cheat12_code = "82001EBA+FFFF+32001EBC+0009"
+cheat12_desc = "Have All Magicite"
+cheat12_code = "82039000+FFFF+82039002+7FFF"
 cheat12_enable = false
 
-cheat13_desc = "Have All Magicite"
-cheat13_code = "82039000+FFFF+82039002+7FFF"
+cheat13_desc = "Helm Modifier"
+cheat13_code = "32001621+0000"
 cheat13_enable = false
 
-cheat14_desc = "Helm Modifier"
-cheat14_code = "32001621+0000"
+cheat14_desc = "Inf Health Slot1"
+cheat14_code = "82002E78+270F"
 cheat14_enable = false
 
-cheat15_desc = "Inf Health Slot1"
-cheat15_code = "82002E78+270F"
+cheat15_desc = "Inf Health Slot2"
+cheat15_code = "82002E7A+270F"
 cheat15_enable = false
 
-cheat16_desc = "Inf Health Slot2"
-cheat16_code = "82002E7A+270F"
+cheat16_desc = "Inf Health Slot3"
+cheat16_code = "82002E7C+270F"
 cheat16_enable = false
 
-cheat17_desc = "Inf Health Slot3"
-cheat17_code = "82002E7C+270F"
+cheat17_desc = "Inf Health Slot4"
+cheat17_code = "82002E7E+270F"
 cheat17_enable = false
 
-cheat18_desc = "Inf Health Slot4"
-cheat18_code = "82002E7E+270F"
+cheat18_desc = "Infinite Health Everyone [In-Battle Only]"
+cheat18_code = "42002E78+270F+00000004+0002"
 cheat18_enable = false
 
-cheat19_desc = "Infinite Health Everyone [In-Battle Only]"
-cheat19_code = "42002E78+270F+00000004+0002"
+cheat19_desc = "Infinite High Gil"
+cheat19_code = "32001862+0097"
 cheat19_enable = false
 
-cheat20_desc = "Infinite High Gil"
-cheat20_code = "32001862+0097"
+cheat20_desc = "Infinite Maximum Gil"
+cheat20_code = "82001860+967F+32001862+0098"
 cheat20_enable = false
 
-cheat21_desc = "Infinite Maximum Gil"
-cheat21_code = "82001860+967F+32001862+0098"
+cheat21_desc = "Infinite Morph Duration (In Battle)"
+cheat21_code = "32003F31+00FF"
 cheat21_enable = false
 
-cheat22_desc = "Infinite Morph Duration (In Battle)"
-cheat22_code = "32003F31+00FF"
+cheat22_desc = "Left Hand Item Modifier"
+cheat22_code = "32001620+0000"
 cheat22_enable = false
 
-cheat23_desc = "Left Hand Item Modifier"
-cheat23_code = "32001620+0000"
+cheat23_desc = "Mog has all dances"
+cheat23_code = "32001D4C+00FF"
 cheat23_enable = false
 
-cheat24_desc = "Map modifier"
-cheat24_code = "74000130+02FF+82001F64+0000+74000130+02FF+82000082+0000"
+cheat24_desc = "Monster Group Modifier"
+cheat24_code = "820011E0+0000"
 cheat24_enable = false
 
-cheat25_desc = "Mog has all dances"
-cheat25_code = "32001D4C+00FF"
+cheat25_desc = "Morph Time Maxed For Every Battle"
+cheat25_code = "32001CF6+00FF"
 cheat25_enable = false
 
-cheat26_desc = "Monster Group Modifier"
-cheat26_code = "820011E0+0000"
+cheat26_desc = "Move Faster, and No Random Battles"
+cheat26_code = "320011DF+0022"
 cheat26_enable = false
 
-cheat27_desc = "Morph Time Maxed For Every Battle"
-cheat27_code = "32001CF6+00FF"
+cheat27_desc = "No random battles (world map only)"
+cheat27_code = "82001F6E+0000"
 cheat27_enable = false
 
-cheat28_desc = "Move Faster, and No Random Battles"
-cheat28_code = "320011DF+0022"
+cheat28_desc = "Press down + select at the status screen to change that character's commands as if they were gogo."
+cheat28_code = "74000130+037B+32020C2E+0003"
 cheat28_enable = false
 
-cheat29_desc = "No random battles (world map only)"
-cheat29_code = "82001F6E+0000"
+cheat29_desc = "Press Down + Select at the Status Screen to Enable All Abilities For Selection"
+cheat29_code = "74000130+037B+4202625E+0201+0202000F+0002+3202627C+001F"
 cheat29_enable = false
 
-cheat30_desc = "Press down + select at the status screen to change that character's commands as if they were gogo."
-cheat30_code = "74000130+037B+32020C2E+0003"
+cheat30_desc = "Press L + A at main menu to enter party select menu"
+cheat30_code = "74000130+01FE+32020C34+000D"
 cheat30_enable = false
 
-cheat31_desc = "Press Down + Select at the Status Screen to Enable All Abilities For Selection"
-cheat31_code = "74000130+037B+4202625E+0201+0202000F+0002+3202627C+001F"
+cheat31_desc = "Relic Slot 1 Modifier"
+cheat31_code = "32001623+0000"
 cheat31_enable = false
 
-cheat32_desc = "Press L + A at main menu to enter party select menu"
-cheat32_code = "74000130+01FE+32020C34+000D"
+cheat32_desc = "Relic Slot 2 Modifier"
+cheat32_code = "32001624+0000"
 cheat32_enable = false
 
-cheat33_desc = "Relic Slot 1 Modifier"
-cheat33_code = "32001623+0000"
+cheat33_desc = "Right Hand Item Modifier"
+cheat33_code = "3200161F+0000"
 cheat33_enable = false
 
-cheat34_desc = "Relic Slot 2 Modifier"
-cheat34_code = "32001624+0000"
+cheat34_desc = "Save Anywhere"
+cheat34_code = "32001EB7+0086"
 cheat34_enable = false
 
-cheat35_desc = "Right Hand Item Modifier"
-cheat35_code = "3200161F+0000"
+cheat35_desc = "Save Game as Beaten"
+cheat35_code = "3203900A+0001"
 cheat35_enable = false
 
-cheat36_desc = "Save Anywhere"
-cheat36_code = "32001EB7+0086"
+cheat36_desc = "Shop Modifier"
+cheat36_code = "32000201+0000"
 cheat36_enable = false
 
-cheat37_desc = "Save Game as Beaten"
-cheat37_code = "3203900A+0001"
+cheat37_desc = "Status Modifier Slot 1"
+cheat37_code = "82003EF8+0000"
 cheat37_enable = false
 
-cheat38_desc = "Shop Modifier"
-cheat38_code = "32000201+0000"
+cheat38_desc = "Status Modifier Slot 2"
+cheat38_code = "82003EFA+0000"
 cheat38_enable = false
 
-cheat39_desc = "Status Modifier Slot 1"
-cheat39_code = "82003EF8+0000"
+cheat39_desc = "Status Modifier Slot 3"
+cheat39_code = "82003EFC+0000"
 cheat39_enable = false
 
-cheat40_desc = "Status Modifier Slot 2"
-cheat40_code = "82003EFA+0000"
+cheat40_desc = "Status Modifier Slot 4"
+cheat40_code = "82003EFE+0000"
 cheat40_enable = false
 
-cheat41_desc = "Status Modifier Slot 3"
-cheat41_code = "82003EFC+0000"
+cheat41_desc = "Max Gil"
+cheat41_code = "32001860+007F+32001861+0096+32001862+0098"
 cheat41_enable = false
 
-cheat42_desc = "Status Modifier Slot 4"
-cheat42_code = "82003EFE+0000"
+cheat42_desc = "All Rages"
+cheat42_code = "82001D2C+FFFF+82001D2E+FFFF+82001D30+FFFF+82001D32+FFFF+82001D34+FFFF+82001D36+FFFF+82001D38+FFFF+82001D3A+FFFF+82001D3C+FFFF+82001D3E+FFFF+82001D40+FFFF+82001D42+FFFF+82001D44+FFFF+82001D46+FFFF+82001D48+FFFF+82001D4A+FFFF"
 cheat42_enable = false
 
-cheat43_desc = "Max Gil"
-cheat43_code = "32001860+007F+32001861+0096+32001862+0098"
+cheat43_desc = "All Lores"
+cheat43_code = "32001D29+00FF+82001D2A+FFFF"
 cheat43_enable = false
 
-cheat44_desc = "All Rages"
-cheat44_code = "82001D2C+FFFF+82001D2E+FFFF+82001D30+FFFF+82001D32+FFFF+82001D34+FFFF+82001D36+FFFF+82001D38+FFFF+82001D3A+FFFF+82001D3C+FFFF+82001D3E+FFFF+82001D40+FFFF+82001D42+FFFF+82001D44+FFFF+82001D46+FFFF+82001D48+FFFF+82001D4A+FFFF"
+cheat44_desc = "All Blitz"
+cheat44_code = "32001D28+00FF"
 cheat44_enable = false
 
-cheat45_desc = "All Lores"
-cheat45_code = "32001D29+00FF+82001D2A+FFFF"
+cheat45_desc = "All Bushido"
+cheat45_code = "32001CF7+00FF"
 cheat45_enable = false
 
-cheat46_desc = "All Blitz"
-cheat46_code = "32001D28+00FF"
+cheat46_desc = "100% Steal Rate"
+cheat46_code = "88089C48+E000"
 cheat46_enable = false
 
-cheat47_desc = "All Bushido"
-cheat47_code = "32001CF7+00FF"
+cheat47_desc = "100% Steal Common Item (buggy)"
+cheat47_code = "880884D6+E000+88088540+E000+8808856A+E000"
 cheat47_enable = false
 
-cheat48_desc = "100% Steal Rate"
-cheat48_code = "88089C48+E000"
+cheat48_desc = "100% Steal Rare Item (buggy)"
+cheat48_code = "880884D6+E000+88088540+E000+8808856A+0000"
 cheat48_enable = false
 
-cheat49_desc = "100% Steal Common Item (buggy)"
-cheat49_code = "880884D6+E000+88088540+E000+8808856A+E000"
+cheat49_desc = "Terra Maxed Stats"
+cheat49_code = "32001608+0063+32001609+000F+3200160A+0027+3200160B+000F+3200160C+0027+3200160D+00E7+3200160E+0003+3200160F+00E7+32001610+0003+32001611+0040+32001612+004B+32001613+004C+3200161A+0080+3200161B+0080+3200161C+0080+3200161D+0080"
 cheat49_enable = false
 
-cheat50_desc = "100% Steal Rare Item (buggy)"
-cheat50_code = "880884D6+E000+88088540+E000+8808856A+0000"
+cheat50_desc = "Locke Maxed Stats"
+cheat50_code = "3200162D+0063+3200162E+000F+3200162F+0027+32001630+000F+32001631+0027+32001632+00E7+32001633+0003+32001634+00E7+32001635+0003+32001636+0040+32001637+004B+32001638+004C+3200163F+0080+32001640+0080+32001641+0080+32001642+0080"
 cheat50_enable = false
 
-cheat51_desc = "Terra Maxed Stats"
-cheat51_code = "32001608+0063+32001609+000F+3200160A+0027+3200160B+000F+3200160C+0027+3200160D+00E7+3200160E+0003+3200160F+00E7+32001610+0003+32001611+0040+32001612+004B+32001613+004C+3200161A+0080+3200161B+0080+3200161C+0080+3200161D+0080"
+cheat51_desc = "Cyan Maxed Stats"
+cheat51_code = "32001652+0063+32001653+000F+32001654+0027+32001655+000F+32001656+0027+32001657+00E7+32001658+0003+32001659+00E7+3200165A+0003+3200165B+0040+3200165C+004B+3200165D+004C+32001664+0080+32001665+0080+32001666+0080+32001667+0080"
 cheat51_enable = false
 
-cheat52_desc = "Locke Maxed Stats"
-cheat52_code = "3200162D+0063+3200162E+000F+3200162F+0027+32001630+000F+32001631+0027+32001632+00E7+32001633+0003+32001634+00E7+32001635+0003+32001636+0040+32001637+004B+32001638+004C+3200163F+0080+32001640+0080+32001641+0080+32001642+0080"
+cheat52_desc = "Shadow Maxed Stats"
+cheat52_code = "32001677+0063+32001678+000F+32001679+0027+3200167A+000F+3200167B+0027+3200167C+00E7+3200167D+0003+3200167E+00E7+3200167F+0003+32001680+0040+32001681+004B+32001682+004C+32001689+0080+3200168A+0080+3200168B+0080+3200168C+0080"
 cheat52_enable = false
-
-cheat53_desc = "Cyan Maxed Stats"
-cheat53_code = "32001652+0063+32001653+000F+32001654+0027+32001655+000F+32001656+0027+32001657+00E7+32001658+0003+32001659+00E7+3200165A+0003+3200165B+0040+3200165C+004B+3200165D+004C+32001664+0080+32001665+0080+32001666+0080+32001667+0080"
-cheat53_enable = false
-
-cheat54_desc = "Shadow Maxed Stats"
-cheat54_code = "32001677+0063+32001678+000F+32001679+0027+3200167A+000F+3200167B+0027+3200167C+00E7+3200167D+0003+3200167E+00E7+3200167F+0003+32001680+0040+32001681+004B+32001682+004C+32001689+0080+3200168A+0080+3200168B+0080+3200168C+0080"
-cheat54_enable = false

@@ -110,6 +110,30 @@ _RNG = 'auto code that freezes the random seed (gRngValue) every frame; Anti DMA
 POST_DROP[('BPRE', 'Disable DMA (Must Be On)')] = _RNG
 POST_DROP[('BPGE', 'Pokemon Fire Red-Enable Code (Must Be On)')] = _RNG
 POST_DROP[('BPGE', 'Pokemon Leaf Green-Enable Code (Must Be On)')] = _RNG
+# Final Fantasy, Fire Emblem (checked Nov 2026): GameHacking value lists whose value was lost (the code
+# writes 0, or item 1, into every slot every frame), and encrypted item lists decoded with the wrong key
+# (one random value at a random ROM address each, some past the end of the ROM)
+_LOST = 'the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame'
+_GARBLED = 'encrypted code decoded wrong: one random value at a random address (mostly ROM)'
+POST_DROP_RE = [
+    ('AE7E', r'^\d+(st|nd|rd|th) Position: Item Modifier Slot #\d+$', _LOST),
+    ('AE7E', r'^Character \d+$', _LOST + ' (removes the unit)'),
+    ('AE7E', r'^Slot \d+$', _LOST + ' (the unit\'s class)'),
+    ('BFFE', r'^Item Modifier Slot \d+$', _LOST),
+    ('BZ4J', r'^Item Slot Modifier \d+$', _LOST),
+    ('BZ5E', r'^Item Slot \d+$', _LOST),
+    ('BZ4E', r'^[0-9A-F]{4} - ', _GARBLED),
+    ('BE8E', r'^(Brave Lance|Chest Key \(Five Uses\)|Demon Surge|Demonb Light|Juna Fruit|Killer Bow|Killing Edge|'
+             r'Lightning|Neutral Phase Repeats Without Going to Other Phases.*|Ocean Seal|Orion\'s Belt|Purge|'
+             r'Siegmund|Slim Sword|Stone Shard|Vidofnir|Warp)$', _GARBLED),
+]
+POST_DROP[('BZ6E', 'Map modifier')] = _LOST + ' (R warps to map 0)'
+POST_DROP[('BZ6J', 'Map Modifier')] = _LOST + ' (R warps to map 0)'
+POST_DROP[('BZ6E', 'Auction House Modifier')] = 'only runs with all 10 buttons held (the key value was lost)'
+RENAME[('AFXE', 'Access Monster Bank [Press Select+Left]')] = 'Access Monster Bank [Press Select+Right]'
+RENAME[('BZ4E', 'Access Armor Shop')] = 'Access Armor Shop [Press L+Select]'
+RENAME[('BZ6J', 'Press L+Up To Instantly Win Battle')] = 'Press L+Select+Up To Instantly Win Battle'
+
 POST_ADD = {
     'BPRE': [('Anti DMA (Rev 0)', '8804C064+2100+8804C13C+2400'),
              ('No Random Battle (Rev 0)', '880833B8+2000'),
@@ -137,6 +161,9 @@ def post_fix(code, cheats, report):
     for d, c in cheats:
         if (code, d) in POST_DROP:
             report.append((code, d, POST_DROP[(code, d)])); continue
+        why = next((w for c2, rx, w in POST_DROP_RE if c2 == code and re.match(rx, d)), None)
+        if why:
+            report.append((code, d, why)); continue
         orig = old_name.get((code, d), d)
         out.append((RENAME.get((code, orig), d), added.get(d, POST_CODE.get((code, orig), c))))
     have = {n for n, _ in out}

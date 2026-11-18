@@ -1,445 +1,81 @@
-cheats = 111
+cheats = 20
 
-cheat0_desc = "10th Position: Item Modifier Slot #1"
-cheat0_code = "3202BFF6+0000"
+cheat0_desc = "Always Day 1"
+cheat0_code = "3202BC08+0001"
 cheat0_enable = false
 
-cheat1_desc = "10th Position: Item Modifier Slot #2"
-cheat1_code = "3202BFF8+0000"
+cheat1_desc = "Change Character 1 Slot 5 Item (L/R)"
+cheat1_code = "D0000020+0200+8202BD76+0063+D0000020+0100+8202BD76+0063"
 cheat1_enable = false
 
-cheat2_desc = "10th Position: Item Modifier Slot #3"
-cheat2_code = "3202BFFA+0000"
+cheat2_desc = "Change Character 1 Slot 5 Item (L/R) All Items Available"
+cheat2_code = "D0000020+0200+E202BD76+0001+D0000020+0100+E202BD76+FFFF"
 cheat2_enable = false
 
-cheat3_desc = "10th Position: Item Modifier Slot #4"
-cheat3_code = "3202BFFC+0000"
+cheat3_desc = "Infinite Funds"
+cheat3_code = "8202BC00+423F+8202BC02+000F"
 cheat3_enable = false
 
-cheat4_desc = "10th Position: Item Modifier Slot #5"
-cheat4_code = "3202BFFE+0000"
+cheat4_desc = "Infinite Health (all)"
+cheat4_code = "4202BD62+6263+0000000D+0048"
 cheat4_enable = false
 
-cheat5_desc = "11th Position: Item Modifier Slot #1"
-cheat5_code = "3202C03E+0000"
+cheat5_desc = "Infinite HP For All Units"
+cheat5_code = "3202BD63+0063+3202BDAB+0063+3202BDF3+0063+3202BE3B+0063+3202BE83+0063+3202BECB+0063+3202BF13+0063+3202BF5B+0063+3202BFA3+0063+3202BFEB+0063+3202C033+0063+3202C07B+0063+3202C0C3+0063+3202C10B+0063+3202C153+0063+3202C19B+0063+3202C1E3+0063+3202C22B+0063+3202C273+0063+3202C2BB+0063+3202C303+0063+3202C34B+0063+3202C393+0063+3202C3DB+0063+3202C423+0063+3202C46B+0063+3202C4B3+0063+3202C4FB+0063+3202C543+0063+3202C58B+0063+3202C5D3+0063+3202C61B+0063+3202C663+0063+3202C6AB+0063+3202C6F3+0063+3202C73B+0063+3202C783+0063+3202C7CB+0063+3202C813+0063+3202C85B+0063+3202C8A3+0063+3202C8EB+0063+3203E0BA+0063+3203E0C2+0063"
 cheat5_enable = false
 
-cheat6_desc = "11th Position: Item Modifier Slot #2"
-cheat6_code = "3202C040+0000"
+cheat6_desc = "Infinite HP Lyn/Eliwood"
+cheat6_code = "3202BD63+0062"
 cheat6_enable = false
 
-cheat7_desc = "11th Position: Item Modifier Slot #3"
-cheat7_code = "3202C042+0000"
+cheat7_desc = "Infinite Money"
+cheat7_code = "8202BC00+FFFF"
 cheat7_enable = false
 
-cheat8_desc = "11th Position: Item Modifier Slot #4"
-cheat8_code = "3202C044+0000"
+cheat8_desc = "Infinite Turns (L)"
+cheat8_code = "D0000020+0200+4202BD5C+0000+0000000D+0048"
 cheat8_enable = false
 
-cheat9_desc = "11th Position: Item Modifier Slot #5"
-cheat9_code = "3202C046+0000"
+cheat9_desc = "Infinite Turns-All Characters"
+cheat9_code = "4202BD5C+0000+0000000D+0048"
 cheat9_enable = false
 
-cheat10_desc = "12th Position: Item Modifier Slot #1"
-cheat10_code = "3202C086+0000"
+cheat10_desc = "Infinite/Max Hp-All Characters"
+cheat10_code = "4202BD62+6363+0000000D+0048"
 cheat10_enable = false
 
-cheat11_desc = "12th Position: Item Modifier Slot #2"
-cheat11_code = "3202C088+0000"
+cheat11_desc = "Level Up-All Characters"
+cheat11_code = "3203E0D6+00FF"
 cheat11_enable = false
 
-cheat12_desc = "12th Position: Item Modifier Slot #3"
-cheat12_code = "3202C08A+0000"
+cheat12_desc = "Max Move-All Characters"
+cheat12_code = "4202BD6C+6300+0000000D+0048"
 cheat12_enable = false
 
-cheat13_desc = "12th Position: Item Modifier Slot #4"
-cheat13_code = "3202C08C+0000"
+cheat13_desc = "Max Stats-All Characters"
+cheat13_code = "4202BD64+1414+0000000D+0048+4202BD66+1414+0000000D+0048+4202BD68+1E14+0000000D+0048"
 cheat13_enable = false
 
-cheat14_desc = "12th Position: Item Modifier Slot #5"
-cheat14_code = "3202C08E+0000"
+cheat14_desc = "Max Strength(all)"
+cheat14_code = "4202BD64+0014+0000000D+0048"
 cheat14_enable = false
 
-cheat15_desc = "13th Position: Item Modifier Slot #1"
-cheat15_code = "3202C0CE+0000"
+cheat15_desc = "Max Strength(all) Hold L to be Weak"
+cheat15_code = "4202BD64+0014+0000000D+0048+D0000020+0200+4202BD64+0001+0000000D+0048"
 cheat15_enable = false
 
-cheat16_desc = "13th Position: Item Modifier Slot #2"
-cheat16_code = "3202C0D0+0000"
+cheat16_desc = "Max Weapon Levels-All Characters"
+cheat16_code = "4202BD78+FAFA+0000000D+0048+4202BD7A+FAFA+0000000D+0048+4202BD7C+FAFA+0000000D+0048+4202BD7E+FAFA+0000000D+0048"
 cheat16_enable = false
 
-cheat17_desc = "13th Position: Item Modifier Slot #3"
-cheat17_code = "3202C0D2+0000"
+cheat17_desc = "No fog of war"
+cheat17_code = "3202BC05+0000"
 cheat17_enable = false
 
-cheat18_desc = "13th Position: Item Modifier Slot #4"
-cheat18_code = "3202C0D4+0000"
+cheat18_desc = "Select = Final Turn/Day 7 Ch4"
+cheat18_code = "D0000020+0004+3202BC08+0007"
 cheat18_enable = false
 
-cheat19_desc = "13th Position: Item Modifier Slot #5"
-cheat19_code = "3202C0D6+0000"
+cheat19_desc = "Skip Chapter 4/Final Turn/Day 7"
+cheat19_code = "3202BC08+0007"
 cheat19_enable = false
-
-cheat20_desc = "1st Position: Item Modifier Slot #1"
-cheat20_code = "3202BD6E+0000"
-cheat20_enable = false
-
-cheat21_desc = "1st Position: Item Modifier Slot #2"
-cheat21_code = "3202BD70+0000"
-cheat21_enable = false
-
-cheat22_desc = "1st Position: Item Modifier Slot #3"
-cheat22_code = "3202BD72+0000"
-cheat22_enable = false
-
-cheat23_desc = "1st Position: Item Modifier Slot #4"
-cheat23_code = "3202BD74+0000"
-cheat23_enable = false
-
-cheat24_desc = "1st Position: Item Modifier Slot #5"
-cheat24_code = "3202BD76+0000"
-cheat24_enable = false
-
-cheat25_desc = "2nd Position: Item Modifier Slot #1"
-cheat25_code = "3202BDB6+0000"
-cheat25_enable = false
-
-cheat26_desc = "2nd Position: Item Modifier Slot #2"
-cheat26_code = "3202BDB8+0000"
-cheat26_enable = false
-
-cheat27_desc = "2nd Position: Item Modifier Slot #3"
-cheat27_code = "3202BDBA+0000"
-cheat27_enable = false
-
-cheat28_desc = "2nd Position: Item Modifier Slot #4"
-cheat28_code = "3202BDBC+0000"
-cheat28_enable = false
-
-cheat29_desc = "2nd Position: Item Modifier Slot #5"
-cheat29_code = "3202BDBE+0000"
-cheat29_enable = false
-
-cheat30_desc = "3rd Position: Item Modifier Slot #1"
-cheat30_code = "3202BDFE+0000"
-cheat30_enable = false
-
-cheat31_desc = "3rd Position: Item Modifier Slot #2"
-cheat31_code = "3202BE00+0000"
-cheat31_enable = false
-
-cheat32_desc = "3rd Position: Item Modifier Slot #3"
-cheat32_code = "3202BE02+0000"
-cheat32_enable = false
-
-cheat33_desc = "3rd Position: Item Modifier Slot #4"
-cheat33_code = "3202BE04+0000"
-cheat33_enable = false
-
-cheat34_desc = "3rd Position: Item Modifier Slot #5"
-cheat34_code = "3202BE06+0000"
-cheat34_enable = false
-
-cheat35_desc = "4th Position: Item Modifier Slot #1"
-cheat35_code = "3202BE46+0000"
-cheat35_enable = false
-
-cheat36_desc = "4th Position: Item Modifier Slot #2"
-cheat36_code = "3202BE48+0000"
-cheat36_enable = false
-
-cheat37_desc = "4th Position: Item Modifier Slot #3"
-cheat37_code = "3202BE4A+0000"
-cheat37_enable = false
-
-cheat38_desc = "4th Position: Item Modifier Slot #4"
-cheat38_code = "3202BE4C+0000"
-cheat38_enable = false
-
-cheat39_desc = "4th Position: Item Modifier Slot #5"
-cheat39_code = "3202BE4E+0000"
-cheat39_enable = false
-
-cheat40_desc = "5th Position: Item Modifier Slot #1"
-cheat40_code = "3202BE8E+0000"
-cheat40_enable = false
-
-cheat41_desc = "5th Position: Item Modifier Slot #2"
-cheat41_code = "3202BE90+0000"
-cheat41_enable = false
-
-cheat42_desc = "5th Position: Item Modifier Slot #3"
-cheat42_code = "3202BE92+0000"
-cheat42_enable = false
-
-cheat43_desc = "5th Position: Item Modifier Slot #4"
-cheat43_code = "3202BE94+0000"
-cheat43_enable = false
-
-cheat44_desc = "5th Position: Item Modifier Slot #5"
-cheat44_code = "3202BE96+0000"
-cheat44_enable = false
-
-cheat45_desc = "6th Position: Item Modifier Slot #1"
-cheat45_code = "3202BED6+0000"
-cheat45_enable = false
-
-cheat46_desc = "6th Position: Item Modifier Slot #2"
-cheat46_code = "3202BED8+0000"
-cheat46_enable = false
-
-cheat47_desc = "6th Position: Item Modifier Slot #3"
-cheat47_code = "3202BEDA+0000"
-cheat47_enable = false
-
-cheat48_desc = "6th Position: Item Modifier Slot #4"
-cheat48_code = "3202BEDC+0000"
-cheat48_enable = false
-
-cheat49_desc = "6th Position: Item Modifier Slot #5"
-cheat49_code = "3202BEDE+0000"
-cheat49_enable = false
-
-cheat50_desc = "7th Position: Item Modifier Slot #1"
-cheat50_code = "3202BF1E+0000"
-cheat50_enable = false
-
-cheat51_desc = "7th Position: Item Modifier Slot #2"
-cheat51_code = "3202BF20+0000"
-cheat51_enable = false
-
-cheat52_desc = "7th Position: Item Modifier Slot #3"
-cheat52_code = "3202BF22+0000"
-cheat52_enable = false
-
-cheat53_desc = "7th Position: Item Modifier Slot #4"
-cheat53_code = "3202BF24+0000"
-cheat53_enable = false
-
-cheat54_desc = "7th Position: Item Modifier Slot #5"
-cheat54_code = "3202BF26+0000"
-cheat54_enable = false
-
-cheat55_desc = "8th Position: Item Modifier Slot #1"
-cheat55_code = "3202BF66+0000"
-cheat55_enable = false
-
-cheat56_desc = "8th Position: Item Modifier Slot #2"
-cheat56_code = "3202BF68+0000"
-cheat56_enable = false
-
-cheat57_desc = "8th Position: Item Modifier Slot #3"
-cheat57_code = "3202BF6A+0000"
-cheat57_enable = false
-
-cheat58_desc = "8th Position: Item Modifier Slot #4"
-cheat58_code = "3202BF6C+0000"
-cheat58_enable = false
-
-cheat59_desc = "8th Position: Item Modifier Slot #5"
-cheat59_code = "3202BF6E+0000"
-cheat59_enable = false
-
-cheat60_desc = "9th Position: Item Modifier Slot #1"
-cheat60_code = "3202BFAE+0000"
-cheat60_enable = false
-
-cheat61_desc = "9th Position: Item Modifier Slot #2"
-cheat61_code = "3202BFB0+0000"
-cheat61_enable = false
-
-cheat62_desc = "9th Position: Item Modifier Slot #3"
-cheat62_code = "3202BFB2+0000"
-cheat62_enable = false
-
-cheat63_desc = "9th Position: Item Modifier Slot #4"
-cheat63_code = "3202BFB4+0000"
-cheat63_enable = false
-
-cheat64_desc = "9th Position: Item Modifier Slot #5"
-cheat64_code = "3202BFB6+0000"
-cheat64_enable = false
-
-cheat65_desc = "Always Day 1"
-cheat65_code = "3202BC08+0001"
-cheat65_enable = false
-
-cheat66_desc = "Change Character 1 Slot 5 Item (L/R)"
-cheat66_code = "D0000020+0200+8202BD76+0063+D0000020+0100+8202BD76+0063"
-cheat66_enable = false
-
-cheat67_desc = "Change Character 1 Slot 5 Item (L/R) All Items Available"
-cheat67_code = "D0000020+0200+E202BD76+0001+D0000020+0100+E202BD76+FFFF"
-cheat67_enable = false
-
-cheat68_desc = "Character 1"
-cheat68_code = "8202BD50+0000"
-cheat68_enable = false
-
-cheat69_desc = "Character 10"
-cheat69_code = "8202BFD8+0000"
-cheat69_enable = false
-
-cheat70_desc = "Character 2"
-cheat70_code = "8202BD98+0000"
-cheat70_enable = false
-
-cheat71_desc = "Character 3"
-cheat71_code = "8202BDE0+0000"
-cheat71_enable = false
-
-cheat72_desc = "Character 4"
-cheat72_code = "8202BE28+0000"
-cheat72_enable = false
-
-cheat73_desc = "Character 5"
-cheat73_code = "8202BE70+0000"
-cheat73_enable = false
-
-cheat74_desc = "Character 6"
-cheat74_code = "8202BEB8+0000"
-cheat74_enable = false
-
-cheat75_desc = "Character 7"
-cheat75_code = "8202BF00+0000"
-cheat75_enable = false
-
-cheat76_desc = "Character 8"
-cheat76_code = "8202BF48+0000"
-cheat76_enable = false
-
-cheat77_desc = "Character 9"
-cheat77_code = "8202BF90+0000"
-cheat77_enable = false
-
-cheat78_desc = "Infinite Funds"
-cheat78_code = "8202BC00+423F+8202BC02+000F"
-cheat78_enable = false
-
-cheat79_desc = "Infinite Health (all)"
-cheat79_code = "4202BD62+6263+0000000D+0048"
-cheat79_enable = false
-
-cheat80_desc = "Infinite HP For All Units"
-cheat80_code = "3202BD63+0063+3202BDAB+0063+3202BDF3+0063+3202BE3B+0063+3202BE83+0063+3202BECB+0063+3202BF13+0063+3202BF5B+0063+3202BFA3+0063+3202BFEB+0063+3202C033+0063+3202C07B+0063+3202C0C3+0063+3202C10B+0063+3202C153+0063+3202C19B+0063+3202C1E3+0063+3202C22B+0063+3202C273+0063+3202C2BB+0063+3202C303+0063+3202C34B+0063+3202C393+0063+3202C3DB+0063+3202C423+0063+3202C46B+0063+3202C4B3+0063+3202C4FB+0063+3202C543+0063+3202C58B+0063+3202C5D3+0063+3202C61B+0063+3202C663+0063+3202C6AB+0063+3202C6F3+0063+3202C73B+0063+3202C783+0063+3202C7CB+0063+3202C813+0063+3202C85B+0063+3202C8A3+0063+3202C8EB+0063+3203E0BA+0063+3203E0C2+0063"
-cheat80_enable = false
-
-cheat81_desc = "Infinite HP Lyn/Eliwood"
-cheat81_code = "3202BD63+0062"
-cheat81_enable = false
-
-cheat82_desc = "Infinite Money"
-cheat82_code = "8202BC00+FFFF"
-cheat82_enable = false
-
-cheat83_desc = "Infinite Turns (L)"
-cheat83_code = "D0000020+0200+4202BD5C+0000+0000000D+0048"
-cheat83_enable = false
-
-cheat84_desc = "Infinite Turns-All Characters"
-cheat84_code = "4202BD5C+0000+0000000D+0048"
-cheat84_enable = false
-
-cheat85_desc = "Infinite/Max Hp-All Characters"
-cheat85_code = "4202BD62+6363+0000000D+0048"
-cheat85_enable = false
-
-cheat86_desc = "Level Up-All Characters"
-cheat86_code = "3203E0D6+00FF"
-cheat86_enable = false
-
-cheat87_desc = "Max Move-All Characters"
-cheat87_code = "4202BD6C+6300+0000000D+0048"
-cheat87_enable = false
-
-cheat88_desc = "Max Stats-All Characters"
-cheat88_code = "4202BD64+1414+0000000D+0048+4202BD66+1414+0000000D+0048+4202BD68+1E14+0000000D+0048"
-cheat88_enable = false
-
-cheat89_desc = "Max Strength(all)"
-cheat89_code = "4202BD64+0014+0000000D+0048"
-cheat89_enable = false
-
-cheat90_desc = "Max Strength(all) Hold L to be Weak"
-cheat90_code = "4202BD64+0014+0000000D+0048+D0000020+0200+4202BD64+0001+0000000D+0048"
-cheat90_enable = false
-
-cheat91_desc = "Max Weapon Levels-All Characters"
-cheat91_code = "4202BD78+FAFA+0000000D+0048+4202BD7A+FAFA+0000000D+0048+4202BD7C+FAFA+0000000D+0048+4202BD7E+FAFA+0000000D+0048"
-cheat91_enable = false
-
-cheat92_desc = "No fog of war"
-cheat92_code = "3202BC05+0000"
-cheat92_enable = false
-
-cheat93_desc = "Select = Final Turn/Day 7 Ch4"
-cheat93_code = "D0000020+0004+3202BC08+0007"
-cheat93_enable = false
-
-cheat94_desc = "Skip Chapter 4/Final Turn/Day 7"
-cheat94_code = "3202BC08+0007"
-cheat94_enable = false
-
-cheat95_desc = "Slot 1"
-cheat95_code = "8202BD54+0000"
-cheat95_enable = false
-
-cheat96_desc = "Slot 10"
-cheat96_code = "8202BFDC+0000"
-cheat96_enable = false
-
-cheat97_desc = "Slot 11"
-cheat97_code = "8202C024+0000"
-cheat97_enable = false
-
-cheat98_desc = "Slot 12"
-cheat98_code = "8202C06C+0000"
-cheat98_enable = false
-
-cheat99_desc = "Slot 13"
-cheat99_code = "8202C0B4+0000"
-cheat99_enable = false
-
-cheat100_desc = "Slot 14"
-cheat100_code = "8202C0FC+0000"
-cheat100_enable = false
-
-cheat101_desc = "Slot 15"
-cheat101_code = "8202C144+0000"
-cheat101_enable = false
-
-cheat102_desc = "Slot 16"
-cheat102_code = "8202C18C+0000"
-cheat102_enable = false
-
-cheat103_desc = "Slot 2"
-cheat103_code = "8202BD9C+0000"
-cheat103_enable = false
-
-cheat104_desc = "Slot 3"
-cheat104_code = "8202BDE4+0000"
-cheat104_enable = false
-
-cheat105_desc = "Slot 4"
-cheat105_code = "8202BE2C+0000"
-cheat105_enable = false
-
-cheat106_desc = "Slot 5"
-cheat106_code = "8202BE74+0000"
-cheat106_enable = false
-
-cheat107_desc = "Slot 6"
-cheat107_code = "8202BEBC+0000"
-cheat107_enable = false
-
-cheat108_desc = "Slot 7"
-cheat108_code = "8202BF04+0000"
-cheat108_enable = false
-
-cheat109_desc = "Slot 8"
-cheat109_code = "8202BF4C+0000"
-cheat109_enable = false
-
-cheat110_desc = "Slot 9"
-cheat110_code = "8202BF94+0000"
-cheat110_enable = false

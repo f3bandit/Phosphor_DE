@@ -1,4 +1,4 @@
-1704 games, 31138 cheats
+1704 games, 30893 cheats
 
 Dropped:
    24979  value list from an XXXX code
@@ -8,18 +8,24 @@ Dropped:
      861  Phosphor_DE cheat engine can't run it
      825  same code as another cheat
      390  over the 448-cheat list limit
+     171  the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+      45  encrypted code decoded wrong: one random value at a random address (mostly ROM)
       40  unknown code format
       30  the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+      16  the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (the unit's class)
+      10  the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (removes the unit)
        5  auto code that does more than plain writes / ROM patches
        3  auto code that freezes the random seed (gRngValue) every frame; Anti DMA (Rev 0/1) does its job
        2  writes into the game's heap (0x02000000-0x0201BFFF) every frame: overworld graphics glitches (Max Coins From Pokies only writes in the slot machine)
        2  only changes the money shown in the bag; writes into the game's heap (0x02000000-0x0201BFFF) every frame: overworld graphics glitches
        2  writes into the game's heap (0x02000000-0x0201BFFF) every frame: overworld graphics glitches
+       2  the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (R warps to map 0)
        1  also overwrites the byte next to each item count
        1  suspicious master code (GBA Video)
        1  only fills entries 1-8 (Pokedex Complete is the full one)
        1  its ROM patch lands in the wireless link code on both revisions
        1  its ROM patch lands in the movement code on both revisions
+       1  only runs with all 10 buttons held (the key value was lost)
 
 GameHacking games with no game code (not included):
   Anguna (Homebrew) [69056]
@@ -32128,3 +32134,248 @@ BPRE | Naughty | its ROM patch lands in the movement code on both revisions
 BPGE | Pokemon Fire Red-Enable Code (Must Be On) | auto code that freezes the random seed (gRngValue) every frame; Anti DMA (Rev 0/1) does its job
 BPGE | Pokemon Leaf Green-Enable Code (Must Be On) | auto code that freezes the random seed (gRngValue) every frame; Anti DMA (Rev 0/1) does its job
 BPRE | Disable DMA (Must Be On) | auto code that freezes the random seed (gRngValue) every frame; Anti DMA (Rev 0/1) does its job
+AE7E | 10th Position: Item Modifier Slot #1 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 10th Position: Item Modifier Slot #2 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 10th Position: Item Modifier Slot #3 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 10th Position: Item Modifier Slot #4 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 10th Position: Item Modifier Slot #5 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 11th Position: Item Modifier Slot #1 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 11th Position: Item Modifier Slot #2 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 11th Position: Item Modifier Slot #3 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 11th Position: Item Modifier Slot #4 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 11th Position: Item Modifier Slot #5 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 12th Position: Item Modifier Slot #1 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 12th Position: Item Modifier Slot #2 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 12th Position: Item Modifier Slot #3 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 12th Position: Item Modifier Slot #4 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 12th Position: Item Modifier Slot #5 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 13th Position: Item Modifier Slot #1 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 13th Position: Item Modifier Slot #2 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 13th Position: Item Modifier Slot #3 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 13th Position: Item Modifier Slot #4 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 13th Position: Item Modifier Slot #5 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 1st Position: Item Modifier Slot #1 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 1st Position: Item Modifier Slot #2 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 1st Position: Item Modifier Slot #3 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 1st Position: Item Modifier Slot #4 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 1st Position: Item Modifier Slot #5 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 2nd Position: Item Modifier Slot #1 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 2nd Position: Item Modifier Slot #2 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 2nd Position: Item Modifier Slot #3 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 2nd Position: Item Modifier Slot #4 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 2nd Position: Item Modifier Slot #5 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 3rd Position: Item Modifier Slot #1 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 3rd Position: Item Modifier Slot #2 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 3rd Position: Item Modifier Slot #3 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 3rd Position: Item Modifier Slot #4 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 3rd Position: Item Modifier Slot #5 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 4th Position: Item Modifier Slot #1 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 4th Position: Item Modifier Slot #2 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 4th Position: Item Modifier Slot #3 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 4th Position: Item Modifier Slot #4 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 4th Position: Item Modifier Slot #5 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 5th Position: Item Modifier Slot #1 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 5th Position: Item Modifier Slot #2 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 5th Position: Item Modifier Slot #3 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 5th Position: Item Modifier Slot #4 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 5th Position: Item Modifier Slot #5 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 6th Position: Item Modifier Slot #1 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 6th Position: Item Modifier Slot #2 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 6th Position: Item Modifier Slot #3 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 6th Position: Item Modifier Slot #4 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 6th Position: Item Modifier Slot #5 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 7th Position: Item Modifier Slot #1 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 7th Position: Item Modifier Slot #2 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 7th Position: Item Modifier Slot #3 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 7th Position: Item Modifier Slot #4 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 7th Position: Item Modifier Slot #5 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 8th Position: Item Modifier Slot #1 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 8th Position: Item Modifier Slot #2 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 8th Position: Item Modifier Slot #3 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 8th Position: Item Modifier Slot #4 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 8th Position: Item Modifier Slot #5 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 9th Position: Item Modifier Slot #1 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 9th Position: Item Modifier Slot #2 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 9th Position: Item Modifier Slot #3 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 9th Position: Item Modifier Slot #4 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | 9th Position: Item Modifier Slot #5 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+AE7E | Character 1 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (removes the unit)
+AE7E | Character 10 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (removes the unit)
+AE7E | Character 2 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (removes the unit)
+AE7E | Character 3 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (removes the unit)
+AE7E | Character 4 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (removes the unit)
+AE7E | Character 5 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (removes the unit)
+AE7E | Character 6 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (removes the unit)
+AE7E | Character 7 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (removes the unit)
+AE7E | Character 8 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (removes the unit)
+AE7E | Character 9 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (removes the unit)
+AE7E | Slot 1 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (the unit's class)
+AE7E | Slot 10 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (the unit's class)
+AE7E | Slot 11 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (the unit's class)
+AE7E | Slot 12 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (the unit's class)
+AE7E | Slot 13 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (the unit's class)
+AE7E | Slot 14 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (the unit's class)
+AE7E | Slot 15 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (the unit's class)
+AE7E | Slot 16 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (the unit's class)
+AE7E | Slot 2 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (the unit's class)
+AE7E | Slot 3 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (the unit's class)
+AE7E | Slot 4 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (the unit's class)
+AE7E | Slot 5 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (the unit's class)
+AE7E | Slot 6 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (the unit's class)
+AE7E | Slot 7 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (the unit's class)
+AE7E | Slot 8 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (the unit's class)
+AE7E | Slot 9 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (the unit's class)
+BE8E | Brave Lance | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BE8E | Chest Key (Five Uses) | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BE8E | Demon Surge | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BE8E | Demonb Light | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BE8E | Juna Fruit | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BE8E | Killer Bow | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BE8E | Killing Edge | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BE8E | Lightning | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BE8E | Neutral Phase Repeats Without Going to Other Phases (You Can Control Neutral Units) | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BE8E | Ocean Seal | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BE8E | Orion's Belt | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BE8E | Purge | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BE8E | Siegmund | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BE8E | Slim Sword | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BE8E | Stone Shard | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BE8E | Vidofnir | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BE8E | Warp | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BFFE | Item Modifier Slot 1 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 10 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 11 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 12 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 13 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 14 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 15 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 16 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 17 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 18 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 19 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 2 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 20 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 21 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 22 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 23 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 24 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 25 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 26 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 27 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 28 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 29 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 3 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 30 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 31 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 32 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 33 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 34 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 35 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 36 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 37 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 38 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 39 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 4 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 40 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 41 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 42 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 43 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 44 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 45 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 46 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 47 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 48 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 49 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 5 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 50 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 6 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 7 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 8 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BFFE | Item Modifier Slot 9 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4E | 0003 - Thunder claw | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4E | 0005 - Hell claw | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4E | 000D - Stardust rod | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4E | 0010 - Healing staff | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4E | 0015 - Rune staff | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4E | 0040 - Shuriken | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4E | 005B - Mute arrow | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4E | 0066 - Fire Shield | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4E | 006D - Iron helm | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4E | 0073 - Diamond helm | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4E | 0077 - Leather cap | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4E | 0083 - Hades armor | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4E | 0093 - White robe | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4E | 0097 - Bard's tunic | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4E | 00AE - Protect ring | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4E | 00BD - Gold hourglass | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4E | 00CC - Alarm clock | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4E | 00D2 - Dry ether | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4E | 00D3 - Elixer | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4E | 00F2 - Magma rock | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4E | 0100 - Thor's hammer | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4E | 010B - Harmonious ring | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4E | 0121 - Asura's Rod | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4E | 0125 - Perseus's Bow | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4E | 012B - Assassin Dagger | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4E | 0140 - Raggedy Doll | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4E | 0141 - Key | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4E | 0143 - Bld-Skd Lance | encrypted code decoded wrong: one random value at a random address (mostly ROM)
+BZ4J | Item Slot Modifier 1 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 10 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 11 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 12 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 13 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 14 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 15 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 16 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 17 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 18 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 19 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 2 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 20 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 21 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 22 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 23 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 24 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 25 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 26 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 27 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 28 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 29 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 3 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 30 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 31 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 32 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 33 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 34 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 35 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 36 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 37 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 38 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 39 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 4 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 40 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 41 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 42 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 43 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 44 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 45 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 46 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 47 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 48 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 5 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 6 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 7 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 8 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ4J | Item Slot Modifier 9 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ5E | Item Slot 1 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ5E | Item Slot 2 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ5E | Item Slot 3 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ5E | Item Slot 4 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ5E | Item Slot 5 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ5E | Item Slot 6 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ5E | Item Slot 7 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ5E | Item Slot 8 | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame
+BZ6E | Auction House Modifier | only runs with all 10 buttons held (the key value was lost)
+BZ6E | Map modifier | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (R warps to map 0)
+BZ6J | Map Modifier | the value to set was lost (an XXXX list): writes the same placeholder into that slot every frame (R warps to map 0)

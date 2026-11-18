@@ -33,7 +33,7 @@ def update_report(path, dropped, removed_cheats):
 
 def main(root, report_path=None):
     dst = os.path.join(root, 'SYSTEM', 'CHEATS')
-    codes = sorted({c for c, _ in list(p.POST_DROP) + list(p.POST_CODE) + list(p.RENAME)} | set(p.POST_ADD))
+    codes = sorted({c for c, _ in list(p.POST_DROP) + list(p.POST_CODE) + list(p.RENAME)} | set(p.POST_ADD) | {c for c, _, _ in p.POST_DROP_RE})
     checker = os.path.join(tempfile.mkdtemp(), 'cht_check')
     subprocess.run(['gcc', '-O1', '-w', '-o', checker, os.path.join(p.HERE, 'cht_check.c')], check=True)
     tmp = tempfile.mkdtemp()

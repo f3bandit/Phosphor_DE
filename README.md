@@ -2,7 +2,7 @@
 
 A custom kernel (the menu/firmware you see when you turn the cart on) for the **EZ-Flash Omega Definitive Edition** GBA flash cart, by **f3bandit**.
 
-Dark, readable, GBA-only, with a new cheat engine and a ready-made cheat pack of **31,138 cheats for 1,704 games**, every one ready to play with nothing to type in.
+Dark, readable, GBA-only, with a new cheat engine and a ready-made cheat pack of **30,893 cheats for 1,704 games**, every one ready to play with nothing to type in.
 
 ![Phosphor_DE splash](docs/splash.png)
 
@@ -154,12 +154,13 @@ The cheat system is new; EZ-Flash's was dropped because its library is badly org
 - Up to **448 cheats per game** are listed.
 
 ### The cheat pack (`SYSTEM/CHEATS`)
-- **1,704 games, 31,138 cheats**, from **GameHacking.org** (all GBA games) and the **libretro cheat database**, merged per game code.
+- **1,704 games, 30,893 cheats**, from **GameHacking.org** (all GBA games) and the **libretro cheat database**, merged per game code.
 - **Ready to play only.** Every cheat works the moment you turn it on:
   - codes where you'd have to type in a value (`XXXX`, `??`) are **removed**, along with GameHacking's long "pick a value" lists made from them. Normal codes already have the value set (like 9999 gold).
   - master / "must be on" codes are removed: Phosphor_DE doesn't need them. Anti-DMA fixes are kept.
   - Action Replay and GameShark codes are converted to plain Code Breaker, decrypted where needed.
   - every file was compiled with the Phosphor_DE cheat engine itself; anything it couldn't run was removed.
+  - **Final Fantasy (I&II, IV, V, VI, Tactics Advance) and Fire Emblem** were gone through code by code: GameHacking "set slot to X" lists whose X was lost (they wrote 0 into every slot every frame, deleting items, units and classes) and item lists decoded with the wrong key (random writes into the game's code) were removed.
   - **Pokemon Ruby, Sapphire, FireRed, LeafGreen and Emerald (USA)** were checked against byte-exact builds of the games (pret's decompilations): every ROM patch against the instruction it changes, every RAM address against the variable it hits. Broken ones were removed, FireRed/LeafGreen get the right Anti DMA for each revision, and Anti DMA also keeps the money key at 0, so money, coin and item-count cheats give real amounts.
 - What was left out, game by game and why: [`cheats/CHEATS_REPORT.txt`](cheats/CHEATS_REPORT.txt).
 - Where it came from: [`cheats/CHEATS_SOURCE.txt`](cheats/CHEATS_SOURCE.txt).

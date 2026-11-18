@@ -1068,7 +1068,7 @@ cheat266_desc = "Access Item Shop [Press Select+Right]"
 cheat266_code = "74000130+03EB+8200F424+0B10"
 cheat266_enable = false
 
-cheat267_desc = "Access Monster Bank [Press Select+Left]"
+cheat267_desc = "Access Monster Bank [Press Select+Right]"
 cheat267_code = "74000130+03EB+8200F424+0B12"
 cheat267_enable = false
 

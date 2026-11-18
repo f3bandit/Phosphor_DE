@@ -1,4 +1,4 @@
-cheats = 39
+cheats = 38
 
 cheat0_desc = "All Key Items"
 cheat0_code = "82001EBA+FFFF+32001EBC+0009"
@@ -80,78 +80,74 @@ cheat19_desc = "Left Hand Item Modifier"
 cheat19_code = "32001620+0000"
 cheat19_enable = false
 
-cheat20_desc = "Map Modifier"
-cheat20_code = "74000130+02FF+82001F64+0000+74000130+02FF+82000082+0000"
+cheat20_desc = "Mog Has All Dances"
+cheat20_code = "32001D4C+00FF"
 cheat20_enable = false
 
-cheat21_desc = "Mog Has All Dances"
-cheat21_code = "32001D4C+00FF"
+cheat21_desc = "Monster Group Modifier"
+cheat21_code = "820011E0+027D"
 cheat21_enable = false
 
-cheat22_desc = "Monster Group Modifier"
-cheat22_code = "820011E0+027D"
+cheat22_desc = "Morph Time Maxed For Every Battle"
+cheat22_code = "32001CF6+00FF"
 cheat22_enable = false
 
-cheat23_desc = "Morph Time Maxed For Every Battle"
-cheat23_code = "32001CF6+00FF"
+cheat23_desc = "No Random Battles (World Map Only)"
+cheat23_code = "82001F6E+0000"
 cheat23_enable = false
 
-cheat24_desc = "No Random Battles (World Map Only)"
-cheat24_code = "82001F6E+0000"
+cheat24_desc = "Press Down+Select At The Status Screen To Change That Character's Commands As If They Were Gogo"
+cheat24_code = "74000130+037B+32020C2E+0003"
 cheat24_enable = false
 
-cheat25_desc = "Press Down+Select At The Status Screen To Change That Character's Commands As If They Were Gogo"
-cheat25_code = "74000130+037B+32020C2E+0003"
+cheat25_desc = "Press Down+Select At The Status Screen To Enable All Abilities For Selection"
+cheat25_code = "74000130+037B+4202625E+0201+0202000F+0002+3202627C+001F"
 cheat25_enable = false
 
-cheat26_desc = "Press Down+Select At The Status Screen To Enable All Abilities For Selection"
-cheat26_code = "74000130+037B+4202625E+0201+0202000F+0002+3202627C+001F"
+cheat26_desc = "Press L+A At Main Menu To Enter Party Select Menu"
+cheat26_code = "74000130+01FE+32020C34+000D"
 cheat26_enable = false
 
-cheat27_desc = "Press L+A At Main Menu To Enter Party Select Menu"
-cheat27_code = "74000130+01FE+32020C34+000D"
+cheat27_desc = "Press L+Select+Up To Instantly Win Battle"
+cheat27_code = "74000130+01BB+32003A77+0000"
 cheat27_enable = false
 
-cheat28_desc = "Press L+Up To Instantly Win Battle"
-cheat28_code = "74000130+01BB+32003A77+0000"
+cheat28_desc = "Press Up+Select While In Battle At The Coliseum To Take Control of Your Character"
+cheat28_code = "74000130+03BB+32007B95+0004+74000130+03BB+32003A97+0000"
 cheat28_enable = false
 
-cheat29_desc = "Press Up+Select While In Battle At The Coliseum To Take Control of Your Character"
-cheat29_code = "74000130+03BB+32007B95+0004+74000130+03BB+32003A97+0000"
+cheat29_desc = "Relic Slot 1 Modifier"
+cheat29_code = "32001623+0000"
 cheat29_enable = false
 
-cheat30_desc = "Relic Slot 1 Modifier"
-cheat30_code = "32001623+0000"
+cheat30_desc = "Relic Slot 2 Modifier"
+cheat30_code = "32001624+0000"
 cheat30_enable = false
 
-cheat31_desc = "Relic Slot 2 Modifier"
-cheat31_code = "32001624+0000"
+cheat31_desc = "Right Hand Item Modifier"
+cheat31_code = "3200161F+0000"
 cheat31_enable = false
 
-cheat32_desc = "Right Hand Item Modifier"
-cheat32_code = "3200161F+0000"
+cheat32_desc = "Room Modifier"
+cheat32_code = "32001F64+0000"
 cheat32_enable = false
 
-cheat33_desc = "Room Modifier"
-cheat33_code = "32001F64+0000"
+cheat33_desc = "Save Anywhere"
+cheat33_code = "32001EB7+0080"
 cheat33_enable = false
 
-cheat34_desc = "Save Anywhere"
-cheat34_code = "32001EB7+0080"
+cheat34_desc = "Saved Game Has Been Beaten"
+cheat34_code = "3203900A+0001"
 cheat34_enable = false
 
-cheat35_desc = "Saved Game Has Been Beaten"
-cheat35_code = "3203900A+0001"
+cheat35_desc = "Second Stat"
+cheat35_code = "3200161B+00FF"
 cheat35_enable = false
 
-cheat36_desc = "Second Stat"
-cheat36_code = "3200161B+00FF"
+cheat36_desc = "Shop Modifier"
+cheat36_code = "32000201+0000"
 cheat36_enable = false
 
-cheat37_desc = "Shop Modifier"
-cheat37_code = "32000201+0000"
+cheat37_desc = "Third Stat"
+cheat37_code = "3200161C+00FF"
 cheat37_enable = false
-
-cheat38_desc = "Third Stat"
-cheat38_code = "3200161C+00FF"
-cheat38_enable = false
