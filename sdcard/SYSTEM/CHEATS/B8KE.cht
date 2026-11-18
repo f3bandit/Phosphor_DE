@@ -1,4 +1,4 @@
-cheats = 15
+cheats = 14
 
 cheat0_desc = "All Collectibles After Saving"
 cheat0_code = "42038970+FFFF+00000009+0002"
@@ -52,10 +52,6 @@ cheat12_desc = "Invincible"
 cheat12_code = "32020F3C+0006"
 cheat12_enable = false
 
-cheat13_desc = "Kirby State Modifier"
-cheat13_code = "32020FE3+0000"
+cheat13_desc = "Open All Connections"
+cheat13_code = "42028C10+0001+00000013+0004"
 cheat13_enable = false
-
-cheat14_desc = "Open All Connections"
-cheat14_code = "42028C10+0001+00000013+0004"
-cheat14_enable = false

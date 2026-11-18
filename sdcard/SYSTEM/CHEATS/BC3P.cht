@@ -32,7 +32,6 @@ cheat7_desc = "Infinite Lives"
 cheat7_code = "33001ABC+0009"
 cheat7_enable = false
 
-cheat8_desc = "Skip Level 
-[Press Select+Up]"
+cheat8_desc = "Skip Level [Press Select+Up]"
 cheat8_code = "74000130+03BB+33000110+0006"
 cheat8_enable = false

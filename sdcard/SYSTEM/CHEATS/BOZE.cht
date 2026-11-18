@@ -20,7 +20,6 @@ cheat4_desc = "Multi Jump"
 cheat4_code = "33005EAC+0001"
 cheat4_enable = false
 
-cheat5_desc = "Skip To Final Episode 
-[Press L+R+Up]"
+cheat5_desc = "Skip To Final Episode [Press L+R+Up]"
 cheat5_code = "74000130+00BF+820001B0+0007+74000130+00BF+320001B7+0001"
 cheat5_enable = false

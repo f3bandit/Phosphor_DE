@@ -1,4 +1,4 @@
-cheats = 26
+cheats = 25
 
 cheat0_desc = "All Club Slot Courses Complete"
 cheat0_code = "320001D0+00F0"
@@ -84,22 +84,18 @@ cheat20_desc = "No Wind"
 cheat20_code = "32000294+0000"
 cheat20_enable = false
 
-cheat21_desc = "Play Main Menu Music Modifier"
-cheat21_code = "720083A0+2003+820083A0+2001"
+cheat21_desc = "Press L+R+Down To Deplete Stat Points"
+cheat21_code = "74000130+007F+330019F6+0000"
 cheat21_enable = false
 
-cheat22_desc = "Press L+R+Down To Deplete Stat Points"
-cheat22_code = "74000130+007F+330019F6+0000"
+cheat22_desc = "Press L+R+Up To Refill Stat Points"
+cheat22_code = "74000130+00BF+330019F6+0063"
 cheat22_enable = false
 
-cheat23_desc = "Press L+R+Up To Refill Stat Points"
-cheat23_code = "74000130+00BF+330019F6+0063"
+cheat23_desc = "Progress Complete"
+cheat23_code = "42000104+FFFF+00000006+0002+420001C0+FFFF+00000022+0002+42000312+FFFF+00000006+0002"
 cheat23_enable = false
 
-cheat24_desc = "Progress Complete"
-cheat24_code = "42000104+FFFF+00000006+0002+420001C0+FFFF+00000022+0002+42000312+FFFF+00000006+0002"
+cheat24_desc = "Wireless Adaptor Option In Multiplayer Menu/Club Exchange Menu (L & R)"
+cheat24_code = "720083A0+2003+74000130+00FF+330038C8+0002"
 cheat24_enable = false
-
-cheat25_desc = "Wireless Adaptor Option In Multiplayer Menu/Club Exchange Menu (L & R)"
-cheat25_code = "720083A0+2003+74000130+00FF+330038C8+0002"
-cheat25_enable = false

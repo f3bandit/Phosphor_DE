@@ -92,11 +92,11 @@ cheat22_desc = "Have 9999 Casino Coins"
 cheat22_code = "82025BC8+270F"
 cheat22_enable = false
 
-cheat23_desc = "Have 9999 Pokéblocks Created With Friends"
+cheat23_desc = "Have 9999 Pokeblocks Created With Friends"
 cheat23_code = "82026CFC+270F"
 cheat23_enable = false
 
-cheat24_desc = "Have 9999 Pokémon Trades"
+cheat24_desc = "Have 9999 Pokemon Trades"
 cheat24_code = "82026CC8+270F"
 cheat24_enable = false
 
@@ -200,55 +200,55 @@ cheat49_desc = "PokeBlocks Have No Feel"
 cheat49_code = "42025F32+0000+0000000E+0008"
 cheat49_enable = false
 
-cheat50_desc = "Pokedex Modifier Codes For Pokemon #001–#032"
+cheat50_desc = "Complete Pokedex #001-#032"
 cheat50_code = "82024ECC+FFFF+82024ECE+FFFF+82024F00+FFFF+82024F02+FFFF+8202606C+FFFF+8202606E+FFFF+820291C0+FFFF+820291C2+FFFF"
 cheat50_enable = false
 
-cheat51_desc = "Pokedex Modifier Codes For Pokemon #033–#064"
+cheat51_desc = "Complete Pokedex #033-#064"
 cheat51_code = "82024ED0+FFFF+82024ED2+FFFE+82024F04+FFFF+82024F06+FFFE+82026070+FFFF+82026072+FFFE+820291C4+FFFF+820291C6+FFFE"
 cheat51_enable = false
 
-cheat52_desc = "Pokedex Modifier Codes For Pokemon #065–#096"
+cheat52_desc = "Complete Pokedex #065-#096"
 cheat52_code = "82024ED4+FFFF+82024ED6+FFFF+82024F08+FFFF+82024F0A+FFFF+82026074+FFFF+82026076+FFFF+820291C8+FFFF+820291CA+FFFF"
 cheat52_enable = false
 
-cheat53_desc = "Pokedex Modifier Codes For Pokemon #097–#128"
+cheat53_desc = "Complete Pokedex #097-#128"
 cheat53_code = "82024ED8+FFFF+82024EDA+FFFF+82024F0C+FFFF+82024F0E+FFFF+82026078+FFFF+8202607A+FFFF+820291CC+FFFF+820291CE+FFFF"
 cheat53_enable = false
 
-cheat54_desc = "Pokedex Modifier Codes For Pokemon #129–#160"
+cheat54_desc = "Complete Pokedex #129-#160"
 cheat54_code = "82024EDC+FFFF+82024EDE+FFFF+82024F10+FFFF+82024F12+FFFF+8202607C+FFFF+8202607E+FFFF+820291D0+FFFF+820291D2+FFFF"
 cheat54_enable = false
 
-cheat55_desc = "Pokedex Modifier Codes For Pokemon #161–#192"
+cheat55_desc = "Complete Pokedex #161-#192"
 cheat55_code = "82024EE0+FFFF+82024EE2+FFFF+82024F14+FFFF+82024F16+FFFF+82026080+FFFF+82026082+FFFF+820291D4+FFFF+820291D6+FFFF"
 cheat55_enable = false
 
-cheat56_desc = "Pokedex Modifier Codes For Pokemon #193–#224"
+cheat56_desc = "Complete Pokedex #193-#224"
 cheat56_code = "82024EE4+FFFF+82024EE6+FFFF+82024F18+FFFF+82024F1A+FFFF+82026084+FFFF+82026086+FFFF+820291D8+FFFF+820291DA+FFFF"
 cheat56_enable = false
 
-cheat57_desc = "Pokedex Modifier Codes For Pokemon #225–#256"
+cheat57_desc = "Complete Pokedex #225-#256"
 cheat57_code = "82024EE8+FFFF+82024EEA+FFFF+82024F1C+FFFF+82024F1E+FFFF+82026088+FFFF+8202608A+FFFF+820291DC+FFFF+820291DE+FFFF"
 cheat57_enable = false
 
-cheat58_desc = "Pokedex Modifier Codes For Pokemon #257–#288"
+cheat58_desc = "Complete Pokedex #257-#288"
 cheat58_code = "82024EEC+FFFF+82024EEE+FFFF+82024F20+FFFF+82024F22+FFFF+8202608C+FFFF+8202608E+FFFF+820291E0+FFFF+820291E2+FFFF"
 cheat58_enable = false
 
-cheat59_desc = "Pokedex Modifier Codes For Pokemon #289–#320"
+cheat59_desc = "Complete Pokedex #289-#320"
 cheat59_code = "82024EF0+FFFF+82024EF2+FFFF+82024F24+FFFF+82024F26+FFFF+82026090+FFFF+82026092+FFFF+820291E4+FFFF+820291E6+FFFF"
 cheat59_enable = false
 
-cheat60_desc = "Pokedex Modifier Codes For Pokemon #321–#352"
+cheat60_desc = "Complete Pokedex #321-#352"
 cheat60_code = "82024EF4+FFFF+82024EF6+FFFF+82024F28+FFFF+82024F2A+FFFF+82026094+FFFF+82026096+FFFF+820291E8+FFFF+820291EA+FFFF"
 cheat60_enable = false
 
-cheat61_desc = "Pokedex Modifier Codes For Pokemon #353–#384"
+cheat61_desc = "Complete Pokedex #353-#384"
 cheat61_code = "82024EF8+FFFF+82024EFA+FFFF+82024F2C+FFFF+82024F2E+FFFF+82026098+FFFF+8202609A+FFFF+820291EC+FFFF+820291EE+FFFF"
 cheat61_enable = false
 
-cheat62_desc = "Pokedex Modifier Codes For Pokemon #385–#386"
+cheat62_desc = "Complete Pokedex #385-#386"
 cheat62_code = "82024EFC+0003+82024EFE+0000+82024F30+0003+82024F32+0000+8202609C+0003+8202609E+0000+820291F0+0003+820291F2+0000"
 cheat62_enable = false
 
@@ -328,7 +328,7 @@ cheat81_desc = "Replace The Secret Base Chair 1 With Small Chair"
 cheat81_code = "32027DDE+000A"
 cheat81_enable = false
 
-cheat82_desc = "Replace The Secret Base Chair 2 With Pokémon Chair"
+cheat82_desc = "Replace The Secret Base Chair 2 With Pokemon Chair"
 cheat82_code = "32027DDF+000B"
 cheat82_enable = false
 
@@ -404,7 +404,7 @@ cheat100_desc = "Replace The Secret Base Desk 1 With Small Desk"
 cheat100_code = "32027DD4+0001"
 cheat100_enable = false
 
-cheat101_desc = "Replace The Secret Base Desk 2 With Pokémon Desk"
+cheat101_desc = "Replace The Secret Base Desk 2 With Pokemon Desk"
 cheat101_code = "32027DD5+0002"
 cheat101_enable = false
 

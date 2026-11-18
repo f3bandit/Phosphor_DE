@@ -1,389 +1,381 @@
-cheats = 97
+cheats = 95
 
 cheat0_desc = "Access Four Swords Dungeon"
 cheat0_code = "830031D8+0008"
 cheat0_enable = false
 
-cheat1_desc = "Actor Modifier"
-cheat1_code = "33003222+006B"
+cheat1_desc = "After Ganon's Tower"
+cheat1_code = "820023EA+0000"
 cheat1_enable = false
 
-cheat2_desc = "After Ganon's Tower"
-cheat2_code = "820023EA+0000"
+cheat2_desc = "Another Access to 4 Swords Dungeon"
+cheat2_code = "33003188+0002"
 cheat2_enable = false
 
-cheat3_desc = "Another Access to 4 Swords Dungeon"
-cheat3_code = "33003188+0002"
+cheat3_desc = "Arrows"
+cheat3_code = "32002357+0063"
 cheat3_enable = false
 
-cheat4_desc = "Arrows"
-cheat4_code = "32002357+0063"
+cheat4_desc = "Bombos"
+cheat4_code = "32002328+0001"
 cheat4_enable = false
 
-cheat5_desc = "Bombos"
-cheat5_code = "32002328+0001"
+cheat5_desc = "Bombs Don't Explode"
+cheat5_code = "33003A62+00FF+33003A63+00FF"
 cheat5_enable = false
 
-cheat6_desc = "Bombs Don't Explode"
-cheat6_code = "33003A62+00FF+33003A63+00FF"
+cheat6_desc = "Book Of Mundara"
+cheat6_code = "32002330+0001"
 cheat6_enable = false
 
-cheat7_desc = "Book Of Mundara"
-cheat7_code = "32002330+0001"
+cheat7_desc = "Boomerang!!!"
+cheat7_code = "32002321+0001"
 cheat7_enable = false
 
-cheat8_desc = "Boomerang!!!"
-cheat8_code = "32002321+0001"
+cheat8_desc = "Boots"
+cheat8_code = "32002339+0001"
 cheat8_enable = false
 
-cheat9_desc = "Boots"
-cheat9_code = "32002339+0001"
+cheat9_desc = "Bounce Off Of Walls"
+cheat9_code = "83003A34+2001"
 cheat9_enable = false
 
-cheat10_desc = "Bounce Off Of Walls"
-cheat10_code = "83003A34+2001"
+cheat10_desc = "Bug Catching Net"
+cheat10_code = "3200232F+0001"
 cheat10_enable = false
 
-cheat11_desc = "Bug Catching Net"
-cheat11_code = "3200232F+0001"
+cheat11_desc = "Cane Of Byrna"
+cheat11_code = "32002334+0001"
 cheat11_enable = false
 
-cheat12_desc = "Cane Of Byrna"
-cheat12_code = "32002334+0001"
+cheat12_desc = "Cane Of Somara"
+cheat12_code = "32002333+0001"
 cheat12_enable = false
 
-cheat13_desc = "Cane Of Somara"
-cheat13_code = "32002333+0001"
+cheat13_desc = "Cape"
+cheat13_code = "32002335+0001"
 cheat13_enable = false
 
-cheat14_desc = "Cape"
-cheat14_code = "32002335+0001"
+cheat14_desc = "Castle Dungeon"
+cheat14_code = "820023CE+0000"
 cheat14_enable = false
 
-cheat15_desc = "Castle Dungeon"
-cheat15_code = "820023CE+0000"
+cheat15_desc = "Castle of Hyrule"
+cheat15_code = "820023D0+0000"
 cheat15_enable = false
 
-cheat16_desc = "Castle of Hyrule"
-cheat16_code = "820023D0+0000"
+cheat16_desc = "Clothes Blue!!!"
+cheat16_code = "3200233F+0001"
 cheat16_enable = false
 
-cheat17_desc = "Clothes Blue!!!"
-cheat17_code = "3200233F+0001"
+cheat17_desc = "Clothes Red!!!"
+cheat17_code = "3200233F+0002"
 cheat17_enable = false
 
-cheat18_desc = "Clothes Red!!!"
-cheat18_code = "3200233F+0002"
+cheat18_desc = "Crystal"
+cheat18_code = "3200233B+0001"
 cheat18_enable = false
 
-cheat19_desc = "Crystal"
-cheat19_code = "3200233B+0001"
+cheat19_desc = "Desert Palace"
+cheat19_code = "820023D4+0000"
 cheat19_enable = false
 
-cheat20_desc = "Desert Palace"
-cheat20_code = "820023D4+0000"
+cheat20_desc = "Disable Background Music"
+cheat20_code = "83002C6C+FFF1+83002C72+FFF1+83002C76+FFF1"
 cheat20_enable = false
 
-cheat21_desc = "Disable Background Music"
-cheat21_code = "83002C6C+FFF1+83002C72+FFF1+83002C76+FFF1"
+cheat21_desc = "Disable Rain (Press R+B)"
+cheat21_code = "74000130+02FD+3300388E+1002"
 cheat21_enable = false
 
-cheat22_desc = "Disable Rain (Press R+B)"
-cheat22_code = "74000130+02FD+3300388E+1002"
+cheat22_desc = "East Palace"
+cheat22_code = "820023D2+0000"
 cheat22_enable = false
 
-cheat23_desc = "East Palace"
-cheat23_code = "820023D2+0000"
+cheat23_desc = "Enable Light-World Mirror Warp(R+B, Warp)"
+cheat23_code = "74000130+02FD+63002BF6+0040"
 cheat23_enable = false
 
-cheat24_desc = "Enable Light-World Mirror Warp(R+B, Warp)"
-cheat24_code = "74000130+02FD+63002BF6+0040"
+cheat24_desc = "Enable Rain (Press R+B+A)"
+cheat24_code = "74000130+02FC+3300388E+1001"
 cheat24_enable = false
 
-cheat25_desc = "Enable Rain (Press R+B+A)"
-cheat25_code = "74000130+02FC+3300388E+1001"
+cheat25_desc = "Enemies And NPCs Float In The Air (Select)"
+cheat25_code = "74000130+03FB+83003372+1F1F+74000130+03FB+83003374+1F1F+74000130+03FB+83003374+1F1F+74000130+03FB+83003376+1F1F+74000130+03FB+83003378+1F1F+74000130+03FB+8300337C+1F1F+74000130+03FB+8300337E+1F1F+74000130+03FB+8300337E+1F1F"
 cheat25_enable = false
 
-cheat26_desc = "Enemies And NPCs Float In The Air (Select)"
-cheat26_code = "74000130+03FB+83003372+1F1F+74000130+03FB+83003374+1F1F+74000130+03FB+83003374+1F1F+74000130+03FB+83003376+1F1F+74000130+03FB+83003378+1F1F+74000130+03FB+8300337C+1F1F+74000130+03FB+8300337E+1F1F+74000130+03FB+8300337E+1F1F"
+cheat26_desc = "Enemies And NPCs On The Ground (Start+B+A)"
+cheat26_code = "74000130+03F4+83003372+0000+74000130+03F4+83003374+0000+74000130+03F4+83003374+0000+74000130+03F4+83003376+0000+74000130+03F4+83003378+0000+74000130+03F4+8300337C+0000+74000130+03F4+8300337E+0000+74000130+03F4+8300337E+0000"
 cheat26_enable = false
 
-cheat27_desc = "Enemies And NPCs On The Ground (Start+B+A)"
-cheat27_code = "74000130+03F4+83003372+0000+74000130+03F4+83003374+0000+74000130+03F4+83003374+0000+74000130+03F4+83003376+0000+74000130+03F4+83003378+0000+74000130+03F4+8300337C+0000+74000130+03F4+8300337E+0000+74000130+03F4+8300337E+0000"
+cheat27_desc = "Ether"
+cheat27_code = "32002329+0001"
 cheat27_enable = false
 
-cheat28_desc = "Ether"
-cheat28_code = "32002329+0001"
+cheat28_desc = "Fire Rod"
+cheat28_code = "32002326+0001"
 cheat28_enable = false
 
-cheat29_desc = "Fire Rod"
-cheat29_code = "32002326+0001"
+cheat29_desc = "Flute"
+cheat29_code = "3200232E+0002"
 cheat29_enable = false
 
-cheat30_desc = "Flute"
-cheat30_code = "3200232E+0002"
+cheat30_desc = "Full H.p."
+cheat30_code = "3200234D+009D"
 cheat30_enable = false
 
-cheat31_desc = "Follow Modifier"
-cheat31_code = "33003893+0000"
+cheat31_desc = "Full Heart Containers"
+cheat31_code = "3200234C+009D"
 cheat31_enable = false
 
-cheat32_desc = "Full H.p."
-cheat32_code = "3200234D+009D"
+cheat32_desc = "Have 1/2 Magic"
+cheat32_code = "3200235B+0001"
 cheat32_enable = false
 
-cheat33_desc = "Full Heart Containers"
-cheat33_code = "3200234C+009D"
+cheat33_desc = "Have 999 Ruppees (Shorter Code)"
+cheat33_code = "32002340+00E7+32002341+00E7+32002342+00E7+32002343+00E7"
 cheat33_enable = false
 
-cheat34_desc = "Have 1/2 Magic"
-cheat34_code = "3200235B+0001"
+cheat34_desc = "Have 999 Ruppees /1"
+cheat34_code = "32002340+00E7"
 cheat34_enable = false
 
-cheat35_desc = "Have 999 Ruppees (Shorter Code)"
-cheat35_code = "32002340+00E7+32002341+00E7+32002342+00E7+32002343+00E7"
+cheat35_desc = "Have 999 Ruppees /2"
+cheat35_code = "32002341+0003"
 cheat35_enable = false
 
-cheat36_desc = "Have 999 Ruppees /1"
-cheat36_code = "32002340+00E7"
+cheat36_desc = "Have All Crystals"
+cheat36_code = "3200235A+00FF"
 cheat36_enable = false
 
-cheat37_desc = "Have 999 Ruppees /2"
-cheat37_code = "32002341+0003"
+cheat37_desc = "Have All Medals"
+cheat37_code = "32002354+0007"
 cheat37_enable = false
 
-cheat38_desc = "Have All Crystals"
-cheat38_code = "3200235A+00FF"
+cheat38_desc = "Have All Sword Pieces"
+cheat38_code = "330038E3+000F"
 cheat38_enable = false
 
-cheat39_desc = "Have All Medals"
-cheat39_code = "32002354+0007"
+cheat39_desc = "Have Bow"
+cheat39_code = "32002320+0001"
 cheat39_enable = false
 
-cheat40_desc = "Have All Sword Pieces"
-cheat40_code = "330038E3+000F"
+cheat40_desc = "Have Compass In All Dungeons"
+cheat40_code = "82002344+37FF"
 cheat40_enable = false
 
-cheat41_desc = "Have Bow"
-cheat41_code = "32002320+0001"
+cheat41_desc = "Have Keys (9)"
+cheat41_code = "3200234F+0009"
 cheat41_enable = false
 
-cheat42_desc = "Have Compass In All Dungeons"
-cheat42_code = "82002344+37FF"
+cheat42_desc = "Have Magic Powder"
+cheat42_code = "32002324+0002"
 cheat42_enable = false
 
-cheat43_desc = "Have Keys (9)"
-cheat43_code = "3200234F+0009"
+cheat43_desc = "Have Map"
+cheat43_code = "32002336+0001"
 cheat43_enable = false
 
-cheat44_desc = "Have Magic Powder"
-cheat44_code = "32002324+0002"
+cheat44_desc = "Have Map In All Dungeons"
+cheat44_code = "82002348+77FF"
 cheat44_enable = false
 
-cheat45_desc = "Have Map"
-cheat45_code = "32002336+0001"
+cheat45_desc = "Have Master Key In All Dungeons"
+cheat45_code = "82002346+77FF"
 cheat45_enable = false
 
-cheat46_desc = "Have Map In All Dungeons"
-cheat46_code = "82002348+77FF"
+cheat46_desc = "Have Mushroom (Red)"
+cheat46_code = "32002324+0001"
 cheat46_enable = false
 
-cheat47_desc = "Have Master Key In All Dungeons"
-cheat47_code = "82002346+77FF"
+cheat47_desc = "Have No Deaths"
+cheat47_code = "420023CE+0000+00000010+0002"
 cheat47_enable = false
 
-cheat48_desc = "Have Mushroom (Red)"
-cheat48_code = "32002324+0001"
+cheat48_desc = "Have Power Glove"
+cheat48_code = "32002338+0001"
 cheat48_enable = false
 
-cheat49_desc = "Have No Deaths"
-cheat49_code = "420023CE+0000+00000010+0002"
+cheat49_desc = "Have Power Glove X2"
+cheat49_code = "32002338+0002"
 cheat49_enable = false
 
-cheat50_desc = "Have Power Glove"
-cheat50_code = "32002338+0001"
+cheat50_desc = "Have Quake"
+cheat50_code = "3200232A+0001"
 cheat50_enable = false
 
-cheat51_desc = "Have Power Glove X2"
-cheat51_code = "32002338+0002"
+cheat51_desc = "Have Red Bommerang"
+cheat51_code = "32002321+0002"
 cheat51_enable = false
 
-cheat52_desc = "Have Quake"
-cheat52_code = "3200232A+0001"
+cheat52_desc = "Hookshot"
+cheat52_code = "32002322+0001"
 cheat52_enable = false
 
-cheat53_desc = "Have Red Bommerang"
-cheat53_code = "32002321+0002"
+cheat53_desc = "Ice Rod"
+cheat53_code = "32002327+0001"
 cheat53_enable = false
 
-cheat54_desc = "Hookshot"
-cheat54_code = "32002322+0001"
+cheat54_desc = "Infinite Lamp Light"
+cheat54_code = "33003B6C+00C0+33003B6E+00C0+33003B70+00C0+33003B72+00C2"
 cheat54_enable = false
 
-cheat55_desc = "Ice Rod"
-cheat55_code = "32002327+0001"
+cheat55_desc = "Instant Sword Spin"
+cheat55_code = "33003969+AA40"
 cheat55_enable = false
 
-cheat56_desc = "Infinite Lamp Light"
-cheat56_code = "33003B6C+00C0+33003B6E+00C0+33003B70+00C0+33003B72+00C2"
+cheat56_desc = "Lamp"
+cheat56_code = "3200232C+0001"
 cheat56_enable = false
 
-cheat57_desc = "Instant Sword Spin"
-cheat57_code = "33003969+AA40"
+cheat57_desc = "Level 1- Dark Palace"
+cheat57_code = "820023DA+0000"
 cheat57_enable = false
 
-cheat58_desc = "Lamp"
-cheat58_code = "3200232C+0001"
+cheat58_desc = "Level 2- Swamp Palace"
+cheat58_code = "820023D8+0000"
 cheat58_enable = false
 
-cheat59_desc = "Level 1- Dark Palace"
-cheat59_code = "820023DA+0000"
+cheat59_desc = "Level 3- Skull Woods"
+cheat59_code = "820023DE+0000"
 cheat59_enable = false
 
-cheat60_desc = "Level 2- Swamp Palace"
-cheat60_code = "820023D8+0000"
+cheat60_desc = "Level 4- Thieves' Town"
+cheat60_code = "820023E4+0000"
 cheat60_enable = false
 
-cheat61_desc = "Level 3- Skull Woods"
-cheat61_code = "820023DE+0000"
+cheat61_desc = "Level 5- Ice Palace"
+cheat61_code = "820023E0+0000"
 cheat61_enable = false
 
-cheat62_desc = "Level 4- Thieves' Town"
-cheat62_code = "820023E4+0000"
+cheat62_desc = "Level 6- Misery Mire"
+cheat62_code = "820023DC+0000"
 cheat62_enable = false
 
-cheat63_desc = "Level 5- Ice Palace"
-cheat63_code = "820023E0+0000"
+cheat63_desc = "Level 7- Turtle Rock"
+cheat63_code = "820023E6+0000"
 cheat63_enable = false
 
-cheat64_desc = "Level 6- Misery Mire"
-cheat64_code = "820023DC+0000"
+cheat64_desc = "Level 8- Ganon's Tower"
+cheat64_code = "820023E8+0000"
 cheat64_enable = false
 
-cheat65_desc = "Level 7- Turtle Rock"
-cheat65_code = "820023E6+0000"
+cheat65_desc = "Magic Hammer"
+cheat65_code = "3200232D+0001"
 cheat65_enable = false
 
-cheat66_desc = "Level 8- Ganon's Tower"
-cheat66_code = "820023E8+0000"
+cheat66_desc = "Magic Mirror"
+cheat66_code = "32002336+0002"
 cheat66_enable = false
 
-cheat67_desc = "Magic Hammer"
-cheat67_code = "3200232D+0001"
+cheat67_desc = "Max Health"
+cheat67_code = "3200234C+00A0"
 cheat67_enable = false
 
-cheat68_desc = "Magic Mirror"
-cheat68_code = "32002336+0002"
+cheat68_desc = "Max Infinite Health"
+cheat68_code = "8200234C+A0A0"
 cheat68_enable = false
 
-cheat69_desc = "Max Health"
-cheat69_code = "3200234C+00A0"
+cheat69_desc = "Max Rupees"
+cheat69_code = "82002340+03E7"
 cheat69_enable = false
 
-cheat70_desc = "Max Infinite Health"
-cheat70_code = "8200234C+A0A0"
+cheat70_desc = "Mountain Tower"
+cheat70_code = "820023E2+0000"
 cheat70_enable = false
 
-cheat71_desc = "Max Rupees"
-cheat71_code = "82002340+03E7"
+cheat71_desc = "Play Third Lumberjack's Riddle Mini-Game"
+cheat71_code = "33000008+0084"
 cheat71_enable = false
 
-cheat72_desc = "Mountain Tower"
-cheat72_code = "820023E2+0000"
+cheat72_desc = "Press L+R+Down For Dig Mode Off"
+cheat72_code = "74000130+007F+33003AC4+0000"
 cheat72_enable = false
 
-cheat73_desc = "Play Third Lumberjack's Riddle Mini-Game"
-cheat73_code = "33000008+0084"
+cheat73_desc = "Press L+R+Up For Dig Mode On"
+cheat73_code = "74000130+00BF+33003AC4+0001"
 cheat73_enable = false
 
-cheat74_desc = "Press L+R+Down For Dig Mode Off"
-cheat74_code = "74000130+007F+33003AC4+0000"
+cheat74_desc = "Press Select+Down For Walk Thru Walls Off"
+cheat74_code = "74000130+037B+83002C40+0000"
 cheat74_enable = false
 
-cheat75_desc = "Press L+R+Up For Dig Mode On"
-cheat75_code = "74000130+00BF+33003AC4+0001"
+cheat75_desc = "Press Select+Up For Walk Thru Walls On"
+cheat75_code = "74000130+03BB+83002C40+0002"
 cheat75_enable = false
 
-cheat76_desc = "Press Select+Down For Walk Thru Walls Off"
-cheat76_code = "74000130+037B+83002C40+0000"
+cheat76_desc = "R+B+A Disable Rabbit Mode"
+cheat76_code = "74000130+02FC+3300399C+0000"
 cheat76_enable = false
 
-cheat77_desc = "Press Select+Up For Walk Thru Walls On"
-cheat77_code = "74000130+03BB+83002C40+0002"
+cheat77_desc = "R+Right+B for Rabbit Mode"
+cheat77_code = "74000130+02ED+3300399C+0010"
 cheat77_enable = false
 
-cheat78_desc = "R+B+A Disable Rabbit Mode"
-cheat78_code = "74000130+02FC+3300399C+0000"
+cheat78_desc = "Replace All House And Dungeon Tilesets With Ice Palace Tileset"
+cheat78_code = "33002EDE+0004"
 cheat78_enable = false
 
-cheat79_desc = "R+Right+B for Rabbit Mode"
-cheat79_code = "74000130+02ED+3300399C+0010"
+cheat79_desc = "Run Faster"
+cheat79_code = "33003949+00FF"
 cheat79_enable = false
 
-cheat80_desc = "Replace All House And Dungeon Tilesets With Ice Palace Tileset"
-cheat80_code = "33002EDE+0004"
+cheat80_desc = "Select+ Up Enable Moon Walk"
+cheat80_code = "74000130+03BB+33003949+001E"
 cheat80_enable = false
 
-cheat81_desc = "Run Faster"
-cheat81_code = "33003949+00FF"
+cheat81_desc = "Select+Down Disable Moon Walk"
+cheat81_code = "74000130+037B+33003949+0000"
 cheat81_enable = false
 
-cheat82_desc = "Select+ Up Enable Moon Walk"
-cheat82_code = "74000130+03BB+33003949+001E"
+cheat82_desc = "Shovel"
+cheat82_code = "32002332+0001"
 cheat82_enable = false
 
-cheat83_desc = "Select+Down Disable Moon Walk"
-cheat83_code = "74000130+037B+33003949+0000"
+cheat83_desc = "Skip New File Intro"
+cheat83_code = "32002434+0015"
 cheat83_enable = false
 
-cheat84_desc = "Shovel"
-cheat84_code = "32002332+0001"
+cheat84_desc = "Target Game - Infinite Arrows"
+cheat84_code = "33002FE5+0005"
 cheat84_enable = false
 
-cheat85_desc = "Skip New File Intro"
-cheat85_code = "32002434+0015"
+cheat85_desc = "Total Deaths"
+cheat85_code = "820023EC+0000"
 cheat85_enable = false
 
-cheat86_desc = "Target Game - Infinite Arrows"
-cheat86_code = "33002FE5+0005"
+cheat86_desc = "Turn Everyone Into Likelikes"
+cheat86_code = "83003222+F8F8+83003224+F8F8+83003226+F8F8+83003228+F8F8+8300322A+F8F8+8300322A+F8F8+8300322C+F8F8+8300322E+F8F8+83003230+F8F8+83003232+F8F8"
 cheat86_enable = false
 
-cheat87_desc = "Total Deaths"
-cheat87_code = "820023EC+0000"
+cheat87_desc = "Unlock Every Door In The Game"
+cheat87_code = "8807E466+20FF+8808355E+28FF+8808365C+2880"
 cheat87_enable = false
 
-cheat88_desc = "Turn Everyone Into Likelikes"
-cheat88_code = "83003222+F8F8+83003224+F8F8+83003226+F8F8+83003228+F8F8+8300322A+F8F8+8300322A+F8F8+8300322C+F8F8+8300322E+F8F8+83003230+F8F8+83003232+F8F8"
+cheat88_desc = "Unlock The Hurricane Spin Technique"
+cheat88_code = "320023F0+0001"
 cheat88_enable = false
 
-cheat89_desc = "Unlock Every Door In The Game"
-cheat89_code = "8807E466+20FF+8808355E+28FF+8808365C+2880"
+cheat89_desc = "Walk Thru Walls (hold start and the direction you want to go to)"
+cheat89_code = "74000130+03B7+E30038F0+FFFF+74000130+0377+E30038F0+0001+74000130+03D7+E30038F4+FFFF+74000130+03E7+E30038F4+0001"
 cheat89_enable = false
 
-cheat90_desc = "Unlock The Hurricane Spin Technique"
-cheat90_code = "320023F0+0001"
+cheat90_desc = "Zora Flippers"
+cheat90_code = "3200233A+0001"
 cheat90_enable = false
 
-cheat91_desc = "Walk Thru Walls (hold start and the direction you want to go to)"
-cheat91_code = "74000130+03B7+E30038F0+FFFF+74000130+0377+E30038F0+0001+74000130+03D7+E30038F4+FFFF+74000130+03E7+E30038F4+0001"
+cheat91_desc = "Infinite Health"
+cheat91_code = "3200234D+00A0"
 cheat91_enable = false
 
-cheat92_desc = "Zora Flippers"
-cheat92_code = "3200233A+0001"
+cheat92_desc = "Infinite Magic"
+cheat92_code = "3200234E+007F"
 cheat92_enable = false
 
-cheat93_desc = "Infinite Health"
-cheat93_code = "3200234D+00A0"
+cheat93_desc = "Infinite Bombs"
+cheat93_code = "32002323+0063"
 cheat93_enable = false
 
-cheat94_desc = "Infinite Magic"
-cheat94_code = "3200234E+007F"
+cheat94_desc = "Invincible"
+cheat94_code = "330039DA+0001"
 cheat94_enable = false
-
-cheat95_desc = "Infinite Bombs"
-cheat95_code = "32002323+0063"
-cheat95_enable = false
-
-cheat96_desc = "Invincible"
-cheat96_code = "330039DA+0001"
-cheat96_enable = false

@@ -1,4 +1,4 @@
-cheats = 9
+cheats = 8
 
 cheat0_desc = "1HitKill"
 cheat0_code = "880096A6+1A00+88009628+1A00"
@@ -20,18 +20,14 @@ cheat4_desc = "Invincible"
 cheat4_code = "82000428+FFFF"
 cheat4_enable = false
 
-cheat5_desc = "Moon Jump"
-cheat5_code = "D0000020+0001"
+cheat5_desc = "Unlock all Movies"
+cheat5_code = "32000B00+00FF"
 cheat5_enable = false
 
-cheat6_desc = "Unlock all Movies"
-cheat6_code = "32000B00+00FF"
+cheat6_desc = "Unlock all Pictures"
+cheat6_code = "32000B0C+00FF"
 cheat6_enable = false
 
-cheat7_desc = "Unlock all Pictures"
-cheat7_code = "32000B0C+00FF"
+cheat7_desc = "Untochable"
+cheat7_code = "880099AA+6292+880099AC+E01B+8800A1D2+E009"
 cheat7_enable = false
-
-cheat8_desc = "Untochable"
-cheat8_code = "880099AA+6292+880099AC+E01B+8800A1D2+E009"
-cheat8_enable = false

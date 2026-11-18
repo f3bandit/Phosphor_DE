@@ -1,4 +1,4 @@
-cheats = 219
+cheats = 215
 
 cheat0_desc = "0F Pumpkin Bracelet"
 cheat0_code = "320022BE+0063"
@@ -352,526 +352,510 @@ cheat87_desc = "Heatsink"
 cheat87_code = "3200227C+0063"
 cheat87_enable = false
 
-cheat88_desc = "In Battle Character Modifier"
-cheat88_code = "730020A0+2800+830006D6+0000"
+cheat88_desc = "Indigo Magatama"
+cheat88_code = "32002279+0063"
 cheat88_enable = false
 
-cheat89_desc = "Indigo Magatama"
-cheat89_code = "32002279+0063"
+cheat89_desc = "Inf HP"
+cheat89_code = "8200201E+270F"
 cheat89_enable = false
 
-cheat90_desc = "Inf HP"
-cheat90_code = "8200201E+270F"
+cheat90_desc = "Infinite DP"
+cheat90_code = "73000710+000F+4300073A+03E8+00000006+0002"
 cheat90_enable = false
 
-cheat91_desc = "Infinite DP"
-cheat91_code = "73000710+000F+4300073A+03E8+00000006+0002"
+cheat91_desc = "Infinite Level Up Points [Hold Select+Fwr]"
+cheat91_code = "74000130+03EB+33001477+0009"
 cheat91_enable = false
 
-cheat92_desc = "Infinite Level Up Points [Hold Select+Fwr]"
-cheat92_code = "74000130+03EB+33001477+0009"
+cheat92_desc = "Infinite Magic"
+cheat92_code = "73000710+000F+43000722+0909+00000002+0002+73000710+000F+33000726+0009"
 cheat92_enable = false
 
-cheat93_desc = "Infinite Magic"
-cheat93_code = "73000710+000F+43000722+0909+00000002+0002+73000710+000F+33000726+0009"
+cheat93_desc = "Infinite Weapon Durability"
+cheat93_code = "730006DC+0004+4300073A+07D0+00000006+0002+730006DC+0004+83000746+0000+730006DC+0004+83000748+07D0+730006DC+0004+4300074C+07D0+00000006+0002"
 cheat93_enable = false
 
-cheat94_desc = "Infinite Weapon Durability"
-cheat94_code = "730006DC+0004+4300073A+07D0+00000006+0002+730006DC+0004+83000746+0000+730006DC+0004+83000748+07D0+730006DC+0004+4300074C+07D0+00000006+0002"
+cheat94_desc = "Infinite Weapon Durability [CPU Too]"
+cheat94_code = "88025A66+46C0"
 cheat94_enable = false
 
-cheat95_desc = "Infinite Weapon Durability [CPU Too]"
-cheat95_code = "88025A66+46C0"
+cheat95_desc = "Infinite Weapons/Have All Weapons"
+cheat95_code = "320021A1+0009+420021A2+0909+0000005A+0002+32002256+0009"
 cheat95_enable = false
 
-cheat96_desc = "Infinite Weapons/Have All Weapons"
-cheat96_code = "320021A1+0009+420021A2+0909+0000005A+0002+32002256+0009"
+cheat96_desc = "Invincible [After Take The First Hit]"
+cheat96_code = "730006DC+0004+33000775+0002+730006DC+0004+330006D7+0002"
 cheat96_enable = false
 
-cheat97_desc = "Invincible [After Take The First Hit]"
-cheat97_code = "730006DC+0004+33000775+0002+730006DC+0004+330006D7+0002"
+cheat97_desc = "Iron Bracelet"
+cheat97_code = "320022B6+0063"
 cheat97_enable = false
 
-cheat98_desc = "Iron Bracelet"
-cheat98_code = "320022B6+0063"
+cheat98_desc = "Iron Necklace"
+cheat98_code = "320022D3+0063"
 cheat98_enable = false
 
-cheat99_desc = "Iron Necklace"
-cheat99_code = "320022D3+0063"
+cheat99_desc = "Iron Ore"
+cheat99_code = "3200228E+0063"
 cheat99_enable = false
 
-cheat100_desc = "Iron Ore"
-cheat100_code = "3200228E+0063"
+cheat100_desc = "Iron Ring"
+cheat100_code = "320022A7+0063"
 cheat100_enable = false
 
-cheat101_desc = "Iron Ring"
-cheat101_code = "320022A7+0063"
+cheat101_desc = "Jewel Bracelet"
+cheat101_code = "320022B8+0063"
 cheat101_enable = false
 
-cheat102_desc = "Jewel Bracelet"
-cheat102_code = "320022B8+0063"
+cheat102_desc = "Jewel Necklace"
+cheat102_code = "320022D5+0063"
 cheat102_enable = false
 
-cheat103_desc = "Jewel Necklace"
-cheat103_code = "320022D5+0063"
+cheat103_desc = "Jewel Ring"
+cheat103_code = "320022A9+0063"
 cheat103_enable = false
 
-cheat104_desc = "Jewel Ring"
-cheat104_code = "320022A9+0063"
+cheat104_desc = "Kicker Potion"
+cheat104_code = "3200225C+0063"
 cheat104_enable = false
 
-cheat105_desc = "Kicker Potion"
-cheat105_code = "3200225C+0063"
+cheat105_desc = "Klotzen Potion"
+cheat105_code = "3200225D+0063"
 cheat105_enable = false
 
-cheat106_desc = "Klotzen Potion"
-cheat106_code = "3200225D+0063"
+cheat106_desc = "Large Bolt"
+cheat106_code = "32002285+0063"
 cheat106_enable = false
 
-cheat107_desc = "Large Bolt"
-cheat107_code = "32002285+0063"
+cheat107_desc = "Large Fan"
+cheat107_code = "32002280+0063"
 cheat107_enable = false
 
-cheat108_desc = "Large Fan"
-cheat108_code = "32002280+0063"
+cheat108_desc = "Large FishHook"
+cheat108_code = "3200229F+0063"
 cheat108_enable = false
 
-cheat109_desc = "Large FishHook"
-cheat109_code = "3200229F+0063"
+cheat109_desc = "Large Scale"
+cheat109_code = "320022A1+0063"
 cheat109_enable = false
 
-cheat110_desc = "Large Scale"
-cheat110_code = "320022A1+0063"
+cheat110_desc = "Lava Stone"
+cheat110_code = "3200226F+0063"
 cheat110_enable = false
 
-cheat111_desc = "Lava Stone"
-cheat111_code = "3200226F+0063"
+cheat111_desc = "Leather Shoes"
+cheat111_code = "320022C4+0063"
 cheat111_enable = false
 
-cheat112_desc = "Leather Shoes"
-cheat112_code = "320022C4+0063"
+cheat112_desc = "Light Shoes"
+cheat112_code = "320022C7+0063"
 cheat112_enable = false
 
-cheat113_desc = "Level Modifier"
-cheat113_code = "32002020+0000"
+cheat113_desc = "Lightning Amulet"
+cheat113_code = "320022E0+0063"
 cheat113_enable = false
 
-cheat114_desc = "Light Shoes"
-cheat114_code = "320022C7+0063"
+cheat114_desc = "Machinawyrm Bolt"
+cheat114_code = "3200228D+0063"
 cheat114_enable = false
 
-cheat115_desc = "Lightning Amulet"
-cheat115_code = "320022E0+0063"
+cheat115_desc = "Magatama Necklet"
+cheat115_code = "320022DB+0063"
 cheat115_enable = false
 
-cheat116_desc = "Machinawyrm Bolt"
-cheat116_code = "3200228D+0063"
+cheat116_desc = "Magnetic Ore"
+cheat116_code = "3200228C+0063"
 cheat116_enable = false
 
-cheat117_desc = "Magatama Necklet"
-cheat117_code = "320022DB+0063"
+cheat117_desc = "Marine Bracelet"
+cheat117_code = "320022C3+0063"
 cheat117_enable = false
 
-cheat118_desc = "Magnetic Ore"
-cheat118_code = "3200228C+0063"
+cheat118_desc = "Martial Ore"
+cheat118_code = "3200228F+0063"
 cheat118_enable = false
 
-cheat119_desc = "Marine Bracelet"
-cheat119_code = "320022C3+0063"
+cheat119_desc = "Matchbox"
+cheat119_code = "320022A2+0063"
 cheat119_enable = false
 
-cheat120_desc = "Martial Ore"
-cheat120_code = "3200228F+0063"
+cheat120_desc = "Max AGL Equipped Weapon"
+cheat120_code = "3200203E+00FF"
 cheat120_enable = false
 
-cheat121_desc = "Matchbox"
-cheat121_code = "320022A2+0063"
+cheat121_desc = "Max AGL Weapon Slot 1"
+cheat121_code = "32002038+00FF"
 cheat121_enable = false
 
-cheat122_desc = "Max AGL Equipped Weapon"
-cheat122_code = "3200203E+00FF"
+cheat122_desc = "Max AGL Weapon Slot 2"
+cheat122_code = "3200203A+00FF"
 cheat122_enable = false
 
-cheat123_desc = "Max AGL Weapon Slot 1"
-cheat123_code = "32002038+00FF"
+cheat123_desc = "Max AGL Weapon Slot 3"
+cheat123_code = "3200203C+00FF"
 cheat123_enable = false
 
-cheat124_desc = "Max AGL Weapon Slot 2"
-cheat124_code = "3200203A+00FF"
+cheat124_desc = "Max ATK DEF AGL (All Weapons)"
+cheat124_code = "42002028+00FF+0000000C+0002"
 cheat124_enable = false
 
-cheat125_desc = "Max AGL Weapon Slot 3"
-cheat125_code = "3200203C+00FF"
+cheat125_desc = "Max ATK Equiped Weapon"
+cheat125_code = "3200202E+00FF"
 cheat125_enable = false
 
-cheat126_desc = "Max ATK DEF AGL (All Weapons)"
-cheat126_code = "42002028+00FF+0000000C+0002"
+cheat126_desc = "Max ATK Weapon Slot 1"
+cheat126_code = "32002028+00FF"
 cheat126_enable = false
 
-cheat127_desc = "Max ATK Equiped Weapon"
-cheat127_code = "3200202E+00FF"
+cheat127_desc = "Max ATK Weapon Slot 2"
+cheat127_code = "3200202A+00FF"
 cheat127_enable = false
 
-cheat128_desc = "Max ATK Weapon Slot 1"
-cheat128_code = "32002028+00FF"
+cheat128_desc = "Max ATK Weapon Slot 3"
+cheat128_code = "3200202C+00FF"
 cheat128_enable = false
 
-cheat129_desc = "Max ATK Weapon Slot 2"
-cheat129_code = "3200202A+00FF"
+cheat129_desc = "Max Bonus After Battle"
+cheat129_code = "83001438+E0FF+8300143A+5F5E"
 cheat129_enable = false
 
-cheat130_desc = "Max ATK Weapon Slot 3"
-cheat130_code = "3200202C+00FF"
+cheat130_desc = "Max DEF Equipped Weapon"
+cheat130_code = "32002036+00FF"
 cheat130_enable = false
 
-cheat131_desc = "Max Bonus After Battle"
-cheat131_code = "83001438+E0FF+8300143A+5F5E"
+cheat131_desc = "Max DEF Weapon Slot 1"
+cheat131_code = "32002030+00FF"
 cheat131_enable = false
 
-cheat132_desc = "Max DEF Equipped Weapon"
-cheat132_code = "32002036+00FF"
+cheat132_desc = "Max DEF Weapon Slot 2"
+cheat132_code = "32002032+00FF"
 cheat132_enable = false
 
-cheat133_desc = "Max DEF Weapon Slot 1"
-cheat133_code = "32002030+00FF"
+cheat133_desc = "Max DEF Weapon Slot 3"
+cheat133_code = "32002034+00FF"
 cheat133_enable = false
 
-cheat134_desc = "Max DEF Weapon Slot 2"
-cheat134_code = "32002032+00FF"
+cheat134_desc = "Max EXP"
+cheat134_code = "82002040+E0FF+82002042+05F5"
 cheat134_enable = false
 
-cheat135_desc = "Max DEF Weapon Slot 3"
-cheat135_code = "32002034+00FF"
+cheat135_desc = "Max EXP After Battle"
+cheat135_code = "730006DC+0004+83001434+423F+730006DC+0004+83001336+000F+730006DC+0004+83001338+423F+730006DC+0004+8300143A+000F"
 cheat135_enable = false
 
-cheat136_desc = "Max EXP"
-cheat136_code = "82002040+E0FF+82002042+05F5"
+cheat136_desc = "Max EXP [Summons]"
+cheat136_code = "82002120+E0FF+82002122+05F5"
 cheat136_enable = false
 
-cheat137_desc = "Max EXP After Battle"
-cheat137_code = "730006DC+0004+83001434+423F+730006DC+0004+83001336+000F+730006DC+0004+83001338+423F+730006DC+0004+8300143A+000F"
+cheat137_desc = "Max Experience After Battle"
+cheat137_code = "83001434+E0FF+83001436+5F5E"
 cheat137_enable = false
 
-cheat138_desc = "Max EXP [Summons]"
-cheat138_code = "82002120+E0FF+82002122+05F5"
+cheat138_desc = "Max Experience Points"
+cheat138_code = "82002040+E0FF+82002042+5F5E"
 cheat138_enable = false
 
-cheat139_desc = "Max Experience After Battle"
-cheat139_code = "83001434+E0FF+83001436+5F5E"
+cheat139_desc = "Max HP"
+cheat139_code = "8200201C+270F"
 cheat139_enable = false
 
-cheat140_desc = "Max Experience Points"
-cheat140_code = "82002040+E0FF+82002042+5F5E"
+cheat140_desc = "Max Magic (Guardian Beasts)"
+cheat140_code = "8200212A+03E7"
 cheat140_enable = false
 
-cheat141_desc = "Max HP"
-cheat141_code = "8200201C+270F"
+cheat141_desc = "Max Status"
+cheat141_code = "8200201C+C350+8200201E+C350+42002022+7530+0000000F+0002"
 cheat141_enable = false
 
-cheat142_desc = "Max Magic (Guardian Beasts)"
-cheat142_code = "8200212A+03E7"
+cheat142_desc = "Maximum Stats"
+cheat142_code = "42002028+03E7+0000000C+0002"
 cheat142_enable = false
 
-cheat143_desc = "Max Status"
-cheat143_code = "8200201C+C350+8200201E+C350+42002022+7530+0000000F+0002"
+cheat143_desc = "Med Kit"
+cheat143_code = "3200225E+0063"
 cheat143_enable = false
 
-cheat144_desc = "Maximum Stats"
-cheat144_code = "42002028+03E7+0000000C+0002"
+cheat144_desc = "Mild Curry"
+cheat144_code = "32002264+0063"
 cheat144_enable = false
 
-cheat145_desc = "Med Kit"
-cheat145_code = "3200225E+0063"
+cheat145_desc = "Mild Spice"
+cheat145_code = "32002261+0063"
 cheat145_enable = false
 
-cheat146_desc = "Mild Curry"
-cheat146_code = "32002264+0063"
+cheat146_desc = "Miner's Boots"
+cheat146_code = "320022C5+0063"
 cheat146_enable = false
 
-cheat147_desc = "Mild Spice"
-cheat147_code = "32002261+0063"
+cheat147_desc = "Mineral Bracelet"
+cheat147_code = "320022B5+0063"
 cheat147_enable = false
 
-cheat148_desc = "Miner's Boots"
-cheat148_code = "320022C5+0063"
+cheat148_desc = "Mineral Ring"
+cheat148_code = "320022A6+0063"
 cheat148_enable = false
 
-cheat149_desc = "Mineral Bracelet"
-cheat149_code = "320022B5+0063"
+cheat149_desc = "Mini Fan"
+cheat149_code = "3200227E+0063"
 cheat149_enable = false
 
-cheat150_desc = "Mineral Ring"
-cheat150_code = "320022A6+0063"
+cheat150_desc = "Mystic Ore"
+cheat150_code = "32002266+0063"
 cheat150_enable = false
 
-cheat151_desc = "Mini Fan"
-cheat151_code = "3200227E+0063"
+cheat151_desc = "Naan Bread"
+cheat151_code = "32002263+0063"
 cheat151_enable = false
 
-cheat152_desc = "Mystic Ore"
-cheat152_code = "32002266+0063"
+cheat152_desc = "No Random Battles Fixed"
+cheat152_code = "7200BB70+0001+3200BB70+0000"
 cheat152_enable = false
 
-cheat153_desc = "Naan Bread"
-cheat153_code = "32002263+0063"
+cheat153_desc = "Nobile Iron Fan"
+cheat153_code = "3200227F+0063"
 cheat153_enable = false
 
-cheat154_desc = "No Random Battles Fixed"
-cheat154_code = "7200BB70+0001+3200BB70+0000"
+cheat154_desc = "Off [Press R+B]"
+cheat154_code = "74000130+02FD+3203FF80+0002+7203FF80+0002+3200A989+0040"
 cheat154_enable = false
 
-cheat155_desc = "Nobile Iron Fan"
-cheat155_code = "3200227F+0063"
+cheat155_desc = "On [Press L+B]"
+cheat155_code = "74000130+01FD+3203FF80+0001+7203FF80+0001+3200A989+0000"
 cheat155_enable = false
 
-cheat156_desc = "Off [Press R+B]"
-cheat156_code = "74000130+02FD+3203FF80+0002+7203FF80+0002+3200A989+0040"
+cheat156_desc = "Oni Hibachi"
+cheat156_code = "3200226E+0063"
 cheat156_enable = false
 
-cheat157_desc = "On [Press L+B]"
-cheat157_code = "74000130+01FD+3203FF80+0001+7203FF80+0001+3200A989+0000"
+cheat157_desc = "Oni Horn"
+cheat157_code = "32002296+0063"
 cheat157_enable = false
 
-cheat158_desc = "Oni Hibachi"
-cheat158_code = "3200226E+0063"
+cheat158_desc = "Overpriced Pot"
+cheat158_code = "3200229C+0063"
 cheat158_enable = false
 
-cheat159_desc = "Oni Horn"
-cheat159_code = "32002296+0063"
+cheat159_desc = "Portable Canteen"
+cheat159_code = "3200226B+0063"
 cheat159_enable = false
 
-cheat160_desc = "Out Battle Character Modifier"
-cheat160_code = "730020A0+1600+8200201A+0000"
+cheat160_desc = "Press L+R+Down To Access Save"
+cheat160_code = "74000130+007F+8200A802+0008"
 cheat160_enable = false
 
-cheat161_desc = "Overpriced Pot"
-cheat161_code = "3200229C+0063"
+cheat161_desc = "Press L+R+Up To Access Teleporter"
+cheat161_code = "74000130+00BF+3200A801+0080"
 cheat161_enable = false
 
-cheat162_desc = "Portable Canteen"
-cheat162_code = "3200226B+0063"
+cheat162_desc = "Pumpkin Ring"
+cheat162_code = "320022AC+0063"
 cheat162_enable = false
 
-cheat163_desc = "Press L+R+Down To Access Save"
-cheat163_code = "74000130+007F+8200A802+0008"
+cheat163_desc = "Quick EXperience Gain After Battle"
+cheat163_code = "83001434+270F"
 cheat163_enable = false
 
-cheat164_desc = "Press L+R+Up To Access Teleporter"
-cheat164_code = "74000130+00BF+3200A801+0080"
+cheat164_desc = "Quick Money Gain After Battle"
+cheat164_code = "8300143C+270F"
 cheat164_enable = false
 
-cheat165_desc = "Pumpkin Ring"
-cheat165_code = "320022AC+0063"
+cheat165_desc = "Red Hot Curry"
+cheat165_code = "32002265+0063"
 cheat165_enable = false
 
-cheat166_desc = "Quick EXperience Gain After Battle"
-cheat166_code = "83001434+270F"
+cheat166_desc = "Red Hot Spice"
+cheat166_code = "32002262+0063"
 cheat166_enable = false
 
-cheat167_desc = "Quick Money Gain After Battle"
-cheat167_code = "8300143C+270F"
+cheat167_desc = "Red Lantern"
+cheat167_code = "3200226C+0063"
 cheat167_enable = false
 
-cheat168_desc = "Red Hot Curry"
-cheat168_code = "32002265+0063"
+cheat168_desc = "Red Seed"
+cheat168_code = "32002292+0063"
 cheat168_enable = false
 
-cheat169_desc = "Red Hot Spice"
-cheat169_code = "32002262+0063"
+cheat169_desc = "Rigid Scale"
+cheat169_code = "32002297+0063"
 cheat169_enable = false
 
-cheat170_desc = "Red Lantern"
-cheat170_code = "3200226C+0063"
+cheat170_desc = "Sandals"
+cheat170_code = "320022C9+0063"
 cheat170_enable = false
 
-cheat171_desc = "Red Seed"
-cheat171_code = "32002292+0063"
+cheat171_desc = "Sea Dragon Scale"
+cheat171_code = "3200227B+0063"
 cheat171_enable = false
 
-cheat172_desc = "Rigid Scale"
-cheat172_code = "32002297+0063"
+cheat172_desc = "Shiny Shell"
+cheat172_code = "32002293+0063"
 cheat172_enable = false
 
-cheat173_desc = "Sandals"
-cheat173_code = "320022C9+0063"
+cheat173_desc = "Siltrn Water"
+cheat173_code = "32002257+0063"
 cheat173_enable = false
 
-cheat174_desc = "Sea Dragon Scale"
-cheat174_code = "3200227B+0063"
+cheat174_desc = "Silver Bracelet"
+cheat174_code = "320022B9+0063"
 cheat174_enable = false
 
-cheat175_desc = "Shiny Shell"
-cheat175_code = "32002293+0063"
+cheat175_desc = "Silver Necklace"
+cheat175_code = "320022D6+0063"
 cheat175_enable = false
 
-cheat176_desc = "Siltrn Water"
-cheat176_code = "32002257+0063"
+cheat176_desc = "Silver Ring"
+cheat176_code = "320022AA+0063"
 cheat176_enable = false
 
-cheat177_desc = "Silver Bracelet"
-cheat177_code = "320022B9+0063"
+cheat177_desc = "Small Bolt"
+cheat177_code = "320022A5+0063"
 cheat177_enable = false
 
-cheat178_desc = "Silver Necklace"
-cheat178_code = "320022D6+0063"
+cheat178_desc = "Small Faucet"
+cheat178_code = "32002274+0063"
 cheat178_enable = false
 
-cheat179_desc = "Silver Ring"
-cheat179_code = "320022AA+0063"
+cheat179_desc = "Small Generator"
+cheat179_code = "32002289+0063"
 cheat179_enable = false
 
-cheat180_desc = "Small Bolt"
-cheat180_code = "320022A5+0063"
+cheat180_desc = "Small Tinder"
+cheat180_code = "3200226A+0063"
 cheat180_enable = false
 
-cheat181_desc = "Small Faucet"
-cheat181_code = "32002274+0063"
+cheat181_desc = "Spiked Shoes"
+cheat181_code = "320022CC+0063"
 cheat181_enable = false
 
-cheat182_desc = "Small Generator"
-cheat182_code = "32002289+0063"
+cheat182_desc = "Spiral Ring"
+cheat182_code = "320022AD+0063"
 cheat182_enable = false
 
-cheat183_desc = "Small Tinder"
-cheat183_code = "3200226A+0063"
+cheat183_desc = "Steel Bracelet"
+cheat183_code = "320022BD+0063"
 cheat183_enable = false
 
-cheat184_desc = "Spiked Shoes"
-cheat184_code = "320022CC+0063"
+cheat184_desc = "Steel Nacklace"
+cheat184_code = "320022DC+0063"
 cheat184_enable = false
 
-cheat185_desc = "Spiral Ring"
-cheat185_code = "320022AD+0063"
+cheat185_desc = "Steel Plate"
+cheat185_code = "3200229E+0063"
 cheat185_enable = false
 
-cheat186_desc = "Sprite Modifier"
-cheat186_code = "8300614A+000F+8300614C+0000"
+cheat186_desc = "Storm Amulet"
+cheat186_code = "320022E1+0063"
 cheat186_enable = false
 
-cheat187_desc = "Steel Bracelet"
-cheat187_code = "320022BD+0063"
+cheat187_desc = "Summon Charm"
+cheat187_code = "32002260+0063"
 cheat187_enable = false
 
-cheat188_desc = "Steel Nacklace"
-cheat188_code = "320022DC+0063"
+cheat188_desc = "Thunder Bracelet"
+cheat188_code = "320022BA+0063"
 cheat188_enable = false
 
-cheat189_desc = "Steel Plate"
-cheat189_code = "3200229E+0063"
+cheat189_desc = "Tomato Juice"
+cheat189_code = "3200225A+0063"
 cheat189_enable = false
 
-cheat190_desc = "Storm Amulet"
-cheat190_code = "320022E1+0063"
+cheat190_desc = "Toy Ring"
+cheat190_code = "320022AB+0063"
 cheat190_enable = false
 
-cheat191_desc = "Summon Charm"
-cheat191_code = "32002260+0063"
+cheat191_desc = "Walk Through Walls [Hold R]"
+cheat191_code = "74000130+02DF+E200A982+FFF6+74000130+02EF+E200A982+0010+74000130+02BF+E200A984+FFF6+74000130+027F+E200A984+0010+74000130+029F+E200A982+FFF6+74000130+029F+E200A984+FFF6+74000130+025F+E200A982+FFF6+74000130+025F+E200A984+0010+74000130+02AF+E200A982+0010+74000130+02AF+E200A984+FFF6+74000130+026F+E200A982+0010+74000130+026F+E200A984+0010"
 cheat191_enable = false
 
-cheat192_desc = "Thunder Bracelet"
-cheat192_code = "320022BA+0063"
+cheat192_desc = "Water Bracelet"
+cheat192_code = "320022C2+0063"
 cheat192_enable = false
 
-cheat193_desc = "Tomato Juice"
-cheat193_code = "3200225A+0063"
+cheat193_desc = "Water Pistol"
+cheat193_code = "32002276+0063"
 cheat193_enable = false
 
-cheat194_desc = "Toy Ring"
-cheat194_code = "320022AB+0063"
+cheat194_desc = "Water Tank"
+cheat194_code = "32002277+0063"
 cheat194_enable = false
 
-cheat195_desc = "Walk Through Walls [Hold R]"
-cheat195_code = "74000130+02DF+E200A982+FFF6+74000130+02EF+E200A982+0010+74000130+02BF+E200A984+FFF6+74000130+027F+E200A984+0010+74000130+029F+E200A982+FFF6+74000130+029F+E200A984+FFF6+74000130+025F+E200A982+FFF6+74000130+025F+E200A984+0010+74000130+02AF+E200A982+0010+74000130+02AF+E200A984+FFF6+74000130+026F+E200A982+0010+74000130+026F+E200A984+0010"
+cheat195_desc = "Weapon 1"
+cheat195_code = "32002048+0000"
 cheat195_enable = false
 
-cheat196_desc = "Water Bracelet"
-cheat196_code = "320022C2+0063"
+cheat196_desc = "Weapon 2"
+cheat196_code = "32002049+0000"
 cheat196_enable = false
 
-cheat197_desc = "Water Pistol"
-cheat197_code = "32002276+0063"
+cheat197_desc = "Weapon 3"
+cheat197_code = "3200204A+0000"
 cheat197_enable = false
 
-cheat198_desc = "Water Tank"
-cheat198_code = "32002277+0063"
+cheat198_desc = "Weapon Shard (L)"
+cheat198_code = "32002269+0063"
 cheat198_enable = false
 
-cheat199_desc = "Weapon 1"
-cheat199_code = "32002048+0000"
+cheat199_desc = "Weapon Shard (M)"
+cheat199_code = "32002268+0063"
 cheat199_enable = false
 
-cheat200_desc = "Weapon 2"
-cheat200_code = "32002049+0000"
+cheat200_desc = "Weapon Shard (S)"
+cheat200_code = "32002267+0063"
 cheat200_enable = false
 
-cheat201_desc = "Weapon 3"
-cheat201_code = "3200204A+0000"
+cheat201_desc = "Wheatgrass Juice"
+cheat201_code = "32002258+0063"
 cheat201_enable = false
 
-cheat202_desc = "Weapon Shard (L)"
-cheat202_code = "32002269+0063"
+cheat202_desc = "Wind Boots"
+cheat202_code = "320022CD+0063"
 cheat202_enable = false
 
-cheat203_desc = "Weapon Shard (M)"
-cheat203_code = "32002268+0063"
+cheat203_desc = "Wind Fossil"
+cheat203_code = "32002281+0063"
 cheat203_enable = false
 
-cheat204_desc = "Weapon Shard (S)"
-cheat204_code = "32002267+0063"
+cheat204_desc = "Windproof Boots"
+cheat204_code = "320022D2+0063"
 cheat204_enable = false
 
-cheat205_desc = "Wheatgrass Juice"
-cheat205_code = "32002258+0063"
+cheat205_desc = "Windproof Shoes"
+cheat205_code = "320022D1+0063"
 cheat205_enable = false
 
-cheat206_desc = "Wind Boots"
-cheat206_code = "320022CD+0063"
+cheat206_desc = "Wrist Band"
+cheat206_code = "320022BC+0063"
 cheat206_enable = false
 
-cheat207_desc = "Wind Fossil"
-cheat207_code = "32002281+0063"
+cheat207_desc = "Wyvern Talon"
+cheat207_code = "32002284+0063"
 cheat207_enable = false
 
-cheat208_desc = "Windproof Boots"
-cheat208_code = "320022D2+0063"
+cheat208_desc = "Infinite Money [Boans]"
+cheat208_code = "8200000C+E0FF+8200000E+05F5"
 cheat208_enable = false
 
-cheat209_desc = "Windproof Shoes"
-cheat209_code = "320022D1+0063"
+cheat209_desc = "Have All Techniques"
+cheat209_code = "82002164+FFFF+82002166+FFFF+82002168+FF0F+8200216A+FFFF+8200216C+01FF+8200216E+FFFF+82002170+FFFF+82002172+FF0F+82002174+FFFF+82002176+01FF+82002178+FFFF+8200217A+FFFF"
 cheat209_enable = false
 
-cheat210_desc = "Wrist Band"
-cheat210_code = "320022BC+0063"
+cheat210_desc = "No Random Battles"
+cheat210_code = "7200BB70+0000+3200BB70+0001"
 cheat210_enable = false
 
-cheat211_desc = "Wyvern Talon"
-cheat211_code = "32002284+0063"
+cheat211_desc = "Infinite HP"
+cheat211_code = "730006DC+0004+43000728+C350+00000002+0004+730006DC+0004+83000734+C350"
 cheat211_enable = false
 
-cheat212_desc = "Infinite Money [Boans]"
-cheat212_code = "8200000C+E0FF+8200000E+05F5"
+cheat212_desc = "Infinite Summons"
+cheat212_code = "730006DC+0004+83000758+0006"
 cheat212_enable = false
 
-cheat213_desc = "Have All Techniques"
-cheat213_code = "82002164+FFFF+82002166+FFFF+82002168+FF0F+8200216A+FFFF+8200216C+01FF+8200216E+FFFF+82002170+FFFF+82002172+FF0F+82002174+FFFF+82002176+01FF+82002178+FFFF+8200217A+FFFF"
+cheat213_desc = "Infinite Summon Magics"
+cheat213_code = "730006DC+0004+33000723+0063+730006DC+0004+83000724+6363+730006DC+0004+33000726+0063"
 cheat213_enable = false
 
-cheat214_desc = "No Random Battles"
-cheat214_code = "7200BB70+0000+3200BB70+0001"
+cheat214_desc = "Max Money After Battle"
+cheat214_code = "8300143C+E0FF+8300143E+5F5E"
 cheat214_enable = false
-
-cheat215_desc = "Infinite HP"
-cheat215_code = "730006DC+0004+43000728+C350+00000002+0004+730006DC+0004+83000734+C350"
-cheat215_enable = false
-
-cheat216_desc = "Infinite Summons"
-cheat216_code = "730006DC+0004+83000758+0006"
-cheat216_enable = false
-
-cheat217_desc = "Infinite Summon Magics"
-cheat217_code = "730006DC+0004+33000723+0063+730006DC+0004+83000724+6363+730006DC+0004+33000726+0063"
-cheat217_enable = false
-
-cheat218_desc = "Max Money After Battle"
-cheat218_code = "8300143C+E0FF+8300143E+5F5E"
-cheat218_enable = false

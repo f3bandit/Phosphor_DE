@@ -1,4 +1,4 @@
-cheats = 16
+cheats = 15
 
 cheat0_desc = "Have All Levels Unlocked"
 cheat0_code = "8200022C+0FFF"
@@ -52,14 +52,10 @@ cheat12_desc = "Quick Score Gain"
 cheat12_code = "83004288+FFFF"
 cheat12_enable = false
 
-cheat13_desc = "Start With Hi-Score"
-cheat13_code = "73004288+0000"
+cheat13_desc = "Transparent"
+cheat13_code = "3300434C+0003"
 cheat13_enable = false
 
-cheat14_desc = "Transparent"
-cheat14_code = "3300434C+0003"
+cheat14_desc = "Weak Enemies/Bosses"
+cheat14_code = "420007C8+0001+00000007+0004"
 cheat14_enable = false
-
-cheat15_desc = "Weak Enemies/Bosses"
-cheat15_code = "420007C8+0001+00000007+0004"
-cheat15_enable = false

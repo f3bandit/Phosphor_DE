@@ -1,4 +1,4 @@
-cheats = 36
+cheats = 31
 
 cheat0_desc = "255 Attack"
 cheat0_code = "330022C2+00FF"
@@ -20,126 +20,106 @@ cheat4_desc = "All Stages Accessable"
 cheat4_code = "43002316+00FF+00000008+0002+43001DDE+0909+00000026+0002"
 cheat4_enable = false
 
-cheat5_desc = "Armor Modifier"
-cheat5_code = "33002357+0000"
+cheat5_desc = "Bones"
+cheat5_code = "3300235A+0063"
 cheat5_enable = false
 
-cheat6_desc = "Bones"
-cheat6_code = "3300235A+0063"
+cheat6_desc = "Change Your Walking Speed"
+cheat6_code = "83003624+0000"
 cheat6_enable = false
 
-cheat7_desc = "Change Your Walking Speed"
-cheat7_code = "83003624+0000"
+cheat7_desc = "Current HP (HP 9999)"
+cheat7_code = "83003636+270F"
 cheat7_enable = false
 
-cheat8_desc = "Current HP (HP 9999)"
-cheat8_code = "83003636+270F"
+cheat8_desc = "Current MP (MP 9999)"
+cheat8_code = "830022BE+270F"
 cheat8_enable = false
 
-cheat9_desc = "Current MP (MP 9999)"
-cheat9_code = "830022BE+270F"
+cheat9_desc = "Graphic Effect: Yoh On Speed"
+cheat9_code = "330035E9+00FF"
 cheat9_enable = false
 
-cheat10_desc = "Current Spirit For R Button Modifier"
-cheat10_code = "330022C7+0001"
+cheat10_desc = "Have 50,000 Yen"
+cheat10_code = "83002310+C350"
 cheat10_enable = false
 
-cheat11_desc = "Graphic Effect: Yoh On Speed"
-cheat11_code = "330035E9+00FF"
+cheat11_desc = "Have 99 Leaves"
+cheat11_code = "33002358+0063"
 cheat11_enable = false
 
-cheat12_desc = "Have 50,000 Yen"
-cheat12_code = "83002310+C350"
+cheat12_desc = "Have 99 Pebbles"
+cheat12_code = "33002359+0063"
 cheat12_enable = false
 
-cheat13_desc = "Have 99 Leaves"
-cheat13_code = "33002358+0063"
+cheat13_desc = "Have All 5 Slots To Equip Spirits"
+cheat13_code = "33002365+001F"
 cheat13_enable = false
 
-cheat14_desc = "Have 99 Pebbles"
-cheat14_code = "33002359+0063"
+cheat14_desc = "Infinite Energy"
+cheat14_code = "830022BE+0190"
 cheat14_enable = false
 
-cheat15_desc = "Have All 5 Slots To Equip Spirits"
-cheat15_code = "33002365+001F"
+cheat15_desc = "Infinite Health"
+cheat15_code = "83003636+00F0"
 cheat15_enable = false
 
-cheat16_desc = "Infinite Energy"
-cheat16_code = "830022BE+0190"
+cheat16_desc = "Infinite HP"
+cheat16_code = "33003636+0078"
 cheat16_enable = false
 
-cheat17_desc = "Infinite Health"
-cheat17_code = "83003636+00F0"
+cheat17_desc = "Invincibility"
+cheat17_code = "830022BA+00FF+83003636+00FF"
 cheat17_enable = false
 
-cheat18_desc = "Infinite HP"
-cheat18_code = "33003636+0078"
+cheat18_desc = "Invincible"
+cheat18_code = "33003630+0003"
 cheat18_enable = false
 
-cheat19_desc = "Inventory Modifiers"
-cheat19_code = "3300234B+0000+3300234C+0000+3300234D+0000+3300234E+0000+3300234F+0000+33002350+0000+33002351+0000+33002352+0000+33002353+0000+33002354+0000"
+cheat19_desc = "Low Game Time"
+cheat19_code = "83001DD4+0000+83001DD6+0000+83001DD8+0000+83001DDA+0000"
 cheat19_enable = false
 
-cheat20_desc = "Invincibility"
-cheat20_code = "830022BA+00FF+83003636+00FF"
+cheat20_desc = "Max Energy"
+cheat20_code = "830022C0+0190"
 cheat20_enable = false
 
-cheat21_desc = "Invincible"
-cheat21_code = "33003630+0003"
+cheat21_desc = "Max Health"
+cheat21_code = "830022BA+00F0"
 cheat21_enable = false
 
-cheat22_desc = "Low Game Time"
-cheat22_code = "83001DD4+0000+83001DD6+0000+83001DD8+0000+83001DDA+0000"
+cheat22_desc = "Max HP (HP 9999)"
+cheat22_code = "830022BA+270F"
 cheat22_enable = false
 
-cheat23_desc = "Max Energy"
-cheat23_code = "830022C0+0190"
+cheat23_desc = "Max MP (MP 9999)"
+cheat23_code = "830022C0+270F"
 cheat23_enable = false
 
-cheat24_desc = "Max Health"
-cheat24_code = "830022BA+00F0"
+cheat24_desc = "Max/Infinite Money"
+cheat24_code = "83002310+E0FF+83002312+05F5"
 cheat24_enable = false
 
-cheat25_desc = "Max HP (HP 9999)"
-cheat25_code = "830022BA+270F"
+cheat25_desc = "Maximum ATK"
+cheat25_code = "830022C2+03E7"
 cheat25_enable = false
 
-cheat26_desc = "Max MP (MP 9999)"
-cheat26_code = "830022C0+270F"
+cheat26_desc = "Maximum DEF"
+cheat26_code = "830022C4+03E7"
 cheat26_enable = false
 
-cheat27_desc = "Max/Infinite Money"
-cheat27_code = "83002310+E0FF+83002312+05F5"
+cheat27_desc = "Multi Jump"
+cheat27_code = "D0000020+0001+83003654+0320+D0000020+0001+83003656+0000"
 cheat27_enable = false
 
-cheat28_desc = "Maximum ATK"
-cheat28_code = "830022C2+03E7"
+cheat28_desc = "Skip Stage [Press Select+Up]"
+cheat28_code = "74000130+03BB+320062D8+0006"
 cheat28_enable = false
 
-cheat29_desc = "Maximum DEF"
-cheat29_code = "830022C4+03E7"
+cheat29_desc = "Super Jump"
+cheat29_code = "F20066FC+0001+83003654+03C0"
 cheat29_enable = false
 
-cheat30_desc = "Multi Jump"
-cheat30_code = "D0000020+0001+83003654+0320+D0000020+0001+83003656+0000"
+cheat30_desc = "Have All Spirits"
+cheat30_code = "4300235C+FFFF+00000004+0002+33002364+00FF+3300235B+00FF"
 cheat30_enable = false
-
-cheat31_desc = "Music Modifier (00-1C)"
-cheat31_code = "330007EA+0000"
-cheat31_enable = false
-
-cheat32_desc = "Skip Stage [Press Select+Up]"
-cheat32_code = "74000130+03BB+320062D8+0006"
-cheat32_enable = false
-
-cheat33_desc = "Super Jump"
-cheat33_code = "F20066FC+0001+83003654+03C0"
-cheat33_enable = false
-
-cheat34_desc = "Sword Modifier"
-cheat34_code = "33002356+0000"
-cheat34_enable = false
-
-cheat35_desc = "Have All Spirits"
-cheat35_code = "4300235C+FFFF+00000004+0002+33002364+00FF+3300235B+00FF"
-cheat35_enable = false

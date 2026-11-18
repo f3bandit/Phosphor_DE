@@ -1,4 +1,4 @@
-cheats = 191
+cheats = 190
 
 cheat0_desc = "2 Fireballs Circle You"
 cheat0_code = "3202569C+0001"
@@ -100,666 +100,662 @@ cheat24_desc = "Gun"
 cheat24_code = "320256AF+0001"
 cheat24_enable = false
 
-cheat25_desc = "Have 99 Hearts"
-cheat25_code = "892828B8+7BA3"
+cheat25_desc = "Have All Cards"
+cheat25_code = "42025674+0101+0000000A+0002"
 cheat25_enable = false
 
-cheat26_desc = "Have All Cards"
-cheat26_code = "42025674+0101+0000000A+0002"
+cheat26_desc = "Have Apollo Card"
+cheat26_code = "32025683+0001"
 cheat26_enable = false
 
-cheat27_desc = "Have Apollo Card"
-cheat27_code = "32025683+0001"
+cheat27_desc = "Have Arm Guard"
+cheat27_code = "32025710+0001"
 cheat27_enable = false
 
-cheat28_desc = "Have Arm Guard"
-cheat28_code = "32025710+0001"
+cheat28_desc = "Have Bear Ring"
+cheat28_code = "32025714+0001"
 cheat28_enable = false
 
-cheat29_desc = "Have Bear Ring"
-cheat29_code = "32025714+0001"
+cheat29_desc = "Have Bronze Armor"
+cheat29_code = "320256EE+0001"
 cheat29_enable = false
 
-cheat30_desc = "Have Bronze Armor"
-cheat30_code = "320256EE+0001"
+cheat30_desc = "Have Chain Mail"
+cheat30_code = "320256F0+0001"
 cheat30_enable = false
 
-cheat31_desc = "Have Chain Mail"
-cheat31_code = "320256F0+0001"
+cheat31_desc = "Have Cleansing"
+cheat31_code = "32025734+0001"
 cheat31_enable = false
 
-cheat32_desc = "Have Cleansing"
-cheat32_code = "32025734+0001"
+cheat32_desc = "Have Cockatrice Card"
+cheat32_code = "32025678+0001"
 cheat32_enable = false
 
-cheat33_desc = "Have Cockatrice Card"
-cheat33_code = "32025678+0001"
+cheat33_desc = "Have Cotton CLothes"
+cheat33_code = "320256FD+0001"
 cheat33_enable = false
 
-cheat34_desc = "Have Cotton CLothes"
-cheat34_code = "320256FD+0001"
+cheat34_desc = "Have Cotton Robe"
+cheat34_code = "320256F8+0001"
 cheat34_enable = false
 
-cheat35_desc = "Have Cotton Robe"
-cheat35_code = "320256F8+0001"
+cheat35_desc = "Have Cursed Ring"
+cheat35_code = "32025709+0001"
 cheat35_enable = false
 
-cheat36_desc = "Have Cursed Ring"
-cheat36_code = "32025709+0001"
+cheat36_desc = "Have Damage Increase 1"
+cheat36_code = "32025692+0001"
 cheat36_enable = false
 
-cheat37_desc = "Have Damage Increase 1"
-cheat37_code = "32025692+0001"
+cheat37_desc = "Have Damage Increase 2"
+cheat37_code = "32025699+0001"
 cheat37_enable = false
 
-cheat38_desc = "Have Damage Increase 2"
-cheat38_code = "32025699+0001"
+cheat38_desc = "Have Damage X2"
+cheat38_code = "3202569B+0001"
 cheat38_enable = false
 
-cheat39_desc = "Have Damage X2"
-cheat39_code = "3202569B+0001"
+cheat39_desc = "Have Dark Armor"
+cheat39_code = "320256F6+0001"
 cheat39_enable = false
 
-cheat40_desc = "Have Dark Armor"
-cheat40_code = "320256F6+0001"
+cheat40_desc = "Have Darkness Whip"
+cheat40_code = "32025691+0001"
 cheat40_enable = false
 
-cheat41_desc = "Have Darkness Whip"
-cheat41_code = "32025691+0001"
+cheat41_desc = "Have Defence Increase 1"
+cheat41_code = "32025693+0001"
 cheat41_enable = false
 
-cheat42_desc = "Have Defence Increase 1"
-cheat42_code = "32025693+0001"
+cheat42_desc = "Have Defense Armband"
+cheat42_code = "3202570B+0001"
 cheat42_enable = false
 
-cheat43_desc = "Have Defense Armband"
-cheat43_code = "3202570B+0001"
+cheat43_desc = "Have Defense Increase 2"
+cheat43_code = "32025695+0001"
 cheat43_enable = false
 
-cheat44_desc = "Have Defense Increase 2"
-cheat44_code = "32025695+0001"
+cheat44_desc = "Have Defense X2"
+cheat44_code = "3202569A+0001"
 cheat44_enable = false
 
-cheat45_desc = "Have Defense X2"
-cheat45_code = "3202569A+0001"
+cheat45_desc = "Have Diamond Armor"
+cheat45_code = "320256F3+0001"
 cheat45_enable = false
 
-cheat46_desc = "Have Diamond Armor"
-cheat46_code = "320256F3+0001"
+cheat46_desc = "Have Diana Card"
+cheat46_code = "32025682+0001"
 cheat46_enable = false
 
-cheat47_desc = "Have Diana Card"
-cheat47_code = "32025682+0001"
+cheat47_desc = "Have Double"
+cheat47_code = "32025730+0001"
 cheat47_enable = false
 
-cheat48_desc = "Have Double"
-cheat48_code = "32025730+0001"
+cheat48_desc = "Have Double Grips"
+cheat48_code = "32025703+0001"
 cheat48_enable = false
 
-cheat49_desc = "Have Double Grips"
-cheat49_code = "32025703+0001"
+cheat49_desc = "Have Earth Whip"
+cheat49_code = "3202568B+0001"
 cheat49_enable = false
 
-cheat50_desc = "Have Earth Whip"
-cheat50_code = "3202568B+0001"
+cheat50_desc = "Have Electric Whip"
+cheat50_code = "3202568F+0001"
 cheat50_enable = false
 
-cheat51_desc = "Have Electric Whip"
-cheat51_code = "3202568F+0001"
+cheat51_desc = "Have Fire Whip"
+cheat51_code = "32025688+0001"
 cheat51_enable = false
 
-cheat52_desc = "Have Fire Whip"
-cheat52_code = "32025688+0001"
+cheat52_desc = "Have Gain Double Hearts"
+cheat52_code = "32025697+0001"
 cheat52_enable = false
 
-cheat53_desc = "Have Gain Double Hearts"
-cheat53_code = "32025697+0001"
+cheat53_desc = "Have Gain Xp From Walking"
+cheat53_code = "32025696+0001"
 cheat53_enable = false
 
-cheat54_desc = "Have Gain Xp From Walking"
-cheat54_code = "32025696+0001"
+cheat54_desc = "Have Gambler Armband"
+cheat54_code = "3202570D+0001"
 cheat54_enable = false
 
-cheat55_desc = "Have Gambler Armband"
-cheat55_code = "3202570D+0001"
+cheat55_desc = "Have Gauntlet"
+cheat55_code = "3202570F+0001"
 cheat55_enable = false
 
-cheat56_desc = "Have Gauntlet"
-cheat56_code = "3202570F+0001"
+cheat56_desc = "Have Gold Armor"
+cheat56_code = "320256EF+0001"
 cheat56_enable = false
 
-cheat57_desc = "Have Gold Armor"
-cheat57_code = "320256EF+0001"
+cheat57_desc = "Have Golem Card"
+cheat57_code = "32025677+0001"
 cheat57_enable = false
 
-cheat58_desc = "Have Golem Card"
-cheat58_code = "32025677+0001"
+cheat58_desc = "Have Griffin Card"
+cheat58_code = "3202567A+0001"
 cheat58_enable = false
 
-cheat59_desc = "Have Griffin Card"
-cheat59_code = "3202567A+0001"
+cheat59_desc = "Have Hard Ring"
+cheat59_code = "32025706+0001"
 cheat59_enable = false
 
-cheat60_desc = "Have Hard Ring"
-cheat60_code = "32025706+0001"
+cheat60_desc = "Have Heavy Ring"
+cheat60_code = "32025733+0001"
 cheat60_enable = false
 
-cheat61_desc = "Have Heavy Ring"
-cheat61_code = "32025733+0001"
+cheat61_desc = "Have Holy Whip"
+cheat61_code = "32025690+0001"
 cheat61_enable = false
 
-cheat62_desc = "Have Holy Whip"
-cheat62_code = "32025690+0001"
+cheat62_desc = "Have Ice Whip"
+cheat62_code = "32025689+0001"
 cheat62_enable = false
 
-cheat63_desc = "Have Ice Whip"
-cheat63_code = "32025689+0001"
+cheat63_desc = "Have Intelligence Increase"
+cheat63_code = "32025698+0001"
 cheat63_enable = false
 
-cheat64_desc = "Have Intelligence Increase"
-cheat64_code = "32025698+0001"
+cheat64_desc = "Have Intelligence Ring"
+cheat64_code = "32025707+0001"
 cheat64_enable = false
 
-cheat65_desc = "Have Intelligence Ring"
-cheat65_code = "32025707+0001"
+cheat65_desc = "Have Jupiter Card"
+cheat65_code = "32025680+0001"
 cheat65_enable = false
 
-cheat66_desc = "Have Jupiter Card"
-cheat66_code = "32025680+0001"
+cheat66_desc = "Have Kick Boots"
+cheat66_code = "32025732+0001"
 cheat66_enable = false
 
-cheat67_desc = "Have Kick Boots"
-cheat67_code = "32025732+0001"
+cheat67_desc = "Have Last Key"
+cheat67_code = "32025736+0001"
 cheat67_enable = false
 
-cheat68_desc = "Have Last Key"
-cheat68_code = "32025736+0001"
+cheat68_desc = "Have Leather Armor"
+cheat68_code = "320256ED+0001"
 cheat68_enable = false
 
-cheat69_desc = "Have Leather Armor"
-cheat69_code = "320256ED+0001"
+cheat69_desc = "Have Luck Increase"
+cheat69_code = "32025694+0001"
 cheat69_enable = false
 
-cheat70_desc = "Have Luck Increase"
-cheat70_code = "32025694+0001"
+cheat70_desc = "Have Luck Ring"
+cheat70_code = "32025708+0001"
 cheat70_enable = false
 
-cheat71_desc = "Have Luck Ring"
-cheat71_code = "32025708+0001"
+cheat71_desc = "Have Madragora Card"
+cheat71_code = "32025676+0001"
 cheat71_enable = false
 
-cheat72_desc = "Have Madragora Card"
-cheat72_code = "32025676+0001"
+cheat72_desc = "Have Magic Boots"
+cheat72_code = "3202572F+0001"
 cheat72_enable = false
 
-cheat73_desc = "Have Magic Boots"
-cheat73_code = "3202572F+0001"
+cheat73_desc = "Have Magic Gauntlet"
+cheat73_code = "32025711+0001"
 cheat73_enable = false
 
-cheat74_desc = "Have Magic Gauntlet"
-cheat74_code = "32025711+0001"
+cheat74_desc = "Have Magic Robe"
+cheat74_code = "320256FB+0001"
 cheat74_enable = false
 
-cheat75_desc = "Have Magic Robe"
-cheat75_code = "320256FB+0001"
+cheat75_desc = "Have Mars Card"
+cheat75_code = "32025681+0001"
 cheat75_enable = false
 
-cheat76_desc = "Have Mars Card"
-cheat76_code = "32025681+0001"
+cheat76_desc = "Have Maticore Card"
+cheat76_code = "32025679+0001"
 cheat76_enable = false
 
-cheat77_desc = "Have Maticore Card"
-cheat77_code = "32025679+0001"
+cheat77_desc = "Have Mercury Card"
+cheat77_code = "3202567E+0001"
 cheat77_enable = false
 
-cheat78_desc = "Have Mercury Card"
-cheat78_code = "3202567E+0001"
+cheat78_desc = "Have Miracle Armband"
+cheat78_code = "32025712+0001"
 cheat78_enable = false
 
-cheat79_desc = "Have Miracle Armband"
-cheat79_code = "32025712+0001"
+cheat79_desc = "Have Mirror Armor"
+cheat79_code = "320256F4+0001"
 cheat79_enable = false
 
-cheat80_desc = "Have Mirror Armor"
-cheat80_code = "320256F4+0001"
+cheat80_desc = "Have Needle Armor"
+cheat80_code = "320256F5+0001"
 cheat80_enable = false
 
-cheat81_desc = "Have Needle Armor"
-cheat81_code = "320256F5+0001"
+cheat81_desc = "Have Neptune Card"
+cheat81_code = "32025684+0001"
 cheat81_enable = false
 
-cheat82_desc = "Have Neptune Card"
-cheat82_code = "32025684+0001"
+cheat82_desc = "Have Night Suit"
+cheat82_code = "32025700+0001"
 cheat82_enable = false
 
-cheat83_desc = "Have Night Suit"
-cheat83_code = "32025700+0001"
+cheat83_desc = "Have Ninja Garb"
+cheat83_code = "32025701+0001"
 cheat83_enable = false
 
-cheat84_desc = "Have Ninja Garb"
-cheat84_code = "32025701+0001"
+cheat84_desc = "Have Platinum Armor"
+cheat84_code = "320256F2+0001"
 cheat84_enable = false
 
-cheat85_desc = "Have Platinum Armor"
-cheat85_code = "320256F2+0001"
+cheat85_desc = "Have Pluto Card"
+cheat85_code = "32025687+0001"
 cheat85_enable = false
 
-cheat86_desc = "Have Pluto Card"
-cheat86_code = "32025687+0001"
+cheat86_desc = "Have Poison Whip"
+cheat86_code = "3202568D+0001"
 cheat86_enable = false
 
-cheat87_desc = "Have Poison Whip"
-cheat87_code = "3202568D+0001"
+cheat87_desc = "Have Prison Garb"
+cheat87_code = "320256FE+0001"
 cheat87_enable = false
 
-cheat88_desc = "Have Prison Garb"
-cheat88_code = "320256FE+0001"
+cheat88_desc = "Have Rainbow Robe"
+cheat88_code = "320256FA+0001"
 cheat88_enable = false
 
-cheat89_desc = "Have Rainbow Robe"
-cheat89_code = "320256FA+0001"
+cheat89_desc = "Have Roc Wing"
+cheat89_code = "32025735+0001"
 cheat89_enable = false
 
-cheat90_desc = "Have Roc Wing"
-cheat90_code = "32025735+0001"
+cheat90_desc = "Have Sage Armband"
+cheat90_code = "3202570C+0001"
 cheat90_enable = false
 
-cheat91_desc = "Have Sage Armband"
-cheat91_code = "3202570C+0001"
+cheat91_desc = "Have Sage Robe"
+cheat91_code = "320256FC+0001"
 cheat91_enable = false
 
-cheat92_desc = "Have Sage Robe"
-cheat92_code = "320256FC+0001"
+cheat92_desc = "Have Salamander Card"
+cheat92_code = "32025674+0001"
 cheat92_enable = false
 
-cheat93_desc = "Have Salamander Card"
-cheat93_code = "32025674+0001"
+cheat93_desc = "Have Saturn Card"
+cheat93_code = "32025685+0001"
 cheat93_enable = false
 
-cheat94_desc = "Have Saturn Card"
-cheat94_code = "32025685+0001"
+cheat94_desc = "Have Serpent Card"
+cheat94_code = "32025675+0001"
 cheat94_enable = false
 
-cheat95_desc = "Have Serpent Card"
-cheat95_code = "32025675+0001"
+cheat95_desc = "Have Shining Armor"
+cheat95_code = "320256F7+0001"
 cheat95_enable = false
 
-cheat96_desc = "Have Shining Armor"
-cheat96_code = "320256F7+0001"
+cheat96_desc = "Have Silk Robe"
+cheat96_code = "320256F9+0001"
 cheat96_enable = false
 
-cheat97_desc = "Have Silk Robe"
-cheat97_code = "320256F9+0001"
+cheat97_desc = "Have Soldier Fatigues"
+cheat97_code = "32025702+0001"
 cheat97_enable = false
 
-cheat98_desc = "Have Soldier Fatigues"
-cheat98_code = "32025702+0001"
+cheat98_desc = "Have Star Bracelet"
+cheat98_code = "32025704+0001"
 cheat98_enable = false
 
-cheat99_desc = "Have Star Bracelet"
-cheat99_code = "32025704+0001"
+cheat99_desc = "Have Steel Armor"
+cheat99_code = "320256F1+0001"
 cheat99_enable = false
 
-cheat100_desc = "Have Steel Armor"
-cheat100_code = "320256F1+0001"
+cheat100_desc = "Have Stone Whip"
+cheat100_code = "3202568C+0001"
 cheat100_enable = false
 
-cheat101_desc = "Have Stone Whip"
-cheat101_code = "3202568C+0001"
+cheat101_desc = "Have Strength Armband"
+cheat101_code = "3202570A+0001"
 cheat101_enable = false
 
-cheat102_desc = "Have Strength Armband"
-cheat102_code = "3202570A+0001"
+cheat102_desc = "Have Strength Ring"
+cheat102_code = "32025705+0001"
 cheat102_enable = false
 
-cheat103_desc = "Have Strength Ring"
-cheat103_code = "32025705+0001"
+cheat103_desc = "Have Stylish Suit"
+cheat103_code = "320256FF+0001"
 cheat103_enable = false
 
-cheat104_desc = "Have Stylish Suit"
-cheat104_code = "320256FF+0001"
+cheat104_desc = "Have Tackle"
+cheat104_code = "32025731+0001"
 cheat104_enable = false
 
-cheat105_desc = "Have Tackle"
-cheat105_code = "32025731+0001"
+cheat105_desc = "Have Thorn Whip"
+cheat105_code = "3202568A+0001"
 cheat105_enable = false
 
-cheat106_desc = "Have Thorn Whip"
-cheat106_code = "3202568A+0001"
+cheat106_desc = "Have ThunderBrd Card"
+cheat106_code = "3202567B+0001"
 cheat106_enable = false
 
-cheat107_desc = "Have ThunderBrd Card"
-cheat107_code = "3202567B+0001"
+cheat107_desc = "Have Tonfers"
+cheat107_code = "320256AA+0001"
 cheat107_enable = false
 
-cheat108_desc = "Have Tonfers"
-cheat108_code = "320256AA+0001"
+cheat108_desc = "Have Toy Ring"
+cheat108_code = "32025713+0001"
 cheat108_enable = false
 
-cheat109_desc = "Have Toy Ring"
-cheat109_code = "32025713+0001"
+cheat109_desc = "Have Unicorn Card"
+cheat109_code = "3202567C+0001"
 cheat109_enable = false
 
-cheat110_desc = "Have Unicorn Card"
-cheat110_code = "3202567C+0001"
+cheat110_desc = "Have Uranus Card"
+cheat110_code = "32025686+0001"
 cheat110_enable = false
 
-cheat111_desc = "Have Uranus Card"
-cheat111_code = "32025686+0001"
+cheat111_desc = "Have Venus Card"
+cheat111_code = "3202567F+0001"
 cheat111_enable = false
 
-cheat112_desc = "Have Venus Card"
-cheat112_code = "3202567F+0001"
+cheat112_desc = "Have Wind Whip"
+cheat112_code = "3202568E+0001"
 cheat112_enable = false
 
-cheat113_desc = "Have Wind Whip"
-cheat113_code = "3202568E+0001"
+cheat113_desc = "Have Wrist Band"
+cheat113_code = "3202570E+0001"
 cheat113_enable = false
 
-cheat114_desc = "Have Wrist Band"
-cheat114_code = "3202570E+0001"
+cheat114_desc = "Hawk Familiar"
+cheat114_code = "320256D1+0001"
 cheat114_enable = false
 
-cheat115_desc = "Hawk Familiar"
-cheat115_code = "320256D1+0001"
+cheat115_desc = "Health Regenerates"
+cheat115_code = "3202569E+0001"
 cheat115_enable = false
 
-cheat116_desc = "Health Regenerates"
-cheat116_code = "3202569E+0001"
+cheat116_desc = "Holy Sword"
+cheat116_code = "320256AE+0001"
 cheat116_enable = false
 
-cheat117_desc = "Holy Sword"
-cheat117_code = "320256AE+0001"
+cheat117_desc = "Ice Heals"
+cheat117_code = "320256C5+0001"
 cheat117_enable = false
 
-cheat118_desc = "Ice Heals"
-cheat118_code = "320256C5+0001"
+cheat118_desc = "Imp Familiar"
+cheat118_code = "320256D7+0001"
 cheat118_enable = false
 
-cheat119_desc = "Imp Familiar"
-cheat119_code = "320256D7+0001"
+cheat119_desc = "Increase Invincibility Duration"
+cheat119_code = "3202569F+0001"
 cheat119_enable = false
 
-cheat120_desc = "Increase Invincibility Duration"
-cheat120_code = "3202569F+0001"
+cheat120_desc = "Infinite Antidotes"
+cheat120_code = "3202571A+0063"
 cheat120_enable = false
 
-cheat121_desc = "Infinite Antidotes"
-cheat121_code = "3202571A+0063"
+cheat121_desc = "Infinite Cure Curse"
+cheat121_code = "3202571B+0063"
 cheat121_enable = false
 
-cheat122_desc = "Infinite Cure Curse"
-cheat122_code = "3202571B+0063"
+cheat122_desc = "Infinite Health"
+cheat122_code = "8202562E+037F"
 cheat122_enable = false
 
-cheat123_desc = "Infinite Health"
-cheat123_code = "8202562E+037F"
+cheat123_desc = "Infinite Heart"
+cheat123_code = "3202571F+0063"
 cheat123_enable = false
 
-cheat124_desc = "Infinite Heart"
-cheat124_code = "3202571F+0063"
+cheat124_desc = "Infinite Heart Ex"
+cheat124_code = "32025721+0063"
 cheat124_enable = false
 
-cheat125_desc = "Infinite Heart Ex"
-cheat125_code = "32025721+0063"
+cheat125_desc = "Infinite Heart Hi"
+cheat125_code = "32025720+0063"
 cheat125_enable = false
 
-cheat126_desc = "Infinite Heart Hi"
-cheat126_code = "32025720+0063"
+cheat126_desc = "Infinite Heart Mega"
+cheat126_code = "32025722+0063"
 cheat126_enable = false
 
-cheat127_desc = "Infinite Heart Mega"
-cheat127_code = "32025722+0063"
+cheat127_desc = "Infinite Magic"
+cheat127_code = "82025636+03E7"
 cheat127_enable = false
 
-cheat128_desc = "Infinite Magic"
-cheat128_code = "82025636+03E7"
+cheat128_desc = "Infinite Meat"
+cheat128_code = "32025716+0063"
 cheat128_enable = false
 
-cheat129_desc = "Infinite Meat"
-cheat129_code = "32025716+0063"
+cheat129_desc = "Infinite Mind Ex"
+cheat129_code = "3202571E+0063"
 cheat129_enable = false
 
-cheat130_desc = "Infinite Mind Ex"
-cheat130_code = "3202571E+0063"
+cheat130_desc = "Infinite Mind Hi"
+cheat130_code = "3202571D+0063"
 cheat130_enable = false
 
-cheat131_desc = "Infinite Mind Hi"
-cheat131_code = "3202571D+0063"
+cheat131_desc = "Infinite Mind Restore"
+cheat131_code = "3202571C+0063"
 cheat131_enable = false
 
-cheat132_desc = "Infinite Mind Restore"
-cheat132_code = "3202571C+0063"
+cheat132_desc = "Infinite Potion"
+cheat132_code = "32025715+0063"
 cheat132_enable = false
 
-cheat133_desc = "Infinite Potion"
-cheat133_code = "32025715+0063"
+cheat133_desc = "Infinite Potion Ex"
+cheat133_code = "32025719+0063"
 cheat133_enable = false
 
-cheat134_desc = "Infinite Potion Ex"
-cheat134_code = "32025719+0063"
+cheat134_desc = "Infinite Spiced Meat"
+cheat134_code = "32025717+0063"
 cheat134_enable = false
 
-cheat135_desc = "Infinite Spiced Meat"
-cheat135_code = "32025717+0063"
+cheat135_desc = "Infinte Potion Hi"
+cheat135_code = "32025718+0063"
 cheat135_enable = false
 
-cheat136_desc = "Infinte Potion Hi"
-cheat136_code = "32025718+0063"
+cheat136_desc = "Invulnerable"
+cheat136_code = "320256EA+0001"
 cheat136_enable = false
 
-cheat137_desc = "Invulnerable"
-cheat137_code = "320256EA+0001"
+cheat137_desc = "Item Crush"
+cheat137_code = "320256E2+0001"
 cheat137_enable = false
 
-cheat138_desc = "Item Crush"
-cheat138_code = "320256E2+0001"
+cheat138_desc = "Level 99"
+cheat138_code = "32025664+0063"
 cheat138_enable = false
 
-cheat139_desc = "Level 99"
-cheat139_code = "32025664+0063"
+cheat139_desc = "Light Heals"
+cheat139_code = "320256CC+0001"
 cheat139_enable = false
 
-cheat140_desc = "Light Heals"
-cheat140_code = "320256CC+0001"
+cheat140_desc = "Martial Arts"
+cheat140_code = "320256AD+0001"
 cheat140_enable = false
 
-cheat141_desc = "Martial Arts"
-cheat141_code = "320256AD+0001"
+cheat141_desc = "Massive Hammer"
+cheat141_code = "320256A9+0001"
 cheat141_enable = false
 
-cheat142_desc = "Massive Hammer"
-cheat142_code = "320256A9+0001"
+cheat142_desc = "Max Health"
+cheat142_code = "82025632+03E7"
 cheat142_enable = false
 
-cheat143_desc = "Max Health"
-cheat143_code = "82025632+03E7"
+cheat143_desc = "Max Hearts"
+cheat143_code = "8202563C+03E7"
 cheat143_enable = false
 
-cheat144_desc = "Max Hearts"
-cheat144_code = "8202563C+03E7"
+cheat144_desc = "Medusa Familiar"
+cheat144_code = "320256D2+0001"
 cheat144_enable = false
 
-cheat145_desc = "Medusa Familiar"
-cheat145_code = "320256D2+0001"
+cheat145_desc = "Owl Familiar"
+cheat145_code = "320256D0+0001"
 cheat145_enable = false
 
-cheat146_desc = "Owl Familiar"
-cheat146_code = "320256D0+0001"
+cheat146_desc = "Plant Heals"
+cheat146_code = "320256C6+0001"
 cheat146_enable = false
 
-cheat147_desc = "Plant Heals"
-cheat147_code = "320256C6+0001"
+cheat147_desc = "Plumes Of Petals"
+cheat147_code = "320256B2+0001"
 cheat147_enable = false
 
-cheat148_desc = "Plumes Of Petals"
-cheat148_code = "320256B2+0001"
+cheat148_desc = "Poison Bomb"
+cheat148_code = "320256BF+0001"
 cheat148_enable = false
 
-cheat149_desc = "Poison Bomb"
-cheat149_code = "320256BF+0001"
+cheat149_desc = "Poison Claws"
+cheat149_code = "320256AB+0001"
 cheat149_enable = false
 
-cheat150_desc = "Poison Claws"
-cheat150_code = "320256AB+0001"
+cheat150_desc = "Poison Cloud"
+cheat150_code = "320256A1+0001"
 cheat150_enable = false
 
-cheat151_desc = "Poison Cloud"
-cheat151_code = "320256A1+0001"
+cheat151_desc = "Poison Heals"
+cheat151_code = "320256C9+0001"
 cheat151_enable = false
 
-cheat152_desc = "Poison Heals"
-cheat152_code = "320256C9+0001"
+cheat152_desc = "Poison Shower"
+cheat152_code = "320256B5+0001"
 cheat152_enable = false
 
-cheat153_desc = "Poison Shower"
-cheat153_code = "320256B5+0001"
+cheat153_desc = "Project Image"
+cheat153_code = "320256E5+0001"
 cheat153_enable = false
 
-cheat154_desc = "Project Image"
-cheat154_code = "320256E5+0001"
+cheat154_desc = "Raise Stalactite"
+cheat154_code = "320256BD+0001"
 cheat154_enable = false
 
-cheat155_desc = "Raise Stalactite"
-cheat155_code = "320256BD+0001"
+cheat155_desc = "Release Quake"
+cheat155_code = "320256B3+0001"
 cheat155_enable = false
 
-cheat156_desc = "Release Quake"
-cheat156_code = "320256B3+0001"
+cheat156_desc = "Release Rocks"
+cheat156_code = "320256B4+0001"
 cheat156_enable = false
 
-cheat157_desc = "Release Rocks"
-cheat157_code = "320256B4+0001"
+cheat157_desc = "Shells Of Darkness"
+cheat157_code = "320256B9+0001"
 cheat157_enable = false
 
-cheat158_desc = "Shells Of Darkness"
-cheat158_code = "320256B9+0001"
+cheat158_desc = "Silvers Of Ice"
+cheat158_code = "320256B1+0001"
 cheat158_enable = false
 
-cheat159_desc = "Silvers Of Ice"
-cheat159_code = "320256B1+0001"
+cheat159_desc = "Sonic Wave While Dashing"
+cheat159_code = "320256A2+0001"
 cheat159_enable = false
 
-cheat160_desc = "Sonic Wave While Dashing"
-cheat160_code = "320256A2+0001"
+cheat160_desc = "Stone Heals"
+cheat160_code = "320256C8+0001"
 cheat160_enable = false
 
-cheat161_desc = "Stone Heals"
-cheat161_code = "320256C8+0001"
+cheat161_desc = "Sub Weapon Use Mind Power"
+cheat161_code = "320256E7+0001"
 cheat161_enable = false
 
-cheat162_desc = "Sub Weapon Use Mind Power"
-cheat162_code = "320256E7+0001"
+cheat162_desc = "Summon Black Dog"
+cheat162_code = "320256E1+0001"
 cheat162_enable = false
 
-cheat163_desc = "Summon Black Dog"
-cheat163_code = "320256E1+0001"
+cheat163_desc = "Summon Cockatrice"
+cheat163_code = "320256DC+0001"
 cheat163_enable = false
 
-cheat164_desc = "Summon Cockatrice"
-cheat164_code = "320256DC+0001"
+cheat164_desc = "Summon Comet"
+cheat164_code = "320256BE+0001"
 cheat164_enable = false
 
-cheat165_desc = "Summon Comet"
-cheat165_code = "320256BE+0001"
+cheat165_desc = "Summon Golem"
+cheat165_code = "320256DB+0001"
 cheat165_enable = false
 
-cheat166_desc = "Summon Golem"
-cheat166_code = "320256DB+0001"
+cheat166_desc = "Summon Griffin"
+cheat166_code = "320256DE+0001"
 cheat166_enable = false
 
-cheat167_desc = "Summon Griffin"
-cheat167_code = "320256DE+0001"
+cheat167_desc = "Summon Mandragora"
+cheat167_code = "320256DA+0001"
 cheat167_enable = false
 
-cheat168_desc = "Summon Mandragora"
-cheat168_code = "320256DA+0001"
+cheat168_desc = "Summon Manitcore"
+cheat168_code = "320256DD+0001"
 cheat168_enable = false
 
-cheat169_desc = "Summon Manitcore"
-cheat169_code = "320256DD+0001"
+cheat169_desc = "Summon Salamander"
+cheat169_code = "320256D8+0001"
 cheat169_enable = false
 
-cheat170_desc = "Summon Salamander"
-cheat170_code = "320256D8+0001"
+cheat170_desc = "Summon Serpent"
+cheat170_code = "320256D9+0001"
 cheat170_enable = false
 
-cheat171_desc = "Summon Serpent"
-cheat171_code = "320256D9+0001"
+cheat171_desc = "Summon Thunderbird"
+cheat171_code = "320256DF+0001"
 cheat171_enable = false
 
-cheat172_desc = "Summon Thunderbird"
-cheat172_code = "320256DF+0001"
+cheat172_desc = "Summon Unicorn"
+cheat172_code = "320256E0+0001"
 cheat172_enable = false
 
-cheat173_desc = "Summon Unicorn"
-cheat173_code = "320256E0+0001"
+cheat173_desc = "Sword Draw"
+cheat173_code = "320256AC+0001"
 cheat173_enable = false
 
-cheat174_desc = "Sword Draw"
-cheat174_code = "320256AC+0001"
+cheat174_desc = "Sword Of Fire"
+cheat174_code = "320256A6+0001"
 cheat174_enable = false
 
-cheat175_desc = "Sword Of Fire"
-cheat175_code = "320256A6+0001"
+cheat175_desc = "Sword Of Ice"
+cheat175_code = "320256A7+0001"
 cheat175_enable = false
 
-cheat176_desc = "Sword Of Ice"
-cheat176_code = "320256A7+0001"
+cheat176_desc = "Sword Of Rose"
+cheat176_code = "320256A8+0001"
 cheat176_enable = false
 
-cheat177_desc = "Sword Of Rose"
-cheat177_code = "320256A8+0001"
+cheat177_desc = "Take Half Damage"
+cheat177_code = "320256A3+0001"
 cheat177_enable = false
 
-cheat178_desc = "Take Half Damage"
-cheat178_code = "320256A3+0001"
+cheat178_desc = "Throw Bomb"
+cheat178_code = "320256BA+0001"
 cheat178_enable = false
 
-cheat179_desc = "Throw Bomb"
-cheat179_code = "320256BA+0001"
+cheat179_desc = "Throw Ice Ball"
+cheat179_code = "320256BB+0001"
 cheat179_enable = false
 
-cheat180_desc = "Throw Ice Ball"
-cheat180_code = "320256BB+0001"
+cheat180_desc = "Throw Lightening Ball"
+cheat180_code = "320256C1+0001"
 cheat180_enable = false
 
-cheat181_desc = "Throw Lightening Ball"
-cheat181_code = "320256C1+0001"
+cheat181_desc = "Throw Rose"
+cheat181_code = "320256BC+0001"
 cheat181_enable = false
 
-cheat182_desc = "Throw Rose"
-cheat182_code = "320256BC+0001"
+cheat182_desc = "Transform Into Skeleton"
+cheat182_code = "320256EB+0001"
 cheat182_enable = false
 
-cheat183_desc = "Transform Into Skeleton"
-cheat183_code = "320256EB+0001"
+cheat183_desc = "Turn Into Stone"
+cheat183_code = "320256A0+0001"
 cheat183_enable = false
 
-cheat184_desc = "Turn Into Stone"
-cheat184_code = "320256A0+0001"
+cheat184_desc = "Ultimate Code"
+cheat184_code = "32025664+0064+32025668+0064+3202562E+0042+3202562F+0004"
 cheat184_enable = false
 
-cheat185_desc = "Ultimate Code"
-cheat185_code = "32025664+0064+32025668+0064+3202562E+0042+3202562F+0004"
+cheat185_desc = "Walking And Dash Increase"
+cheat185_code = "320256E8+0001"
 cheat185_enable = false
 
-cheat186_desc = "Walking And Dash Increase"
-cheat186_code = "320256E8+0001"
+cheat186_desc = "Wind Heals"
+cheat186_code = "320256CA+0001"
 cheat186_enable = false
 
-cheat187_desc = "Wind Heals"
-cheat187_code = "320256CA+0001"
+cheat187_desc = "Wind Sprite Familiar"
+cheat187_code = "320256D4+0001"
 cheat187_enable = false
 
-cheat188_desc = "Wind Sprite Familiar"
-cheat188_code = "320256D4+0001"
+cheat188_desc = "Wind Wave"
+cheat188_code = "320256B6+0001"
 cheat188_enable = false
 
-cheat189_desc = "Wind Wave"
-cheat189_code = "320256B6+0001"
+cheat189_desc = "Have Black Dog CArd"
+cheat189_code = "3202567D+0001"
 cheat189_enable = false
-
-cheat190_desc = "Have Black Dog CArd"
-cheat190_code = "3202567D+0001"
-cheat190_enable = false

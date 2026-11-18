@@ -1,4 +1,4 @@
-cheats = 62
+cheats = 61
 
 cheat0_desc = "1st Ally: Infinite HP"
 cheat0_code = "820364F8+03E7"
@@ -243,7 +243,3 @@ cheat59_enable = false
 cheat60_desc = "No Random Battles"
 cheat60_code = "33001294+000F"
 cheat60_enable = false
-
-cheat61_desc = "Relic Fusion Result Modifier"
-cheat61_code = "73007C24+8000+83007DEC+0000"
-cheat61_enable = false

@@ -1,7 +1,6 @@
 cheats = 10
 
-cheat0_desc = "All Areas Completed 
-(Slot A Save File)"
+cheat0_desc = "All Areas Completed (Slot A Save File)"
 cheat0_code = "4203FE0A+FFFF+00000000+0000"
 cheat0_enable = false
 

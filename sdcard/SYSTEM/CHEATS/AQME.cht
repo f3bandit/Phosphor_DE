@@ -1,4 +1,4 @@
-cheats = 11
+cheats = 10
 
 cheat0_desc = "Have 999 Coins"
 cheat0_code = "83004118+0999"
@@ -39,7 +39,3 @@ cheat8_enable = false
 cheat9_desc = "Start With Hi-Score"
 cheat9_code = "73004114+0000+83004114+C350"
 cheat9_enable = false
-
-cheat10_desc = "Turbo"
-cheat10_code = "73004064+0002"
-cheat10_enable = false

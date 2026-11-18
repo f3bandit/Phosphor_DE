@@ -1,4 +1,4 @@
-cheats = 73
+cheats = 70
 
 cheat0_desc = "100% Figure Success"
 cheat0_code = "330019DA+0064"
@@ -212,82 +212,70 @@ cheat52_desc = "Invincibility"
 cheat52_code = "3300119D+0040"
 cheat52_enable = false
 
-cheat53_desc = "Map Modifier [Controls The General Giant Map Area]"
-cheat53_code = "33000BF4+0000"
+cheat53_desc = "Max HP"
+cheat53_code = "32002AEB+00A0"
 cheat53_enable = false
 
-cheat54_desc = "Max HP"
-cheat54_code = "32002AEB+00A0"
+cheat54_desc = "Open Most Dungeon Doors To Dark Hyrule Castle/Kill Vaati 1&2"
+cheat54_code = "82002DBC+FFFF+82002DB4+FFFD+82034364+FFFF"
 cheat54_enable = false
 
-cheat55_desc = "Music Modifier"
-cheat55_code = "320342F4+0001"
+cheat55_desc = "Press L To Jump Over Things!"
+cheat55_code = "73000FF0+0200+3300116C+0004"
 cheat55_enable = false
 
-cheat56_desc = "Open Most Dungeon Doors To Dark Hyrule Castle/Kill Vaati 1&2"
-cheat56_code = "82002DBC+FFFF+82002DB4+FFFD+82034364+FFFF"
+cheat56_desc = "Press L+A To Shrink, L+B To Normal Size"
+cheat56_code = "73000FF0+0201+8300116C+0009+73000FF0+0202+8300116C+0209+7300116C+0309+8300116C+0409"
 cheat56_enable = false
 
-cheat57_desc = "Press L To Jump Over Things!"
-cheat57_code = "73000FF0+0200+3300116C+0004"
+cheat57_desc = "Press L+Down For Mini Mode"
+cheat57_code = "73000FF0+0280+8300116C+0109+73000FF0+0280+83001170+11A0+73000FF0+0280+83001172+000C+73000FF0+0280+83001184+00C0+73000FF0+0280+83001188+1C01+73000FF0+0280+83003F80+00FF+73000FF0+0280+83003F86+0000+73000FF0+0280+83003FB0+0080"
 cheat57_enable = false
 
-cheat58_desc = "Press L+A To Shrink, L+B To Normal Size"
-cheat58_code = "73000FF0+0201+8300116C+0009+73000FF0+0202+8300116C+0209+7300116C+0309+8300116C+0409"
+cheat58_desc = "Press L+Up For Normal Mode"
+cheat58_code = "73000FF0+0240+8300116C+0001+73000FF0+0240+83001170+11A0+73000FF0+0240+83001172+0001+73000FF0+0240+83001184+0140+73000FF0+0240+83001188+0C01+73000FF0+0240+83003F80+0000+73000FF0+0240+83003F86+0000+73000FF0+0240+83003FB0+0000"
 cheat58_enable = false
 
-cheat59_desc = "Press L+Down For Mini Mode"
-cheat59_code = "73000FF0+0280+8300116C+0109+73000FF0+0280+83001170+11A0+73000FF0+0280+83001172+000C+73000FF0+0280+83001184+00C0+73000FF0+0280+83001188+1C01+73000FF0+0280+83003F80+00FF+73000FF0+0280+83003F86+0000+73000FF0+0280+83003FB0+0080"
+cheat59_desc = "Reduce Size [Press A+B+R]"
+cheat59_code = "74000130+02FC+3300116C+0009+74000130+02FC+33003FB0+0080"
 cheat59_enable = false
 
-cheat60_desc = "Press L+Up For Normal Mode"
-cheat60_code = "73000FF0+0240+8300116C+0001+73000FF0+0240+83001170+11A0+73000FF0+0240+83001172+0001+73000FF0+0240+83001184+0140+73000FF0+0240+83001188+0C01+73000FF0+0240+83003F80+0000+73000FF0+0240+83003F86+0000+73000FF0+0240+83003FB0+0000"
+cheat60_desc = "Restore Size [Press A+B+L]"
+cheat60_code = "74000130+01FC+3300116C+0001+74000130+01FC+33003FB0+0000"
 cheat60_enable = false
 
-cheat61_desc = "Reduce Size [Press A+B+R]"
-cheat61_code = "74000130+02FC+3300116C+0009+74000130+02FC+33003FB0+0080"
+cheat61_desc = "Roll Thru Walls"
+cheat61_code = "7300116C+0118+33001198+0008+73001184+0140+33001198+0001"
 cheat61_enable = false
 
-cheat62_desc = "Restore Size [Press A+B+L]"
-cheat62_code = "74000130+01FC+3300116C+0001+74000130+01FC+33003FB0+0000"
+cheat62_desc = "Win Cucco Game [Press Select+Up]"
+cheat62_code = "74000130+03BB+420365DC+01C0+00000003+0024"
 cheat62_enable = false
 
-cheat63_desc = "Roll Thru Walls"
-cheat63_code = "7300116C+0118+33001198+0008+73001184+0140+33001198+0001"
+cheat63_desc = "Infinite HP"
+cheat63_code = "32002AEA+00A0"
 cheat63_enable = false
 
-cheat64_desc = "Room Modifier [Controls The Current Submap Area]"
-cheat64_code = "33000BF5+0000"
+cheat64_desc = "Invincible"
+cheat64_code = "3300119D+0003"
 cheat64_enable = false
 
-cheat65_desc = "Win Cucco Game [Press Select+Up]"
-cheat65_code = "74000130+03BB+420365DC+01C0+00000003+0024"
+cheat65_desc = "Have All Scrolls"
+cheat65_code = "82002B44+5555"
 cheat65_enable = false
 
-cheat66_desc = "Infinite HP"
-cheat66_code = "32002AEA+00A0"
+cheat66_desc = "Have 130 Original Figurines"
+cheat66_code = "42002B0E+FFFF+00000007+0002+82002B1E+0007+32002AF0+0082"
 cheat66_enable = false
 
-cheat67_desc = "Invincible"
-cheat67_code = "3300119D+0003"
+cheat67_desc = "Have 129 of 130 Original Figurines"
+cheat67_code = "42002B0E+FFFF+00000007+0002+82002B1E+0003+32002AF0+0081"
 cheat67_enable = false
 
-cheat68_desc = "Have All Scrolls"
-cheat68_code = "82002B44+5555"
+cheat68_desc = "Have 136 Figurines"
+cheat68_code = "42002B0E+FFFF+00000007+0002+82002B1E+01FF+32002AF0+0088"
 cheat68_enable = false
 
-cheat69_desc = "Have 130 Original Figurines"
-cheat69_code = "42002B0E+FFFF+00000007+0002+82002B1E+0007+32002AF0+0082"
+cheat69_desc = "Have 135 of 136 Figurines"
+cheat69_code = "42002B0E+FFFF+00000007+0002+82002B1E+00FF+32002AF0+0087"
 cheat69_enable = false
-
-cheat70_desc = "Have 129 of 130 Original Figurines"
-cheat70_code = "42002B0E+FFFF+00000007+0002+82002B1E+0003+32002AF0+0081"
-cheat70_enable = false
-
-cheat71_desc = "Have 136 Figurines"
-cheat71_code = "42002B0E+FFFF+00000007+0002+82002B1E+01FF+32002AF0+0088"
-cheat71_enable = false
-
-cheat72_desc = "Have 135 of 136 Figurines"
-cheat72_code = "42002B0E+FFFF+00000007+0002+82002B1E+00FF+32002AF0+0087"
-cheat72_enable = false

@@ -1,9 +1,5 @@
-cheats = 2
+cheats = 1
 
 cheat0_desc = "Championship 99 Cups"
 cheat0_code = "33003331+0063"
 cheat0_enable = false
-
-cheat1_desc = "Press Cheat Device Button For 0 Timer - Short Truck 500"
-cheat1_code = "88E43714+B844"
-cheat1_enable = false

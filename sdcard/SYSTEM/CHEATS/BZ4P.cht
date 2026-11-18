@@ -1,4 +1,4 @@
-cheats = 51
+cheats = 47
 
 cheat0_desc = "1-Hit Kill Enemy #1"
 cheat0_code = "820245A8+0001"
@@ -108,98 +108,82 @@ cheat26_desc = "Infinite MP (In-Battle)"
 cheat26_code = "73007DFC+9AB0+420242F0+03E7+00000005+005C+73007DFC+9898+420240D8+03E7+00000005+005C"
 cheat26_enable = false
 
-cheat27_desc = "Item After  BattleModifier Slot 3"
-cheat27_code = "82022C78+0000"
+cheat27_desc = "Item Quanity Slot 1"
+cheat27_code = "32022C72+0000"
 cheat27_enable = false
 
-cheat28_desc = "Item After Battle Modifier Slot 1"
-cheat28_code = "82022C70+0000"
+cheat28_desc = "Item Quanity Slot 2"
+cheat28_code = "32022C76+0000"
 cheat28_enable = false
 
-cheat29_desc = "Item After Battle Modifier Slot 2"
-cheat29_code = "82022C74+0000"
+cheat29_desc = "Item Quanity Slot 3"
+cheat29_code = "32022C7A+0000"
 cheat29_enable = false
 
-cheat30_desc = "Item After Battle Modifier Slot 4"
-cheat30_code = "82022C7C+0000"
+cheat30_desc = "Item Quanity Slot 4"
+cheat30_code = "32022C7E+0000"
 cheat30_enable = false
 
-cheat31_desc = "Item Quanity Slot 1"
-cheat31_code = "32022C72+0000"
+cheat31_desc = "Load A Save To Enter The Debug Room"
+cheat31_code = "7200D686+000C+8200D6D2+015D+7200D686+000C+8200DA4C+0068+7200D686+000C+8200DA48+0078"
 cheat31_enable = false
 
-cheat32_desc = "Item Quanity Slot 2"
-cheat32_code = "32022C76+0000"
+cheat32_desc = "No Random Battles"
+cheat32_code = "3200E064+0001"
 cheat32_enable = false
 
-cheat33_desc = "Item Quanity Slot 3"
-cheat33_code = "32022C7A+0000"
+cheat33_desc = "One Battle for Max Level Up (ALL CHARACTERS)"
+cheat33_code = "82024230+E0FF+82024232+5F5E"
 cheat33_enable = false
 
-cheat34_desc = "Item Quanity Slot 4"
-cheat34_code = "32022C7E+0000"
+cheat34_desc = "One Battle For Max Money"
+cheat34_code = "82024234+E0FF+82024236+5F5E"
 cheat34_enable = false
 
-cheat35_desc = "Load A Save To Enter The Debug Room"
-cheat35_code = "7200D686+000C+8200D6D2+015D+7200D686+000C+8200DA4C+0068+7200D686+000C+8200DA48+0078"
+cheat35_desc = "Quick Turn Recovery"
+cheat35_code = "73007DFC+9AB0+4202402C+0000+00000005+0028+73007DFC+9898+42023E14+0000+00000005+0028"
 cheat35_enable = false
 
-cheat36_desc = "No Random Battles"
-cheat36_code = "3200E064+0001"
+cheat36_desc = "Save Anywhere"
+cheat36_code = "7200D684+000A+3200D67D+000E"
 cheat36_enable = false
 
-cheat37_desc = "One Battle for Max Level Up (ALL CHARACTERS)"
-cheat37_code = "82024230+E0FF+82024232+5F5E"
+cheat37_desc = "Treasures Found ALL at 99"
+cheat37_code = "42022C72+0063+00000006+0002"
 cheat37_enable = false
 
-cheat38_desc = "One Battle For Max Money"
-cheat38_code = "82024234+E0FF+82024236+5F5E"
+cheat38_desc = "Infinite Money"
+cheat38_code = "820072BC+DF47+820072BE+05F5"
 cheat38_enable = false
 
-cheat39_desc = "Quick Turn Recovery"
-cheat39_code = "73007DFC+9AB0+4202402C+0000+00000005+0028+73007DFC+9898+42023E14+0000+00000005+0028"
+cheat39_desc = "Enter Debug Room"
+cheat39_code = "7200E002+000C+8200E04E+015D+7200E002+000C+8200E3C4+0078+7200E002+000C+8200E3C8+0068"
 cheat39_enable = false
 
-cheat40_desc = "Save Anywhere"
-cheat40_code = "7200D684+000A+3200D67D+000E"
+cheat40_desc = "Max HP/Infinite HP (Out Battle) (ALL)"
+cheat40_code = "420069F8+270F+0000000C+0048+420069FA+270F+0000000C+0048"
 cheat40_enable = false
 
-cheat41_desc = "Treasures Found ALL at 99"
-cheat41_code = "42022C72+0063+00000006+0002"
+cheat41_desc = "Max MP/Infinite MP (Out Battle) (ALL)"
+cheat41_code = "420069FC+03E7+0000000C+0048+420069FE+03E7+0000000C+0048"
 cheat41_enable = false
 
-cheat42_desc = "Infinite Money"
-cheat42_code = "820072BC+DF47+820072BE+05F5"
+cheat42_desc = "Max Status (ALL)"
+cheat42_code = "42006A0C+FFFF+0000000C+0048+42006A0E+FFFF+0000000C+0048+42006A10+FFFF+0000000C+0048+42006A12+FFFF+0000000C+0048+42006A14+FFFF+0000000C+0048+42006A16+FFFF+0000000C+0048+42006A18+FFFF+0000000C+0048"
 cheat42_enable = false
 
-cheat43_desc = "Enter Debug Room"
-cheat43_code = "7200E002+000C+8200E04E+015D+7200E002+000C+8200E3C4+0078+7200E002+000C+8200E3C8+0068"
+cheat43_desc = "Infinite HP & MP (Battle)"
+cheat43_code = "72024C68+270F+42024C44+270F+00000005+005C+72024A50+270F+42024A2C+270F+00000005+005C+72024C68+270F+42024C6C+03E7+00000005+005C+72024A50+270F+42024A54+03E7+00000005+005C"
 cheat43_enable = false
 
-cheat44_desc = "Max HP/Infinite HP (Out Battle) (ALL)"
-cheat44_code = "420069F8+270F+0000000C+0048+420069FA+270F+0000000C+0048"
+cheat44_desc = "Completed Bestiary"
+cheat44_code = "420073EC+83E7+0000011B+0002"
 cheat44_enable = false
 
-cheat45_desc = "Max MP/Infinite MP (Out Battle) (ALL)"
-cheat45_code = "420069FC+03E7+0000000C+0048+420069FE+03E7+0000000C+0048"
+cheat45_desc = "Infinite Itens (All Slots)"
+cheat45_code = "42006EE6+0063+00000030+0004"
 cheat45_enable = false
 
-cheat46_desc = "Max Status (ALL)"
-cheat46_code = "42006A0C+FFFF+0000000C+0048+42006A0E+FFFF+0000000C+0048+42006A10+FFFF+0000000C+0048+42006A12+FFFF+0000000C+0048+42006A14+FFFF+0000000C+0048+42006A16+FFFF+0000000C+0048+42006A18+FFFF+0000000C+0048"
+cheat46_desc = "Walk Through Walls (Hold R)"
+cheat46_code = "74000130+02EF+E200E3C4+0001+74000130+02DF+E200E3C4+FFFF+74000130+02BF+E200E3C8+FFFF+74000130+027F+E200E3C8+0001+74000130+02EF+E2017B98+0001+74000130+02DF+E2017B98+FFFF+74000130+02BF+E2017B9A+FFFF+74000130+027F+E2017B9A+0001+74000130+02EF+E2017BA8+0001+74000130+02DF+E2017BA8+FFFF+74000130+02BF+E2017BAA+FFFF+74000130+027F+E2017BAA+0001+74000130+02EF+E2017BAC+0001+74000130+02DF+E2017BAC+FFFF+74000130+02BF+E2017BAE+FFFF+74000130+027F+E2017BAE+0001"
 cheat46_enable = false
-
-cheat47_desc = "Infinite HP & MP (Battle)"
-cheat47_code = "72024C68+270F+42024C44+270F+00000005+005C+72024A50+270F+42024A2C+270F+00000005+005C+72024C68+270F+42024C6C+03E7+00000005+005C+72024A50+270F+42024A54+03E7+00000005+005C"
-cheat47_enable = false
-
-cheat48_desc = "Completed Bestiary"
-cheat48_code = "420073EC+83E7+0000011B+0002"
-cheat48_enable = false
-
-cheat49_desc = "Infinite Itens (All Slots)"
-cheat49_code = "42006EE6+0063+00000030+0004"
-cheat49_enable = false
-
-cheat50_desc = "Walk Through Walls (Hold R)"
-cheat50_code = "74000130+02EF+E200E3C4+0001+74000130+02DF+E200E3C4+FFFF+74000130+02BF+E200E3C8+FFFF+74000130+027F+E200E3C8+0001+74000130+02EF+E2017B98+0001+74000130+02DF+E2017B98+FFFF+74000130+02BF+E2017B9A+FFFF+74000130+027F+E2017B9A+0001+74000130+02EF+E2017BA8+0001+74000130+02DF+E2017BA8+FFFF+74000130+02BF+E2017BAA+FFFF+74000130+027F+E2017BAA+0001+74000130+02EF+E2017BAC+0001+74000130+02DF+E2017BAC+FFFF+74000130+02BF+E2017BAE+FFFF+74000130+027F+E2017BAE+0001"
-cheat50_enable = false

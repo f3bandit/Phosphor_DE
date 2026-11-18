@@ -1,4 +1,4 @@
-cheats = 16
+cheats = 10
 
 cheat0_desc = "Infinite Time To Choose Character"
 cheat0_code = "33005CE3+000F"
@@ -28,38 +28,14 @@ cheat6_desc = "P2 Score 0"
 cheat6_code = "83003140+0000+83003142+0000"
 cheat6_enable = false
 
-cheat7_desc = "Player 1 Lower Piece Modifier"
-cheat7_code = "33002EB0+0000"
+cheat7_desc = "Player 1's Pieces Don't Drop Automatically"
+cheat7_code = "33002EB4+0001"
 cheat7_enable = false
 
-cheat8_desc = "Player 1 Modifier"
-cheat8_code = "33005D48+0000"
+cheat8_desc = "Player 2's Pieces Doesn't Drop Automatically"
+cheat8_code = "330031E4+0001"
 cheat8_enable = false
 
-cheat9_desc = "Player 1 Upper Piece Modifier"
-cheat9_code = "33002EB2+0000"
+cheat9_desc = "Unlock All Levels And Bonuses"
+cheat9_code = "82001348+07FF+8200134C+07FF+82001350+07FF+82001354+07FF+4200135C+0101+00000003+0002+32001364+0001"
 cheat9_enable = false
-
-cheat10_desc = "Player 1's Pieces Don't Drop Automatically"
-cheat10_code = "33002EB4+0001"
-cheat10_enable = false
-
-cheat11_desc = "Player 2 Lower Piece Modifier"
-cheat11_code = "330031E0+0000"
-cheat11_enable = false
-
-cheat12_desc = "Player 2 Modifier"
-cheat12_code = "33005E08+0000"
-cheat12_enable = false
-
-cheat13_desc = "Player 2 Upper Piece Modifier"
-cheat13_code = "330031E2+0000"
-cheat13_enable = false
-
-cheat14_desc = "Player 2's Pieces Doesn't Drop Automatically"
-cheat14_code = "330031E4+0001"
-cheat14_enable = false
-
-cheat15_desc = "Unlock All Levels And Bonuses"
-cheat15_code = "82001348+07FF+8200134C+07FF+82001350+07FF+82001354+07FF+4200135C+0101+00000003+0002+32001364+0001"
-cheat15_enable = false

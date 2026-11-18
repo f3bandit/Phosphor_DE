@@ -1,4 +1,4 @@
-cheats = 23
+cheats = 22
 
 cheat0_desc = "Access All Players"
 cheat0_code = "73002A72+00E4+33002AA6+0027+73002A72+00E4+43002AB2+0B0A+02020010+0002+73002A72+00E4+43002AFA+0000+00000010+0002"
@@ -12,82 +12,78 @@ cheat2_desc = "Always Win Training"
 cheat2_code = "720002B0+00FF+320002B0+0001"
 cheat2_enable = false
 
-cheat3_desc = "Court Modifier"
-cheat3_code = "320002A0+0000"
+cheat3_desc = "Dopey Opponent #1"
+cheat3_code = "73002390+0005+330022DA+0003+73002390+0002+330022DA+0002"
 cheat3_enable = false
 
-cheat4_desc = "Dopey Opponent #1"
-cheat4_code = "73002390+0005+330022DA+0003+73002390+0002+330022DA+0002"
+cheat4_desc = "Dopey Opponent #2"
+cheat4_code = "730026D0+0005+3300261A+0003+730026D0+0002+3300261A+0002"
 cheat4_enable = false
 
-cheat5_desc = "Dopey Opponent #2"
-cheat5_code = "730026D0+0005+3300261A+0003+730026D0+0002+3300261A+0002"
+cheat5_desc = "Have All Power Shots"
+cheat5_code = "420005E0+0101+00000008+0002"
 cheat5_enable = false
 
-cheat6_desc = "Have All Power Shots"
-cheat6_code = "420005E0+0101+00000008+0002"
+cheat6_desc = "Have Top Ranking"
+cheat6_code = "42000184+FFFF+00000003+0002"
 cheat6_enable = false
 
-cheat7_desc = "Have Top Ranking"
-cheat7_code = "42000184+FFFF+00000003+0002"
+cheat7_desc = "Hold R: Quick Level Up"
+cheat7_code = "F3001244+0100+33002C38+0063"
 cheat7_enable = false
 
-cheat8_desc = "Hold R: Quick Level Up"
-cheat8_code = "F3001244+0100+33002C38+0063"
+cheat8_desc = "Infinite Exp [Hold L+R+A]"
+cheat8_code = "74000130+00FE+33002C38+0002"
 cheat8_enable = false
 
-cheat9_desc = "Infinite Exp [Hold L+R+A]"
-cheat9_code = "74000130+00FE+33002C38+0002"
+cheat9_desc = "Large Player"
+cheat9_code = "7300213A+0001+530021A8+0004+00700100+0070+01000000+0000"
 cheat9_enable = false
 
-cheat10_desc = "Large Player"
-cheat10_code = "7300213A+0001+530021A8+0004+00700100+0070+01000000+0000"
+cheat10_desc = "Main Skill [Hold R+A]"
+cheat10_code = "74000130+02FE+33001E1C+0002"
 cheat10_enable = false
 
-cheat11_desc = "Main Skill [Hold R+A]"
-cheat11_code = "74000130+02FE+33001E1C+0002"
+cheat11_desc = "Maximum Power"
+cheat11_code = "7300213A+0001+330020ED+00FF"
 cheat11_enable = false
 
-cheat12_desc = "Maximum Power"
-cheat12_code = "7300213A+0001+330020ED+00FF"
+cheat12_desc = "Maximum Speed"
+cheat12_code = "7300213A+0001+830020E4+C0C0"
 cheat12_enable = false
 
-cheat13_desc = "Maximum Speed"
-cheat13_code = "7300213A+0001+830020E4+C0C0"
+cheat13_desc = "Opponent Never Scores"
+cheat13_code = "320002BD+0000"
 cheat13_enable = false
 
-cheat14_desc = "Opponent Never Scores"
-cheat14_code = "320002BD+0000"
+cheat14_desc = "P1 Power Meter Always Full"
+cheat14_code = "320004CD+0027"
 cheat14_enable = false
 
-cheat15_desc = "P1 Power Meter Always Full"
-cheat15_code = "320004CD+0027"
+cheat15_desc = "P1 Scores Once To Win Game"
+cheat15_code = "320002BC+0003"
 cheat15_enable = false
 
-cheat16_desc = "P1 Scores Once To Win Game"
-cheat16_code = "320002BC+0003"
+cheat16_desc = "Secondry Skill [Hold L+A]"
+cheat16_code = "74000130+01FE+33001E20+0002"
 cheat16_enable = false
 
-cheat17_desc = "Secondry Skill [Hold L+A]"
-cheat17_code = "74000130+01FE+33001E20+0002"
+cheat17_desc = "Small Player"
+cheat17_code = "7300213A+0001+530021A8+0004+00A00000+00A0+00000000+0000"
 cheat17_enable = false
 
-cheat18_desc = "Small Player"
-cheat18_code = "7300213A+0001+530021A8+0004+00A00000+00A0+00000000+0000"
+cheat18_desc = "Start With 40 Points"
+cheat18_code = "720002BC+0000+320002BC+0003"
 cheat18_enable = false
 
-cheat19_desc = "Start With 40 Points"
-cheat19_code = "720002BC+0000+320002BC+0003"
+cheat19_desc = "Unlimited Balls For Machine Court"
+cheat19_code = "3200B590+0009"
 cheat19_enable = false
 
-cheat20_desc = "Unlimited Balls For Machine Court"
-cheat20_code = "3200B590+0009"
+cheat20_desc = "Unlock Peach Dome"
+cheat20_code = "33002B92+0005"
 cheat20_enable = false
 
-cheat21_desc = "Unlock Peach Dome"
-cheat21_code = "33002B92+0005"
+cheat21_desc = "View Mini-Games Menu"
+cheat21_code = "73007E6C+0560+33007E6C+0570"
 cheat21_enable = false
-
-cheat22_desc = "View Mini-Games Menu"
-cheat22_code = "73007E6C+0560+33007E6C+0570"
-cheat22_enable = false

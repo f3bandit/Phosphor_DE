@@ -1,4 +1,4 @@
-cheats = 22
+cheats = 21
 
 cheat0_desc = "Access Extra Options"
 cheat0_code = "72007AB8+1104+32007A66+0008"
@@ -68,22 +68,18 @@ cheat16_desc = "Press R Trigger+B For Grenades As Secondary"
 cheat16_code = "74000130+02FD+32011EE4+0004"
 cheat16_enable = false
 
-cheat17_desc = "Primary Weapon Equiped Modifier"
-cheat17_code = "32011EE0+0000"
+cheat17_desc = "Unlock all Missions"
+cheat17_code = "33005260+0014"
 cheat17_enable = false
 
-cheat18_desc = "Unlock all Missions"
-cheat18_code = "33005260+0014"
+cheat18_desc = "Unlock All Quick Start Missions"
+cheat18_code = "42007A10+0000+0000000F+0004"
 cheat18_enable = false
 
-cheat19_desc = "Unlock All Quick Start Missions"
-cheat19_code = "42007A10+0000+0000000F+0004"
+cheat19_desc = "Unlock Max-GI Mode"
+cheat19_code = "320079ED+0000"
 cheat19_enable = false
 
-cheat20_desc = "Unlock Max-GI Mode"
-cheat20_code = "320079ED+0000"
+cheat20_desc = "Unlock Survival Mode"
+cheat20_code = "320079EC+0000"
 cheat20_enable = false
-
-cheat21_desc = "Unlock Survival Mode"
-cheat21_code = "320079EC+0000"
-cheat21_enable = false

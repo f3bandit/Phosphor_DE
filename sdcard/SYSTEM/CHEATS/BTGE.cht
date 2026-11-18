@@ -1,13 +1,9 @@
-cheats = 3
+cheats = 2
 
-cheat0_desc = "Access All Cups"
-cheat0_code = "7200016C+00B8"
+cheat0_desc = "Have Gold On All Arcade Stages"
+cheat0_code = "4300072E+0101+00000000+0000"
 cheat0_enable = false
 
-cheat1_desc = "Have Gold On All Arcade Stages"
-cheat1_code = "4300072E+0101+00000000+0000"
+cheat1_desc = "Have Gold On All Cup Stages"
+cheat1_code = "430006A0+0303+00000000+0000"
 cheat1_enable = false
-
-cheat2_desc = "Have Gold On All Cup Stages"
-cheat2_code = "430006A0+0303+00000000+0000"
-cheat2_enable = false

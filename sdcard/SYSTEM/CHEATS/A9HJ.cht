@@ -1,4 +1,4 @@
-cheats = 28
+cheats = 27
 
 cheat0_desc = "Completed Chapters?"
 cheat0_code = "8300509C+03E7"
@@ -68,46 +68,42 @@ cheat16_desc = "Monster EXP Pts (Part 2"
 cheat16_code = "820143DE+0000"
 cheat16_enable = false
 
-cheat17_desc = "Monster Modifier"
-cheat17_code = "320143C0+0000"
+cheat17_desc = "Plus Level"
+cheat17_code = "320143D1+0063"
 cheat17_enable = false
 
-cheat18_desc = "Plus Level"
-cheat18_code = "320143D1+0063"
+cheat18_desc = "Quick Level Up Code"
+cheat18_code = "820141C8+FFFF"
 cheat18_enable = false
 
-cheat19_desc = "Quick Level Up Code"
-cheat19_code = "820141C8+FFFF"
+cheat19_desc = "Species (001 - 13D)"
+cheat19_code = "820143C2+0000"
 cheat19_enable = false
 
-cheat20_desc = "Species (001 - 13D)"
-cheat20_code = "820143C2+0000"
+cheat20_desc = "Stat 1 (Attack)"
+cheat20_code = "820143E8+0000"
 cheat20_enable = false
 
-cheat21_desc = "Stat 1 (Attack)"
-cheat21_code = "820143E8+0000"
+cheat21_desc = "Stat 2 (Defense)"
+cheat21_code = "820143EA+0000"
 cheat21_enable = false
 
-cheat22_desc = "Stat 2 (Defense)"
-cheat22_code = "820143EA+0000"
+cheat22_desc = "Stat 3 (Speed)"
+cheat22_code = "820143EC+0000"
 cheat22_enable = false
 
-cheat23_desc = "Stat 3 (Speed)"
-cheat23_code = "820143EC+0000"
+cheat23_desc = "Stat 4 (Magic Power)"
+cheat23_code = "820143EE+0000"
 cheat23_enable = false
 
-cheat24_desc = "Stat 4 (Magic Power)"
-cheat24_code = "820143EE+0000"
+cheat24_desc = "Time"
+cheat24_code = "830050A4+0000+830050A6+0000"
 cheat24_enable = false
 
-cheat25_desc = "Time"
-cheat25_code = "830050A4+0000+830050A6+0000"
+cheat25_desc = "Wagon Max Weight Set To 99"
+cheat25_code = "3201534C+0063"
 cheat25_enable = false
 
-cheat26_desc = "Wagon Max Weight Set To 99"
-cheat26_code = "3201534C+0063"
+cheat26_desc = "Wagon Weight Set To 0"
+cheat26_code = "3201534B+0000"
 cheat26_enable = false
-
-cheat27_desc = "Wagon Weight Set To 0"
-cheat27_code = "3201534B+0000"
-cheat27_enable = false

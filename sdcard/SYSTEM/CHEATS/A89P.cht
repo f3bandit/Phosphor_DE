@@ -1,6 +1,6 @@
 cheats = 15
 
-cheat0_desc = "Gauge Always 0"
+cheat0_desc = "Gauge Always 0"
 cheat0_code = "32005174+0064"
 cheat0_enable = false
 

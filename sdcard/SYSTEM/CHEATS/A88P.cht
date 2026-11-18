@@ -1,4 +1,4 @@
-cheats = 140
+cheats = 136
 
 cheat0_desc = "Always Have POW Blocks"
 cheat0_code = "830033E8+B0AF+83002EE8+B0AF"
@@ -84,478 +84,462 @@ cheat20_desc = "Have #1 Trousers"
 cheat20_code = "320049D2+0008"
 cheat20_enable = false
 
-cheat21_desc = "Have 9,999 Coins"
-cheat21_code = "73000F8C+3D28"
+cheat21_desc = "Have All Beans"
+cheat21_code = "82004902+6363+82004904+6363"
 cheat21_enable = false
 
-cheat22_desc = "Have All Beans"
-cheat22_code = "82004902+6363+82004904+6363"
+cheat22_desc = "Have All Key Items"
+cheat22_code = "4200490A+FFFF+00000004+0002"
 cheat22_enable = false
 
-cheat23_desc = "Have All Key Items"
-cheat23_code = "4200490A+FFFF+00000004+0002"
+cheat23_desc = "Have All Weapons/Abilities"
+cheat23_code = "82004338+FFFF"
 cheat23_enable = false
 
-cheat24_desc = "Have All Weapons/Abilities"
-cheat24_code = "82004338+FFFF"
+cheat24_desc = "Have Ancient Pants"
+cheat24_code = "320049EF+0025"
 cheat24_enable = false
 
-cheat25_desc = "Have Ancient Pants"
-cheat25_code = "320049EF+0025"
+cheat25_desc = "Have Anuboo Jeans"
+cheat25_code = "320049EC+0022"
 cheat25_enable = false
 
-cheat26_desc = "Have Anuboo Jeans"
-cheat26_code = "320049EC+0022"
+cheat26_desc = "Have B.Brand Jeans"
+cheat26_code = "320049E3+0019"
 cheat26_enable = false
 
-cheat27_desc = "Have B.Brand Jeans"
-cheat27_code = "320049E3+0019"
+cheat27_desc = "Have Bean Pants"
+cheat27_code = "320049CD+0003"
 cheat27_enable = false
 
-cheat28_desc = "Have Bean Pants"
-cheat28_code = "320049CD+0003"
+cheat28_desc = "Have Bean Trousers"
+cheat28_code = "320049CC+0002"
 cheat28_enable = false
 
-cheat29_desc = "Have Bean Trousers"
-cheat29_code = "320049CC+0002"
+cheat29_desc = "Have Beanstar Pants"
+cheat29_code = "320049DE+0014"
 cheat29_enable = false
 
-cheat30_desc = "Have Beanstar Pants"
-cheat30_code = "320049DE+0014"
+cheat30_desc = "Have Blue Jeans"
+cheat30_code = "320049CF+0005"
 cheat30_enable = false
 
-cheat31_desc = "Have Blue Jeans"
-cheat31_code = "320049CF+0005"
+cheat31_desc = "Have Bonus Ring"
+cheat31_code = "32004A03+0001"
 cheat31_enable = false
 
-cheat32_desc = "Have Bonus Ring"
-cheat32_code = "32004A03+0001"
+cheat32_desc = "Have Bubbles's Gear"
+cheat32_code = "320049E4+001A"
 cheat32_enable = false
 
-cheat33_desc = "Have Bubbles's Gear"
-cheat33_code = "320049E4+001A"
+cheat33_desc = "Have Casual Coral"
+cheat33_code = "320049EA+0020"
 cheat33_enable = false
 
-cheat34_desc = "Have Casual Coral"
-cheat34_code = "320049EA+0020"
+cheat34_desc = "Have Casual Slacks"
+cheat34_code = "320049E5+001B"
 cheat34_enable = false
 
-cheat35_desc = "Have Casual Slacks"
-cheat35_code = "320049E5+001B"
+cheat35_desc = "Have Chuckola Pants"
+cheat35_code = "320049E7+001D"
 cheat35_enable = false
 
-cheat36_desc = "Have Chuckola Pants"
-cheat36_code = "320049E7+001D"
+cheat36_desc = "Have Cobalt Necktie"
+cheat36_code = "32004A07+0005"
 cheat36_enable = false
 
-cheat37_desc = "Have Cobalt Necktie"
-cheat37_code = "32004A07+0005"
+cheat37_desc = "Have Excite Spring"
+cheat37_code = "32004A04+0002"
 cheat37_enable = false
 
-cheat38_desc = "Have Excite Spring"
-cheat38_code = "32004A04+0002"
+cheat38_desc = "Have Game Boy Horror SP"
+cheat38_code = "32004A08+0006"
 cheat38_enable = false
 
-cheat39_desc = "Have Game Boy Horror SP"
-cheat39_code = "32004A08+0006"
+cheat39_desc = "Have Great Force"
+cheat39_code = "32004A05+0003"
 cheat39_enable = false
 
-cheat40_desc = "Have Great Force"
-cheat40_code = "32004A05+0003"
+cheat40_desc = "Have Greed Wallet"
+cheat40_code = "32004A02+0000"
 cheat40_enable = false
 
-cheat41_desc = "Have Greed Wallet"
-cheat41_code = "32004A02+0000"
+cheat41_desc = "Have Hard Pants"
+cheat41_code = "320049D1+0007"
 cheat41_enable = false
 
-cheat42_desc = "Have Hard Pants"
-cheat42_code = "320049D1+0007"
+cheat42_desc = "Have Harhall's Pants"
+cheat42_code = "320049F0+0026"
 cheat42_enable = false
 
-cheat43_desc = "Have Harhall's Pants"
-cheat43_code = "320049F0+0026"
+cheat43_desc = "Have Heart Jeans"
+cheat43_code = "320049D0+0006"
 cheat43_enable = false
 
-cheat44_desc = "Have Heart Jeans"
-cheat44_code = "320049D0+0006"
+cheat44_desc = "Have Heart Slacks"
+cheat44_code = "320049E2+0018"
 cheat44_enable = false
 
-cheat45_desc = "Have Heart Slacks"
-cheat45_code = "320049E2+0018"
+cheat45_desc = "Have Heavy Slacks"
+cheat45_code = "320049EE+0024"
 cheat45_enable = false
 
-cheat46_desc = "Have Heavy Slacks"
-cheat46_code = "320049EE+0024"
+cheat46_desc = "Have Hermetic Pants"
+cheat46_code = "320049DF+0015"
 cheat46_enable = false
 
-cheat47_desc = "Have Hermetic Pants"
-cheat47_code = "320049DF+0015"
+cheat47_desc = "Have Iron Pants"
+cheat47_code = "320049F6+002C"
 cheat47_enable = false
 
-cheat48_desc = "Have Iron Pants"
-cheat48_code = "320049F6+002C"
+cheat48_desc = "Have Jeanie Jeans"
+cheat48_code = "320049F3+0029"
 cheat48_enable = false
 
-cheat49_desc = "Have Jeanie Jeans"
-cheat49_code = "320049F3+0029"
+cheat49_desc = "Have Jeaniest Jeans"
+cheat49_code = "320049F4+002A"
 cheat49_enable = false
 
-cheat50_desc = "Have Jeaniest Jeans"
-cheat50_code = "320049F4+002A"
+cheat50_desc = "Have Light Slacks"
+cheat50_code = "320049F1+0027"
 cheat50_enable = false
 
-cheat51_desc = "Have Light Slacks"
-cheat51_code = "320049F1+0027"
+cheat51_desc = "Have Mushluck Pants"
+cheat51_code = "320049DB+0011"
 cheat51_enable = false
 
-cheat52_desc = "Have Mushluck Pants"
-cheat52_code = "320049DB+0011"
+cheat52_desc = "Have Mushwin Pants"
+cheat52_code = "320049D8+000E"
 cheat52_enable = false
 
-cheat53_desc = "Have Mushwin Pants"
-cheat53_code = "320049D8+000E"
+cheat53_desc = "Have Oho Gear"
+cheat53_code = "320049EB+0021"
 cheat53_enable = false
 
-cheat54_desc = "Have Oho Gear"
-cheat54_code = "320049EB+0021"
+cheat54_desc = "Have Oho Jee Wear"
+cheat54_code = "320049E8+001E"
 cheat54_enable = false
 
-cheat55_desc = "Have Oho Jee Wear"
-cheat55_code = "320049E8+001E"
+cheat55_desc = "Have Parasol Pants"
+cheat55_code = "320049CE+0004"
 cheat55_enable = false
 
-cheat56_desc = "Have Parasol Pants"
-cheat56_code = "320049CE+0004"
+cheat56_desc = "Have Peachy Jeans"
+cheat56_code = "320049D9+000F"
 cheat56_enable = false
 
-cheat57_desc = "Have Peachy Jeans"
-cheat57_code = "320049D9+000F"
+cheat57_desc = "Have Peasley Slacks"
+cheat57_code = "320049E1+0017"
 cheat57_enable = false
 
-cheat58_desc = "Have Peasley Slacks"
-cheat58_code = "320049E1+0017"
+cheat58_desc = "Have Piranha Suit"
+cheat58_code = "320049ED+0023"
 cheat58_enable = false
 
-cheat59_desc = "Have Piranha Suit"
-cheat59_code = "320049ED+0023"
+cheat59_desc = "Have Plaid Trousers"
+cheat59_code = "320049D3+0009"
 cheat59_enable = false
 
-cheat60_desc = "Have Plaid Trousers"
-cheat60_code = "320049D3+0009"
+cheat60_desc = "Have Power Grip"
+cheat60_code = "32004A06+0004"
 cheat60_enable = false
 
-cheat61_desc = "Have Power Grip"
-cheat61_code = "32004A06+0004"
+cheat61_desc = "Have Queen B.Jeans"
+cheat61_code = "320049E0+0016"
 cheat61_enable = false
 
-cheat62_desc = "Have Queen B.Jeans"
-cheat62_code = "320049E0+0016"
+cheat62_desc = "Have Random Slacks"
+cheat62_code = "320049F5+002B"
 cheat62_enable = false
 
-cheat63_desc = "Have Random Slacks"
-cheat63_code = "320049F5+002B"
+cheat63_desc = "Have Safe Guard"
+cheat63_code = "320049F7+002D"
 cheat63_enable = false
 
-cheat64_desc = "Have Safe Guard"
-cheat64_code = "320049F7+002D"
+cheat64_desc = "Have Safety Slacks"
+cheat64_code = "320049D5+000B"
 cheat64_enable = false
 
-cheat65_desc = "Have Safety Slacks"
-cheat65_code = "320049D5+000B"
+cheat65_desc = "Have Scandal Jeans"
+cheat65_code = "320049DA+0010"
 cheat65_enable = false
 
-cheat66_desc = "Have Scandal Jeans"
-cheat66_code = "320049DA+0010"
+cheat66_desc = "Have School Slacks"
+cheat66_code = "320049E9+001F"
 cheat66_enable = false
 
-cheat67_desc = "Have School Slacks"
-cheat67_code = "320049E9+001F"
+cheat67_desc = "Have Shroom Bells"
+cheat67_code = "320049D7+000D"
 cheat67_enable = false
 
-cheat68_desc = "Have Shroom Bells"
-cheat68_code = "320049D7+000D"
+cheat68_desc = "Have Shroom Pants"
+cheat68_code = "320049D4+000A"
 cheat68_enable = false
 
-cheat69_desc = "Have Shroom Pants"
-cheat69_code = "320049D4+000A"
+cheat69_desc = "Have Shroom Slacks"
+cheat69_code = "320049D6+000C"
 cheat69_enable = false
 
-cheat70_desc = "Have Shroom Slacks"
-cheat70_code = "320049D6+000C"
+cheat70_desc = "Have Smart Pants"
+cheat70_code = "320049E6+001C"
 cheat70_enable = false
 
-cheat71_desc = "Have Smart Pants"
-cheat71_code = "320049E6+001C"
+cheat71_desc = "Have Street Jeans"
+cheat71_code = "320049DD+0013"
 cheat71_enable = false
 
-cheat72_desc = "Have Street Jeans"
-cheat72_code = "320049DD+0013"
+cheat72_desc = "Have Tropic Slacks"
+cheat72_code = "320049DC+0012"
 cheat72_enable = false
 
-cheat73_desc = "Have Tropic Slacks"
-cheat73_code = "320049DC+0012"
+cheat73_desc = "Have Wool Trousers"
+cheat73_code = "320049F2+0028"
 cheat73_enable = false
 
-cheat74_desc = "Have Wool Trousers"
-cheat74_code = "320049F2+0028"
+cheat74_desc = "Have Work Jeans"
+cheat74_code = "320049CB+0001"
 cheat74_enable = false
 
-cheat75_desc = "Have Work Jeans"
-cheat75_code = "320049CB+0001"
+cheat75_desc = "Have Work Pants"
+cheat75_code = "320049CA+0000"
 cheat75_enable = false
 
-cheat76_desc = "Have Work Pants"
-cheat76_code = "320049CA+0000"
+cheat76_desc = "High-end Badge"
+cheat76_code = "320049B5+0023"
 cheat76_enable = false
 
-cheat77_desc = "High-end Badge"
-cheat77_code = "320049B5+0023"
+cheat77_desc = "Hold Select For Stat Bonus Always +3"
+cheat77_code = "74000130+03FB+33003F82+0003"
 cheat77_enable = false
 
-cheat78_desc = "Hold Select For Stat Bonus Always +3"
-cheat78_code = "74000130+03FB+33003F82+0003"
+cheat78_desc = "Infinite Bonus Time"
+cheat78_code = "83001BF8+0100"
 cheat78_enable = false
 
-cheat79_desc = "Infinite Bonus Time"
-cheat79_code = "83001BF8+0100"
+cheat79_desc = "Infinite Coins"
+cheat79_code = "820048E0+270F"
 cheat79_enable = false
 
-cheat80_desc = "Infinite Coins"
-cheat80_code = "820048E0+270F"
+cheat80_desc = "Infinite Continues"
+cheat80_code = "33001C16+0009"
 cheat80_enable = false
 
-cheat81_desc = "Infinite Continues"
-cheat81_code = "33001C16+0009"
+cheat81_desc = "Infinite Lives"
+cheat81_code = "33001C17+0009"
 cheat81_enable = false
 
-cheat82_desc = "Infinite Lives"
-cheat82_code = "33001C17+0009"
+cheat82_desc = "Infinite Lives In Jump Rope Game"
+cheat82_code = "8300686A+0000+830068EA+0000"
 cheat82_enable = false
 
-cheat83_desc = "Infinite Lives In Jump Rope Game"
-cheat83_code = "8300686A+0000+830068EA+0000"
+cheat83_desc = "Level 99"
+cheat83_code = "320048C4+0063"
 cheat83_enable = false
 
-cheat84_desc = "Level 99"
-cheat84_code = "320048C4+0063"
+cheat84_desc = "Lucky Bros."
+cheat84_code = "320049B8+0026"
 cheat84_enable = false
 
-cheat85_desc = "Level Modifier"
-cheat85_code = "33001C00+0000+330054F0+0000"
+cheat85_desc = "Lucky Ribbon"
+cheat85_code = "320049B2+0020"
 cheat85_enable = false
 
-cheat86_desc = "Lucky Bros."
-cheat86_code = "320049B8+0026"
+cheat86_desc = "Mari-Lui Badge"
+cheat86_code = "3200499C+000A"
 cheat86_enable = false
 
-cheat87_desc = "Lucky Ribbon"
-cheat87_code = "320049B2+0020"
+cheat87_desc = "Max Hp"
+cheat87_code = "8200486A+03E7"
 cheat87_enable = false
 
-cheat88_desc = "Luigi: Infinite Lives (Border Jump)"
-cheat88_code = "730068EA+0001"
+cheat88_desc = "Max Score"
+cheat88_code = "83001BD4+423F+83001BD6+000F"
 cheat88_enable = false
 
-cheat89_desc = "Mari-Lui Badge"
-cheat89_code = "3200499C+000A"
+cheat89_desc = "Miracle Badge"
+cheat89_code = "32004999+0007"
 cheat89_enable = false
 
-cheat90_desc = "Mario: Infinite Lives (Border Jump)"
-cheat90_code = "7300686A+0001"
+cheat90_desc = "Muscle Badge"
+cheat90_code = "3200499D+000B"
 cheat90_enable = false
 
-cheat91_desc = "Max Hp"
-cheat91_code = "8200486A+03E7"
+cheat91_desc = "Mush Badge"
+cheat91_code = "3200499B+0009"
 cheat91_enable = false
 
-cheat92_desc = "Max Score"
-cheat92_code = "83001BD4+423F+83001BD6+000F"
+cheat92_desc = "Mush Badge A"
+cheat92_code = "3200499F+000D"
 cheat92_enable = false
 
-cheat93_desc = "Miracle Badge"
-cheat93_code = "32004999+0007"
+cheat93_desc = "Mush Badge A (Double?)"
+cheat93_code = "320049B3+0021"
 cheat93_enable = false
 
-cheat94_desc = "Muscle Badge"
-cheat94_code = "3200499D+000B"
+cheat94_desc = "Mush Badge AA"
+cheat94_code = "320049A1+000F"
 cheat94_enable = false
 
-cheat95_desc = "Mush Badge"
-cheat95_code = "3200499B+0009"
+cheat95_desc = "Oh-Jee Symbol"
+cheat95_code = "320049AD+001B"
 cheat95_enable = false
 
-cheat96_desc = "Mush Badge A"
-cheat96_code = "3200499F+000D"
+cheat96_desc = "Oh-Pah Badge"
+cheat96_code = "320049A6+0014"
 cheat96_enable = false
 
-cheat97_desc = "Mush Badge A (Double?)"
-cheat97_code = "320049B3+0021"
+cheat97_desc = "Ohoracle Badge"
+cheat97_code = "3200499A+0008"
 cheat97_enable = false
 
-cheat98_desc = "Mush Badge AA"
-cheat98_code = "320049A1+000F"
+cheat98_desc = "Pea Badge"
+cheat98_code = "32004994+0002"
 cheat98_enable = false
 
-cheat99_desc = "Oh-Jee Symbol"
-cheat99_code = "320049AD+001B"
+cheat99_desc = "Piranha Swing"
+cheat99_code = "320049B0+001E"
 cheat99_enable = false
 
-cheat100_desc = "Oh-Pah Badge"
-cheat100_code = "320049A6+0014"
+cheat100_desc = "Power Badge"
+cheat100_code = "320049A2+0010"
 cheat100_enable = false
 
-cheat101_desc = "Ohoracle Badge"
-cheat101_code = "3200499A+0008"
+cheat101_desc = "Press R+A For 9 Spirits (HooHoo Mountain)"
+cheat101_code = "74000130+02FE+32004EFC+0009"
 cheat101_enable = false
 
-cheat102_desc = "Pea Badge"
-cheat102_code = "32004994+0002"
+cheat102_desc = "Quick Level Up (In-Battle)"
+cheat102_code = "83003F62+FFFF"
 cheat102_enable = false
 
-cheat103_desc = "Piranha Swing"
-cheat103_code = "320049B0+001E"
+cheat103_desc = "Quick Score Gain"
+cheat103_code = "83001BD4+FFFF"
 cheat103_enable = false
 
-cheat104_desc = "Power Badge"
-cheat104_code = "320049A2+0010"
+cheat104_desc = "Salvage Badge"
+cheat104_code = "320049A5+0013"
 cheat104_enable = false
 
-cheat105_desc = "Press R+A For 9 Spirits (HooHoo Mountain)"
-cheat105_code = "74000130+02FE+32004EFC+0009"
+cheat105_desc = "Sarge Badge"
+cheat105_code = "320049A8+0016"
 cheat105_enable = false
 
-cheat106_desc = "Quick Level Up (In-Battle)"
-cheat106_code = "83003F62+FFFF"
+cheat106_desc = "School Emblem"
+cheat106_code = "320049AB+0019"
 cheat106_enable = false
 
-cheat107_desc = "Quick Score Gain"
-cheat107_code = "83001BD4+FFFF"
+cheat107_desc = "Sledge Heart"
+cheat107_code = "320049B7+0025"
 cheat107_enable = false
 
-cheat108_desc = "Salvage Badge"
-cheat108_code = "320049A5+0013"
+cheat108_desc = "Soulful Bros."
+cheat108_code = "320049B4+0022"
 cheat108_enable = false
 
-cheat109_desc = "Sarge Badge"
-cheat109_code = "320049A8+0016"
+cheat109_desc = "Spike Badge"
+cheat109_code = "320049BC+002A"
 cheat109_enable = false
 
-cheat110_desc = "School Emblem"
-cheat110_code = "320049AB+0019"
+cheat110_desc = "Spiny Badge A"
+cheat110_code = "320049AE+001C"
 cheat110_enable = false
 
-cheat111_desc = "Sledge Heart"
-cheat111_code = "320049B7+0025"
+cheat111_desc = "Spiny Badge AA"
+cheat111_code = "3200499E+000C"
 cheat111_enable = false
 
-cheat112_desc = "Soulful Bros."
-cheat112_code = "320049B4+0022"
+cheat112_desc = "Steady Badge"
+cheat112_code = "320049AC+001A"
 cheat112_enable = false
 
-cheat113_desc = "Spike Badge"
-cheat113_code = "320049BC+002A"
+cheat113_desc = "Tank Badge"
+cheat113_code = "320049AA+0018"
 cheat113_enable = false
 
-cheat114_desc = "Spiny Badge A"
-cheat114_code = "320049AE+001C"
+cheat114_desc = "Wonder Badge"
+cheat114_code = "320049A3+0011"
 cheat114_enable = false
 
-cheat115_desc = "Spiny Badge AA"
-cheat115_code = "3200499E+000C"
+cheat115_desc = "Hold Select For Stat Bonus Always +9"
+cheat115_code = "74000130+03FB+33003F82+0009"
 cheat115_enable = false
 
-cheat116_desc = "Steady Badge"
-cheat116_code = "320049AC+001A"
+cheat116_desc = "Have Map"
+cheat116_code = "2200433C+0032"
 cheat116_enable = false
 
-cheat117_desc = "Tank Badge"
-cheat117_code = "320049AA+0018"
+cheat117_desc = "Have All Items"
+cheat117_code = "420048E2+6363+0000000D+0002"
 cheat117_enable = false
 
-cheat118_desc = "Wonder Badge"
-cheat118_code = "320049A3+0011"
+cheat118_desc = "Access Debug Room"
+cheat118_code = "32001E9C+0000"
 cheat118_enable = false
 
-cheat119_desc = "Hold Select For Stat Bonus Always +9"
-cheat119_code = "74000130+03FB+33003F82+0009"
+cheat119_desc = "Walk Through Walls (Mario)"
+cheat119_code = "74000130+02EF+E2006C14+0004+74000130+02AF+E2006C14+0004+74000130+02AF+E2006C18+FFFC+74000130+026F+E2006C14+0004+74000130+026F+E2006C18+0004+74000130+02DF+E2006C14+FFFC+74000130+029F+E2006C14+FFFC+74000130+029F+E2006C18+FFFC+74000130+025F+E2006C14+FFFC+74000130+025F+E2006C18+0004+74000130+02BF+E2006C18+FFFC+74000130+027F+E2006C18+0004"
 cheat119_enable = false
 
-cheat120_desc = "Have Map"
-cheat120_code = "2200433C+0032"
+cheat120_desc = "Walk Through Walls (Luigi)"
+cheat120_code = "74000130+02EF+E2006FB0+0004+74000130+02AF+E2006FB0+0004+74000130+02AF+E2006FB4+FFFC+74000130+026F+E2006FB0+0004+74000130+026F+E2006FB4+0004+74000130+02DF+E2006FB0+FFFC+74000130+029F+E2006FB0+FFFC+74000130+029F+E2006FB4+FFFC+74000130+025F+E2006FB0+FFFC+74000130+025F+E2006FB4+0004+74000130+02BF+E2006FB4+FFFC+74000130+027F+E2006FB4+0004"
 cheat120_enable = false
 
-cheat121_desc = "Have All Items"
-cheat121_code = "420048E2+6363+0000000D+0002"
+cheat121_desc = "511 EXP After Battle"
+cheat121_code = "33003F62+00FF"
 cheat121_enable = false
 
-cheat122_desc = "Access Debug Room"
-cheat122_code = "32001E9C+0000"
+cheat122_desc = "Have All Regular Items"
+cheat122_code = "320048E2+0063"
 cheat122_enable = false
 
-cheat123_desc = "Walk Through Walls (Mario)"
-cheat123_code = "74000130+02EF+E2006C14+0004+74000130+02AF+E2006C14+0004+74000130+02AF+E2006C18+FFFC+74000130+026F+E2006C14+0004+74000130+026F+E2006C18+0004+74000130+02DF+E2006C14+FFFC+74000130+029F+E2006C14+FFFC+74000130+029F+E2006C18+FFFC+74000130+025F+E2006C14+FFFC+74000130+025F+E2006C18+0004+74000130+02BF+E2006C18+FFFC+74000130+027F+E2006C18+0004"
+cheat123_desc = "Mario Unlimited HP"
+cheat123_code = "82004866+03E7"
 cheat123_enable = false
 
-cheat124_desc = "Walk Through Walls (Luigi)"
-cheat124_code = "74000130+02EF+E2006FB0+0004+74000130+02AF+E2006FB0+0004+74000130+02AF+E2006FB4+FFFC+74000130+026F+E2006FB0+0004+74000130+026F+E2006FB4+0004+74000130+02DF+E2006FB0+FFFC+74000130+029F+E2006FB0+FFFC+74000130+029F+E2006FB4+FFFC+74000130+025F+E2006FB0+FFFC+74000130+025F+E2006FB4+0004+74000130+02BF+E2006FB4+FFFC+74000130+027F+E2006FB4+0004"
+cheat124_desc = "Mario Unlimited BP"
+cheat124_code = "8200486C+03E7"
 cheat124_enable = false
 
-cheat125_desc = "511 EXP After Battle"
-cheat125_code = "33003F62+00FF"
+cheat125_desc = "Mario Max BP"
+cheat125_code = "82004870+03E7"
 cheat125_enable = false
 
-cheat126_desc = "Have All Regular Items"
-cheat126_code = "320048E2+0063"
+cheat126_desc = "Luigi Unlimited HP"
+cheat126_code = "820048A2+03E7"
 cheat126_enable = false
 
-cheat127_desc = "Mario Unlimited HP"
-cheat127_code = "82004866+03E7"
+cheat127_desc = "Luigi Unlimited BP"
+cheat127_code = "820048A8+03E7"
 cheat127_enable = false
 
-cheat128_desc = "Mario Unlimited BP"
-cheat128_code = "8200486C+03E7"
+cheat128_desc = "Luigi Max HP"
+cheat128_code = "820048A6+03E7"
 cheat128_enable = false
 
-cheat129_desc = "Mario Max BP"
-cheat129_code = "82004870+03E7"
+cheat129_desc = "Luigi Max BP"
+cheat129_code = "820048AC+03E7"
 cheat129_enable = false
 
-cheat130_desc = "Luigi Unlimited HP"
-cheat130_code = "820048A2+03E7"
+cheat130_desc = "Quick Level Up"
+cheat130_code = "33003F62+0064"
 cheat130_enable = false
 
-cheat131_desc = "Luigi Unlimited BP"
-cheat131_code = "820048A8+03E7"
+cheat131_desc = "Game Timer Stopped"
+cheat131_code = "83000370+0E0F"
 cheat131_enable = false
 
-cheat132_desc = "Luigi Max HP"
-cheat132_code = "820048A6+03E7"
+cheat132_desc = "Unlimited Health (During Battle)"
+cheat132_code = "8200A33E+03E7+8200A46E+03E7+8200973E+03E7+8200960E+03E7"
 cheat132_enable = false
 
-cheat133_desc = "Luigi Max BP"
-cheat133_code = "820048AC+03E7"
+cheat133_desc = "Max Luigi Stats (Press L+R+A)"
+cheat133_code = "74000130+00FE+820048B0+03E7+74000130+00FE+820048B8+03E7+74000130+00FE+820048B4+03E7+74000130+00FE+820048BC+03E7"
 cheat133_enable = false
 
-cheat134_desc = "Quick Level Up"
-cheat134_code = "33003F62+0064"
+cheat134_desc = "Max Mario Stats (Press L+R+A)"
+cheat134_code = "74000130+00FE+82004874+03E7+74000130+00FE+8200487C+03E7+74000130+00FE+82004878+03E7+74000130+00FE+82004880+03E7"
 cheat134_enable = false
 
-cheat135_desc = "Game Timer Stopped"
-cheat135_code = "83000370+0E0F"
+cheat135_desc = "Max Pow Points"
+cheat135_code = "32004874+0063+320048B0+0063"
 cheat135_enable = false
-
-cheat136_desc = "Unlimited Health (During Battle)"
-cheat136_code = "8200A33E+03E7+8200A46E+03E7+8200973E+03E7+8200960E+03E7"
-cheat136_enable = false
-
-cheat137_desc = "Max Luigi Stats (Press L+R+A)"
-cheat137_code = "74000130+00FE+820048B0+03E7+74000130+00FE+820048B8+03E7+74000130+00FE+820048B4+03E7+74000130+00FE+820048BC+03E7"
-cheat137_enable = false
-
-cheat138_desc = "Max Mario Stats (Press L+R+A)"
-cheat138_code = "74000130+00FE+82004874+03E7+74000130+00FE+8200487C+03E7+74000130+00FE+82004878+03E7+74000130+00FE+82004880+03E7"
-cheat138_enable = false
-
-cheat139_desc = "Max Pow Points"
-cheat139_code = "32004874+0063+320048B0+0063"
-cheat139_enable = false

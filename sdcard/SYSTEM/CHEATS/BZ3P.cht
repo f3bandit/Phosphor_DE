@@ -1,4 +1,4 @@
-cheats = 37
+cheats = 35
 
 cheat0_desc = "1-Kill Needed To Pass Timed Event"
 cheat0_code = "72030328+0000+82030328+0018"
@@ -16,134 +16,126 @@ cheat3_desc = "Boss Has Triple Health (Press Select+Start)"
 cheat3_code = "74000130+03F3+3203BE44+0060+74000130+03F3+3203BD60+0060"
 cheat3_enable = false
 
-cheat4_desc = "Ciel's Computer Upgrade Modifier"
-cheat4_code = "32002538+0000"
+cheat4_desc = "Enable All Minigames!"
+cheat4_code = "8200244A+443E+8200244C+504A+8200244E+5C56+32002450+0061"
 cheat4_enable = false
 
-cheat5_desc = "Dialogue Border Modifier"
-cheat5_code = "32002534+0000"
+cheat5_desc = "Have All Armor Upgrades"
+cheat5_code = "3203806B+00FF+8203806C+FFFF"
 cheat5_enable = false
 
-cheat6_desc = "Enable All Minigames!"
-cheat6_code = "8200244A+443E+8200244C+504A+8200244E+5C56+32002450+0061"
+cheat6_desc = "Have All Body Chips"
+cheat6_code = "3203806C+00FF"
 cheat6_enable = false
 
-cheat7_desc = "Have All Armor Upgrades"
-cheat7_code = "3203806B+00FF+8203806C+FFFF"
+cheat7_desc = "Have All Chips"
+cheat7_code = "420371B8+FFFF+00000017+0002"
 cheat7_enable = false
 
-cheat8_desc = "Have All Body Chips"
-cheat8_code = "3203806C+00FF"
+cheat8_desc = "Have All EX Parts"
+cheat8_code = "82038068+FFFF"
 cheat8_enable = false
 
-cheat9_desc = "Have All Chips"
-cheat9_code = "420371B8+FFFF+00000017+0002"
+cheat9_desc = "Have All Foot Chips"
+cheat9_code = "3203806D+00FF"
 cheat9_enable = false
 
-cheat10_desc = "Have All EX Parts"
-cheat10_code = "82038068+FFFF"
+cheat10_desc = "Have All Head Chips"
+cheat10_code = "3203806B+00FF"
 cheat10_enable = false
 
-cheat11_desc = "Have All Foot Chips"
-cheat11_code = "3203806D+00FF"
+cheat11_desc = "Have Double Health Bar"
+cheat11_code = "32037045+0001"
 cheat11_enable = false
 
-cheat12_desc = "Have All Head Chips"
-cheat12_code = "3203806B+00FF"
+cheat12_desc = "Have Reserve Tanks"
+cheat12_code = "8203805C+2020+8203805E+2020"
 cheat12_enable = false
 
-cheat13_desc = "Have Double Health Bar"
-cheat13_code = "32037045+0001"
+cheat13_desc = "Hold L+A For Moon Jump"
+cheat13_code = "72001EB0+FE01+32037FAE+0000"
 cheat13_enable = false
 
-cheat14_desc = "Have Reserve Tanks"
-cheat14_code = "8203805C+2020+8203805E+2020"
+cheat14_desc = "Infinite Crystals"
+cheat14_code = "8203805A+270F"
 cheat14_enable = false
 
-cheat15_desc = "Hold L+A For Moon Jump"
-cheat15_code = "72001EB0+FE01+32037FAE+0000"
+cheat15_desc = "Infinite Double Jumps"
+cheat15_code = "320380BA+0000"
 cheat15_enable = false
 
-cheat16_desc = "Infinite Crystals"
-cheat16_code = "8203805A+270F"
+cheat16_desc = "Infinite Lives"
+cheat16_code = "320372B0+0009"
 cheat16_enable = false
 
-cheat17_desc = "Infinite Double Jumps"
-cheat17_code = "320380BA+0000"
+cheat17_desc = "Infinite Lives (Mini-Game 1)"
+cheat17_code = "32031C78+0004"
 cheat17_enable = false
 
-cheat18_desc = "Infinite Lives"
-cheat18_code = "320372B0+0009"
+cheat18_desc = "Infinite Lives (Phantom Mini-Game)"
+cheat18_code = "72031D40+0203+82031D40+0303"
 cheat18_enable = false
 
-cheat19_desc = "Infinite Lives (Mini-Game 1)"
-cheat19_code = "32031C78+0004"
+cheat19_desc = "Infinite Lives (Zero, Copy X & Harpuia Mini-Games)"
+cheat19_code = "72031C78+0002+82031C78+0003"
 cheat19_enable = false
 
-cheat20_desc = "Infinite Lives (Phantom Mini-Game)"
-cheat20_code = "72031D40+0203+82031D40+0303"
+cheat20_desc = "Infinite Time In Timed Events"
+cheat20_code = "82030324+0690"
 cheat20_enable = false
 
-cheat21_desc = "Infinite Lives (Zero, Copy X & Harpuia Mini-Games)"
-cheat21_code = "72031C78+0002+82031C78+0003"
+cheat21_desc = "Insane Full Base Makeover!"
+cheat21_code = "42002426+FFFF+00000025+0002"
 cheat21_enable = false
 
-cheat22_desc = "Infinite Time In Timed Events"
-cheat22_code = "82030324+0690"
+cheat22_desc = "Jump Thru Ceilings"
+cheat22_code = "74000130+03FE+E2037FF8+FCB0"
 cheat22_enable = false
 
-cheat23_desc = "Insane Full Base Makeover!"
-cheat23_code = "42002426+FFFF+00000025+0002"
+cheat23_desc = "Jump To Last Stage"
+cheat23_code = "82030104+FFAF"
 cheat23_enable = false
 
-cheat24_desc = "Jump Thru Ceilings"
-cheat24_code = "74000130+03FE+E2037FF8+FCB0"
+cheat24_desc = "Low Game Time"
+cheat24_code = "820372BC+0000"
 cheat24_enable = false
 
-cheat25_desc = "Jump To Last Stage"
-cheat25_code = "82030104+FFAF"
+cheat25_desc = "Multi Jump"
+cheat25_code = "D0000020+0001+82038000+FB40+D0000020+0001+82038002+FFFF"
 cheat25_enable = false
 
-cheat26_desc = "Low Game Time"
-cheat26_code = "820372BC+0000"
+cheat26_desc = "No Misses (Ciel Mini-Game)"
+cheat26_code = "32031CB3+0000"
 cheat26_enable = false
 
-cheat27_desc = "Multi Jump"
-cheat27_code = "D0000020+0001+82038000+FB40+D0000020+0001+82038002+FFFF"
+cheat27_desc = "Press L+R To Refill Timer (Leviathon Mini-Game)"
+cheat27_code = "74000130+00FF+82031C8C+0708"
 cheat27_enable = false
 
-cheat28_desc = "No Misses (Ciel Mini-Game)"
-cheat28_code = "32031CB3+0000"
+cheat28_desc = "Press Select To Drain Boss' Energy"
+cheat28_code = "74000130+03FB+8203BE44+0001+74000130+03FB+8203BD60+0001"
 cheat28_enable = false
 
-cheat29_desc = "Press L+R To Refill Timer (Leviathon Mini-Game)"
-cheat29_code = "74000130+00FF+82031C8C+0708"
+cheat29_desc = "Quick Charge"
+cheat29_code = "7203807C+0606+8203807C+C8C8"
 cheat29_enable = false
 
-cheat30_desc = "Press Select To Drain Boss' Energy"
-cheat30_code = "74000130+03FB+8203BE44+0001+74000130+03FB+8203BD60+0001"
+cheat30_desc = "Skip BS Intro"
+cheat30_code = "720301BC+9D2C+820301BC+9D74+720301BC+9DDC+820301BC+A154"
 cheat30_enable = false
 
-cheat31_desc = "Quick Charge"
-cheat31_code = "7203807C+0606+8203807C+C8C8"
+cheat31_desc = "Spike Protection Upgrade"
+cheat31_code = "82037232+0F0F"
 cheat31_enable = false
 
-cheat32_desc = "Skip BS Intro"
-cheat32_code = "720301BC+9D2C+820301BC+9D74+720301BC+9DDC+820301BC+A154"
+cheat32_desc = "Unlock Bonus Mini-Game Menu"
+cheat32_code = "8200244A+443E"
 cheat32_enable = false
 
-cheat33_desc = "Spike Protection Upgrade"
-cheat33_code = "82037232+0F0F"
+cheat33_desc = "Unlock EXE Enemies In Cyberspace!"
+cheat33_code = "82002470+FFFF"
 cheat33_enable = false
 
-cheat34_desc = "Unlock Bonus Mini-Game Menu"
-cheat34_code = "8200244A+443E"
+cheat34_desc = "Zero Damage Taken, Scores Another Extra 15 Points"
+cheat34_code = "3203016E+0000"
 cheat34_enable = false
-
-cheat35_desc = "Unlock EXE Enemies In Cyberspace!"
-cheat35_code = "82002470+FFFF"
-cheat35_enable = false
-
-cheat36_desc = "Zero Damage Taken, Scores Another Extra 15 Points"
-cheat36_code = "3203016E+0000"
-cheat36_enable = false

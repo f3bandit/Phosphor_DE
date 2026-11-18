@@ -1,4 +1,4 @@
-cheats = 13
+cheats = 9
 
 cheat0_desc = "Infinite Time"
 cheat0_code = "83004F04+2A50"
@@ -20,34 +20,18 @@ cheat4_desc = "Player 1 Has No Knockdowns"
 cheat4_code = "33004803+0000"
 cheat4_enable = false
 
-cheat5_desc = "Player 1 Modifier"
-cheat5_code = "330039C0+0000"
+cheat5_desc = "Player 2 Has 2 Knockdowns"
+cheat5_code = "33004917+0002"
 cheat5_enable = false
 
-cheat6_desc = "Player 1 Modifier (Selection Screen)"
-cheat6_code = "33003A90+0000"
+cheat6_desc = "Player 2 Has No Health"
+cheat6_code = "83004834+0000+83004836+0000"
 cheat6_enable = false
 
-cheat7_desc = "Player 2 Has 2 Knockdowns"
-cheat7_code = "33004917+0002"
+cheat7_desc = "Player 2 Has No Special Moves"
+cheat7_code = "33004920+0000"
 cheat7_enable = false
 
-cheat8_desc = "Player 2 Has No Health"
-cheat8_code = "83004834+0000+83004836+0000"
+cheat8_desc = "Player 2 Has No Stamina"
+cheat8_code = "8300483C+0000+8300483E+0000"
 cheat8_enable = false
-
-cheat9_desc = "Player 2 Has No Special Moves"
-cheat9_code = "33004920+0000"
-cheat9_enable = false
-
-cheat10_desc = "Player 2 Has No Stamina"
-cheat10_code = "8300483C+0000+8300483E+0000"
-cheat10_enable = false
-
-cheat11_desc = "Player 2 Modifier"
-cheat11_code = "330039C1+0000"
-cheat11_enable = false
-
-cheat12_desc = "Player 2 Modifier (Selection Screen)"
-cheat12_code = "33003A92+0000"
-cheat12_enable = false

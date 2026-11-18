@@ -1,4 +1,4 @@
-cheats = 50
+cheats = 45
 
 cheat0_desc = "100% Item Finding Rate"
 cheat0_code = "3300151E+0064"
@@ -8,194 +8,174 @@ cheat1_desc = "Acceleration boost"
 cheat1_code = "3300124A+0000"
 cheat1_enable = false
 
-cheat2_desc = "All Doors Unlocked"
-cheat2_code = "88CAA0B4+DABA"
+cheat2_desc = "Always Have After Images"
+cheat2_code = "830012E4+FFFF"
 cheat2_enable = false
 
-cheat3_desc = "Always Have After Images"
-cheat3_code = "830012E4+FFFF"
+cheat3_desc = "Always Run At Super Speed"
+cheat3_code = "83001252+A001"
 cheat3_enable = false
 
-cheat4_desc = "Always Run At Super Speed"
-cheat4_code = "83001252+A001"
+cheat4_desc = "Beam Bitfield"
+cheat4_code = "3300131A+0001"
 cheat4_enable = false
 
-cheat5_desc = "Area Modifier"
-cheat5_code = "3203821D+0000"
+cheat5_desc = "Destroy Any Wall/Door"
+cheat5_code = "8806ACCE+E000+8806ACD4+200B"
 cheat5_enable = false
 
-cheat6_desc = "Beam Bitfield"
-cheat6_code = "3300131A+0001"
+cheat6_desc = "Display Entire Map"
+cheat6_code = "88075808+E001+8809ED54+2007"
 cheat6_enable = false
 
-cheat7_desc = "Destroy Any Wall/Door"
-cheat7_code = "8806ACCE+E000+8806ACD4+200B"
+cheat7_desc = "Drop From Ceiling (Press L+R)"
+cheat7_code = "74000130+00FF+8300125C+0150"
 cheat7_enable = false
 
-cheat8_desc = "Display Entire Map"
-cheat8_code = "88075808+E001+8809ED54+2007"
+cheat8_desc = "Equip Weapons+Suits [Press Select+L]"
+cheat8_code = "74000130+01FB+4300131A+FFFF+01000002+0002"
 cheat8_enable = false
 
-cheat9_desc = "Drop From Ceiling (Press L+R)"
-cheat9_code = "74000130+00FF+8300125C+0150"
+cheat9_desc = "Equipment Bitfield 1"
+cheat9_code = "3300131B+0001"
 cheat9_enable = false
 
-cheat10_desc = "Equip Weapons+Suits [Press Select+L]"
-cheat10_code = "74000130+01FB+4300131A+FFFF+01000002+0002"
+cheat10_desc = "Equipment Bitfield 2"
+cheat10_code = "3300131C+0001"
 cheat10_enable = false
 
-cheat11_desc = "Equipment Bitfield 1"
-cheat11_code = "3300131B+0001"
+cheat11_desc = "Fast Shot (No Pause)"
+cheat11_code = "8300124E+0000"
 cheat11_enable = false
 
-cheat12_desc = "Equipment Bitfield 2"
-cheat12_code = "3300131C+0001"
+cheat12_desc = "Fast Shot/No Pause Between Shots"
+cheat12_code = "3300124E+0000"
 cheat12_enable = false
 
-cheat13_desc = "Fast Shot (No Pause)"
-cheat13_code = "8300124E+0000"
+cheat13_desc = "Have All Weapons/Suits/Abilities"
+cheat13_code = "4300131A+FFFF+00000003+0002"
 cheat13_enable = false
 
-cheat14_desc = "Fast Shot/No Pause Between Shots"
-cheat14_code = "3300124E+0000"
+cheat14_desc = "Have The Final Suit With No Side Effects"
+cheat14_code = "83004D2C+02FF+83004D2E+01BE+83004D30+00D3+83004D36+020F+83004D40+0108+83004D44+31E8+83004D46+28A6"
 cheat14_enable = false
 
-cheat15_desc = "Have All Weapons/Suits/Abilities"
-cheat15_code = "4300131A+FFFF+00000003+0002"
+cheat15_desc = "Hours"
+cheat15_code = "33000138+0000"
 cheat15_enable = false
 
-cheat16_desc = "Have The Final Suit With No Side Effects"
-cheat16_code = "83004D2C+02FF+83004D2E+01BE+83004D30+00D3+83004D36+020F+83004D40+0108+83004D44+31E8+83004D46+28A6"
+cheat16_desc = "HP Current"
+cheat16_code = "83001310+0000"
 cheat16_enable = false
 
-cheat17_desc = "Hours"
-cheat17_code = "33000138+0000"
+cheat17_desc = "Infinite Energy"
+cheat17_code = "83001310+03E7+83001312+03E7"
 cheat17_enable = false
 
-cheat18_desc = "HP Current"
-cheat18_code = "83001310+0000"
+cheat18_desc = "Infinite Health"
+cheat18_code = "83001310+0833"
 cheat18_enable = false
 
-cheat19_desc = "Infinite Energy"
-cheat19_code = "83001310+03E7+83001312+03E7"
+cheat19_desc = "Infinite P-Bombs"
+cheat19_code = "83001318+6363"
 cheat19_enable = false
 
-cheat20_desc = "Infinite Health"
-cheat20_code = "83001310+0833"
+cheat20_desc = "Infinite Super Bombs"
+cheat20_code = "33001318+0063"
 cheat20_enable = false
 
-cheat21_desc = "Infinite P-Bombs"
-cheat21_code = "83001318+6363"
+cheat21_desc = "Invincible"
+cheat21_code = "33001249+0001"
 cheat21_enable = false
 
-cheat22_desc = "Infinite Super Bombs"
-cheat22_code = "33001318+0063"
+cheat22_desc = "Invisibility"
+cheat22_code = "33001249+0000"
 cheat22_enable = false
 
-cheat23_desc = "Invincible"
-cheat23_code = "33001249+0001"
+cheat23_desc = "Items Collected"
+cheat23_code = "3300151E+0000"
 cheat23_enable = false
 
-cheat24_desc = "Invisibility"
-cheat24_code = "33001249+0000"
+cheat24_desc = "Jump in Midair"
+cheat24_code = "73001244+0017+330011EC+0000+730011EC+0001+83001260+00B0+73001244+000B+33001245+0004"
 cheat24_enable = false
 
-cheat25_desc = "Items Collected"
-cheat25_code = "3300151E+0000"
+cheat25_desc = "Jump in Midair [ASM]"
+cheat25_code = "88005C88+480C+88005C8A+7801+88005C8C+3074+88005C8E+0849+88005C90+D301+88005C92+219F+88005C94+8001"
 cheat25_enable = false
 
-cheat26_desc = "Jump in Midair"
-cheat26_code = "73001244+0017+330011EC+0000+730011EC+0001+83001260+00B0+73001244+000B+33001245+0004"
+cheat26_desc = "Jump Thru Ceilings (Press Select+A)"
+cheat26_code = "74000130+03FA+E300125C+FFC6"
 cheat26_enable = false
 
-cheat27_desc = "Jump in Midair [ASM]"
-cheat27_code = "88005C88+480C+88005C8A+7801+88005C8C+3074+88005C8E+0849+88005C90+D301+88005C92+219F+88005C94+8001"
+cheat27_desc = "Low Completion Time"
+cheat27_code = "83000138+0100"
 cheat27_enable = false
 
-cheat28_desc = "Jump Thru Ceilings (Press Select+A)"
-cheat28_code = "74000130+03FA+E300125C+FFC6"
+cheat28_desc = "Max Health"
+cheat28_code = "83001312+0833"
 cheat28_enable = false
 
-cheat29_desc = "Last Samus Clone Energy Modifier"
-cheat29_code = "3300018C+0000"
+cheat29_desc = "Max Missiles"
+cheat29_code = "83001316+03E7"
 cheat29_enable = false
 
-cheat30_desc = "Low Completion Time"
-cheat30_code = "83000138+0100"
+cheat30_desc = "Max Super Bombs"
+cheat30_code = "33001319+0063"
 cheat30_enable = false
 
-cheat31_desc = "Max Health"
-cheat31_code = "83001312+0833"
+cheat31_desc = "Minutes"
+cheat31_code = "33000139+00BE"
 cheat31_enable = false
 
-cheat32_desc = "Max Missiles"
-cheat32_code = "83001316+03E7"
+cheat32_desc = "Missiles Current"
+cheat32_code = "33001314+0000"
 cheat32_enable = false
 
-cheat33_desc = "Max Super Bombs"
-cheat33_code = "33001319+0063"
+cheat33_desc = "Multi Jump"
+cheat33_code = "D0000020+0001+83001260+0080"
 cheat33_enable = false
 
-cheat34_desc = "Minutes"
-cheat34_code = "33000139+00BE"
+cheat34_desc = "Power Bombs Current"
+cheat34_code = "33001318+0000"
 cheat34_enable = false
 
-cheat35_desc = "Missiles Current"
-cheat35_code = "33001314+0000"
+cheat35_desc = "Remove Weapons+Suits [Press Select+R]"
+cheat35_code = "74000130+02FB+4300131A+0000+00400002+0002"
 cheat35_enable = false
 
-cheat36_desc = "Multi Jump"
-cheat36_code = "D0000020+0001+83001260+0080"
+cheat36_desc = "Shinespark timer"
+cheat36_code = "330012DC+0000"
 cheat36_enable = false
 
-cheat37_desc = "Power Bombs Current"
-cheat37_code = "33001318+0000"
+cheat37_desc = "Super Dash Always Charged"
+cheat37_code = "330012DC+005F"
 cheat37_enable = false
 
-cheat38_desc = "Remove Weapons+Suits [Press Select+R]"
-cheat38_code = "74000130+02FB+4300131A+0000+00400002+0002"
+cheat38_desc = "Super Dash Much Sooner"
+cheat38_code = "33001253+009D"
 cheat38_enable = false
 
-cheat39_desc = "Room Modifier"
-cheat39_code = "3203821F+0000"
+cheat39_desc = "Time Always 00:00"
+cheat39_code = "820382E4+0000"
 cheat39_enable = false
 
-cheat40_desc = "Samus mutation energy modifier"
-cheat40_code = "83007D44+0000+83007D46+0000"
+cheat40_desc = "Turn Off All Missiles/Bombs"
+cheat40_code = "3300131B+0000"
 cheat40_enable = false
 
-cheat41_desc = "Shinespark timer"
-cheat41_code = "330012DC+0000"
+cheat41_desc = "Stop Event Timer"
+cheat41_code = "830008D8+00DA"
 cheat41_enable = false
 
-cheat42_desc = "Super Dash Always Charged"
-cheat42_code = "330012DC+005F"
+cheat42_desc = "Moon Jump"
+cheat42_code = "74000130+03FE+83001260+0040"
 cheat42_enable = false
 
-cheat43_desc = "Super Dash Much Sooner"
-cheat43_code = "33001253+009D"
+cheat43_desc = "Infinite Missiles"
+cheat43_code = "83001314+03E7"
 cheat43_enable = false
 
-cheat44_desc = "Time Always 00:00"
-cheat44_code = "820382E4+0000"
+cheat44_desc = "Access Debug Room"
+cheat44_code = "3203821D+0007"
 cheat44_enable = false
-
-cheat45_desc = "Turn Off All Missiles/Bombs"
-cheat45_code = "3300131B+0000"
-cheat45_enable = false
-
-cheat46_desc = "Stop Event Timer"
-cheat46_code = "830008D8+00DA"
-cheat46_enable = false
-
-cheat47_desc = "Moon Jump"
-cheat47_code = "74000130+03FE+83001260+0040"
-cheat47_enable = false
-
-cheat48_desc = "Infinite Missiles"
-cheat48_code = "83001314+03E7"
-cheat48_enable = false
-
-cheat49_desc = "Access Debug Room"
-cheat49_code = "3203821D+0007"
-cheat49_enable = false

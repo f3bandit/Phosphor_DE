@@ -1,4 +1,4 @@
-cheats = 20
+cheats = 19
 
 cheat0_desc = "Access All Areas"
 cheat0_code = "430004C0+AAAA+00000006+0002"
@@ -64,18 +64,14 @@ cheat15_desc = "Invincibility"
 cheat15_code = "8801D6D4+0D2E"
 cheat15_enable = false
 
-cheat16_desc = "Invinicible"
-cheat16_code = "89B1230E+6BC7"
+cheat16_desc = "Max Sliver Coins"
+cheat16_code = "330004E4+0063"
 cheat16_enable = false
 
-cheat17_desc = "Max Sliver Coins"
-cheat17_code = "330004E4+0063"
+cheat17_desc = "Quick Coin Collect Game"
+cheat17_code = "330004B0+0000"
 cheat17_enable = false
 
-cheat18_desc = "Quick Coin Collect Game"
-cheat18_code = "330004B0+0000"
+cheat18_desc = "Max Bananas"
+cheat18_code = "830004AE+03E7"
 cheat18_enable = false
-
-cheat19_desc = "Max Bananas"
-cheat19_code = "830004AE+03E7"
-cheat19_enable = false

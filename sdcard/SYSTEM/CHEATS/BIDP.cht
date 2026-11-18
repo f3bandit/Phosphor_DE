@@ -8,8 +8,7 @@ cheat1_desc = "Have 999 Style Points"
 cheat1_code = "83002E60+03E7"
 cheat1_enable = false
 
-cheat2_desc = "Start New Competition At 
-Final Stage"
+cheat2_desc = "Start New Competition At Final Stage"
 cheat2_code = "73002E08+0001+33002E08+0008"
 cheat2_enable = false
 

@@ -1,4 +1,4 @@
-cheats = 7
+cheats = 6
 
 cheat0_desc = "Have Key Fragments"
 cheat0_code = "33005B60+0005"
@@ -16,14 +16,10 @@ cheat3_desc = "Max Qorium"
 cheat3_code = "3300560C+0064"
 cheat3_enable = false
 
-cheat4_desc = "Press Select+Up To Activate"
-cheat4_code = "00001A4F+8A29+00000A4F+0A29+F20212B6+8C3D"
+cheat4_desc = "Take qorium anywhere"
+cheat4_code = "8801A804+46C0"
 cheat4_enable = false
 
-cheat5_desc = "Take qorium anywhere"
-cheat5_code = "8801A804+46C0"
+cheat5_desc = "Infinite Health"
+cheat5_code = "33005B3E+0000"
 cheat5_enable = false
-
-cheat6_desc = "Infinite Health"
-cheat6_code = "33005B3E+0000"
-cheat6_enable = false

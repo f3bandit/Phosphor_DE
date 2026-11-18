@@ -1,4 +1,4 @@
-cheats = 151
+cheats = 106
 
 cheat0_desc = "Hyper Mario"
 cheat0_code = "33003F7E+000C"
@@ -80,526 +80,346 @@ cheat19_desc = "Enemies/Coins Fall Through The Platforms"
 cheat19_code = "33004259+0001"
 cheat19_enable = false
 
-cheat20_desc = "Enemy Point Modifier"
-cheat20_code = "83003F82+0001"
+cheat20_desc = "Face Forward"
+cheat20_code = "33003F6A+000A"
 cheat20_enable = false
 
-cheat21_desc = "Face Forward"
-cheat21_code = "33003F6A+000A"
+cheat21_desc = "Fall Through The Ground"
+cheat21_code = "83003CF4+0003"
 cheat21_enable = false
 
-cheat22_desc = "Fall Through The Ground"
-cheat22_code = "83003CF4+0003"
+cheat22_desc = "Flip Mode"
+cheat22_code = "33003F46+0006"
 cheat22_enable = false
 
-cheat23_desc = "Flip Mode"
-cheat23_code = "33003F46+0006"
+cheat23_desc = "Fly Anytime"
+cheat23_code = "33003F49+0007"
 cheat23_enable = false
 
-cheat24_desc = "Fly Anytime"
-cheat24_code = "33003F49+0007"
+cheat24_desc = "Get No More Spade Matching Games"
+cheat24_code = "83002D48+0F00+83002D4A+4042"
 cheat24_enable = false
 
-cheat25_desc = "Get No More Spade Matching Games"
-cheat25_code = "83002D48+0F00+83002D4A+4042"
+cheat25_desc = "Have 99 Coins"
+cheat25_code = "33002C58+0063"
 cheat25_enable = false
 
-cheat26_desc = "Have 99 Coins"
-cheat26_code = "33002C58+0063"
+cheat26_desc = "Hold L To Walk On Air"
+cheat26_code = "D0000020+0200+33003F5D+0000"
 cheat26_enable = false
 
-cheat27_desc = "Hold L To Walk On Air"
-cheat27_code = "D0000020+0200+33003F5D+0000"
+cheat27_desc = "Infinite 99999 Coins in World-E"
+cheat27_code = "8300399C+869F+3300399E+0001"
 cheat27_enable = false
 
-cheat28_desc = "Infinite 99999 Coins in World-E"
-cheat28_code = "8300399C+869F+3300399E+0001"
+cheat28_desc = "Infinite Star Power (Rev 0)"
+cheat28_code = "33002C2E+00FF"
 cheat28_enable = false
 
-cheat29_desc = "Infinite Star Power"
-cheat29_code = "33002C2E+00FF"
+cheat29_desc = "Infinite Time To Hold Bricks"
+cheat29_code = "33004284+0064+33004214+0064+330041A4+0064"
 cheat29_enable = false
 
-cheat30_desc = "Infinite Time To Hold Bricks"
-cheat30_code = "33004284+0064+33004214+0064+330041A4+0064"
+cheat30_desc = "Infinite Time To Hold Turtle Shells"
+cheat30_code = "330046E4+00BF+33004604+00CC"
 cheat30_enable = false
 
-cheat31_desc = "Infinite Time To Hold Turtle Shells"
-cheat31_code = "330046E4+00BF+33004604+00CC"
+cheat31_desc = "Infinite Tries (Card Game)"
+cheat31_code = "73003DFA+FFFF+33003DF8+0001+73004F06+FFFF+33004F04+0001"
 cheat31_enable = false
 
-cheat32_desc = "Infinite Tries (Card Game)"
-cheat32_code = "73003DFA+FFFF+33003DF8+0001+73004F06+FFFF+33004F04+0001"
+cheat32_desc = "Infinite Turns Card Matching Game"
+cheat32_code = "33004F08+0001"
 cheat32_enable = false
 
-cheat33_desc = "Infinite Turns Card Matching Game"
-cheat33_code = "33004F08+0001"
+cheat33_desc = "Invincibility"
+cheat33_code = "33003F64+0035"
 cheat33_enable = false
 
-cheat34_desc = "Invincibility"
-cheat34_code = "33003F64+0035"
+cheat34_desc = "Invincibility Off [Press Select+Down]"
+cheat34_code = "74000130+037B+33006000+0000"
 cheat34_enable = false
 
-cheat35_desc = "Invincibility Off [Press Select+Down]"
-cheat35_code = "74000130+037B+33006000+0000"
+cheat35_desc = "Invincibility On [Press Select+Up]"
+cheat35_code = "74000130+03BB+33006000+0001+73006000+0001+33003F65+0020"
 cheat35_enable = false
 
-cheat36_desc = "Invincibility On [Press Select+Up]"
-cheat36_code = "74000130+03BB+33006000+0001+73006000+0001+33003F65+0020"
+cheat36_desc = "Invincible (E-Levels)"
+cheat36_code = "33003E21+00AF"
 cheat36_enable = false
 
-cheat37_desc = "Invincible (E-Levels)"
-cheat37_code = "33003E21+00AF"
+cheat37_desc = "Invincible Against Pits (Rev 0)"
+cheat37_code = "88092F06+2080+88092F08+7750+88092F0A+E105"
 cheat37_enable = false
 
-cheat38_desc = "Invincible Against Pits"
-cheat38_code = "88092F06+2080+88092F08+7750+88092F0A+E105"
+cheat38_desc = "Invincible And Invisible"
+cheat38_code = "33003F64+0007"
 cheat38_enable = false
 
-cheat39_desc = "Invincible And Invisible"
-cheat39_code = "33003F64+0007"
+cheat39_desc = "Invincible Hammer Mario"
+cheat39_code = "33003F78+0007"
 cheat39_enable = false
 
-cheat40_desc = "Invincible Hammer Mario"
-cheat40_code = "33003F78+0007"
+cheat40_desc = "Invinsible"
+cheat40_code = "33003F65+00FF"
 cheat40_enable = false
 
-cheat41_desc = "Invinsible"
-cheat41_code = "33003F65+00FF"
+cheat41_desc = "Kuribo's Shoe"
+cheat41_code = "33003F77+0006"
 cheat41_enable = false
 
-cheat42_desc = "Kuribo's Shoe"
-cheat42_code = "33003F77+0006"
+cheat42_desc = "Low Jump"
+cheat42_code = "33003F79+0009"
 cheat42_enable = false
 
-cheat43_desc = "Low Jump"
-cheat43_code = "33003F79+0009"
+cheat43_desc = "Luigi Always Has 98 Coins"
+cheat43_code = "33002C83+0062"
 cheat43_enable = false
 
-cheat44_desc = "Luigi Always Has 98 Coins"
-cheat44_code = "33002C83+0062"
+cheat44_desc = "Luigi Infinite Lives"
+cheat44_code = "33002A6C+0063"
 cheat44_enable = false
 
-cheat45_desc = "Luigi Infinite Lives"
-cheat45_code = "33002A6C+0063"
+cheat45_desc = "M IO BROS. On Title Screen"
+cheat45_code = "33004265+0001"
 cheat45_enable = false
 
-cheat46_desc = "M IO BROS. On Title Screen"
-cheat46_code = "33004265+0001"
+cheat46_desc = "Mario Always Has 98 Coins"
+cheat46_code = "33002C58+0062"
 cheat46_enable = false
 
-cheat47_desc = "Mario Always Has 98 Coins"
-cheat47_code = "33002C58+0062"
+cheat47_desc = "Mario Bros: Infinite Lives"
+cheat47_code = "3300422D+0009"
 cheat47_enable = false
 
-cheat48_desc = "Mario Bros: Infinite Lives"
-cheat48_code = "3300422D+0009"
+cheat48_desc = "Mario Bros: Infinite POW Blocks"
+cheat48_code = "83005500+B0AF+83005A00+B0AF"
 cheat48_enable = false
 
-cheat49_desc = "Mario Bros: Infinite POW Blocks"
-cheat49_code = "83005500+B0AF+83005A00+B0AF"
+cheat49_desc = "Mario Bros: Invincible"
+cheat49_code = "73005C08+0800+33005C09+0001+73005C12+0080+33005C12+0000"
 cheat49_enable = false
 
-cheat50_desc = "Mario Bros: Invincible"
-cheat50_code = "73005C08+0800+33005C09+0001+73005C12+0080+33005C12+0000"
+cheat50_desc = "Mario Bros: Start With Hi-Score"
+cheat50_code = "73003DE4+0000+83003DE4+C350"
 cheat50_enable = false
 
-cheat51_desc = "Mario Bros: Start With Hi-Score"
-cheat51_code = "73003DE4+0000+83003DE4+C350"
+cheat51_desc = "Mario Bros: Stop Timer"
+cheat51_code = "3300420E+00B0"
 cheat51_enable = false
 
-cheat52_desc = "Mario Bros: Stop Timer"
-cheat52_code = "3300420E+00B0"
+cheat52_desc = "Mario Goes Up, Mushrooms Come Down"
+cheat52_code = "83003CFA+0005"
 cheat52_enable = false
 
-cheat53_desc = "Mario Goes Up, Mushrooms Come Down"
-cheat53_code = "83003CFA+0005"
+cheat53_desc = "Mario Goes Up, Super Mario World P-Switch Music Plays"
+cheat53_code = "83003CFA+000B"
 cheat53_enable = false
 
-cheat54_desc = "Mario Goes Up, Super Mario World P-Switch Music Plays"
-cheat54_code = "83003CFA+000B"
+cheat54_desc = "Mario Infinite Lives"
+cheat54_code = "33002A6A+0063"
 cheat54_enable = false
 
-cheat55_desc = "Mario Infinite Lives"
-cheat55_code = "33002A6A+0063"
+cheat55_desc = "Mario Walks Away"
+cheat55_code = "33003F6B+0006"
 cheat55_enable = false
 
-cheat56_desc = "Mario Walks Away"
-cheat56_code = "33003F6B+0006"
+cheat56_desc = "Mario's On A Conveyor Belt"
+cheat56_code = "33003F6E+000C"
 cheat56_enable = false
 
-cheat57_desc = "Mario's On A Conveyor Belt"
-cheat57_code = "33003F6E+000C"
+cheat57_desc = "Max P Meter (You Can't Fly)"
+cheat57_code = "33003F7B+000A"
 cheat57_enable = false
 
-cheat58_desc = "Max P Meter (You Can't Fly)"
-cheat58_code = "33003F7B+000A"
+cheat58_desc = "Max Score"
+cheat58_code = "83003DE4+423F+83003DE6+000F"
 cheat58_enable = false
 
-cheat59_desc = "Max Score"
-cheat59_code = "83003DE4+423F+83003DE6+000F"
+cheat59_desc = "Millions of Points"
+cheat59_code = "83003854+FFFF+83003856+FFFF"
 cheat59_enable = false
 
-cheat60_desc = "Millions of Points"
-cheat60_code = "83003854+FFFF+83003856+FFFF"
+cheat60_desc = "Moon Jump"
+cheat60_code = "D0000020+0001+33003F45+00C0"
 cheat60_enable = false
 
-cheat61_desc = "Moon Jump"
-cheat61_code = "D0000020+0001+33003F45+00C0"
+cheat61_desc = "No Enemies Or Goal"
+cheat61_code = "83003CF2+000F"
 cheat61_enable = false
 
-cheat62_desc = "No Enemies Or Goal"
-cheat62_code = "83003CF2+000F"
+cheat62_desc = "No Flash Starman Invincibility"
+cheat62_code = "33003F84+0003"
 cheat62_enable = false
 
-cheat63_desc = "No Flash Starman Invincibility"
-cheat63_code = "33003F84+0003"
+cheat63_desc = "No Jump"
+cheat63_code = "33003F45+0005"
 cheat63_enable = false
 
-cheat64_desc = "No Jump"
-cheat64_code = "33003F45+0005"
+cheat64_desc = "No Jump Or Coin Sounds"
+cheat64_code = "33003F3D+000D"
 cheat64_enable = false
 
-cheat65_desc = "No Jump Or Coin Sounds"
-cheat65_code = "33003F3D+000D"
+cheat65_desc = "Open All Mushroom Levels in World-E"
+cheat65_code = "33004FD6+0050"
 cheat65_enable = false
 
-cheat66_desc = "Open All Mushroom Levels in World-E"
-cheat66_code = "33004FD6+0050"
+cheat66_desc = "P Meter Always Full"
+cheat66_code = "33003C9F+007F+33003F48+00FF"
 cheat66_enable = false
 
-cheat67_desc = "P Meter Always Full"
-cheat67_code = "33003C9F+007F+33003F48+00FF"
+cheat67_desc = "P Meter Won't Charge"
+cheat67_code = "33003F91+0002"
 cheat67_enable = false
 
-cheat68_desc = "P Meter Won't Charge"
-cheat68_code = "33003F91+0002"
+cheat68_desc = "P1 Infinite Lives"
+cheat68_code = "33004229+0063"
 cheat68_enable = false
 
-cheat69_desc = "P1 Infinite Lives"
-cheat69_code = "33004229+0063"
+cheat69_desc = "Press L + Up To Recatch Boomerang (Sometimes Vegetables)"
+cheat69_code = "74000130+01BF+330046C6+0004"
 cheat69_enable = false
 
-cheat70_desc = "Press L + Up To Recatch Boomerang (Sometimes Vegetables)"
-cheat70_code = "74000130+01BF+330046C6+0004"
+cheat70_desc = "Press L To Hide Behind Stuff"
+cheat70_code = "74000130+01FF+33003D06+00FF"
 cheat70_enable = false
 
-cheat71_desc = "Press L To Hide Behind Stuff"
-cheat71_code = "74000130+01FF+33003D06+00FF"
+cheat71_desc = "Press R For Pow Time"
+cheat71_code = "74000130+02FF+33003CF8+00FF"
 cheat71_enable = false
 
-cheat72_desc = "Press R For Pow Time"
-cheat72_code = "74000130+02FF+33003CF8+00FF"
+cheat72_desc = "Rotate Suits [Hold Select+R]"
+cheat72_code = "74000130+02FB+E3006000+0001+73006000+00A1+33006000+0001+73006000+0020+33003F5F+0002+73006000+0040+33003F5F+0003+73006000+0060+33003F5F+0004+73006000+0080+33003F5F+0005+73006000+00A0+33003F5F+0006"
 cheat72_enable = false
 
-cheat73_desc = "Rotate Suits [Hold Select+R]"
-cheat73_code = "74000130+02FB+E3006000+0001+73006000+00A1+33006000+0001+73006000+0020+33003F5F+0002+73006000+0040+33003F5F+0003+73006000+0060+33003F5F+0004+73006000+0080+33003F5F+0005+73006000+00A0+33003F5F+0006"
+cheat73_desc = "Slow Slot Match Puzzle"
+cheat73_code = "830038F2+1010+330038F4+0010"
 cheat73_enable = false
 
-cheat74_desc = "Slot 1"
-cheat74_code = "33002C2E+0002"
+cheat74_desc = "Spin Jump"
+cheat74_code = "33003FA2+000F"
 cheat74_enable = false
 
-cheat75_desc = "Slot 10"
-cheat75_code = "33002C37+0000"
+cheat75_desc = "Splash Always On Mario"
+cheat75_code = "33003F75+0001"
 cheat75_enable = false
 
-cheat76_desc = "Slot 11"
-cheat76_code = "33002C38+0000"
+cheat76_desc = "Stand Still To Slide Backwards"
+cheat76_code = "33003F3C+0001"
 cheat76_enable = false
 
-cheat77_desc = "Slot 12"
-cheat77_code = "33002C39+0000"
+cheat77_desc = "Starman Type Invincibility"
+cheat77_code = "33003F65+0005"
 cheat77_enable = false
 
-cheat78_desc = "Slot 13"
-cheat78_code = "33002C3A+0000"
+cheat78_desc = "Start With 2 Of Every Power Up"
+cheat78_code = "83002C2E+0101+83002C30+0202+83002C32+0303+83002C34+0404+83002C36+0505+83002C38+0606+83002C3A+0707+83002C3C+0808+83002C3E+0909+83002C40+0A0A+83002C42+0B0B+83002C44+0C0C+83002C46+0D0D+83002C48+0E0E+83002C4A+0F0F"
 cheat78_enable = false
 
-cheat79_desc = "Slot 14"
-cheat79_code = "33002C3B+0000"
+cheat79_desc = "Start With 2 Of Every Power Up (Alternate)"
+cheat79_code = "43002C2E+0101+0101000F+0002"
 cheat79_enable = false
 
-cheat80_desc = "Slot 15"
-cheat80_code = "33002C3C+0000"
+cheat80_desc = "Stop Timer"
+cheat80_code = "33003D0E+0020"
 cheat80_enable = false
 
-cheat81_desc = "Slot 16"
-cheat81_code = "33002C3D+0000"
+cheat81_desc = "World 1 Cleared"
+cheat81_code = "42001424+FFFF+00000004+0002+42001824+FFFF+00000004+0002"
 cheat81_enable = false
 
-cheat82_desc = "Slot 17"
-cheat82_code = "33002C3E+0000"
+cheat82_desc = "World 2 Cleared"
+cheat82_code = "420014A4+FFFF+00000009+0002+420018A4+FFFF+00000009+0002"
 cheat82_enable = false
 
-cheat83_desc = "Slot 18"
-cheat83_code = "33002C3F+0000"
+cheat83_desc = "World 3 Cleared"
+cheat83_code = "42001524+FFFF+00000010+0002+42001924+FFFF+00000010+0002"
 cheat83_enable = false
 
-cheat84_desc = "Slot 19"
-cheat84_code = "33002C40+0000"
+cheat84_desc = "World 4 Cleared"
+cheat84_code = "420015AC+FFFF+00000009+0002+420019AC+FFFF+00000009+0002"
 cheat84_enable = false
 
-cheat85_desc = "Slot 2"
-cheat85_code = "33002C2F+0000"
+cheat85_desc = "World 5 Cleared"
+cheat85_code = "42001622+FFFF+0000000F+0002+42001A22+FFFF+0000000F+0002"
 cheat85_enable = false
 
-cheat86_desc = "Slot 20"
-cheat86_code = "33002C41+0000"
+cheat86_desc = "World 6 Cleared"
+cheat86_code = "420016A6+FFFF+00000010+0002+42001AA6+FFFF+00000010+0002"
 cheat86_enable = false
 
-cheat87_desc = "Slot 21"
-cheat87_code = "33002C42+0000"
+cheat87_desc = "World 7 Cleared"
+cheat87_code = "42001722+FFFF+0000000E+0002+42001B22+FFFF+0000000E+0002"
 cheat87_enable = false
 
-cheat88_desc = "Slot 22"
-cheat88_code = "33002C43+0000"
+cheat88_desc = "World 8 Cleared"
+cheat88_code = "320017A8+0020+420017B6+0004+00000003+0002+320017C2+0001+320017C4+0004+320017C8+0004+320017CC+0008+320017D5+0004"
 cheat88_enable = false
 
-cheat89_desc = "Slot 23"
-cheat89_code = "33002C44+0000"
+cheat89_desc = "Get All Chests in Toad Houses (Rev 1)"
+cheat89_code = "88092ECE+2300+8809311E+2400"
 cheat89_enable = false
 
-cheat90_desc = "Slot 24"
-cheat90_code = "33002C45+0000"
+cheat90_desc = "Infinite Star Power (Rev 1)"
+cheat90_code = "880CB2A4+05FD"
 cheat90_enable = false
 
-cheat91_desc = "Slot 25"
-cheat91_code = "33002C46+0000"
+cheat91_desc = "Infinite Lives (Mario)"
+cheat91_code = "33002A6A+0062"
 cheat91_enable = false
 
-cheat92_desc = "Slot 26"
-cheat92_code = "33002C47+0000"
+cheat92_desc = "Infinite Lives (Luigi)"
+cheat92_code = "33002A6C+0062"
 cheat92_enable = false
 
-cheat93_desc = "Slot 27"
-cheat93_code = "33002C48+0000"
+cheat93_desc = "Press L Trigger+Up For Fire Powers"
+cheat93_code = "74000130+01BF+33FE6400+0002+73FE6400+0002+33003F5F+0002"
 cheat93_enable = false
 
-cheat94_desc = "Slot 28"
-cheat94_code = "33002C49+0000"
+cheat94_desc = "Press L Trigger+Down For Leaf Powers"
+cheat94_code = "74000130+017F+33FE6400+0003+73FE6400+0003+33003F5F+0003"
 cheat94_enable = false
 
-cheat95_desc = "Slot 29"
-cheat95_code = "33002C4A+0000"
+cheat95_desc = "Press L Trigger+Left For Frog Powers"
+cheat95_code = "74000130+01DF+33FE6400+0004+73FE6400+0004+33003F5F+0004"
 cheat95_enable = false
 
-cheat96_desc = "Slot 3"
-cheat96_code = "33002C30+0000"
+cheat96_desc = "Press R Trigger+Right For Racoon Powers"
+cheat96_code = "74000130+01EF+33FE6400+0005+73FE6400+0005+33003F5F+0005"
 cheat96_enable = false
 
-cheat97_desc = "Slot 30"
-cheat97_code = "33002C4B+0000"
+cheat97_desc = "Press R Trigger+Up For Hammer Bros. Powers"
+cheat97_code = "74000130+02BF+33FE6400+0006+73FE6400+0006+33003F5F+0006"
 cheat97_enable = false
 
-cheat98_desc = "Slot 31"
-cheat98_code = "33002C4C+0000"
+cheat98_desc = "Press R Trigger+Down For Cape Powers"
+cheat98_code = "74000130+027F+33FE6400+0007+73FE6400+0007+33003F5F+0007"
 cheat98_enable = false
 
-cheat99_desc = "Slot 32"
-cheat99_code = "33002C4D+0000"
+cheat99_desc = "Tap Select For Form Chancge"
+cheat99_code = "74000130+03FB+E3FE5400+0001+73FE5400+0004+E3003F5E+0100+74000130+03FF+83FE5400+0000+73003F5E+1102+83003F5E+0002"
 cheat99_enable = false
 
-cheat100_desc = "Slot 33"
-cheat100_code = "33002C4E+0000"
+cheat100_desc = "Sound Quality Goes Down"
+cheat100_code = "33009443+0003"
 cheat100_enable = false
 
-cheat101_desc = "Slot 34"
-cheat101_code = "33002C4F+0000"
+cheat101_desc = "Low Pitch Music"
+cheat101_code = "33009444+0004"
 cheat101_enable = false
 
-cheat102_desc = "Slot 35"
-cheat102_code = "33002C50+0000"
+cheat102_desc = "High Pitch Music"
+cheat102_code = "33009446+0001"
 cheat102_enable = false
 
-cheat103_desc = "Slot 36"
-cheat103_code = "33002C51+0000"
+cheat103_desc = "High Pitch Music 2"
+cheat103_code = "33009447+0001"
 cheat103_enable = false
 
-cheat104_desc = "Slot 37"
-cheat104_code = "33002C52+0000"
+cheat104_desc = "Underwater Sound"
+cheat104_code = "33009779+0001"
 cheat104_enable = false
 
-cheat105_desc = "Slot 38"
-cheat105_code = "33002C53+0000"
+cheat105_desc = "Have Maximum Score"
+cheat105_code = "83003854+423F+33003856+000F"
 cheat105_enable = false
-
-cheat106_desc = "Slot 4"
-cheat106_code = "33002C31+0000"
-cheat106_enable = false
-
-cheat107_desc = "Slot 5"
-cheat107_code = "33002C32+0000"
-cheat107_enable = false
-
-cheat108_desc = "Slot 6"
-cheat108_code = "33002C33+0000"
-cheat108_enable = false
-
-cheat109_desc = "Slot 7"
-cheat109_code = "33002C34+0000"
-cheat109_enable = false
-
-cheat110_desc = "Slot 8"
-cheat110_code = "33002C35+0000"
-cheat110_enable = false
-
-cheat111_desc = "Slot 9"
-cheat111_code = "33002C36+0000"
-cheat111_enable = false
-
-cheat112_desc = "Slow Slot Match Puzzle"
-cheat112_code = "830038F2+1010+330038F4+0010"
-cheat112_enable = false
-
-cheat113_desc = "Spin Jump"
-cheat113_code = "33003FA2+000F"
-cheat113_enable = false
-
-cheat114_desc = "Splash Always On Mario"
-cheat114_code = "33003F75+0001"
-cheat114_enable = false
-
-cheat115_desc = "Stage Type Modifier"
-cheat115_code = "33004216+0000"
-cheat115_enable = false
-
-cheat116_desc = "Stand Still To Slide Backwards"
-cheat116_code = "33003F3C+0001"
-cheat116_enable = false
-
-cheat117_desc = "Starman Type Invincibility"
-cheat117_code = "33003F65+0005"
-cheat117_enable = false
-
-cheat118_desc = "Start With 2 Of Every Power Up"
-cheat118_code = "83002C2E+0101+83002C30+0202+83002C32+0303+83002C34+0404+83002C36+0505+83002C38+0606+83002C3A+0707+83002C3C+0808+83002C3E+0909+83002C40+0A0A+83002C42+0B0B+83002C44+0C0C+83002C46+0D0D+83002C48+0E0E+83002C4A+0F0F"
-cheat118_enable = false
-
-cheat119_desc = "Start With 2 Of Every Power Up (Alternate)"
-cheat119_code = "43002C2E+0101+0101000F+0002"
-cheat119_enable = false
-
-cheat120_desc = "Stop Timer"
-cheat120_code = "33003D0E+0020"
-cheat120_enable = false
-
-cheat121_desc = "Toad House Reward Modifier"
-cheat121_code = "330040A7+0000"
-cheat121_enable = false
-
-cheat122_desc = "World 1 Cleared"
-cheat122_code = "42001424+FFFF+00000004+0002+42001824+FFFF+00000004+0002"
-cheat122_enable = false
-
-cheat123_desc = "World 2 Cleared"
-cheat123_code = "420014A4+FFFF+00000009+0002+420018A4+FFFF+00000009+0002"
-cheat123_enable = false
-
-cheat124_desc = "World 3 Cleared"
-cheat124_code = "42001524+FFFF+00000010+0002+42001924+FFFF+00000010+0002"
-cheat124_enable = false
-
-cheat125_desc = "World 4 Cleared"
-cheat125_code = "420015AC+FFFF+00000009+0002+420019AC+FFFF+00000009+0002"
-cheat125_enable = false
-
-cheat126_desc = "World 5 Cleared"
-cheat126_code = "42001622+FFFF+0000000F+0002+42001A22+FFFF+0000000F+0002"
-cheat126_enable = false
-
-cheat127_desc = "World 6 Cleared"
-cheat127_code = "420016A6+FFFF+00000010+0002+42001AA6+FFFF+00000010+0002"
-cheat127_enable = false
-
-cheat128_desc = "World 7 Cleared"
-cheat128_code = "42001722+FFFF+0000000E+0002+42001B22+FFFF+0000000E+0002"
-cheat128_enable = false
-
-cheat129_desc = "World 8 Cleared"
-cheat129_code = "320017A8+0020+420017B6+0004+00000003+0002+320017C2+0001+320017C4+0004+320017C8+0004+320017CC+0008+320017D5+0004"
-cheat129_enable = false
-
-cheat130_desc = "Get All Chests in Toad Houses"
-cheat130_code = "88092ECE+2300+8809311E+2400"
-cheat130_enable = false
-
-cheat131_desc = "In-Game Costume Modifier"
-cheat131_code = "33003F5B+0010"
-cheat131_enable = false
-
-cheat132_desc = "Infinite Lives"
-cheat132_code = "894132AE+8A91"
-cheat132_enable = false
-
-cheat133_desc = "Item In 1st Slot Modifier"
-cheat133_code = "33002C2E+0010"
-cheat133_enable = false
-
-cheat134_desc = "Music Speed Modifier"
-cheat134_code = "330021E8+0000"
-cheat134_enable = false
-
-cheat135_desc = "World Modifier"
-cheat135_code = "33002A69+0000"
-cheat135_enable = false
-
-cheat136_desc = "Infinite Lives (Mario)"
-cheat136_code = "33002A6A+0062"
-cheat136_enable = false
-
-cheat137_desc = "Infinite Lives (Luigi)"
-cheat137_code = "33002A6C+0062"
-cheat137_enable = false
-
-cheat138_desc = "Press L Trigger+Up For Fire Powers"
-cheat138_code = "74000130+01BF+33FE6400+0002+73FE6400+0002+33003F5F+0002"
-cheat138_enable = false
-
-cheat139_desc = "Press L Trigger+Down For Leaf Powers"
-cheat139_code = "74000130+017F+33FE6400+0003+73FE6400+0003+33003F5F+0003"
-cheat139_enable = false
-
-cheat140_desc = "Press L Trigger+Left For Frog Powers"
-cheat140_code = "74000130+01DF+33FE6400+0004+73FE6400+0004+33003F5F+0004"
-cheat140_enable = false
-
-cheat141_desc = "Press R Trigger+Right For Racoon Powers"
-cheat141_code = "74000130+01EF+33FE6400+0005+73FE6400+0005+33003F5F+0005"
-cheat141_enable = false
-
-cheat142_desc = "Press R Trigger+Up For Hammer Bros. Powers"
-cheat142_code = "74000130+02BF+33FE6400+0006+73FE6400+0006+33003F5F+0006"
-cheat142_enable = false
-
-cheat143_desc = "Press R Trigger+Down For Cape Powers"
-cheat143_code = "74000130+027F+33FE6400+0007+73FE6400+0007+33003F5F+0007"
-cheat143_enable = false
-
-cheat144_desc = "Tap Select For Form Chancge"
-cheat144_code = "74000130+03FB+E3FE5400+0001+73FE5400+0004+E3003F5E+0100+74000130+03FF+83FE5400+0000+73003F5E+1102+83003F5E+0002"
-cheat144_enable = false
-
-cheat145_desc = "Sound Quality Goes Down"
-cheat145_code = "33009443+0003"
-cheat145_enable = false
-
-cheat146_desc = "Low Pitch Music"
-cheat146_code = "33009444+0004"
-cheat146_enable = false
-
-cheat147_desc = "High Pitch Music"
-cheat147_code = "33009446+0001"
-cheat147_enable = false
-
-cheat148_desc = "High Pitch Music 2"
-cheat148_code = "33009447+0001"
-cheat148_enable = false
-
-cheat149_desc = "Underwater Sound"
-cheat149_code = "33009779+0001"
-cheat149_enable = false
-
-cheat150_desc = "Have Maximum Score"
-cheat150_code = "83003854+423F+33003856+000F"
-cheat150_enable = false

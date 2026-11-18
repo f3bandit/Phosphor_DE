@@ -1,4 +1,4 @@
-cheats = 17
+cheats = 13
 
 cheat0_desc = "CPU Score 0"
 cheat0_code = "33002C24+0000"
@@ -16,54 +16,38 @@ cheat3_desc = "Normal Stage Challenges"
 cheat3_code = "830042A8+FFFF+830042AA+FFFF"
 cheat3_enable = false
 
-cheat4_desc = "Number of Down Arrows Modifier (Puzzle Mode)"
-cheat4_code = "33000515+0000"
+cheat4_desc = "Original Puzzles"
+cheat4_code = "83004000+FFFF+83004002+FFFF"
 cheat4_enable = false
 
-cheat5_desc = "Number of Left Arrows Modifier (Puzzle Mode)"
-cheat5_code = "33000516+0000"
+cheat5_desc = "Original Stage Challenges"
+cheat5_code = "830042AC+FFFF+830042AE+FFFF"
 cheat5_enable = false
 
-cheat6_desc = "Number of Right Arrows Modifier (Puzzle Mode)"
-cheat6_code = "33000518+0000"
+cheat6_desc = "Player 1 Score 99"
+cheat6_code = "33002C10+0063"
 cheat6_enable = false
 
-cheat7_desc = "Number of Up Arrows Modifier (Puzzle Mode)"
-cheat7_code = "33000517+0000"
+cheat7_desc = "Stop Timer"
+cheat7_code = "33002DBA+003C"
 cheat7_enable = false
 
-cheat8_desc = "Original Puzzles"
-cheat8_code = "83004000+FFFF+83004002+FFFF"
+cheat8_desc = "User #1 Puzzles"
+cheat8_code = "43003EB0+FFFF+00000028+0002"
 cheat8_enable = false
 
-cheat9_desc = "Original Stage Challenges"
-cheat9_code = "830042AC+FFFF+830042AE+FFFF"
+cheat9_desc = "User #2 Puzzles"
+cheat9_code = "43003F00+FFFF+00000028+0002"
 cheat9_enable = false
 
-cheat10_desc = "Player 1 Score 99"
-cheat10_code = "33002C10+0063"
+cheat10_desc = "User #3 Puzzles"
+cheat10_code = "43003F50+FFFF+00000028+0002"
 cheat10_enable = false
 
-cheat11_desc = "Stop Timer"
-cheat11_code = "33002DBA+003C"
+cheat11_desc = "User #4 Puzzles"
+cheat11_code = "43003F90+FFFF+0000002D+0002"
 cheat11_enable = false
 
-cheat12_desc = "User #1 Puzzles"
-cheat12_code = "43003EB0+FFFF+00000028+0002"
+cheat12_desc = "Infinite Time (Stage Challenge)"
+cheat12_code = "83002DB8+3B03"
 cheat12_enable = false
-
-cheat13_desc = "User #2 Puzzles"
-cheat13_code = "43003F00+FFFF+00000028+0002"
-cheat13_enable = false
-
-cheat14_desc = "User #3 Puzzles"
-cheat14_code = "43003F50+FFFF+00000028+0002"
-cheat14_enable = false
-
-cheat15_desc = "User #4 Puzzles"
-cheat15_code = "43003F90+FFFF+0000002D+0002"
-cheat15_enable = false
-
-cheat16_desc = "Infinite Time (Stage Challenge)"
-cheat16_code = "83002DB8+3B03"
-cheat16_enable = false

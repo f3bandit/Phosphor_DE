@@ -1,4 +1,4 @@
-cheats = 7
+cheats = 6
 
 cheat0_desc = "Always Have Starman"
 cheat0_code = "3300799F+001D"
@@ -20,10 +20,6 @@ cheat4_desc = "Infinite Time"
 cheat4_code = "330079EE+0009"
 cheat4_enable = false
 
-cheat5_desc = "Level Modifier"
-cheat5_code = "33007960+0005"
+cheat5_desc = "Super Jump (Press Up +A)"
+cheat5_code = "D0000020+0041+3300729F+00FE"
 cheat5_enable = false
-
-cheat6_desc = "Super Jump (Press Up +A)"
-cheat6_code = "D0000020+0041+3300729F+00FE"
-cheat6_enable = false

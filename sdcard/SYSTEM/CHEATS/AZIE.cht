@@ -1,4 +1,4 @@
-cheats = 36
+cheats = 34
 
 cheat0_desc = "All levels unlocked"
 cheat0_code = "32003424+000C"
@@ -28,118 +28,110 @@ cheat6_desc = "All Levels (After A Level Is Loaded)"
 cheat6_code = "32002F60+000C"
 cheat6_enable = false
 
-cheat7_desc = "Always Play Level Modifier (00-0B)"
-cheat7_code = "32006204+0000"
+cheat7_desc = "Drop Off"
+cheat7_code = "720349BA+0803+320349E0+0005"
 cheat7_enable = false
 
-cheat8_desc = "Drop Off"
-cheat8_code = "720349BA+0803+320349E0+0005"
+cheat8_desc = "Drop Off-Infinite Health"
+cheat8_code = "320349E0+0006"
 cheat8_enable = false
 
-cheat9_desc = "Drop Off-Infinite Health"
-cheat9_code = "320349E0+0006"
+cheat9_desc = "Drop Off-Invincibility"
+cheat9_code = "320349B4+00FF"
 cheat9_enable = false
 
-cheat10_desc = "Drop Off-Invincibility"
-cheat10_code = "320349B4+00FF"
+cheat10_desc = "Filter Block"
+cheat10_code = "7201C286+0803+3201C2AC+0005"
 cheat10_enable = false
 
-cheat11_desc = "Filter Block"
-cheat11_code = "7201C286+0803+3201C2AC+0005"
+cheat11_desc = "Filter Block-Infinite Health"
+cheat11_code = "3201C2AC+0006"
 cheat11_enable = false
 
-cheat12_desc = "Filter Block-Infinite Health"
-cheat12_code = "3201C2AC+0006"
+cheat12_desc = "Filter Block-Invincibility"
+cheat12_code = "3201C280+00FF"
 cheat12_enable = false
 
-cheat13_desc = "Filter Block-Invincibility"
-cheat13_code = "3201C280+00FF"
+cheat13_desc = "Finding Father"
+cheat13_code = "7203098E+0803+320309B4+0005"
 cheat13_enable = false
 
-cheat14_desc = "Finding Father"
-cheat14_code = "7203098E+0803+320309B4+0005"
+cheat14_desc = "Finding Father-Infinite Health"
+cheat14_code = "320309B4+0006+32030988+00FF"
 cheat14_enable = false
 
-cheat15_desc = "Finding Father-Infinite Health"
-cheat15_code = "320309B4+0006+32030988+00FF"
+cheat15_desc = "First Day"
+cheat15_code = "72025C12+0803+32025C38+0005"
 cheat15_enable = false
 
-cheat16_desc = "First Day"
-cheat16_code = "72025C12+0803+32025C38+0005"
+cheat16_desc = "First Day-Infinite Health"
+cheat16_code = "32025C38+0006"
 cheat16_enable = false
 
-cheat17_desc = "First Day-Infinite Health"
-cheat17_code = "32025C38+0006"
+cheat17_desc = "First Day-Invincibility"
+cheat17_code = "32025C0C+00FF"
 cheat17_enable = false
 
-cheat18_desc = "First Day-Invincibility"
-cheat18_code = "32025C0C+00FF"
+cheat18_desc = "Full Gallery"
+cheat18_code = "82002F64+FFFF"
 cheat18_enable = false
 
-cheat19_desc = "Full Gallery"
-cheat19_code = "82002F64+FFFF"
+cheat19_desc = "Infinite Health Finding Father"
+cheat19_code = "320309B4+0006"
 cheat19_enable = false
 
-cheat20_desc = "Infinite Health Finding Father"
-cheat20_code = "320309B4+0006"
+cheat20_desc = "Infinite Health Jellyfish Forest"
+cheat20_code = "32020D38+0006+3202211C+0006"
 cheat20_enable = false
 
-cheat21_desc = "Infinite Health Jellyfish Forest"
-cheat21_code = "32020D38+0006+3202211C+0006"
+cheat21_desc = "Infinite Health Minefield"
+cheat21_code = "3201F080+0008+32023A94+0006"
 cheat21_enable = false
 
-cheat22_desc = "Infinite Health Minefield"
-cheat22_code = "3201F080+0008+32023A94+0006"
+cheat22_desc = "Infinite Health Treatment Plant"
+cheat22_code = "3201C4F4+0006+32021B88+0006"
 cheat22_enable = false
 
-cheat23_desc = "Infinite Health Treatment Plant"
-cheat23_code = "3201C4F4+0006+32021B88+0006"
+cheat23_desc = "Jellyfish Forest"
+cheat23_code = "72020D12+0803+32020D38+0005"
 cheat23_enable = false
 
-cheat24_desc = "Jellyfish Forest"
-cheat24_code = "72020D12+0803+32020D38+0005"
+cheat24_desc = "Jellyfish Forest-Infinite Health"
+cheat24_code = "32020D38+0006"
 cheat24_enable = false
 
-cheat25_desc = "Jellyfish Forest-Infinite Health"
-cheat25_code = "32020D38+0006"
+cheat25_desc = "Jellyfish Forest-Invincibility"
+cheat25_code = "32020D0C+00FF"
 cheat25_enable = false
 
-cheat26_desc = "Jellyfish Forest-Invincibility"
-cheat26_code = "32020D0C+00FF"
+cheat26_desc = "Max Air Rings"
+cheat26_code = "32002F74+0009"
 cheat26_enable = false
 
-cheat27_desc = "Max Air Rings"
-cheat27_code = "32002F74+0009"
+cheat27_desc = "Max Bubble Rings"
+cheat27_code = "82002F74+03E7"
 cheat27_enable = false
 
-cheat28_desc = "Max Bubble Rings"
-cheat28_code = "82002F74+03E7"
+cheat28_desc = "Minefield"
+cheat28_code = "72023A6E+0803+32023A94+0005"
 cheat28_enable = false
 
-cheat29_desc = "Minefield"
-cheat29_code = "72023A6E+0803+32023A94+0005"
+cheat29_desc = "Minefield-Invincibility"
+cheat29_code = "3201F054+00FF+32023A68+00FF"
 cheat29_enable = false
 
-cheat30_desc = "Minefield-Invincibility"
-cheat30_code = "3201F054+00FF+32023A68+00FF"
+cheat30_desc = "Treatment Plant"
+cheat30_code = "7201C4CE+0803+3201C4F4+0005"
 cheat30_enable = false
 
-cheat31_desc = "Start On Level Modifier (01-0B)"
-cheat31_code = "72006204+0000+32006204+0000"
+cheat31_desc = "Treatment Plant-Invincibility"
+cheat31_code = "3201C4C8+00FF+32021B5C+00FF"
 cheat31_enable = false
 
-cheat32_desc = "Treatment Plant"
-cheat32_code = "7201C4CE+0803+3201C4F4+0005"
+cheat32_desc = "Turbo Speed On Race Levels"
+cheat32_code = "32011E19+00FF"
 cheat32_enable = false
 
-cheat33_desc = "Treatment Plant-Invincibility"
-cheat33_code = "3201C4C8+00FF+32021B5C+00FF"
+cheat33_desc = "Unlock All Levels"
+cheat33_code = "32003414+000C"
 cheat33_enable = false
-
-cheat34_desc = "Turbo Speed On Race Levels"
-cheat34_code = "32011E19+00FF"
-cheat34_enable = false
-
-cheat35_desc = "Unlock All Levels"
-cheat35_code = "32003414+000C"
-cheat35_enable = false

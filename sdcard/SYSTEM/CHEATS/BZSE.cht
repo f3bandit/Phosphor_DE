@@ -1,4 +1,4 @@
-cheats = 5
+cheats = 4
 
 cheat0_desc = "Max Cash"
 cheat0_code = "82015548+270F"
@@ -15,7 +15,3 @@ cheat2_enable = false
 cheat3_desc = "Max/Infinite Transformation Bar"
 cheat3_code = "82015544+06FF"
 cheat3_enable = false
-
-cheat4_desc = "Vison Changer (Picture Modifier)"
-cheat4_code = "320154F0+0001"
-cheat4_enable = false

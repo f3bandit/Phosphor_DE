@@ -1,4 +1,4 @@
-cheats = 77
+cheats = 76
 
 cheat0_desc = "1-Hit Double Battle Kill [Hold L]"
 cheat0_code = "74000130+01FF+8202479A+0000+74000130+01FF+8202479C+0000+74000130+01FF+820247FE+0000+74000130+01FF+82024800+0000"
@@ -303,7 +303,3 @@ cheat74_enable = false
 cheat75_desc = "Wild PKMN Easily Caught"
 cheat75_code = "72024214+BD79+82024214+BD90"
 cheat75_enable = false
-
-cheat76_desc = "Wild Pokemon Modifier"
-cheat76_code = "73007D70+A66F+83007D68+003F"
-cheat76_enable = false

@@ -1,4 +1,4 @@
-cheats = 124
+cheats = 42
 
 cheat0_desc = "2nd Character - Max Active"
 cheat0_code = "33002CDF+00FF"
@@ -16,482 +16,154 @@ cheat3_desc = "All Weapons $1"
 cheat3_code = "43004640+0001+00000008+0002"
 cheat3_enable = false
 
-cheat4_desc = "Armor Modifer"
-cheat4_code = "83002BC6+0000"
+cheat4_desc = "Everyone: Have All Spells"
+cheat4_code = "8202E010+FFFF"
 cheat4_enable = false
 
-cheat5_desc = "Everyone: Have All Spells"
-cheat5_code = "8202E010+FFFF"
+cheat5_desc = "Have Fishing Rod"
+cheat5_code = "8202DE28+0153"
 cheat5_enable = false
 
-cheat6_desc = "Have Fishing Rod"
-cheat6_code = "8202DE28+0153"
+cheat6_desc = "Infinite GP"
+cheat6_code = "8202DBF0+967F+8202DBF2+0098"
 cheat6_enable = false
 
-cheat7_desc = "Helmet Modifer"
-cheat7_code = "83002BC8+0000"
+cheat7_desc = "Kill Enemy01 In One Hit"
+cheat7_code = "33003516+0001"
 cheat7_enable = false
 
-cheat8_desc = "Infinite GP"
-cheat8_code = "8202DBF0+967F+8202DBF2+0098"
+cheat8_desc = "Kill Enemy02 In One Hit"
+cheat8_code = "3300363A+0001"
 cheat8_enable = false
 
-cheat9_desc = "Kill Enemy01 In One Hit"
-cheat9_code = "33003516+0001"
+cheat9_desc = "Kill Enemy03 In One Hit"
+cheat9_code = "3300375E+0001"
 cheat9_enable = false
 
-cheat10_desc = "Kill Enemy02 In One Hit"
-cheat10_code = "3300363A+0001"
+cheat10_desc = "Lots Of Clothes In Bank"
+cheat10_code = "8202DED0+2703+8202DED2+2702+8202DED4+2705+8202DED6+2704+8202DED8+2707+8202DEDA+2706+8202DEDC+2709+8202DEDE+2708+8202DEE0+270B+8202DEE2+270A+8202DEE4+270D+8202DEE6+270C+8202DEE8+270F+8202DEEA+270E+8202DEEC+2711+8202DEEE+2710+8202DEF0+2713+8202DEF2+2712+8202DEF4+2715+8202DEF6+2714+8202DEF8+2717+8202DEFA+2716+8202DEFC+2719+8202DEFE+2718"
 cheat10_enable = false
 
-cheat11_desc = "Kill Enemy03 In One Hit"
-cheat11_code = "3300375E+0001"
+cheat11_desc = "Lots Of Items In Bank"
+cheat11_code = "8202DE90+0902+8202DE92+0901+8202DE94+0904+8202DE96+0903+8202DE98+0906+8202DE9A+0905+8202DE9C+0908+8202DE9E+0907+8202DEA0+090A+8202DEA2+0909+8202DEA4+090C+8202DEA6+090B+8202DEA8+090E+8202DEAA+090D+8202DEAC+0910+8202DEAE+090F+8202DEB0+0912+8202DEB2+0911+8202DEB4+0914+8202DEB6+0913+8202DEB8+0916+8202DEBA+0915+8202DEBC+0918+8202DEBE+0917+8202DEC0+091A+8202DEC2+0919+8202DEC4+091C+8202DEC6+091B+8202DEC8+091E+8202DECA+091D+8202DECC+2701+8202DECE+091F"
 cheat11_enable = false
 
-cheat12_desc = "Lots Of Clothes In Bank"
-cheat12_code = "8202DED0+2703+8202DED2+2702+8202DED4+2705+8202DED6+2704+8202DED8+2707+8202DEDA+2706+8202DEDC+2709+8202DEDE+2708+8202DEE0+270B+8202DEE2+270A+8202DEE4+270D+8202DEE6+270C+8202DEE8+270F+8202DEEA+270E+8202DEEC+2711+8202DEEE+2710+8202DEF0+2713+8202DEF2+2712+8202DEF4+2715+8202DEF6+2714+8202DEF8+2717+8202DEFA+2716+8202DEFC+2719+8202DEFE+2718"
+cheat12_desc = "Lots Of Shields In Bank"
+cheat12_code = "8202DF64+274D+8202DF66+274C+8202DF68+274F+8202DF6A+274E+8202DF6C+2751+8202DF6E+2750+8202DF70+2753+8202DF72+2752+8202DF74+2755+8202DF76+2754+8202DF78+2757+8202DF7A+2756+8202DF7C+2759+8202DF7E+2758+8202DF80+275B+8202DF82+275A+8202DF84+275D+8202DF86+275C+8202DF88+275F+8202DF8A+275E+8202DF8E+2760"
 cheat12_enable = false
 
-cheat13_desc = "Lots Of Items In Bank"
-cheat13_code = "8202DE90+0902+8202DE92+0901+8202DE94+0904+8202DE96+0903+8202DE98+0906+8202DE9A+0905+8202DE9C+0908+8202DE9E+0907+8202DEA0+090A+8202DEA2+0909+8202DEA4+090C+8202DEA6+090B+8202DEA8+090E+8202DEAA+090D+8202DEAC+0910+8202DEAE+090F+8202DEB0+0912+8202DEB2+0911+8202DEB4+0914+8202DEB6+0913+8202DEB8+0916+8202DEBA+0915+8202DEBC+0918+8202DEBE+0917+8202DEC0+091A+8202DEC2+0919+8202DEC4+091C+8202DEC6+091B+8202DEC8+091E+8202DECA+091D+8202DECC+2701+8202DECE+091F"
+cheat13_desc = "Lots Of Weapons In Bank"
+cheat13_code = "8202DF00+1102+8202DF02+1101+8202DF04+1104+8202DF06+1103+8202DF08+1106+8202DF0A+1105+8202DF0C+1108+8202DF0E+1107+8202DF10+110A+8202DF12+1109+8202DF14+110C+8202DF16+110B+8202DF18+110E+8202DF1A+110D+8202DF1C+1110+8202DF1E+110F+8202DF20+1112+8202DF22+1111+8202DF24+1114+8202DF26+1113+8202DF28+1116+8202DF2A+1115+8202DF2C+1118+8202DF2E+1117+8202DF30+111A+8202DF32+1119+8202DF34+111C+8202DF36+111B+8202DF38+111E+8202DF3A+111D+8202DF3C+1120+8202DF3E+111F+8202DF40+1122+8202DF42+1121+8202DF44+1124+8202DF46+1123+8202DF48+1126+8202DF4A+1125+8202DF4C+1128+8202DF4E+1127+8202DF50+112A+8202DF52+1129+8202DF54+1152+8202DF56+112B+8202DF58+1138+8202DF5A+112D+8202DF5C+113D+8202DF5E+113A+8202DF60+1156+8202DF62+1150"
 cheat13_enable = false
 
-cheat14_desc = "Lots Of Shields In Bank"
-cheat14_code = "8202DF64+274D+8202DF66+274C+8202DF68+274F+8202DF6A+274E+8202DF6C+2751+8202DF6E+2750+8202DF70+2753+8202DF72+2752+8202DF74+2755+8202DF76+2754+8202DF78+2757+8202DF7A+2756+8202DF7C+2759+8202DF7E+2758+8202DF80+275B+8202DF82+275A+8202DF84+275D+8202DF86+275C+8202DF88+275F+8202DF8A+275E+8202DF8E+2760"
+cheat14_desc = "Max G"
+cheat14_code = "8202DBF0+E0FF+8202DBF2+05F5"
 cheat14_enable = false
 
-cheat15_desc = "Lots Of Weapons In Bank"
-cheat15_code = "8202DF00+1102+8202DF02+1101+8202DF04+1104+8202DF06+1103+8202DF08+1106+8202DF0A+1105+8202DF0C+1108+8202DF0E+1107+8202DF10+110A+8202DF12+1109+8202DF14+110C+8202DF16+110B+8202DF18+110E+8202DF1A+110D+8202DF1C+1110+8202DF1E+110F+8202DF20+1112+8202DF22+1111+8202DF24+1114+8202DF26+1113+8202DF28+1116+8202DF2A+1115+8202DF2C+1118+8202DF2E+1117+8202DF30+111A+8202DF32+1119+8202DF34+111C+8202DF36+111B+8202DF38+111E+8202DF3A+111D+8202DF3C+1120+8202DF3E+111F+8202DF40+1122+8202DF42+1121+8202DF44+1124+8202DF46+1123+8202DF48+1126+8202DF4A+1125+8202DF4C+1128+8202DF4E+1127+8202DF50+112A+8202DF52+1129+8202DF54+1152+8202DF56+112B+8202DF58+1138+8202DF5A+112D+8202DF5C+113D+8202DF5E+113A+8202DF60+1156+8202DF62+1150"
+cheat15_desc = "Max G In Bank"
+cheat15_code = "8202DBEC+E0FF+8202DBEE+05F5"
 cheat15_enable = false
 
-cheat16_desc = "Max G"
-cheat16_code = "8202DBF0+E0FF+8202DBF2+05F5"
+cheat16_desc = "Max Intlgnc"
+cheat16_code = "33002CDE+00FF"
 cheat16_enable = false
 
-cheat17_desc = "Max G In Bank"
-cheat17_code = "8202DBEC+E0FF+8202DBEE+05F5"
+cheat17_desc = "Max Lvl"
+cheat17_code = "33002CC6+0063"
 cheat17_enable = false
 
-cheat18_desc = "Max Intlgnc"
-cheat18_code = "33002CDE+00FF"
+cheat18_desc = "Quick GP Gain"
+cheat18_code = "83004F32+270F"
 cheat18_enable = false
 
-cheat19_desc = "Max Lvl"
-cheat19_code = "33002CC6+0063"
+cheat19_desc = "Quick Level Gain"
+cheat19_code = "83004F30+FFFF"
 cheat19_enable = false
 
-cheat20_desc = "Quick GP Gain"
-cheat20_code = "83004F32+270F"
+cheat20_desc = "Walk Thru Walls"
+cheat20_code = "33002AEF+0000"
 cheat20_enable = false
 
-cheat21_desc = "Quick Level Gain"
-cheat21_code = "83004F30+FFFF"
+cheat21_desc = "Max Gold"
+cheat21_code = "8202DBF0+FFFF"
 cheat21_enable = false
 
-cheat22_desc = "Shield Modifer"
-cheat22_code = "83002BC4+0000"
+cheat22_desc = "No Random Encounter"
+cheat22_code = "83002B6C+0000"
 cheat22_enable = false
 
-cheat23_desc = "Slot 100"
-cheat23_code = "8202DF58+0108"
+cheat23_desc = "Protagonist Quick Exp Gain"
+cheat23_code = "83002BAC+FFFF"
 cheat23_enable = false
 
-cheat24_desc = "Slot 101"
-cheat24_code = "8202DF5A+0108"
+cheat24_desc = "Protagonist Unlimited HP"
+cheat24_code = "83002BA6+03E7"
 cheat24_enable = false
 
-cheat25_desc = "Slot 102"
-cheat25_code = "8202DF5C+0108"
+cheat25_desc = "Protagonist Max HP"
+cheat25_code = "83002BA4+03E7"
 cheat25_enable = false
 
-cheat26_desc = "Slot 103"
-cheat26_code = "8202DF5E+0108"
+cheat26_desc = "Protagonist Unlimited AP"
+cheat26_code = "83002BA8+03E7"
 cheat26_enable = false
 
-cheat27_desc = "Slot 104"
-cheat27_code = "8202DF60+0108"
+cheat27_desc = "Protagonist Max AP"
+cheat27_code = "83002BAA+03E7"
 cheat27_enable = false
 
-cheat28_desc = "Slot 105"
-cheat28_code = "8202DF62+0108"
+cheat28_desc = "2nd Character Quick Exp Gain"
+cheat28_code = "83002CD0+FFFF"
 cheat28_enable = false
 
-cheat29_desc = "Slot 106"
-cheat29_code = "8202DF64+0108"
+cheat29_desc = "2nd Character Unlimited HP"
+cheat29_code = "83002CCA+03E7"
 cheat29_enable = false
 
-cheat30_desc = "Slot 107"
-cheat30_code = "8202DF66+0108"
+cheat30_desc = "2nd Character Max HP"
+cheat30_code = "83002CC8+03E7"
 cheat30_enable = false
 
-cheat31_desc = "Slot 108"
-cheat31_code = "8202DF68+0108"
+cheat31_desc = "2nd Character Unlimited AP"
+cheat31_code = "83002CCC+03E7"
 cheat31_enable = false
 
-cheat32_desc = "Slot 109"
-cheat32_code = "8202DF6A+0108"
+cheat32_desc = "2nd Character Max AP"
+cheat32_code = "83002CCE+03E7"
 cheat32_enable = false
 
-cheat33_desc = "Slot 110"
-cheat33_code = "8202DF6C+0108"
+cheat33_desc = "3rd Character Unlimited HP"
+cheat33_code = "83002DEE+03E7"
 cheat33_enable = false
 
-cheat34_desc = "Slot 111"
-cheat34_code = "8202DF6E+0108"
+cheat34_desc = "3rd Character Max HP"
+cheat34_code = "83002DEC+03E7"
 cheat34_enable = false
 
-cheat35_desc = "Slot 112"
-cheat35_code = "8202DF70+0108"
+cheat35_desc = "3rd Character Unlimited AP"
+cheat35_code = "83002DF0+03E7"
 cheat35_enable = false
 
-cheat36_desc = "Slot 113"
-cheat36_code = "8202DF72+0108"
+cheat36_desc = "3rd Character Max AP"
+cheat36_code = "83002DF2+03E7"
 cheat36_enable = false
 
-cheat37_desc = "Slot 114"
-cheat37_code = "8202DF74+0108"
+cheat37_desc = "4th Character Quick Exp Gain"
+cheat37_code = "83002F18+FFFF"
 cheat37_enable = false
 
-cheat38_desc = "Slot 115"
-cheat38_code = "8202DF76+0108"
+cheat38_desc = "4th Character Unlimited HP"
+cheat38_code = "83002F12+03E7"
 cheat38_enable = false
 
-cheat39_desc = "Slot 116"
-cheat39_code = "8202DF78+0108"
+cheat39_desc = "4th Character Max HP"
+cheat39_code = "83002F10+03E7"
 cheat39_enable = false
 
-cheat40_desc = "Slot 117"
-cheat40_code = "8202DF7A+0108"
+cheat40_desc = "4th Character Unlimited AP"
+cheat40_code = "83002F14+03E7"
 cheat40_enable = false
 
-cheat41_desc = "Slot 118"
-cheat41_code = "8202DF7C+0108"
+cheat41_desc = "4th Character Max AP"
+cheat41_code = "83002F16+03E7"
 cheat41_enable = false
-
-cheat42_desc = "Slot 119"
-cheat42_code = "8202DF7E+0108"
-cheat42_enable = false
-
-cheat43_desc = "Slot 120"
-cheat43_code = "8202DF80+0108"
-cheat43_enable = false
-
-cheat44_desc = "Slot 121"
-cheat44_code = "8202DF82+0108"
-cheat44_enable = false
-
-cheat45_desc = "Slot 122"
-cheat45_code = "8202DF84+0108"
-cheat45_enable = false
-
-cheat46_desc = "Slot 123"
-cheat46_code = "8202DF86+0108"
-cheat46_enable = false
-
-cheat47_desc = "Slot 124"
-cheat47_code = "8202DF88+0108"
-cheat47_enable = false
-
-cheat48_desc = "Slot 125"
-cheat48_code = "8202DF8A+0108"
-cheat48_enable = false
-
-cheat49_desc = "Slot 126"
-cheat49_code = "8202DF8C+0108"
-cheat49_enable = false
-
-cheat50_desc = "Slot 49"
-cheat50_code = "8202DEF2+0108"
-cheat50_enable = false
-
-cheat51_desc = "Slot 50"
-cheat51_code = "8202DEF4+0108"
-cheat51_enable = false
-
-cheat52_desc = "Slot 51"
-cheat52_code = "8202DEF6+0108"
-cheat52_enable = false
-
-cheat53_desc = "Slot 52"
-cheat53_code = "8202DEF8+0108"
-cheat53_enable = false
-
-cheat54_desc = "Slot 53"
-cheat54_code = "8202DEFA+0108"
-cheat54_enable = false
-
-cheat55_desc = "Slot 54"
-cheat55_code = "8202DEFC+0108"
-cheat55_enable = false
-
-cheat56_desc = "Slot 55"
-cheat56_code = "8202DEFE+0108"
-cheat56_enable = false
-
-cheat57_desc = "Slot 56"
-cheat57_code = "8202DF00+0108"
-cheat57_enable = false
-
-cheat58_desc = "Slot 57"
-cheat58_code = "8202DF02+0108"
-cheat58_enable = false
-
-cheat59_desc = "Slot 58"
-cheat59_code = "8202DF04+0108"
-cheat59_enable = false
-
-cheat60_desc = "Slot 59"
-cheat60_code = "8202DF06+0108"
-cheat60_enable = false
-
-cheat61_desc = "Slot 60"
-cheat61_code = "8202DF08+0108"
-cheat61_enable = false
-
-cheat62_desc = "Slot 61"
-cheat62_code = "8202DF0A+0108"
-cheat62_enable = false
-
-cheat63_desc = "Slot 62"
-cheat63_code = "8202DF0C+0108"
-cheat63_enable = false
-
-cheat64_desc = "Slot 63"
-cheat64_code = "8202DF0E+0108"
-cheat64_enable = false
-
-cheat65_desc = "Slot 64"
-cheat65_code = "8202DF10+0108"
-cheat65_enable = false
-
-cheat66_desc = "Slot 65"
-cheat66_code = "8202DF12+0108"
-cheat66_enable = false
-
-cheat67_desc = "Slot 66"
-cheat67_code = "8202DF14+0108"
-cheat67_enable = false
-
-cheat68_desc = "Slot 67"
-cheat68_code = "8202DF16+0108"
-cheat68_enable = false
-
-cheat69_desc = "Slot 68"
-cheat69_code = "8202DF18+0108"
-cheat69_enable = false
-
-cheat70_desc = "Slot 69"
-cheat70_code = "8202DF1A+0108"
-cheat70_enable = false
-
-cheat71_desc = "Slot 70"
-cheat71_code = "8202DF1C+0108"
-cheat71_enable = false
-
-cheat72_desc = "Slot 71"
-cheat72_code = "8202DF1E+0108"
-cheat72_enable = false
-
-cheat73_desc = "Slot 72"
-cheat73_code = "8202DF20+0108"
-cheat73_enable = false
-
-cheat74_desc = "Slot 73"
-cheat74_code = "8202DF22+0108"
-cheat74_enable = false
-
-cheat75_desc = "Slot 74"
-cheat75_code = "8202DF24+0108"
-cheat75_enable = false
-
-cheat76_desc = "Slot 75"
-cheat76_code = "8202DF26+0108"
-cheat76_enable = false
-
-cheat77_desc = "Slot 76"
-cheat77_code = "8202DF28+0108"
-cheat77_enable = false
-
-cheat78_desc = "Slot 77"
-cheat78_code = "8202DF2A+0108"
-cheat78_enable = false
-
-cheat79_desc = "Slot 78"
-cheat79_code = "8202DF2C+0108"
-cheat79_enable = false
-
-cheat80_desc = "Slot 79"
-cheat80_code = "8202DF2E+0108"
-cheat80_enable = false
-
-cheat81_desc = "Slot 80"
-cheat81_code = "8202DF30+0108"
-cheat81_enable = false
-
-cheat82_desc = "Slot 81"
-cheat82_code = "8202DF32+0108"
-cheat82_enable = false
-
-cheat83_desc = "Slot 82"
-cheat83_code = "8202DF34+0108"
-cheat83_enable = false
-
-cheat84_desc = "Slot 83"
-cheat84_code = "8202DF36+0108"
-cheat84_enable = false
-
-cheat85_desc = "Slot 84"
-cheat85_code = "8202DF38+0108"
-cheat85_enable = false
-
-cheat86_desc = "Slot 85"
-cheat86_code = "8202DF3A+0108"
-cheat86_enable = false
-
-cheat87_desc = "Slot 86"
-cheat87_code = "8202DF3C+0108"
-cheat87_enable = false
-
-cheat88_desc = "Slot 87"
-cheat88_code = "8202DF3E+0108"
-cheat88_enable = false
-
-cheat89_desc = "Slot 88"
-cheat89_code = "8202DF40+0108"
-cheat89_enable = false
-
-cheat90_desc = "Slot 89"
-cheat90_code = "8202DF42+0108"
-cheat90_enable = false
-
-cheat91_desc = "Slot 90"
-cheat91_code = "8202DF44+0108"
-cheat91_enable = false
-
-cheat92_desc = "Slot 91"
-cheat92_code = "8202DF46+0108"
-cheat92_enable = false
-
-cheat93_desc = "Slot 92"
-cheat93_code = "8202DF48+0108"
-cheat93_enable = false
-
-cheat94_desc = "Slot 93"
-cheat94_code = "8202DF4A+0108"
-cheat94_enable = false
-
-cheat95_desc = "Slot 94"
-cheat95_code = "8202DF4C+0108"
-cheat95_enable = false
-
-cheat96_desc = "Slot 95"
-cheat96_code = "8202DF4E+0108"
-cheat96_enable = false
-
-cheat97_desc = "Slot 96"
-cheat97_code = "8202DF50+0108"
-cheat97_enable = false
-
-cheat98_desc = "Slot 97"
-cheat98_code = "8202DF52+0108"
-cheat98_enable = false
-
-cheat99_desc = "Slot 98"
-cheat99_code = "8202DF54+0108"
-cheat99_enable = false
-
-cheat100_desc = "Slot 99"
-cheat100_code = "8202DF56+0108"
-cheat100_enable = false
-
-cheat101_desc = "Walk Thru Walls"
-cheat101_code = "33002AEF+0000"
-cheat101_enable = false
-
-cheat102_desc = "Weapon Modifier"
-cheat102_code = "83002BC2+0908"
-cheat102_enable = false
-
-cheat103_desc = "Max Gold"
-cheat103_code = "8202DBF0+FFFF"
-cheat103_enable = false
-
-cheat104_desc = "No Random Encounter"
-cheat104_code = "83002B6C+0000"
-cheat104_enable = false
-
-cheat105_desc = "Protagonist Quick Exp Gain"
-cheat105_code = "83002BAC+FFFF"
-cheat105_enable = false
-
-cheat106_desc = "Protagonist Unlimited HP"
-cheat106_code = "83002BA6+03E7"
-cheat106_enable = false
-
-cheat107_desc = "Protagonist Max HP"
-cheat107_code = "83002BA4+03E7"
-cheat107_enable = false
-
-cheat108_desc = "Protagonist Unlimited AP"
-cheat108_code = "83002BA8+03E7"
-cheat108_enable = false
-
-cheat109_desc = "Protagonist Max AP"
-cheat109_code = "83002BAA+03E7"
-cheat109_enable = false
-
-cheat110_desc = "2nd Character Quick Exp Gain"
-cheat110_code = "83002CD0+FFFF"
-cheat110_enable = false
-
-cheat111_desc = "2nd Character Unlimited HP"
-cheat111_code = "83002CCA+03E7"
-cheat111_enable = false
-
-cheat112_desc = "2nd Character Max HP"
-cheat112_code = "83002CC8+03E7"
-cheat112_enable = false
-
-cheat113_desc = "2nd Character Unlimited AP"
-cheat113_code = "83002CCC+03E7"
-cheat113_enable = false
-
-cheat114_desc = "2nd Character Max AP"
-cheat114_code = "83002CCE+03E7"
-cheat114_enable = false
-
-cheat115_desc = "3rd Character Unlimited HP"
-cheat115_code = "83002DEE+03E7"
-cheat115_enable = false
-
-cheat116_desc = "3rd Character Max HP"
-cheat116_code = "83002DEC+03E7"
-cheat116_enable = false
-
-cheat117_desc = "3rd Character Unlimited AP"
-cheat117_code = "83002DF0+03E7"
-cheat117_enable = false
-
-cheat118_desc = "3rd Character Max AP"
-cheat118_code = "83002DF2+03E7"
-cheat118_enable = false
-
-cheat119_desc = "4th Character Quick Exp Gain"
-cheat119_code = "83002F18+FFFF"
-cheat119_enable = false
-
-cheat120_desc = "4th Character Unlimited HP"
-cheat120_code = "83002F12+03E7"
-cheat120_enable = false
-
-cheat121_desc = "4th Character Max HP"
-cheat121_code = "83002F10+03E7"
-cheat121_enable = false
-
-cheat122_desc = "4th Character Unlimited AP"
-cheat122_code = "83002F14+03E7"
-cheat122_enable = false
-
-cheat123_desc = "4th Character Max AP"
-cheat123_code = "83002F16+03E7"
-cheat123_enable = false

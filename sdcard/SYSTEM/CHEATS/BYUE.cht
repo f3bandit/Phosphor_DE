@@ -1,4 +1,4 @@
-cheats = 72
+cheats = 71
 
 cheat0_desc = "1 Slot"
 cheat0_code = "3201850A+0000"
@@ -64,226 +64,222 @@ cheat15_desc = "Current Card: Max power"
 cheat15_code = "8300490A+270F"
 cheat15_enable = false
 
-cheat16_desc = "Current Card: Modifier"
-cheat16_code = "3300490C+0000"
+cheat16_desc = "Current Card: Weapon Type"
+cheat16_code = "33004908+0008"
 cheat16_enable = false
 
-cheat17_desc = "Current Card: Weapon Type"
-cheat17_code = "33004908+0008"
+cheat17_desc = "Defeat Rivals [Press Select]"
+cheat17_code = "D0000020+0004+83003CAE+0000"
 cheat17_enable = false
 
-cheat18_desc = "Defeat Rivals [Press Select]"
-cheat18_code = "D0000020+0004+83003CAE+0000"
+cheat18_desc = "Empty Rage Gauge"
+cheat18_code = "72021942+0088+82021940+0000"
 cheat18_enable = false
 
-cheat19_desc = "Empty Rage Gauge"
-cheat19_code = "72021942+0088+82021940+0000"
+cheat19_desc = "Have 10 Moves"
+cheat19_code = "33004909+000A"
 cheat19_enable = false
 
-cheat20_desc = "Have 10 Moves"
-cheat20_code = "33004909+000A"
+cheat20_desc = "Have All Extras"
+cheat20_code = "43005000+FFFF+0000001E+0002"
 cheat20_enable = false
 
-cheat21_desc = "Have All Extras"
-cheat21_code = "43005000+FFFF+0000001E+0002"
+cheat21_desc = "Have All Items"
+cheat21_code = "43004F44+FFFF+00000020+0002"
 cheat21_enable = false
 
-cheat22_desc = "Have All Items"
-cheat22_code = "43004F44+FFFF+00000020+0002"
+cheat22_desc = "Inf Attack Turn"
+cheat22_code = "33004991+0000"
 cheat22_enable = false
 
-cheat23_desc = "Inf Attack Turn"
-cheat23_code = "33004991+0000"
+cheat23_desc = "Infinite Health"
+cheat23_code = "83003C5E+03E4+83003C60+03E4+83003C5C+00A6+33003C7E+0066+43003C66+00A6+00000006+0002"
 cheat23_enable = false
 
-cheat24_desc = "Infinite Health"
-cheat24_code = "83003C5E+03E4+83003C60+03E4+83003C5C+00A6+33003C7E+0066+43003C66+00A6+00000006+0002"
+cheat24_desc = "Infinite Moral Flunky"
+cheat24_code = "82017EE8+270F"
 cheat24_enable = false
 
-cheat25_desc = "Infinite Moral Flunky"
-cheat25_code = "82017EE8+270F"
+cheat25_desc = "Infinite Moral Milanor"
+cheat25_code = "82017D30+270F"
 cheat25_enable = false
 
-cheat26_desc = "Infinite Moral Milanor"
-cheat26_code = "82017D30+270F"
+cheat26_desc = "Infinite Moral Yddgra"
+cheat26_code = "82017D58+270F"
 cheat26_enable = false
 
-cheat27_desc = "Infinite Moral Yddgra"
-cheat27_code = "82017D58+270F"
+cheat27_desc = "Infinite Move"
+cheat27_code = "33004909+000C"
 cheat27_enable = false
 
-cheat28_desc = "Infinite Move"
-cheat28_code = "33004909+000C"
+cheat28_desc = "Infinite Turns (Press B)"
+cheat28_code = "73004928+0922+33004934+000C+8201858A+0000"
 cheat28_enable = false
 
-cheat29_desc = "Infinite Turns (Press B)"
-cheat29_code = "73004928+0922+33004934+000C+8201858A+0000"
+cheat29_desc = "Instant Win"
+cheat29_code = "83003CAE+0000"
 cheat29_enable = false
 
-cheat30_desc = "Instant Win"
-cheat30_code = "83003CAE+0000"
+cheat30_desc = "Max Card Gauge"
+cheat30_code = "83003796+0D80"
 cheat30_enable = false
 
-cheat31_desc = "Max Card Gauge"
-cheat31_code = "83003796+0D80"
+cheat31_desc = "Max Gauge"
+cheat31_code = "83003D04+0D80"
 cheat31_enable = false
 
-cheat32_desc = "Max Gauge"
-cheat32_code = "83003D04+0D80"
+cheat32_desc = "Max Moral Flunky"
+cheat32_code = "82017EEA+270F"
 cheat32_enable = false
 
-cheat33_desc = "Max Moral Flunky"
-cheat33_code = "82017EEA+270F"
+cheat33_desc = "Max Moral Milanor"
+cheat33_code = "82017D32+270F"
 cheat33_enable = false
 
-cheat34_desc = "Max Moral Milanor"
-cheat34_code = "82017D32+270F"
+cheat34_desc = "Max Moral Yddgra"
+cheat34_code = "82017D5A+270F"
 cheat34_enable = false
 
-cheat35_desc = "Max Moral Yddgra"
-cheat35_code = "82017D5A+270F"
+cheat35_desc = "Max Power Ace Guard Card"
+cheat35_code = "83004F3E+270F"
 cheat35_enable = false
 
-cheat36_desc = "Max Power Ace Guard Card"
-cheat36_code = "83004F3E+270F"
+cheat36_desc = "Max Power Banish Card"
+cheat36_code = "83004F1E+270F"
 cheat36_enable = false
 
-cheat37_desc = "Max Power Banish Card"
-cheat37_code = "83004F1E+270F"
+cheat37_desc = "Max Power Banshee's Cry Card"
+cheat37_code = "83004F34+270F"
 cheat37_enable = false
 
-cheat38_desc = "Max Power Banshee's Cry Card"
-cheat38_code = "83004F34+270F"
+cheat38_desc = "Max Power Blizzard Card"
+cheat38_code = "83004F1A+270F"
 cheat38_enable = false
 
-cheat39_desc = "Max Power Blizzard Card"
-cheat39_code = "83004F1A+270F"
+cheat39_desc = "Max Power Bloody Claw Card"
+cheat39_code = "83004F12+270F"
 cheat39_enable = false
 
-cheat40_desc = "Max Power Bloody Claw Card"
-cheat40_code = "83004F12+270F"
+cheat40_desc = "Max Power Chariot Card"
+cheat40_code = "83004F14+270F"
 cheat40_enable = false
 
-cheat41_desc = "Max Power Chariot Card"
-cheat41_code = "83004F14+270F"
+cheat41_desc = "Max Power Crusade Card"
+cheat41_code = "83004F28+270F"
 cheat41_enable = false
 
-cheat42_desc = "Max Power Crusade Card"
-cheat42_code = "83004F28+270F"
+cheat42_desc = "Max Power Doll Craft Card"
+cheat42_code = "83004F04+270F"
 cheat42_enable = false
 
-cheat43_desc = "Max Power Doll Craft Card"
-cheat43_code = "83004F04+270F"
+cheat43_desc = "Max Power Dragon Killer Card"
+cheat43_code = "83004F20+270F"
 cheat43_enable = false
 
-cheat44_desc = "Max Power Dragon Killer Card"
-cheat44_code = "83004F20+270F"
+cheat44_desc = "Max Power Earthquake Card"
+cheat44_code = "83004F22+270F"
 cheat44_enable = false
 
-cheat45_desc = "Max Power Earthquake Card"
-cheat45_code = "83004F22+270F"
+cheat45_desc = "Max Power Flame Card"
+cheat45_code = "83004F18+270F"
 cheat45_enable = false
 
-cheat46_desc = "Max Power Flame Card"
-cheat46_code = "83004F18+270F"
+cheat46_desc = "Max Power Fortune Card"
+cheat46_code = "83004F30+270F"
 cheat46_enable = false
 
-cheat47_desc = "Max Power Fortune Card"
-cheat47_code = "83004F30+270F"
+cheat47_desc = "Max Power Gravity Chaos Card"
+cheat47_code = "83004F0C+270F"
 cheat47_enable = false
 
-cheat48_desc = "Max Power Gravity Chaos Card"
-cheat48_code = "83004F0C+270F"
+cheat48_desc = "Max Power Item Break Card"
+cheat48_code = "83004F0E+270F"
 cheat48_enable = false
 
-cheat49_desc = "Max Power Item Break Card"
-cheat49_code = "83004F0E+270F"
+cheat49_desc = "Max Power Ivy Whip Card"
+cheat49_code = "83004F36+270F"
 cheat49_enable = false
 
-cheat50_desc = "Max Power Ivy Whip Card"
-cheat50_code = "83004F36+270F"
+cheat50_desc = "Max Power Kiss of Death Card"
+cheat50_code = "83004F2E+270F"
 cheat50_enable = false
 
-cheat51_desc = "Max Power Kiss of Death Card"
-cheat51_code = "83004F2E+270F"
+cheat51_desc = "Max Power Man Trap Card"
+cheat51_code = "83004F3A+270F"
 cheat51_enable = false
 
-cheat52_desc = "Max Power Man Trap Card"
-cheat52_code = "83004F3A+270F"
+cheat52_desc = "Max Power Medusa Eye Card"
+cheat52_code = "83004F08+270F"
 cheat52_enable = false
 
-cheat53_desc = "Max Power Medusa Eye Card"
-cheat53_code = "83004F08+270F"
+cheat53_desc = "Max Power Mind Change Card"
+cheat53_code = "83004F24+270F"
 cheat53_enable = false
 
-cheat54_desc = "Max Power Mind Change Card"
-cheat54_code = "83004F24+270F"
+cheat54_desc = "Max Power Mirage Card"
+cheat54_code = "83004F32+270F"
 cheat54_enable = false
 
-cheat55_desc = "Max Power Mirage Card"
-cheat55_code = "83004F32+270F"
+cheat55_desc = "Max Power Necro Gate Card"
+cheat55_code = "83004F06+270F"
 cheat55_enable = false
 
-cheat56_desc = "Max Power Necro Gate Card"
-cheat56_code = "83004F06+270F"
+cheat56_desc = "Max Power Poision Breath Card"
+cheat56_code = "83004F0A+270F"
 cheat56_enable = false
 
-cheat57_desc = "Max Power Poision Breath Card"
-cheat57_code = "83004F0A+270F"
+cheat57_desc = "Max Power Refreshment Card"
+cheat57_code = "83004F2C+270F"
 cheat57_enable = false
 
-cheat58_desc = "Max Power Refreshment Card"
-cheat58_code = "83004F2C+270F"
+cheat58_desc = "Max Power Revolution Card"
+cheat58_code = "83004F26+270F"
 cheat58_enable = false
 
-cheat59_desc = "Max Power Revolution Card"
-cheat59_code = "83004F26+270F"
+cheat59_desc = "Max Power Rock Fall Card"
+cheat59_code = "83004F3C+270F"
 cheat59_enable = false
 
-cheat60_desc = "Max Power Rock Fall Card"
-cheat60_code = "83004F3C+270F"
+cheat60_desc = "Max Power Sand Storm Card"
+cheat60_code = "83004F38+270F"
 cheat60_enable = false
 
-cheat61_desc = "Max Power Sand Storm Card"
-cheat61_code = "83004F38+270F"
+cheat61_desc = "Max Power Santuary Card"
+cheat61_code = "83004F2A+270F"
 cheat61_enable = false
 
-cheat62_desc = "Max Power Santuary Card"
-cheat62_code = "83004F2A+270F"
+cheat62_desc = "Max Power Shield Barrier Card"
+cheat62_code = "83004F16+270F"
 cheat62_enable = false
 
-cheat63_desc = "Max Power Shield Barrier Card"
-cheat63_code = "83004F16+270F"
+cheat63_desc = "Max Power Steal Card"
+cheat63_code = "83004F10+270F"
 cheat63_enable = false
 
-cheat64_desc = "Max Power Steal Card"
-cheat64_code = "83004F10+270F"
+cheat64_desc = "Max Power Thunder Bolt Card"
+cheat64_code = "83004F1C+270F"
 cheat64_enable = false
 
-cheat65_desc = "Max Power Thunder Bolt Card"
-cheat65_code = "83004F1C+270F"
+cheat65_desc = "Max Total Move"
+cheat65_code = "330037D4+00FF"
 cheat65_enable = false
 
-cheat66_desc = "Max Total Move"
-cheat66_code = "330037D4+00FF"
+cheat66_desc = "Maximum Card Power"
+cheat66_code = "830043B4+270F"
 cheat66_enable = false
 
-cheat67_desc = "Maximum Card Power"
-cheat67_code = "830043B4+270F"
+cheat67_desc = "Maximum Morale"
+cheat67_code = "42017D30+270F+0000000C+0028+42017D32+270F+0000000C+0028"
 cheat67_enable = false
 
-cheat68_desc = "Maximum Morale"
-cheat68_code = "42017D30+270F+0000000C+0028+42017D32+270F+0000000C+0028"
+cheat68_desc = "Maximum Stats"
+cheat68_code = "42017D2C+7BDE+0000000C+0028+42017D2E+33EF+0000000C+0028"
 cheat68_enable = false
 
-cheat69_desc = "Maximum Stats"
-cheat69_code = "42017D2C+7BDE+0000000C+0028+42017D2E+33EF+0000000C+0028"
+cheat69_desc = "Passive Charged [Press R+Left]"
+cheat69_code = "74000130+02DF+83003D04+0D80"
 cheat69_enable = false
 
-cheat70_desc = "Passive Charged [Press R+Left]"
-cheat70_code = "74000130+02DF+83003D04+0D80"
+cheat70_desc = "Special Attack Enable"
+cheat70_code = "33004FB8+0009"
 cheat70_enable = false
-
-cheat71_desc = "Special Attack Enable"
-cheat71_code = "33004FB8+0009"
-cheat71_enable = false

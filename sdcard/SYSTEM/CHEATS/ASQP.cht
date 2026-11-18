@@ -16,8 +16,7 @@ cheat3_desc = "Start On Level 50"
 cheat3_code = "33000164+0031"
 cheat3_enable = false
 
-cheat4_desc = "Win Stage 
-[Press Select+L]"
+cheat4_desc = "Win Stage [Press Select+L]"
 cheat4_code = "74000130+01FB+330000F4+0005"
 cheat4_enable = false
 

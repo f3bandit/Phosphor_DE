@@ -1,4 +1,4 @@
-cheats = 61
+cheats = 52
 
 cheat0_desc = "AGI"
 cheat0_code = "8201DE68+0000"
@@ -192,54 +192,18 @@ cheat47_desc = "Shaman Level"
 cheat47_code = "32022E30+0000"
 cheat47_enable = false
 
-cheat48_desc = "Slot #1"
-cheat48_code = "8201DE50+0000"
+cheat48_desc = "Spiritual Salve"
+cheat48_code = "3201F7A3+0063"
 cheat48_enable = false
 
-cheat49_desc = "Slot #2"
-cheat49_code = "8201DE94+0000"
+cheat49_desc = "Status"
+cheat49_code = "3201DE6A+0000"
 cheat49_enable = false
 
-cheat50_desc = "Slot #3"
-cheat50_code = "8201DED8+0000"
+cheat50_desc = "Sword of Light"
+cheat50_code = "3201F7AB+0001"
 cheat50_enable = false
 
-cheat51_desc = "Slot #4"
-cheat51_code = "8201DF1C+0000"
+cheat51_desc = "Thaw Out"
+cheat51_code = "3201F7AA+0063"
 cheat51_enable = false
-
-cheat52_desc = "Spirit Modifier"
-cheat52_code = "3201DE50+0000"
-cheat52_enable = false
-
-cheat53_desc = "Spiritual Salve"
-cheat53_code = "3201F7A3+0063"
-cheat53_enable = false
-
-cheat54_desc = "Status"
-cheat54_code = "3201DE6A+0000"
-cheat54_enable = false
-
-cheat55_desc = "Sword of Light"
-cheat55_code = "3201F7AB+0001"
-cheat55_enable = false
-
-cheat56_desc = "Thaw Out"
-cheat56_code = "3201F7AA+0063"
-cheat56_enable = false
-
-cheat57_desc = "Type Modifier"
-cheat57_code = "8201F06E+0000"
-cheat57_enable = false
-
-cheat58_desc = "Wild Level Modifier"
-cheat58_code = "82022CFE+0000"
-cheat58_enable = false
-
-cheat59_desc = "Wild Modifier"
-cheat59_code = "82022CFA+0000"
-cheat59_enable = false
-
-cheat60_desc = "Wild Move Modifiers"
-cheat60_code = "82022CE0+0000+82022CE4+0000+82022CE8+0000+82022CEC+0000+82022CF0+0000+82022CF4+0000"
-cheat60_enable = false

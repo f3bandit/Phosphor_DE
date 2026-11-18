@@ -1,4 +1,4 @@
-cheats = 37
+cheats = 14
 
 cheat0_desc = "Enable Max Item Slots (00-17)"
 cheat0_code = "33005476+0000"
@@ -52,98 +52,6 @@ cheat12_desc = "Max Money"
 cheat12_code = "83006E50+C350"
 cheat12_enable = false
 
-cheat13_desc = "Slot 1"
-cheat13_code = "8300547C+0001"
+cheat13_desc = "Infinite Health"
+cheat13_code = "830057AE+2000"
 cheat13_enable = false
-
-cheat14_desc = "Slot 10"
-cheat14_code = "830054A0+0000"
-cheat14_enable = false
-
-cheat15_desc = "Slot 11"
-cheat15_code = "830054A4+0000"
-cheat15_enable = false
-
-cheat16_desc = "Slot 12"
-cheat16_code = "830054A8+0000"
-cheat16_enable = false
-
-cheat17_desc = "Slot 13"
-cheat17_code = "830054AC+0000"
-cheat17_enable = false
-
-cheat18_desc = "Slot 14"
-cheat18_code = "830054B0+0000"
-cheat18_enable = false
-
-cheat19_desc = "Slot 15"
-cheat19_code = "830054B4+0000"
-cheat19_enable = false
-
-cheat20_desc = "Slot 16"
-cheat20_code = "830054B8+0000"
-cheat20_enable = false
-
-cheat21_desc = "Slot 17"
-cheat21_code = "830054BC+0000"
-cheat21_enable = false
-
-cheat22_desc = "Slot 18"
-cheat22_code = "830054C0+0000"
-cheat22_enable = false
-
-cheat23_desc = "Slot 19"
-cheat23_code = "830054C4+0000"
-cheat23_enable = false
-
-cheat24_desc = "Slot 2"
-cheat24_code = "83005480+0000"
-cheat24_enable = false
-
-cheat25_desc = "Slot 20"
-cheat25_code = "830054C8+0000"
-cheat25_enable = false
-
-cheat26_desc = "Slot 21"
-cheat26_code = "830054CC+0000"
-cheat26_enable = false
-
-cheat27_desc = "Slot 22"
-cheat27_code = "830054D0+0000"
-cheat27_enable = false
-
-cheat28_desc = "Slot 23"
-cheat28_code = "830054D4+0000"
-cheat28_enable = false
-
-cheat29_desc = "Slot 3"
-cheat29_code = "83005484+0000"
-cheat29_enable = false
-
-cheat30_desc = "Slot 4"
-cheat30_code = "83005488+0000"
-cheat30_enable = false
-
-cheat31_desc = "Slot 5"
-cheat31_code = "8300548C+0000"
-cheat31_enable = false
-
-cheat32_desc = "Slot 6"
-cheat32_code = "83005490+0000"
-cheat32_enable = false
-
-cheat33_desc = "Slot 7"
-cheat33_code = "83005494+0000"
-cheat33_enable = false
-
-cheat34_desc = "Slot 8"
-cheat34_code = "83005498+0000"
-cheat34_enable = false
-
-cheat35_desc = "Slot 9"
-cheat35_code = "8300549C+0000"
-cheat35_enable = false
-
-cheat36_desc = "Infinite Health"
-cheat36_code = "830057AE+2000"
-cheat36_enable = false

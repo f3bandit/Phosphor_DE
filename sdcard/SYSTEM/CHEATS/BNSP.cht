@@ -1,4 +1,4 @@
-cheats = 49
+cheats = 28
 
 cheat0_desc = "Drift Multiplier is 99"
 cheat0_code = "33006A0C+0009"
@@ -92,106 +92,22 @@ cheat22_desc = "Parts Installed - Traded Car: Weight Reduction Stage 3"
 cheat22_code = "32001973+0003"
 cheat22_enable = false
 
-cheat23_desc = "Quick Race - Circuit - Infinite Nitro: Atlantica/Atlantica (R)"
-cheat23_code = "7201A998+1775"
+cheat23_desc = "Race Time Is 0:0:01 (You Win The Race)"
+cheat23_code = "83005F0C+0000+83005F0E+0000"
 cheat23_enable = false
 
-cheat24_desc = "Quick Race - Circuit - Infinite Nitro: Inner City"
-cheat24_code = "7201A1E8+1775"
+cheat24_desc = "Unlock All Cars & Parts"
+cheat24_code = "32000839+00FF"
 cheat24_enable = false
 
-cheat25_desc = "Quick Race - Circuit - Infinite Nitro: Inner City (R)"
-cheat25_code = "7201A144+1775"
+cheat25_desc = "Unlock All Cars & Parts (Quick Race)"
+cheat25_code = "3200083A+00FF"
 cheat25_enable = false
 
-cheat26_desc = "Quick Race - Circuit - Infinite Nitro: Market Street (R)"
-cheat26_code = "72019E68+1775"
+cheat26_desc = "Unlock All Upgrades/Cars/Tracks"
+cheat26_code = "82000838+FFFF+8200083A+FFFF"
 cheat26_enable = false
 
-cheat27_desc = "Quick Race - Circuit - Infinite Nitro: Olympic Square"
-cheat27_code = "7201A330+1775"
+cheat27_desc = "Unlock Everything"
+cheat27_code = "82000838+4400+8200083A+FFFF"
 cheat27_enable = false
-
-cheat28_desc = "Quick Race - Circuit - Infinite Nitro: Olympic Square (R)"
-cheat28_code = "7201A0A0+1775"
-cheat28_enable = false
-
-cheat29_desc = "Quick Race - Circuit - Infinite Nitro: Stadium (R)"
-cheat29_code = "72019DC4+1775"
-cheat29_enable = false
-
-cheat30_desc = "Quick Race - Circuit - Infinite Nitro: Stadium/Market Street"
-cheat30_code = "72019D20+1775"
-cheat30_enable = false
-
-cheat31_desc = "Quick Race - Circuit - Infinite Nitro: Terminal"
-cheat31_code = "7201A4D0+1775"
-cheat31_enable = false
-
-cheat32_desc = "Quick Race - Circuit - Infinite Nitro: Terminal (R)"
-cheat32_code = "7201A574+1775"
-cheat32_enable = false
-
-cheat33_desc = "Quick Race - Drag - Infinite Nitro: 14th And Vine"
-cheat33_code = "72018914+1775"
-cheat33_enable = false
-
-cheat34_desc = "Quick Race - Drag - Infinite Nitro: 14th And Vine (R)"
-cheat34_code = "7201A024+1775"
-cheat34_enable = false
-
-cheat35_desc = "Quick Race - Drag - Infinite Nitro: Commercial/(R)"
-cheat35_code = "72018920+1775"
-cheat35_enable = false
-
-cheat36_desc = "Quick Race - Drag - Infinite Nitro: Hightway 1/(R)"
-cheat36_code = "72018984+1775"
-cheat36_enable = false
-
-cheat37_desc = "Quick Race - Drag - Infinite Nitro: Main Street/(R)"
-cheat37_code = "72018698+1775"
-cheat37_enable = false
-
-cheat38_desc = "Quick Race - Sprint - Infinite Nitro: 1st Ave. Truck Stop"
-cheat38_code = "72019570+1775"
-cheat38_enable = false
-
-cheat39_desc = "Quick Race - Sprint - Infinite Nitro: 7th & Sparling"
-cheat39_code = "72019EB4+1775"
-cheat39_enable = false
-
-cheat40_desc = "Quick Race - Sprint - Infinite Nitro: 9th & Frey"
-cheat40_code = "72019CC8+1775"
-cheat40_enable = false
-
-cheat41_desc = "Quick Race - Sprint - Infinite Nitro: Broadway"
-cheat41_code = "720192E0+1775"
-cheat41_enable = false
-
-cheat42_desc = "Quick Race - Sprint - Infinite Nitro: Liberty Gardens"
-cheat42_code = "720194CC+1775"
-cheat42_enable = false
-
-cheat43_desc = "Quick Race - Sprint - Infinite Nitro: Spillway"
-cheat43_code = "72019F58+1775"
-cheat43_enable = false
-
-cheat44_desc = "Race Time Is 0:0:01 (You Win The Race)"
-cheat44_code = "83005F0C+0000+83005F0E+0000"
-cheat44_enable = false
-
-cheat45_desc = "Unlock All Cars & Parts"
-cheat45_code = "32000839+00FF"
-cheat45_enable = false
-
-cheat46_desc = "Unlock All Cars & Parts (Quick Race)"
-cheat46_code = "3200083A+00FF"
-cheat46_enable = false
-
-cheat47_desc = "Unlock All Upgrades/Cars/Tracks"
-cheat47_code = "82000838+FFFF+8200083A+FFFF"
-cheat47_enable = false
-
-cheat48_desc = "Unlock Everything"
-cheat48_code = "82000838+4400+8200083A+FFFF"
-cheat48_enable = false

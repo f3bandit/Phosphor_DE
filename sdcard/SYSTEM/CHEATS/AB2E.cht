@@ -1,4 +1,4 @@
-cheats = 400
+cheats = 352
 
 cheat0_desc = "Alway lead Attack"
 cheat0_code = "3300270B+0020"
@@ -1012,590 +1012,398 @@ cheat252_desc = "Receive A Lot Of Exp After Battle"
 cheat252_code = "83002714+FFFF"
 cheat252_enable = false
 
-cheat253_desc = "Slot 01 Modifier"
-cheat253_code = "3200687E+0001"
+cheat253_desc = "Spar's Spell 1"
+cheat253_code = "32006CD4+0000"
 cheat253_enable = false
 
-cheat254_desc = "Slot 02 Modifier"
-cheat254_code = "32006880+0001"
+cheat254_desc = "Spar's Spell 10"
+cheat254_code = "32006CDD+0000"
 cheat254_enable = false
 
-cheat255_desc = "Slot 03 Modifier"
-cheat255_code = "32006882+0001"
+cheat255_desc = "Spar's Spell 11"
+cheat255_code = "32006CDE+0000"
 cheat255_enable = false
 
-cheat256_desc = "Slot 04 Modifier"
-cheat256_code = "32006884+0001"
+cheat256_desc = "Spar's Spell 12"
+cheat256_code = "32006CDF+0000"
 cheat256_enable = false
 
-cheat257_desc = "Slot 05 Modifier"
-cheat257_code = "32006886+0001"
+cheat257_desc = "Spar's Spell 13"
+cheat257_code = "32006CE0+0000"
 cheat257_enable = false
 
-cheat258_desc = "Slot 06 Modifier"
-cheat258_code = "32006888+0001"
+cheat258_desc = "Spar's Spell 14"
+cheat258_code = "32006CE1+0000"
 cheat258_enable = false
 
-cheat259_desc = "Slot 07 Modifier"
-cheat259_code = "3200688A+0001"
+cheat259_desc = "Spar's Spell 15"
+cheat259_code = "32006CE2+0000"
 cheat259_enable = false
 
-cheat260_desc = "Slot 08 Modifier"
-cheat260_code = "3200688C+0001"
+cheat260_desc = "Spar's Spell 16"
+cheat260_code = "32006CE3+0000"
 cheat260_enable = false
 
-cheat261_desc = "Slot 09 Modifier"
-cheat261_code = "3200688E+0001"
+cheat261_desc = "Spar's Spell 17"
+cheat261_code = "32006CE4+0000"
 cheat261_enable = false
 
-cheat262_desc = "Slot 10 Modifier"
-cheat262_code = "32006890+0001"
+cheat262_desc = "Spar's Spell 18"
+cheat262_code = "32006CE5+0000"
 cheat262_enable = false
 
-cheat263_desc = "Slot 11 Modifier"
-cheat263_code = "32006892+0000"
+cheat263_desc = "Spar's Spell 19"
+cheat263_code = "32006CE6+0000"
 cheat263_enable = false
 
-cheat264_desc = "Slot 12 Modifier"
-cheat264_code = "32006894+0000"
+cheat264_desc = "Spar's Spell 2"
+cheat264_code = "32006CD5+0000"
 cheat264_enable = false
 
-cheat265_desc = "Slot 13 Modifier"
-cheat265_code = "32006896+0000"
+cheat265_desc = "Spar's Spell 20"
+cheat265_code = "32006CE7+0000"
 cheat265_enable = false
 
-cheat266_desc = "Slot 14 Modifier"
-cheat266_code = "32006898+0000"
+cheat266_desc = "Spar's Spell 21"
+cheat266_code = "32006CE8+0000"
 cheat266_enable = false
 
-cheat267_desc = "Slot 15 Modifier"
-cheat267_code = "3200689A+0000"
+cheat267_desc = "Spar's Spell 22"
+cheat267_code = "32006CE9+0000"
 cheat267_enable = false
 
-cheat268_desc = "Slot 16 Modifier"
-cheat268_code = "3200689C+0000"
+cheat268_desc = "Spar's Spell 23"
+cheat268_code = "32006CEA+0000"
 cheat268_enable = false
 
-cheat269_desc = "Slot 17 Modifier"
-cheat269_code = "3200689E+0000"
+cheat269_desc = "Spar's Spell 24"
+cheat269_code = "32006CEB+0000"
 cheat269_enable = false
 
-cheat270_desc = "Slot 18 Modifier"
-cheat270_code = "320068A0+0000"
+cheat270_desc = "Spar's Spell 25"
+cheat270_code = "32006CEC+0000"
 cheat270_enable = false
 
-cheat271_desc = "Slot 19 Modifier"
-cheat271_code = "320068A2+0000"
+cheat271_desc = "Spar's Spell 26"
+cheat271_code = "32006CED+0000"
 cheat271_enable = false
 
-cheat272_desc = "Slot 20 Modifier"
-cheat272_code = "320068A4+0001"
+cheat272_desc = "Spar's Spell 27"
+cheat272_code = "32006CEE+0000"
 cheat272_enable = false
 
-cheat273_desc = "Slot 21 Modifier"
-cheat273_code = "320068A6+0001"
+cheat273_desc = "Spar's Spell 28"
+cheat273_code = "32006CEF+0000"
 cheat273_enable = false
 
-cheat274_desc = "Slot 22 Modifier"
-cheat274_code = "320068A8+0001"
+cheat274_desc = "Spar's Spell 29"
+cheat274_code = "32006CF0+0000"
 cheat274_enable = false
 
-cheat275_desc = "Slot 23 Modifier"
-cheat275_code = "320068AA+0001"
+cheat275_desc = "Spar's Spell 3"
+cheat275_code = "32006CD6+0000"
 cheat275_enable = false
 
-cheat276_desc = "Slot 24 Modifier"
-cheat276_code = "320068AC+0001"
+cheat276_desc = "Spar's Spell 30"
+cheat276_code = "32006CF1+0000"
 cheat276_enable = false
 
-cheat277_desc = "Slot 25 Modifier"
-cheat277_code = "320068AE+0001"
+cheat277_desc = "Spar's Spell 31"
+cheat277_code = "32006CF2+0000"
 cheat277_enable = false
 
-cheat278_desc = "Slot 26 Modifier"
-cheat278_code = "320068B0+0001"
+cheat278_desc = "Spar's Spell 32"
+cheat278_code = "32006CF3+0000"
 cheat278_enable = false
 
-cheat279_desc = "Slot 27 Modifier"
-cheat279_code = "320068B2+0001"
+cheat279_desc = "Spar's Spell 4"
+cheat279_code = "32006CD7+0000"
 cheat279_enable = false
 
-cheat280_desc = "Slot 28 Modifier"
-cheat280_code = "320068B4+0001"
+cheat280_desc = "Spar's Spell 5"
+cheat280_code = "32006CD8+0000"
 cheat280_enable = false
 
-cheat281_desc = "Slot 29 Modifier"
-cheat281_code = "320068B6+0001"
+cheat281_desc = "Spar's Spell 6"
+cheat281_code = "32006CD9+0000"
 cheat281_enable = false
 
-cheat282_desc = "Slot 30 Modifier"
-cheat282_code = "320068B8+0001"
+cheat282_desc = "Spar's Spell 7"
+cheat282_code = "32006CDA+0000"
 cheat282_enable = false
 
-cheat283_desc = "Slot 31 Modifier"
-cheat283_code = "320068BA+0001"
+cheat283_desc = "Spar's Spell 8"
+cheat283_code = "32006CDB+0000"
 cheat283_enable = false
 
-cheat284_desc = "Slot 32 Modifier"
-cheat284_code = "320068BC+0001"
+cheat284_desc = "Spar's Spell 9"
+cheat284_code = "32006CDC+0000"
 cheat284_enable = false
 
-cheat285_desc = "Slot 33 Modifier"
-cheat285_code = "320068BE+0001"
+cheat285_desc = "Sten's Spell 1"
+cheat285_code = "32006CB4+0000"
 cheat285_enable = false
 
-cheat286_desc = "Slot 34 Modifier"
-cheat286_code = "320068C0+0001"
+cheat286_desc = "Sten's Spell 10"
+cheat286_code = "32006CBD+0000"
 cheat286_enable = false
 
-cheat287_desc = "Slot 35 Modifier"
-cheat287_code = "320068C2+0001"
+cheat287_desc = "Sten's Spell 11"
+cheat287_code = "32006CBE+0000"
 cheat287_enable = false
 
-cheat288_desc = "Slot 36 Modifier"
-cheat288_code = "320068C4+0001"
+cheat288_desc = "Sten's Spell 12"
+cheat288_code = "32006CBF+0000"
 cheat288_enable = false
 
-cheat289_desc = "Slot 37 Modifier"
-cheat289_code = "320068C6+0001"
+cheat289_desc = "Sten's Spell 13"
+cheat289_code = "32006CC0+0000"
 cheat289_enable = false
 
-cheat290_desc = "Slot 38 Modifier"
-cheat290_code = "320068C8+0001"
+cheat290_desc = "Sten's Spell 14"
+cheat290_code = "32006CC1+0000"
 cheat290_enable = false
 
-cheat291_desc = "Slot 39 Modifier"
-cheat291_code = "320068CA+0001"
+cheat291_desc = "Sten's Spell 15"
+cheat291_code = "32006CC2+0000"
 cheat291_enable = false
 
-cheat292_desc = "Slot 40 Modifier"
-cheat292_code = "320068CC+0001"
+cheat292_desc = "Sten's Spell 16"
+cheat292_code = "32006CC3+0000"
 cheat292_enable = false
 
-cheat293_desc = "Slot 41 Modifier"
-cheat293_code = "320068CE+0001"
+cheat293_desc = "Sten's Spell 17"
+cheat293_code = "32006CC4+0000"
 cheat293_enable = false
 
-cheat294_desc = "Slot 42 Modifier"
-cheat294_code = "320068D0+0001"
+cheat294_desc = "Sten's Spell 18"
+cheat294_code = "32006CC5+0000"
 cheat294_enable = false
 
-cheat295_desc = "Slot 43 Modifier"
-cheat295_code = "320068D2+0001"
+cheat295_desc = "Sten's Spell 19"
+cheat295_code = "32006CC6+0000"
 cheat295_enable = false
 
-cheat296_desc = "Slot 44 Modifier"
-cheat296_code = "320068D4+0001"
+cheat296_desc = "Sten's Spell 2"
+cheat296_code = "32006CB5+0000"
 cheat296_enable = false
 
-cheat297_desc = "Slot 45 Modifier"
-cheat297_code = "320068D6+0001"
+cheat297_desc = "Sten's Spell 20"
+cheat297_code = "32006CC7+0000"
 cheat297_enable = false
 
-cheat298_desc = "Slot 46 Modifier"
-cheat298_code = "320068D8+0001"
+cheat298_desc = "Sten's Spell 21"
+cheat298_code = "32006CC8+0000"
 cheat298_enable = false
 
-cheat299_desc = "Slot 47 Modifier"
-cheat299_code = "320068DA+0001"
+cheat299_desc = "Sten's Spell 22"
+cheat299_code = "32006CC9+0000"
 cheat299_enable = false
 
-cheat300_desc = "Slot 48 Modifier"
-cheat300_code = "320068DC+0001"
+cheat300_desc = "Sten's Spell 23"
+cheat300_code = "32006CCA+0000"
 cheat300_enable = false
 
-cheat301_desc = "Spar's Spell 1"
-cheat301_code = "32006CD4+0000"
+cheat301_desc = "Sten's Spell 24"
+cheat301_code = "32006CCB+0000"
 cheat301_enable = false
 
-cheat302_desc = "Spar's Spell 10"
-cheat302_code = "32006CDD+0000"
+cheat302_desc = "Sten's Spell 25"
+cheat302_code = "32006CCC+0000"
 cheat302_enable = false
 
-cheat303_desc = "Spar's Spell 11"
-cheat303_code = "32006CDE+0000"
+cheat303_desc = "Sten's Spell 26"
+cheat303_code = "32006CCD+0000"
 cheat303_enable = false
 
-cheat304_desc = "Spar's Spell 12"
-cheat304_code = "32006CDF+0000"
+cheat304_desc = "Sten's Spell 27"
+cheat304_code = "32006CCE+0000"
 cheat304_enable = false
 
-cheat305_desc = "Spar's Spell 13"
-cheat305_code = "32006CE0+0000"
+cheat305_desc = "Sten's Spell 28"
+cheat305_code = "32006CCF+0000"
 cheat305_enable = false
 
-cheat306_desc = "Spar's Spell 14"
-cheat306_code = "32006CE1+0000"
+cheat306_desc = "Sten's Spell 29"
+cheat306_code = "32006CD0+0000"
 cheat306_enable = false
 
-cheat307_desc = "Spar's Spell 15"
-cheat307_code = "32006CE2+0000"
+cheat307_desc = "Sten's Spell 3"
+cheat307_code = "32006CB6+0000"
 cheat307_enable = false
 
-cheat308_desc = "Spar's Spell 16"
-cheat308_code = "32006CE3+0000"
+cheat308_desc = "Sten's Spell 30"
+cheat308_code = "32006CD1+0000"
 cheat308_enable = false
 
-cheat309_desc = "Spar's Spell 17"
-cheat309_code = "32006CE4+0000"
+cheat309_desc = "Sten's Spell 31"
+cheat309_code = "32006CD2+0000"
 cheat309_enable = false
 
-cheat310_desc = "Spar's Spell 18"
-cheat310_code = "32006CE5+0000"
+cheat310_desc = "Sten's Spell 32"
+cheat310_code = "32006CD3+0000"
 cheat310_enable = false
 
-cheat311_desc = "Spar's Spell 19"
-cheat311_code = "32006CE6+0000"
+cheat311_desc = "Sten's Spell 4"
+cheat311_code = "32006CB7+0000"
 cheat311_enable = false
 
-cheat312_desc = "Spar's Spell 2"
-cheat312_code = "32006CD5+0000"
+cheat312_desc = "Sten's Spell 5"
+cheat312_code = "32006CB8+0000"
 cheat312_enable = false
 
-cheat313_desc = "Spar's Spell 20"
-cheat313_code = "32006CE7+0000"
+cheat313_desc = "Sten's Spell 6"
+cheat313_code = "32006CB9+0000"
 cheat313_enable = false
 
-cheat314_desc = "Spar's Spell 21"
-cheat314_code = "32006CE8+0000"
+cheat314_desc = "Sten's Spell 7"
+cheat314_code = "32006CBA+0000"
 cheat314_enable = false
 
-cheat315_desc = "Spar's Spell 22"
-cheat315_code = "32006CE9+0000"
+cheat315_desc = "Sten's Spell 8"
+cheat315_code = "32006CBB+0000"
 cheat315_enable = false
 
-cheat316_desc = "Spar's Spell 23"
-cheat316_code = "32006CEA+0000"
+cheat316_desc = "Sten's Spell 9"
+cheat316_code = "32006CBC+0000"
 cheat316_enable = false
 
-cheat317_desc = "Spar's Spell 24"
-cheat317_code = "32006CEB+0000"
+cheat317_desc = "Township Can Fly"
+cheat317_code = "82006DC2+0008+82006DBA+0801"
 cheat317_enable = false
 
-cheat318_desc = "Spar's Spell 25"
-cheat318_code = "32006CEC+0000"
+cheat318_desc = "Unbreakable Fishing Line"
+cheat318_code = "33004C2E+0090+33004C20+0090+33004C2B+0090+33004C22+0000"
 cheat318_enable = false
 
-cheat319_desc = "Spar's Spell 26"
-cheat319_code = "32006CED+0000"
+cheat319_desc = "Walk Through Walls"
+cheat319_code = "8800FCE4+E01E"
 cheat319_enable = false
 
-cheat320_desc = "Spar's Spell 27"
-cheat320_code = "32006CEE+0000"
+cheat320_desc = "Young Hero's Spell 1"
+cheat320_code = "32006D14+0000"
 cheat320_enable = false
 
-cheat321_desc = "Spar's Spell 28"
-cheat321_code = "32006CEF+0000"
+cheat321_desc = "Young Hero's Spell 10"
+cheat321_code = "32006D1D+0000"
 cheat321_enable = false
 
-cheat322_desc = "Spar's Spell 29"
-cheat322_code = "32006CF0+0000"
+cheat322_desc = "Young Hero's Spell 11"
+cheat322_code = "32006D1E+0000"
 cheat322_enable = false
 
-cheat323_desc = "Spar's Spell 3"
-cheat323_code = "32006CD6+0000"
+cheat323_desc = "Young Hero's Spell 12"
+cheat323_code = "32006D1F+0000"
 cheat323_enable = false
 
-cheat324_desc = "Spar's Spell 30"
-cheat324_code = "32006CF1+0000"
+cheat324_desc = "Young Hero's Spell 13"
+cheat324_code = "32006D20+0000"
 cheat324_enable = false
 
-cheat325_desc = "Spar's Spell 31"
-cheat325_code = "32006CF2+0000"
+cheat325_desc = "Young Hero's Spell 14"
+cheat325_code = "32006D21+0000"
 cheat325_enable = false
 
-cheat326_desc = "Spar's Spell 32"
-cheat326_code = "32006CF3+0000"
+cheat326_desc = "Young Hero's Spell 15"
+cheat326_code = "32006D22+0000"
 cheat326_enable = false
 
-cheat327_desc = "Spar's Spell 4"
-cheat327_code = "32006CD7+0000"
+cheat327_desc = "Young Hero's Spell 16"
+cheat327_code = "32006D23+0000"
 cheat327_enable = false
 
-cheat328_desc = "Spar's Spell 5"
-cheat328_code = "32006CD8+0000"
+cheat328_desc = "Young Hero's Spell 17"
+cheat328_code = "32006D24+0000"
 cheat328_enable = false
 
-cheat329_desc = "Spar's Spell 6"
-cheat329_code = "32006CD9+0000"
+cheat329_desc = "Young Hero's Spell 18"
+cheat329_code = "32006D25+0000"
 cheat329_enable = false
 
-cheat330_desc = "Spar's Spell 7"
-cheat330_code = "32006CDA+0000"
+cheat330_desc = "Young Hero's Spell 19"
+cheat330_code = "32006D26+0000"
 cheat330_enable = false
 
-cheat331_desc = "Spar's Spell 8"
-cheat331_code = "32006CDB+0000"
+cheat331_desc = "Young Hero's Spell 2"
+cheat331_code = "32006D15+0000"
 cheat331_enable = false
 
-cheat332_desc = "Spar's Spell 9"
-cheat332_code = "32006CDC+0000"
+cheat332_desc = "Young Hero's Spell 20"
+cheat332_code = "32006D27+0000"
 cheat332_enable = false
 
-cheat333_desc = "Sten's Spell 1"
-cheat333_code = "32006CB4+0000"
+cheat333_desc = "Young Hero's Spell 21"
+cheat333_code = "32006D28+0000"
 cheat333_enable = false
 
-cheat334_desc = "Sten's Spell 10"
-cheat334_code = "32006CBD+0000"
+cheat334_desc = "Young Hero's Spell 22"
+cheat334_code = "32006D29+0000"
 cheat334_enable = false
 
-cheat335_desc = "Sten's Spell 11"
-cheat335_code = "32006CBE+0000"
+cheat335_desc = "Young Hero's Spell 23"
+cheat335_code = "32006D2A+0000"
 cheat335_enable = false
 
-cheat336_desc = "Sten's Spell 12"
-cheat336_code = "32006CBF+0000"
+cheat336_desc = "Young Hero's Spell 24"
+cheat336_code = "32006D2B+0000"
 cheat336_enable = false
 
-cheat337_desc = "Sten's Spell 13"
-cheat337_code = "32006CC0+0000"
+cheat337_desc = "Young Hero's Spell 25"
+cheat337_code = "32006D2C+0000"
 cheat337_enable = false
 
-cheat338_desc = "Sten's Spell 14"
-cheat338_code = "32006CC1+0000"
+cheat338_desc = "Young Hero's Spell 26"
+cheat338_code = "32006D2D+0000"
 cheat338_enable = false
 
-cheat339_desc = "Sten's Spell 15"
-cheat339_code = "32006CC2+0000"
+cheat339_desc = "Young Hero's Spell 27"
+cheat339_code = "32006D2E+0000"
 cheat339_enable = false
 
-cheat340_desc = "Sten's Spell 16"
-cheat340_code = "32006CC3+0000"
+cheat340_desc = "Young Hero's Spell 28"
+cheat340_code = "32006D2F+0000"
 cheat340_enable = false
 
-cheat341_desc = "Sten's Spell 17"
-cheat341_code = "32006CC4+0000"
+cheat341_desc = "Young Hero's Spell 29"
+cheat341_code = "32006D30+0000"
 cheat341_enable = false
 
-cheat342_desc = "Sten's Spell 18"
-cheat342_code = "32006CC5+0000"
+cheat342_desc = "Young Hero's Spell 3"
+cheat342_code = "32006D16+0000"
 cheat342_enable = false
 
-cheat343_desc = "Sten's Spell 19"
-cheat343_code = "32006CC6+0000"
+cheat343_desc = "Young Hero's Spell 30"
+cheat343_code = "32006D31+0000"
 cheat343_enable = false
 
-cheat344_desc = "Sten's Spell 2"
-cheat344_code = "32006CB5+0000"
+cheat344_desc = "Young Hero's Spell 31"
+cheat344_code = "32006D32+0000"
 cheat344_enable = false
 
-cheat345_desc = "Sten's Spell 20"
-cheat345_code = "32006CC7+0000"
+cheat345_desc = "Young Hero's Spell 32"
+cheat345_code = "32006D33+0000"
 cheat345_enable = false
 
-cheat346_desc = "Sten's Spell 21"
-cheat346_code = "32006CC8+0000"
+cheat346_desc = "Young Hero's Spell 4"
+cheat346_code = "32006D17+0000"
 cheat346_enable = false
 
-cheat347_desc = "Sten's Spell 22"
-cheat347_code = "32006CC9+0000"
+cheat347_desc = "Young Hero's Spell 5"
+cheat347_code = "32006D18+0000"
 cheat347_enable = false
 
-cheat348_desc = "Sten's Spell 23"
-cheat348_code = "32006CCA+0000"
+cheat348_desc = "Young Hero's Spell 6"
+cheat348_code = "32006D19+0000"
 cheat348_enable = false
 
-cheat349_desc = "Sten's Spell 24"
-cheat349_code = "32006CCB+0000"
+cheat349_desc = "Young Hero's Spell 7"
+cheat349_code = "32006D1A+0000"
 cheat349_enable = false
 
-cheat350_desc = "Sten's Spell 25"
-cheat350_code = "32006CCC+0000"
+cheat350_desc = "Young Hero's Spell 8"
+cheat350_code = "32006D1B+0000"
 cheat350_enable = false
 
-cheat351_desc = "Sten's Spell 26"
-cheat351_code = "32006CCD+0000"
+cheat351_desc = "Young Hero's Spell 9"
+cheat351_code = "32006D1C+0000"
 cheat351_enable = false
-
-cheat352_desc = "Sten's Spell 27"
-cheat352_code = "32006CCE+0000"
-cheat352_enable = false
-
-cheat353_desc = "Sten's Spell 28"
-cheat353_code = "32006CCF+0000"
-cheat353_enable = false
-
-cheat354_desc = "Sten's Spell 29"
-cheat354_code = "32006CD0+0000"
-cheat354_enable = false
-
-cheat355_desc = "Sten's Spell 3"
-cheat355_code = "32006CB6+0000"
-cheat355_enable = false
-
-cheat356_desc = "Sten's Spell 30"
-cheat356_code = "32006CD1+0000"
-cheat356_enable = false
-
-cheat357_desc = "Sten's Spell 31"
-cheat357_code = "32006CD2+0000"
-cheat357_enable = false
-
-cheat358_desc = "Sten's Spell 32"
-cheat358_code = "32006CD3+0000"
-cheat358_enable = false
-
-cheat359_desc = "Sten's Spell 4"
-cheat359_code = "32006CB7+0000"
-cheat359_enable = false
-
-cheat360_desc = "Sten's Spell 5"
-cheat360_code = "32006CB8+0000"
-cheat360_enable = false
-
-cheat361_desc = "Sten's Spell 6"
-cheat361_code = "32006CB9+0000"
-cheat361_enable = false
-
-cheat362_desc = "Sten's Spell 7"
-cheat362_code = "32006CBA+0000"
-cheat362_enable = false
-
-cheat363_desc = "Sten's Spell 8"
-cheat363_code = "32006CBB+0000"
-cheat363_enable = false
-
-cheat364_desc = "Sten's Spell 9"
-cheat364_code = "32006CBC+0000"
-cheat364_enable = false
-
-cheat365_desc = "Township Can Fly"
-cheat365_code = "82006DC2+0008+82006DBA+0801"
-cheat365_enable = false
-
-cheat366_desc = "Unbreakable Fishing Line"
-cheat366_code = "33004C2E+0090+33004C20+0090+33004C2B+0090+33004C22+0000"
-cheat366_enable = false
-
-cheat367_desc = "Walk Through Walls"
-cheat367_code = "8800FCE4+E01E"
-cheat367_enable = false
-
-cheat368_desc = "Young Hero's Spell 1"
-cheat368_code = "32006D14+0000"
-cheat368_enable = false
-
-cheat369_desc = "Young Hero's Spell 10"
-cheat369_code = "32006D1D+0000"
-cheat369_enable = false
-
-cheat370_desc = "Young Hero's Spell 11"
-cheat370_code = "32006D1E+0000"
-cheat370_enable = false
-
-cheat371_desc = "Young Hero's Spell 12"
-cheat371_code = "32006D1F+0000"
-cheat371_enable = false
-
-cheat372_desc = "Young Hero's Spell 13"
-cheat372_code = "32006D20+0000"
-cheat372_enable = false
-
-cheat373_desc = "Young Hero's Spell 14"
-cheat373_code = "32006D21+0000"
-cheat373_enable = false
-
-cheat374_desc = "Young Hero's Spell 15"
-cheat374_code = "32006D22+0000"
-cheat374_enable = false
-
-cheat375_desc = "Young Hero's Spell 16"
-cheat375_code = "32006D23+0000"
-cheat375_enable = false
-
-cheat376_desc = "Young Hero's Spell 17"
-cheat376_code = "32006D24+0000"
-cheat376_enable = false
-
-cheat377_desc = "Young Hero's Spell 18"
-cheat377_code = "32006D25+0000"
-cheat377_enable = false
-
-cheat378_desc = "Young Hero's Spell 19"
-cheat378_code = "32006D26+0000"
-cheat378_enable = false
-
-cheat379_desc = "Young Hero's Spell 2"
-cheat379_code = "32006D15+0000"
-cheat379_enable = false
-
-cheat380_desc = "Young Hero's Spell 20"
-cheat380_code = "32006D27+0000"
-cheat380_enable = false
-
-cheat381_desc = "Young Hero's Spell 21"
-cheat381_code = "32006D28+0000"
-cheat381_enable = false
-
-cheat382_desc = "Young Hero's Spell 22"
-cheat382_code = "32006D29+0000"
-cheat382_enable = false
-
-cheat383_desc = "Young Hero's Spell 23"
-cheat383_code = "32006D2A+0000"
-cheat383_enable = false
-
-cheat384_desc = "Young Hero's Spell 24"
-cheat384_code = "32006D2B+0000"
-cheat384_enable = false
-
-cheat385_desc = "Young Hero's Spell 25"
-cheat385_code = "32006D2C+0000"
-cheat385_enable = false
-
-cheat386_desc = "Young Hero's Spell 26"
-cheat386_code = "32006D2D+0000"
-cheat386_enable = false
-
-cheat387_desc = "Young Hero's Spell 27"
-cheat387_code = "32006D2E+0000"
-cheat387_enable = false
-
-cheat388_desc = "Young Hero's Spell 28"
-cheat388_code = "32006D2F+0000"
-cheat388_enable = false
-
-cheat389_desc = "Young Hero's Spell 29"
-cheat389_code = "32006D30+0000"
-cheat389_enable = false
-
-cheat390_desc = "Young Hero's Spell 3"
-cheat390_code = "32006D16+0000"
-cheat390_enable = false
-
-cheat391_desc = "Young Hero's Spell 30"
-cheat391_code = "32006D31+0000"
-cheat391_enable = false
-
-cheat392_desc = "Young Hero's Spell 31"
-cheat392_code = "32006D32+0000"
-cheat392_enable = false
-
-cheat393_desc = "Young Hero's Spell 32"
-cheat393_code = "32006D33+0000"
-cheat393_enable = false
-
-cheat394_desc = "Young Hero's Spell 4"
-cheat394_code = "32006D17+0000"
-cheat394_enable = false
-
-cheat395_desc = "Young Hero's Spell 5"
-cheat395_code = "32006D18+0000"
-cheat395_enable = false
-
-cheat396_desc = "Young Hero's Spell 6"
-cheat396_code = "32006D19+0000"
-cheat396_enable = false
-
-cheat397_desc = "Young Hero's Spell 7"
-cheat397_code = "32006D1A+0000"
-cheat397_enable = false
-
-cheat398_desc = "Young Hero's Spell 8"
-cheat398_code = "32006D1B+0000"
-cheat398_enable = false
-
-cheat399_desc = "Young Hero's Spell 9"
-cheat399_code = "32006D1C+0000"
-cheat399_enable = false

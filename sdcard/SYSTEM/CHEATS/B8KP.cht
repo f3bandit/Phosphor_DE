@@ -1,4 +1,4 @@
-cheats = 23
+cheats = 19
 
 cheat0_desc = "Access All Extras"
 cheat0_code = "42038972+FFFF+00000008+0002"
@@ -12,82 +12,66 @@ cheat2_desc = "Always 3 Kirby's In Reserve"
 cheat2_code = "3203AD44+0004"
 cheat2_enable = false
 
-cheat3_desc = "Green Helper Kirby Power Modifier"
-cheat3_code = "320214DA+0000"
+cheat3_desc = "Have Full Map"
+cheat3_code = "3203897C+00FF"
 cheat3_enable = false
 
-cheat4_desc = "Have Full Map"
-cheat4_code = "3203897C+00FF"
+cheat4_desc = "Have Mirror Complete"
+cheat4_code = "82038970+FFFF"
 cheat4_enable = false
 
-cheat5_desc = "Have Mirror Complete"
-cheat5_code = "82038970+FFFF"
+cheat5_desc = "Hold L+A For Moon Jump"
+cheat5_code = "72020FF8+0201+82020FB2+0400"
 cheat5_enable = false
 
-cheat6_desc = "Hold L+A For Moon Jump"
-cheat6_code = "72020FF8+0201+82020FB2+0400"
+cheat6_desc = "Infinite Batteries"
+cheat6_code = "32020FBC+0003"
 cheat6_enable = false
 
-cheat7_desc = "Infinite Batteries"
-cheat7_code = "32020FBC+0003"
+cheat7_desc = "Infinite HP"
+cheat7_code = "32020FE0+000A"
 cheat7_enable = false
 
-cheat8_desc = "Infinite HP"
-cheat8_code = "32020FE0+000A"
+cheat8_desc = "Max Health"
+cheat8_code = "32020FE1+000A"
 cheat8_enable = false
 
-cheat9_desc = "Max Health"
-cheat9_code = "32020FE1+000A"
+cheat9_desc = "Infinite Health"
+cheat9_code = "32020FE0+0006"
 cheat9_enable = false
 
-cheat10_desc = "Power Modifier"
-cheat10_code = "32020FE3+0000"
+cheat10_desc = "Infinite Lives"
+cheat10_code = "32020FE2+0003"
 cheat10_enable = false
 
-cheat11_desc = "Red Helper Kirby Power Modifier"
-cheat11_code = "32021333+0000"
+cheat11_desc = "All Levels/Doors Accessed"
+cheat11_code = "42028CA0+FFFF+0000010D+0002"
 cheat11_enable = false
 
-cheat12_desc = "Yellow Helper Kirby Power Modifier"
-cheat12_code = "3202118B+0000"
+cheat12_desc = "Open All Connections"
+cheat12_code = "42028C10+0001+00000013+0004"
 cheat12_enable = false
 
-cheat13_desc = "Infinite Health"
-cheat13_code = "32020FE0+0006"
+cheat13_desc = "Have All Mirror Pieces"
+cheat13_code = "32038970+00FF"
 cheat13_enable = false
 
-cheat14_desc = "Infinite Lives"
-cheat14_code = "32020FE2+0003"
+cheat14_desc = "Have All Spray Paint In Collection"
+cheat14_code = "82038974+3FFF"
 cheat14_enable = false
 
-cheat15_desc = "All Levels/Doors Accessed"
-cheat15_code = "42028CA0+FFFF+0000010D+0002"
+cheat15_desc = "Have Sound Player And All Music/Sounds In Collection"
+cheat15_code = "82038978+07FF"
 cheat15_enable = false
 
-cheat16_desc = "Open All Connections"
-cheat16_code = "42028C10+0001+00000013+0004"
+cheat16_desc = "Have All Maps In Collection"
+cheat16_code = "8203897C+03FF"
 cheat16_enable = false
 
-cheat17_desc = "Have All Mirror Pieces"
-cheat17_code = "32038970+00FF"
+cheat17_desc = "Have All Vitality Upgrades In Collection"
+cheat17_code = "32038980+0004"
 cheat17_enable = false
 
-cheat18_desc = "Have All Spray Paint In Collection"
-cheat18_code = "82038974+3FFF"
+cheat18_desc = "Have All Chests/Switches Opened"
+cheat18_code = "42038960+FFFF+00000005+0002+3203896A+000F"
 cheat18_enable = false
-
-cheat19_desc = "Have Sound Player And All Music/Sounds In Collection"
-cheat19_code = "82038978+07FF"
-cheat19_enable = false
-
-cheat20_desc = "Have All Maps In Collection"
-cheat20_code = "8203897C+03FF"
-cheat20_enable = false
-
-cheat21_desc = "Have All Vitality Upgrades In Collection"
-cheat21_code = "32038980+0004"
-cheat21_enable = false
-
-cheat22_desc = "Have All Chests/Switches Opened"
-cheat22_code = "42038960+FFFF+00000005+0002+3203896A+000F"
-cheat22_enable = false

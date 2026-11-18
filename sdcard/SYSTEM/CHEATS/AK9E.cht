@@ -1,4 +1,4 @@
-cheats = 160
+cheats = 159
 
 cheat0_desc = "!"
 cheat0_code = "8300132A+FE47"
@@ -396,246 +396,242 @@ cheat98_desc = "Partner: Max/Infinite Rounds"
 cheat98_code = "6203290E+37E7"
 cheat98_enable = false
 
-cheat99_desc = "Partner: Parts Always Charged"
-cheat99_code = "100020C0+E001+A2019778+0439"
+cheat99_desc = "Past Feel"
+cheat99_code = "3203EDDC+0063"
 cheat99_enable = false
 
-cheat100_desc = "Past Feel"
-cheat100_code = "3203EDDC+0063"
+cheat100_desc = "Past Touch"
+cheat100_code = "3203ED5C+0063"
 cheat100_enable = false
 
-cheat101_desc = "Past Touch"
-cheat101_code = "3203ED5C+0063"
+cheat101_desc = "Paterivulcan"
+cheat101_code = "3203ED48+0063"
 cheat101_enable = false
 
-cheat102_desc = "Paterivulcan"
-cheat102_code = "3203ED48+0063"
+cheat102_desc = "Peck Strike"
+cheat102_code = "3203ED30+0063"
 cheat102_enable = false
 
-cheat103_desc = "Peck Strike"
-cheat103_code = "3203ED30+0063"
+cheat103_desc = "Penguin"
+cheat103_code = "83000F6A+0510+83000F6C+070E+83000F6E+0915+83000F70+FE0E"
 cheat103_enable = false
 
-cheat104_desc = "Penguin"
-cheat104_code = "83000F6A+0510+83000F6C+070E+83000F6E+0915+83000F70+FE0E"
+cheat104_desc = "Periscope"
+cheat104_code = "83002C1E+01A6"
 cheat104_enable = false
 
-cheat105_desc = "Periscope"
-cheat105_code = "83002C1E+01A6"
+cheat105_desc = "Petticoat"
+cheat105_code = "3203EE4C+0063"
 cheat105_enable = false
 
-cheat106_desc = "Petticoat"
-cheat106_code = "3203EE4C+0063"
+cheat106_desc = "Pipo Hammer"
+cheat106_code = "3203EDC4+0063"
 cheat106_enable = false
 
-cheat107_desc = "Pipo Hammer"
-cheat107_code = "3203EDC4+0063"
+cheat107_desc = "Plus Driver"
+cheat107_code = "3203ED9C+0063"
 cheat107_enable = false
 
-cheat108_desc = "Plus Driver"
-cheat108_code = "3203ED9C+0063"
+cheat108_desc = "Power Driver"
+cheat108_code = "3203ED1C+0063"
 cheat108_enable = false
 
-cheat109_desc = "Power Driver"
-cheat109_code = "3203ED1C+0063"
+cheat109_desc = "Prettyface"
+cheat109_code = "3203ECE4+0063"
 cheat109_enable = false
 
-cheat110_desc = "Prettyface"
-cheat110_code = "3203ECE4+0063"
+cheat110_desc = "Pride Viper"
+cheat110_code = "3203ED64+0063"
 cheat110_enable = false
 
-cheat111_desc = "Pride Viper"
-cheat111_code = "3203ED64+0063"
+cheat111_desc = "Prominence"
+cheat111_code = "3203ED34+0063"
 cheat111_enable = false
 
-cheat112_desc = "Prominence"
-cheat112_code = "3203ED34+0063"
+cheat112_desc = "Protoauto"
+cheat112_code = "3203EEA0+0063"
 cheat112_enable = false
 
-cheat113_desc = "Protoauto"
-cheat113_code = "3203EEA0+0063"
+cheat113_desc = "Pun"
+cheat113_code = "3203EDAC+0063"
 cheat113_enable = false
 
-cheat114_desc = "Pun"
-cheat114_code = "3203EDAC+0063"
+cheat114_desc = "Purple Fin"
+cheat114_code = "3203EE78+0063"
 cheat114_enable = false
 
-cheat115_desc = "Purple Fin"
-cheat115_code = "3203EE78+0063"
+cheat115_desc = "Queen"
+cheat115_code = "83000DAA+1511+83000DAC+0505+83000DAE+FE0E"
 cheat115_enable = false
 
-cheat116_desc = "Queen"
-cheat116_code = "83000DAA+1511+83000DAC+0505+83000DAE+FE0E"
+cheat116_desc = "Queendresser"
+cheat116_code = "3203EE64+0063"
 cheat116_enable = false
 
-cheat117_desc = "Queendresser"
-cheat117_code = "3203EE64+0063"
+cheat117_desc = "Rabbit"
+cheat117_code = "830010AA+0112+830010AC+0202+830010AE+1409+330010B0+00FE"
 cheat117_enable = false
 
-cheat118_desc = "Rabbit"
-cheat118_code = "830010AA+0112+830010AC+0202+830010AE+1409+330010B0+00FE"
+cheat118_desc = "Range Shooter"
+cheat118_code = "3203EDD4+0063"
 cheat118_enable = false
 
-cheat119_desc = "Range Shooter"
-cheat119_code = "3203EDD4+0063"
+cheat119_desc = "Recovery"
+cheat119_code = "3203EDE0+0063"
 cheat119_enable = false
 
-cheat120_desc = "Recovery"
-cheat120_code = "3203EDE0+0063"
+cheat120_desc = "Red Tail"
+cheat120_code = "3203EE94+0063"
 cheat120_enable = false
 
-cheat121_desc = "Red Tail"
-cheat121_code = "3203EE94+0063"
+cheat121_desc = "Repair Arm"
+cheat121_code = "3203EDF8+0063"
 cheat121_enable = false
 
-cheat122_desc = "Repair Arm"
-cheat122_code = "3203EDF8+0063"
+cheat122_desc = "Revolver"
+cheat122_code = "3203ED40+0063"
 cheat122_enable = false
 
-cheat123_desc = "Revolver"
-cheat123_code = "3203ED40+0063"
+cheat123_desc = "Roller Tank"
+cheat123_code = "3203EE6C+0063"
 cheat123_enable = false
 
-cheat124_desc = "Roller Tank"
-cheat124_code = "3203EE6C+0063"
+cheat124_desc = "Sala-arm"
+cheat124_code = "3203EE08+0063"
 cheat124_enable = false
 
-cheat125_desc = "Sala-arm"
-cheat125_code = "3203EE08+0063"
+cheat125_desc = "Sala-hand"
+cheat125_code = "3203ED88+0063"
 cheat125_enable = false
 
-cheat126_desc = "Sala-hand"
-cheat126_code = "3203ED88+0063"
+cheat126_desc = "Sala-head"
+cheat126_code = "3203ED08+0063"
 cheat126_enable = false
 
-cheat127_desc = "Sala-head"
-cheat127_code = "3203ED08+0063"
+cheat127_desc = "Sala-tail"
+cheat127_code = "3203EE88+0063"
 cheat127_enable = false
 
-cheat128_desc = "Sala-tail"
-cheat128_code = "3203EE88+0063"
+cheat128_desc = "Sharp Edge"
+cheat128_code = "3203EE50+0063"
 cheat128_enable = false
 
-cheat129_desc = "Sharp Edge"
-cheat129_code = "3203EE50+0063"
+cheat129_desc = "Shoot Barrel"
+cheat129_code = "3203ED54+0063"
 cheat129_enable = false
 
-cheat130_desc = "Shoot Barrel"
-cheat130_code = "3203ED54+0063"
+cheat130_desc = "Short Shot"
+cheat130_code = "3203EDC8+0063"
 cheat130_enable = false
 
-cheat131_desc = "Short Shot"
-cheat131_code = "3203EDC8+0063"
+cheat131_desc = "Silver Locket"
+cheat131_code = "83002C1A+0198"
 cheat131_enable = false
 
-cheat132_desc = "Silver Locket"
-cheat132_code = "83002C1A+0198"
+cheat132_desc = "Smacker"
+cheat132_code = "3203EE9C+0063"
 cheat132_enable = false
 
-cheat133_desc = "Smacker"
-cheat133_code = "3203EE9C+0063"
+cheat133_desc = "Snake"
+cheat133_code = "83000D6A+0E13+83000D6C+0B01+83000D6E+FE05"
 cheat133_enable = false
 
-cheat134_desc = "Snake"
-cheat134_code = "83000D6A+0E13+83000D6C+0B01+83000D6E+FE05"
+cheat134_desc = "Spydertrap"
+cheat134_code = "3203ECF0+0063"
 cheat134_enable = false
 
-cheat135_desc = "Spydertrap"
-cheat135_code = "3203ECF0+0063"
+cheat135_desc = "Squash Basher"
+cheat135_code = "3203EEAC+0063"
 cheat135_enable = false
 
-cheat136_desc = "Squash Basher"
-cheat136_code = "3203EEAC+0063"
+cheat136_desc = "Squid"
+cheat136_code = "83000DEA+1113+83000DEC+0915+83000DEE+FE04"
 cheat136_enable = false
 
-cheat137_desc = "Squid"
-cheat137_code = "83000DEA+1113+83000DEC+0915+83000DEE+FE04"
+cheat137_desc = "Stop Battle Timer"
+cheat137_code = "33001856+000A"
 cheat137_enable = false
 
-cheat138_desc = "Stop Battle Timer"
-cheat138_code = "33001856+000A"
+cheat138_desc = "Stop Game Timer"
+cheat138_code = "83002B88+0000+83002B8A+0000"
 cheat138_enable = false
 
-cheat139_desc = "Stop Game Timer"
-cheat139_code = "83002B88+0000+83002B8A+0000"
+cheat139_desc = "Straw Hammer"
+cheat139_code = "3203EDD0+0063"
 cheat139_enable = false
 
-cheat140_desc = "Straw Hammer"
-cheat140_code = "3203EDD0+0063"
+cheat140_desc = "Submachine Gun"
+cheat140_code = "3203EDC0+0063"
 cheat140_enable = false
 
-cheat141_desc = "Submachine Gun"
-cheat141_code = "3203EDC0+0063"
+cheat141_desc = "Swick"
+cheat141_code = "3203EE68+0063"
 cheat141_enable = false
 
-cheat142_desc = "Swick"
-cheat142_code = "3203EE68+0063"
+cheat142_desc = "Sword"
+cheat142_code = "3203ED44+0063"
 cheat142_enable = false
 
-cheat143_desc = "Sword"
-cheat143_code = "3203ED44+0063"
+cheat143_desc = "Tatacker"
+cheat143_code = "3203EE44+0063"
 cheat143_enable = false
 
-cheat144_desc = "Tatacker"
-cheat144_code = "3203EE44+0063"
+cheat144_desc = "Tension Up"
+cheat144_code = "3203ECD4+0063"
 cheat144_enable = false
 
-cheat145_desc = "Tension Up"
-cheat145_code = "3203ECD4+0063"
+cheat145_desc = "Tiptoe"
+cheat145_code = "3203EE74+0063"
 cheat145_enable = false
 
-cheat146_desc = "Tiptoe"
-cheat146_code = "3203EE74+0063"
+cheat146_desc = "Tortoise"
+cheat146_code = "83000C6A+0F14+83000C6C+1412+83000C6E+090F+83000C70+0513+33000C72+00FE"
 cheat146_enable = false
 
-cheat147_desc = "Tortoise"
-cheat147_code = "83000C6A+0F14+83000C6C+1412+83000C6E+090F+83000C70+0513+33000C72+00FE"
+cheat147_desc = "Translate"
+cheat147_code = "3203EDCC+0063"
 cheat147_enable = false
 
-cheat148_desc = "Translate"
-cheat148_code = "3203EDCC+0063"
+cheat148_desc = "Trojan Horse"
+cheat148_code = "3203EEA8+0063"
 cheat148_enable = false
 
-cheat149_desc = "Trojan Horse"
-cheat149_code = "3203EEA8+0063"
+cheat149_desc = "Twist"
+cheat149_code = "3203EDE8+0063"
 cheat149_enable = false
 
-cheat150_desc = "Twist"
-cheat150_code = "3203EDE8+0063"
+cheat150_desc = "Tyranolaser"
+cheat150_code = "3203ECEC+0063"
 cheat150_enable = false
 
-cheat151_desc = "Tyranolaser"
-cheat151_code = "3203ECEC+0063"
+cheat151_desc = "Umbilical"
+cheat151_code = "3203EE5C+0063"
 cheat151_enable = false
 
-cheat152_desc = "Umbilical"
-cheat152_code = "3203EE5C+0063"
+cheat152_desc = "Variablehair"
+cheat152_code = "3203ECC8+0063"
 cheat152_enable = false
 
-cheat153_desc = "Variablehair"
-cheat153_code = "3203ECC8+0063"
+cheat153_desc = "Wanafly"
+cheat153_code = "3203EEB0+0063"
 cheat153_enable = false
 
-cheat154_desc = "Wanafly"
-cheat154_code = "3203EEB0+0063"
+cheat154_desc = "Wings of Wind"
+cheat154_code = "83002C1C+0199"
 cheat154_enable = false
 
-cheat155_desc = "Wings of Wind"
-cheat155_code = "83002C1C+0199"
+cheat155_desc = "Max Medaforce Leader"
+cheat155_code = "320100B0+0033"
 cheat155_enable = false
 
-cheat156_desc = "Max Medaforce Leader"
-cheat156_code = "320100B0+0033"
+cheat156_desc = "Max Medaforce Partner"
+cheat156_code = "320103C8+0033"
 cheat156_enable = false
 
-cheat157_desc = "Max Medaforce Partner"
-cheat157_code = "320103C8+0033"
+cheat157_desc = "Max/Infinite Rounds Leader"
+cheat157_code = "8201003A+0A0A"
 cheat157_enable = false
 
-cheat158_desc = "Max/Infinite Rounds Leader"
-cheat158_code = "8201003A+0A0A"
+cheat158_desc = "Max/Infinite Rounds Partner"
+cheat158_code = "82010352+0A0A"
 cheat158_enable = false
-
-cheat159_desc = "Max/Infinite Rounds Partner"
-cheat159_code = "82010352+0A0A"
-cheat159_enable = false

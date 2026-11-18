@@ -1,4 +1,4 @@
-cheats = 13
+cheats = 12
 
 cheat0_desc = "1 Hit Kill Most of the Enemies"
 cheat0_code = "88018D9A+2000+880193FE+2000"
@@ -47,7 +47,3 @@ cheat10_enable = false
 cheat11_desc = "Weak Final Boss"
 cheat11_code = "7300275C+3E70+8300275C+0070"
 cheat11_enable = false
-
-cheat12_desc = "Weapon Modifier"
-cheat12_code = "3300275D+0000"
-cheat12_enable = false

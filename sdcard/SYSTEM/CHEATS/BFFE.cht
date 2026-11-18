@@ -84,19 +84,19 @@ cheat20_desc = "Infinte Money"
 cheat20_code = "82002134+FFFF"
 cheat20_enable = false
 
-cheat21_desc = "Magic Lv. Modifier (1st Character)"
+cheat21_desc = "Max Magic Lv. (1st Character)"
 cheat21_code = "42001F8A+0063+00000010+0002"
 cheat21_enable = false
 
-cheat22_desc = "Magic Lv. Modifier (2nd Character)"
+cheat22_desc = "Max Magic Lv. (2nd Character)"
 cheat22_code = "4200200A+0063+00000010+0002"
 cheat22_enable = false
 
-cheat23_desc = "Magic Lv. Modifier (3rd Character)"
+cheat23_desc = "Max Magic Lv. (3rd Character)"
 cheat23_code = "4200208A+0063+00000010+0002"
 cheat23_enable = false
 
-cheat24_desc = "Magic Lv. Modifier (4th Character)"
+cheat24_desc = "Max Magic Lv. (4th Character)"
 cheat24_code = "4200210A+0063+00000010+0002"
 cheat24_enable = false
 
@@ -396,7 +396,7 @@ cheat98_desc = "Quick Money Gain After Battle [L+R+Up to Activate,L+R+Down to De
 cheat98_code = "74000130+00BF+820032C0+FFFF+74000130+007F+820032C0+0000"
 cheat98_enable = false
 
-cheat99_desc = "Refill HP&amp;MP [In-Battle Only] [Select+Up]"
+cheat99_desc = "Refill HP&MP [In-Battle Only] [Select+Up]"
 cheat99_code = "74000130+03BB+42009170+270F+00000004+01F8+42009172+270F+00000004+01F8"
 cheat99_enable = false
 

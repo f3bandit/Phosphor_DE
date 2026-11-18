@@ -1,9 +1,5 @@
-cheats = 2
+cheats = 1
 
-cheat0_desc = "2x Blue Missile"
-cheat0_code = "89A3DBBE+C73F"
+cheat0_desc = "2x Red Missile"
+cheat0_code = "88176668+0E5C"
 cheat0_enable = false
-
-cheat1_desc = "2x Red Missile"
-cheat1_code = "88176668+0E5C"
-cheat1_enable = false

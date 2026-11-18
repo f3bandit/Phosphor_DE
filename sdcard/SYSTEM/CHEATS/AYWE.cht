@@ -5,7 +5,7 @@ cheat0_code = "42013CF4+0014+00000017+0004"
 cheat0_enable = false
 
 cheat1_desc = "Access All Characters [Press L+R+Down]"
-cheat1_code = "74000130+007F+42013D8C+0010+0001000E+0004+74000130+107F+42013DC4+0010+00010009+0004"
+cheat1_code = "74000130+007F+42013D8C+0010+0001000E+0004+74000130+007F+42013DC4+0010+00010009+0004"
 cheat1_enable = false
 
 cheat2_desc = "Access Booster Menu [Press B+Up]"

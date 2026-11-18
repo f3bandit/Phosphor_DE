@@ -1,4 +1,4 @@
-cheats = 72
+cheats = 71
 
 cheat0_desc = "10 Chips In-Battle"
 cheat0_code = "32006CAE+000A"
@@ -268,22 +268,18 @@ cheat66_desc = "Smaller Megaman"
 cheat66_code = "820012F8+6060"
 cheat66_enable = false
 
-cheat67_desc = "Style Equipped Modifier"
-cheat67_code = "32001894+0009"
+cheat67_desc = "Transparent"
+cheat67_code = "3203729A+0003"
 cheat67_enable = false
 
-cheat68_desc = "Transparent"
-cheat68_code = "3203729A+0003"
+cheat68_desc = "Weapon+1 (P)"
+cheat68_code = "32001B0D+0001"
 cheat68_enable = false
 
-cheat69_desc = "Weapon+1 (P)"
-cheat69_code = "32001B0D+0001"
+cheat69_desc = "Weapon+1 (W)"
+cheat69_code = "32001B0C+0001"
 cheat69_enable = false
 
-cheat70_desc = "Weapon+1 (W)"
-cheat70_code = "32001B0C+0001"
+cheat70_desc = "Weapon+1 (Y)"
+cheat70_code = "32001B0E+0001"
 cheat70_enable = false
-
-cheat71_desc = "Weapon+1 (Y)"
-cheat71_code = "32001B0E+0001"
-cheat71_enable = false

@@ -1,4 +1,4 @@
-cheats = 133
+cheats = 126
 
 cheat0_desc = "All Monsters Available (Regen.)"
 cheat0_code = "72009870+FFFD+82009864+0100"
@@ -460,74 +460,46 @@ cheat114_desc = "Monster Monster Has Max Wins"
 cheat114_code = "32002430+0063"
 cheat114_enable = false
 
-cheat115_desc = "Monster Rank Modifier"
-cheat115_code = "32002400+0000"
+cheat115_desc = "Monster Stays Old"
+cheat115_code = "820023FC+FFFF+820023FE+FFFF"
 cheat115_enable = false
 
-cheat116_desc = "Monster Stays Old"
-cheat116_code = "820023FC+FFFF+820023FE+FFFF"
+cheat116_desc = "Monster Stays Young"
+cheat116_code = "820023FC+0000+820023FE+0000"
 cheat116_enable = false
 
-cheat117_desc = "Monster Stays Young"
-cheat117_code = "820023FC+0000+820023FE+0000"
+cheat117_desc = "No Guts (Opp.)"
+cheat117_code = "32008FF0+0000"
 cheat117_enable = false
 
-cheat118_desc = "No Guts (Opp.)"
-cheat118_code = "32008FF0+0000"
+cheat118_desc = "Press Select For Auto Win"
+cheat118_code = "D0000020+0004+82006FD6+0000"
 cheat118_enable = false
 
-cheat119_desc = "Press Select For Auto Win"
-cheat119_code = "D0000020+0004+82006FD6+0000"
+cheat119_desc = "Press Select For No Time (In-Battle)"
+cheat119_code = "D0000020+0004+82008E4C+0000"
 cheat119_enable = false
 
-cheat120_desc = "Press Select For No Time (In-Battle)"
-cheat120_code = "D0000020+0004+82008E4C+0000"
+cheat120_desc = "Quick Rest"
+cheat120_code = "7201AF54+003C+3201AF50+003C"
 cheat120_enable = false
 
-cheat121_desc = "Quick Rest"
-cheat121_code = "7201AF54+003C+3201AF50+003C"
+cheat121_desc = "Quick Tournaments"
+cheat121_code = "3200954D+0001"
 cheat121_enable = false
 
-cheat122_desc = "Quick Tournaments"
-cheat122_code = "3200954D+0001"
+cheat122_desc = "Special AGIMA Training Costs 1G*"
+cheat122_code = "8200899A+0001"
 cheat122_enable = false
 
-cheat123_desc = "Slot 1"
-cheat123_code = "3200243C+0000"
+cheat123_desc = "Weak Ass Opponents!!!"
+cheat123_code = "42008FC4+0001+00000006+0002"
 cheat123_enable = false
 
-cheat124_desc = "Slot 2"
-cheat124_code = "3200243D+0000"
+cheat124_desc = "1-Hit Kill Opponent [Press L+R+Down]"
+cheat124_code = "74000130+007F+82008FD6+0001"
 cheat124_enable = false
 
-cheat125_desc = "Slot 3"
-cheat125_code = "3200243E+0000"
+cheat125_desc = "Instant Win [Press L+R+Up]"
+cheat125_code = "74000130+00BF+82008FD6+0000"
 cheat125_enable = false
-
-cheat126_desc = "Slot 4"
-cheat126_code = "3200243F+0000"
-cheat126_enable = false
-
-cheat127_desc = "Slot 5"
-cheat127_code = "32002440+0000"
-cheat127_enable = false
-
-cheat128_desc = "Slot 6"
-cheat128_code = "32002441+0000"
-cheat128_enable = false
-
-cheat129_desc = "Special AGIMA Training Costs 1G*"
-cheat129_code = "8200899A+0001"
-cheat129_enable = false
-
-cheat130_desc = "Weak Ass Opponents!!!"
-cheat130_code = "42008FC4+0001+00000006+0002"
-cheat130_enable = false
-
-cheat131_desc = "1-Hit Kill Opponent [Press L+R+Down]"
-cheat131_code = "74000130+007F+82008FD6+0001"
-cheat131_enable = false
-
-cheat132_desc = "Instant Win [Press L+R+Up]"
-cheat132_code = "74000130+00BF+82008FD6+0000"
-cheat132_enable = false

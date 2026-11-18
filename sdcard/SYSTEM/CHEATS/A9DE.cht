@@ -1,4 +1,4 @@
-cheats = 6
+cheats = 4
 
 cheat0_desc = "All Weapons+Ammo"
 cheat0_code = "74000130+00FD+83007E82+E04F"
@@ -12,14 +12,6 @@ cheat2_desc = "God Mode"
 cheat2_code = "74000130+00FF+83007E82+E06F"
 cheat2_enable = false
 
-cheat3_desc = "Always Play Level Modifier"
-cheat3_code = "83007E80+0000"
+cheat3_desc = "ZHave All Weapons"
+cheat3_code = "73007E80+0006+82028168+FFFF"
 cheat3_enable = false
-
-cheat4_desc = "Start On Level Modifier"
-cheat4_code = "73007E80+0000+83007E80+0000"
-cheat4_enable = false
-
-cheat5_desc = "ZHave All Weapons"
-cheat5_code = "73007E80+0006+82028168+FFFF"
-cheat5_enable = false

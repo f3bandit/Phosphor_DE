@@ -1,4 +1,4 @@
-cheats = 87
+cheats = 85
 
 cheat0_desc = "1 Turn Taken"
 cheat0_code = "320091B8+0000"
@@ -216,134 +216,126 @@ cheat53_desc = "Item Manual"
 cheat53_code = "42008534+FFFF+0000000F+0002"
 cheat53_enable = false
 
-cheat54_desc = "Item Slot #8"
-cheat54_code = "88035764+2B3B"
+cheat54_desc = "Max Agility & Vitality (Everyone)"
+cheat54_code = "420069FE+6363+00000005+00A0"
 cheat54_enable = false
 
-cheat55_desc = "Max Agility & Vitality (Everyone)"
-cheat55_code = "420069FE+6363+00000005+00A0"
+cheat55_desc = "Max HP Everyone"
+cheat55_code = "42007A16+03E7+00000005+0038"
 cheat55_enable = false
 
-cheat56_desc = "Max HP Everyone"
-cheat56_code = "42007A16+03E7+00000005+0038"
+cheat56_desc = "Maximum OD"
+cheat56_code = "820028E2+0184"
 cheat56_enable = false
 
-cheat57_desc = "Maximum OD"
-cheat57_code = "820028E2+0184"
+cheat57_desc = "Maximum Rage"
+cheat57_code = "320028EC+0064"
 cheat57_enable = false
 
-cheat58_desc = "Maximum Rage"
-cheat58_code = "320028EC+0064"
+cheat58_desc = "Overdrive Is Empty"
+cheat58_code = "820028E2+0000"
 cheat58_enable = false
 
-cheat59_desc = "Overdrive Is Empty"
-cheat59_code = "820028E2+0000"
+cheat59_desc = "Overdrive Is Full Lvl.3"
+cheat59_code = "820028E2+0180+820028E4+0180"
 cheat59_enable = false
 
-cheat60_desc = "Overdrive Is Full Lvl.3"
-cheat60_code = "820028E2+0180+820028E4+0180"
+cheat60_desc = "Refill Health Everyone (Press L+R+Up)"
+cheat60_code = "74000130+00BF+42007A14+03E7+00000005+0038"
 cheat60_enable = false
 
-cheat61_desc = "Refill Health Everyone (Press L+R+Up)"
-cheat61_code = "74000130+00BF+42007A14+03E7+00000005+0038"
+cheat61_desc = "Resist 100% (Everyone)"
+cheat61_code = "420069FA+0063+00000005+00A0"
 cheat61_enable = false
 
-cheat62_desc = "Resist 100% (Everyone)"
-cheat62_code = "420069FA+0063+00000005+00A0"
+cheat62_desc = "Second Slot Max Skill - Cierra"
+cheat62_code = "42006AB4+FFFF+00000040+0002"
 cheat62_enable = false
 
-cheat63_desc = "Second Slot Max Skill - Cierra"
-cheat63_code = "42006AB4+FFFF+00000040+0002"
+cheat63_desc = "Select State Stage/Level Select (On Title Screen)"
+cheat63_code = "3200AEC8+0003"
 cheat63_enable = false
 
-cheat64_desc = "Select State Stage/Level Select (On Title Screen)"
-cheat64_code = "3200AEC8+0003"
+cheat64_desc = "Slot #1 [Press Select+Up]"
+cheat64_code = "74000130+03BB+32006DBD+0063"
 cheat64_enable = false
 
-cheat65_desc = "Slot #1 [Press Select+Up]"
-cheat65_code = "74000130+03BB+32006DBD+0063"
+cheat65_desc = "Slot #2 [Press Select+Rght]"
+cheat65_code = "74000130+03EB+32006DC1+0063"
 cheat65_enable = false
 
-cheat66_desc = "Slot #2 [Press Select+Rght]"
-cheat66_code = "74000130+03EB+32006DC1+0063"
+cheat66_desc = "Slot #3 [Press Select+Down]"
+cheat66_code = "74000130+037B+32006DC5+0063"
 cheat66_enable = false
 
-cheat67_desc = "Slot #3 [Press Select+Down]"
-cheat67_code = "74000130+037B+32006DC5+0063"
+cheat67_desc = "Slot #4 [Press Select+Left]"
+cheat67_code = "74000130+03DB+32006DC9+0063"
 cheat67_enable = false
 
-cheat68_desc = "Slot #4 [Press Select+Left]"
-cheat68_code = "74000130+03DB+32006DC9+0063"
+cheat68_desc = "Slot 1 Current HP"
+cheat68_code = "82007A14+0000+00000000+0000"
 cheat68_enable = false
 
-cheat69_desc = "Slot 1 Current HP"
-cheat69_code = "82007A14+0000+00000000+0000"
+cheat69_desc = "Slot 2 Current HP"
+cheat69_code = "82007A4C+0000+00000000+0000"
 cheat69_enable = false
 
-cheat70_desc = "Slot 16"
-cheat70_code = "82006DF8+6400"
+cheat70_desc = "Slot 3 Current HP"
+cheat70_code = "82007A84+0000+00000000+0000"
 cheat70_enable = false
 
-cheat71_desc = "Slot 2 Current HP"
-cheat71_code = "82007A4C+0000+00000000+0000"
+cheat71_desc = "Slot 4 Current HP"
+cheat71_code = "82007ABC+0000+00000000+0000"
 cheat71_enable = false
 
-cheat72_desc = "Slot 3 Current HP"
-cheat72_code = "82007A84+0000+00000000+0000"
+cheat72_desc = "Slot 5 Current HP"
+cheat72_code = "82007AF4+0000+00000000+0000"
 cheat72_enable = false
 
-cheat73_desc = "Slot 4 Current HP"
-cheat73_code = "82007ABC+0000+00000000+0000"
+cheat73_desc = "Sound Test"
+cheat73_code = "420086C4+FFFF+00000003+0002"
 cheat73_enable = false
 
-cheat74_desc = "Slot 5 Current HP"
-cheat74_code = "82007AF4+0000+00000000+0000"
+cheat74_desc = "Stop Mash Timer"
+cheat74_code = "3200AE78+0003"
 cheat74_enable = false
 
-cheat75_desc = "Sound Test"
-cheat75_code = "420086C4+FFFF+00000003+0002"
+cheat75_desc = "Temp Slot"
+cheat75_code = "32006DF9+0064"
 cheat75_enable = false
 
-cheat76_desc = "Stop Mash Timer"
-cheat76_code = "3200AE78+0003"
+cheat76_desc = "Third Slot Max Skill - Serene"
+cheat76_code = "42006B54+FFFF+00000040+0002"
 cheat76_enable = false
 
-cheat77_desc = "Temp Slot"
-cheat77_code = "32006DF9+0064"
+cheat77_desc = "Voice Collection"
+cheat77_code = "420086CC+FFFF+0000000B+0002"
 cheat77_enable = false
 
-cheat78_desc = "Third Slot Max Skill - Serene"
-cheat78_code = "42006B54+FFFF+00000040+0002"
+cheat78_desc = "Weak Enemies"
+cheat78_code = "42002770+0000+00000003+0058"
 cheat78_enable = false
 
-cheat79_desc = "Voice Collection"
-cheat79_code = "420086CC+FFFF+0000000B+0002"
+cheat79_desc = "Max TP Points"
+cheat79_code = "320091CF+0010"
 cheat79_enable = false
 
-cheat80_desc = "Weak Enemies"
-cheat80_code = "42002770+0000+00000003+0058"
+cheat80_desc = "1-Hit Kills"
+cheat80_code = "82002770+0000+820027C8+0000+82002820+0000+82002878+0000"
 cheat80_enable = false
 
-cheat81_desc = "Max TP Points"
-cheat81_code = "320091CF+0010"
+cheat81_desc = "Max Strength & Magic (Everyone)"
+cheat81_code = "420069FC+6363+00000005+00A0"
 cheat81_enable = false
 
-cheat82_desc = "1-Hit Kills"
-cheat82_code = "82002770+0000+820027C8+0000+82002820+0000+82002878+0000"
+cheat82_desc = "Unlock All Extras"
+cheat82_code = "820084D6+FFFF"
 cheat82_enable = false
 
-cheat83_desc = "Max Strength & Magic (Everyone)"
-cheat83_code = "420069FC+6363+00000005+00A0"
+cheat83_desc = "Unlock Face Collection"
+cheat83_code = "420084D8+FFFF+00000012+0002"
 cheat83_enable = false
 
-cheat84_desc = "Unlock All Extras"
-cheat84_code = "820084D6+FFFF"
+cheat84_desc = "All Characters Max HP Modifier (Slider Code - Outside of Battle)"
+cheat84_code = "420069F8+03E8+00000005+00A0"
 cheat84_enable = false
-
-cheat85_desc = "Unlock Face Collection"
-cheat85_code = "420084D8+FFFF+00000012+0002"
-cheat85_enable = false
-
-cheat86_desc = "All Characters Max HP Modifier (Slider Code - Outside of Battle)"
-cheat86_code = "420069F8+03E8+00000005+00A0"
-cheat86_enable = false

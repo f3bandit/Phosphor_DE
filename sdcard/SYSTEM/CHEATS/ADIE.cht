@@ -1,7 +1,6 @@
 cheats = 6
 
-cheat0_desc = "Complete Mission 
-[Press Select+L]"
+cheat0_desc = "Complete Mission [Press Select+L]"
 cheat0_code = "74000130+01FB+82002178+0014+74000130+01FB+820021A0+0001"
 cheat0_enable = false
 

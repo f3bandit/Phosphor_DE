@@ -1,4 +1,4 @@
-cheats = 20
+cheats = 17
 
 cheat0_desc = "1 Hit Boss Kills"
 cheat0_code = "33003A08+0000"
@@ -40,42 +40,30 @@ cheat9_desc = "Invincibility (Alt)"
 cheat9_code = "33002182+0058+330021AF+0001"
 cheat9_enable = false
 
-cheat10_desc = "Level Modifier"
-cheat10_code = "330023EC+0000"
+cheat10_desc = "Make Level 6 The Maximum Level Completed"
+cheat10_code = "33002384+0006"
 cheat10_enable = false
 
-cheat11_desc = "Make Level 6 The Maximum Level Completed"
-cheat11_code = "33002384+0006"
+cheat11_desc = "Open All Extra Levels"
+cheat11_code = "830023C8+FFFF+330023CA+0001+3200B04C+007F"
 cheat11_enable = false
 
-cheat12_desc = "Open All Extra Levels"
-cheat12_code = "830023C8+FFFF+330023CA+0001+3200B04C+007F"
+cheat12_desc = "Press L+R For Meta-Knight"
+cheat12_code = "74000130+00FF+33001F30+0001"
 cheat12_enable = false
 
-cheat13_desc = "Press L+R For Meta-Knight"
-cheat13_code = "74000130+00FF+33001F30+0001"
+cheat13_desc = "Unlock All Sub Games"
+cheat13_code = "3200E614+0012"
 cheat13_enable = false
 
-cheat14_desc = "Room Modifier"
-cheat14_code = "33002468+0000"
+cheat14_desc = "Infinite Health"
+cheat14_code = "32005588+0030"
 cheat14_enable = false
 
-cheat15_desc = "Unlock All Sub Games"
-cheat15_code = "3200E614+0012"
+cheat15_desc = "Infinite Lives"
+cheat15_code = "32007D48+0009"
 cheat15_enable = false
 
-cheat16_desc = "World Modifier"
-cheat16_code = "3300238C+0000"
+cheat16_desc = "Invincible"
+cheat16_code = "33002182+000A"
 cheat16_enable = false
-
-cheat17_desc = "Infinite Health"
-cheat17_code = "32005588+0030"
-cheat17_enable = false
-
-cheat18_desc = "Infinite Lives"
-cheat18_code = "32007D48+0009"
-cheat18_enable = false
-
-cheat19_desc = "Invincible"
-cheat19_code = "33002182+000A"
-cheat19_enable = false

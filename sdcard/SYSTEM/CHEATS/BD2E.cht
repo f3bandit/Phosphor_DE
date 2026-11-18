@@ -1,4 +1,4 @@
-cheats = 15
+cheats = 14
 
 cheat0_desc = "Access All Areas"
 cheat0_code = "43000640+FFFF+00000006+0002"
@@ -36,26 +36,22 @@ cheat8_desc = "Have K.O.N.G Letters"
 cheat8_code = "430001E4+0002+00000004+0004"
 cheat8_enable = false
 
-cheat9_desc = "Level Modifier"
-cheat9_code = "33000050+0000"
+cheat9_desc = "Max Fly"
+cheat9_code = "330006E2+000A"
 cheat9_enable = false
 
-cheat10_desc = "Max Fly"
-cheat10_code = "330006E2+000A"
+cheat10_desc = "Max Spd"
+cheat10_code = "330006E1+000A"
 cheat10_enable = false
 
-cheat11_desc = "Max Spd"
-cheat11_code = "330006E1+000A"
+cheat11_desc = "Max Str"
+cheat11_code = "330006E0+000A"
 cheat11_enable = false
 
-cheat12_desc = "Max Str"
-cheat12_code = "330006E0+000A"
+cheat12_desc = "Max Turbo"
+cheat12_code = "330006E3+000A"
 cheat12_enable = false
 
-cheat13_desc = "Max Turbo"
-cheat13_code = "330006E3+000A"
+cheat13_desc = "Moon Jump"
+cheat13_code = "D0000020+0001+83004B08+4000"
 cheat13_enable = false
-
-cheat14_desc = "Moon Jump"
-cheat14_code = "D0000020+0001+83004B08+4000"
-cheat14_enable = false

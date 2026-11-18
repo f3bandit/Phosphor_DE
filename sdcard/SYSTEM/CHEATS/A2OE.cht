@@ -1,4 +1,4 @@
-cheats = 40
+cheats = 29
 
 cheat0_desc = "1st Coach"
 cheat0_code = "8200731C+FFFF+82007390+0000"
@@ -32,130 +32,86 @@ cheat7_desc = "Always Great In Training"
 cheat7_code = "7200DFC6+0000+3200DFD9+0002"
 cheat7_enable = false
 
-cheat8_desc = "Breeder Rank Modifier"
-cheat8_code = "32002C12+0000"
+cheat8_desc = "DEF."
+cheat8_code = "82006DB8+03E7"
 cheat8_enable = false
 
-cheat9_desc = "DEF."
-cheat9_code = "82006DB8+03E7"
+cheat9_desc = "Fame = 100"
+cheat9_code = "32006E05+0064"
 cheat9_enable = false
 
-cheat10_desc = "Fame = 100"
-cheat10_code = "32006E05+0064"
+cheat10_desc = "Have 1000 Wins"
+cheat10_code = "82002C16+03E8"
 cheat10_enable = false
 
-cheat11_desc = "Have 1000 Wins"
-cheat11_code = "82002C16+03E8"
+cheat11_desc = "Have 999 Wins (Monster)"
+cheat11_code = "82006E26+03E7+82006E28+03E7"
 cheat11_enable = false
 
-cheat12_desc = "Have 999 Wins (Monster)"
-cheat12_code = "82006E26+03E7+82006E28+03E7"
+cheat12_desc = "Have All Cups"
+cheat12_code = "42002C38+AAAA+0000000C+0002"
 cheat12_enable = false
 
-cheat13_desc = "Have All Cups"
-cheat13_code = "42002C38+AAAA+0000000C+0002"
+cheat13_desc = "Have Max Winnings"
+cheat13_code = "82002C1C+967F+82002C1E+0098"
 cheat13_enable = false
 
-cheat14_desc = "Have Max Winnings"
-cheat14_code = "82002C1C+967F+82002C1E+0098"
+cheat14_desc = "Have Zero Loses"
+cheat14_code = "82002C18+0000"
 cheat14_enable = false
 
-cheat15_desc = "Have Zero Loses"
-cheat15_code = "82002C18+0000"
+cheat15_desc = "Infinite Energy"
+cheat15_code = "720015D4+0005+820015F4+03E7"
 cheat15_enable = false
 
-cheat16_desc = "Infinite Energy"
-cheat16_code = "720015D4+0005+820015F4+03E7"
+cheat16_desc = "Infinite Guts"
+cheat16_code = "3200CA4C+0063"
 cheat16_enable = false
 
-cheat17_desc = "Infinite Guts"
-cheat17_code = "3200CA4C+0063"
+cheat17_desc = "Infinite LIF"
+cheat17_code = "82006DBA+03E7"
 cheat17_enable = false
 
-cheat18_desc = "Infinite LIF"
-cheat18_code = "82006DBA+03E7"
+cheat18_desc = "INT."
+cheat18_code = "82006DB2+03E7"
 cheat18_enable = false
 
-cheat19_desc = "INT."
-cheat19_code = "82006DB2+03E7"
+cheat19_desc = "Max Reliance"
+cheat19_code = "32006DEB+0064"
 cheat19_enable = false
 
-cheat20_desc = "Max Reliance"
-cheat20_code = "32006DEB+0064"
+cheat20_desc = "Max Winnings (Monster)"
+cheat20_code = "82006E2C+967F+82006E2E+0098"
 cheat20_enable = false
 
-cheat21_desc = "Max Winnings (Monster)"
-cheat21_code = "82006E2C+967F+82006E2E+0098"
+cheat21_desc = "Never Retire"
+cheat21_code = "82006DDE+0100"
 cheat21_enable = false
 
-cheat22_desc = "Monster Personality Modifier"
-cheat22_code = "32006DC2+0000"
+cheat22_desc = "No Stress"
+cheat22_code = "82006DE2+0000"
 cheat22_enable = false
 
-cheat23_desc = "Monster Rank Modifier"
-cheat23_code = "32006DD0+0000"
+cheat23_desc = "Opp. Has No Guts"
+cheat23_code = "3200CD1C+0000"
 cheat23_enable = false
 
-cheat24_desc = "Monster Regenerator Modifier"
-cheat24_code = "7201DFBC+E628+8200DFD0+0000"
+cheat24_desc = "POW."
+cheat24_code = "82006DB0+03E7"
 cheat24_enable = false
 
-cheat25_desc = "Monster Status Modifier"
-cheat25_code = "32006DEA+0000"
+cheat25_desc = "Press Select+Up To Restart Timer"
+cheat25_code = "74000130+03BB+8200C9F8+0720"
 cheat25_enable = false
 
-cheat26_desc = "Never Retire"
-cheat26_code = "82006DDE+0100"
+cheat26_desc = "Quick Rest"
+cheat26_code = "7201F82C+003C+3201F828+003C"
 cheat26_enable = false
 
-cheat27_desc = "No Stress"
-cheat27_code = "82006DE2+0000"
+cheat27_desc = "Revive Any Monster"
+cheat27_code = "7200DCDC+0007+3200DCDC+0006"
 cheat27_enable = false
 
-cheat28_desc = "Opp. Has No Guts"
-cheat28_code = "3200CD1C+0000"
+cheat28_desc = "SPD."
+cheat28_code = "82006DB6+03E7"
 cheat28_enable = false
-
-cheat29_desc = "POW."
-cheat29_code = "82006DB0+03E7"
-cheat29_enable = false
-
-cheat30_desc = "Press Select+Up To Restart Timer"
-cheat30_code = "74000130+03BB+8200C9F8+0720"
-cheat30_enable = false
-
-cheat31_desc = "Quick Rest"
-cheat31_code = "7201F82C+003C+3201F828+003C"
-cheat31_enable = false
-
-cheat32_desc = "Revive Any Monster"
-cheat32_code = "7200DCDC+0007+3200DCDC+0006"
-cheat32_enable = false
-
-cheat33_desc = "Slot #1"
-cheat33_code = "32006E40+0000"
-cheat33_enable = false
-
-cheat34_desc = "Slot #2"
-cheat34_code = "32006E41+0000"
-cheat34_enable = false
-
-cheat35_desc = "Slot #3"
-cheat35_code = "32006E42+0000"
-cheat35_enable = false
-
-cheat36_desc = "Slot #4"
-cheat36_code = "32006E43+0000"
-cheat36_enable = false
-
-cheat37_desc = "Slot #5"
-cheat37_code = "32006E44+0000"
-cheat37_enable = false
-
-cheat38_desc = "Slot #6"
-cheat38_code = "32006E45+0000"
-cheat38_enable = false
-
-cheat39_desc = "SPD."
-cheat39_code = "82006DB6+03E7"
-cheat39_enable = false

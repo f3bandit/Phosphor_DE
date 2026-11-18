@@ -1,4 +1,4 @@
-cheats = 101
+cheats = 100
 
 cheat0_desc = "Anti DMA"
 cheat0_code = "88076BEA+2400+88076CD6+2400"
@@ -308,98 +308,94 @@ cheat76_desc = "Wild PKMN Easily Caught"
 cheat76_code = "72024214+BD79+82024214+BD90"
 cheat76_enable = false
 
-cheat77_desc = "Wild Pokemon Modifier"
-cheat77_code = "73007D70+A66F+83007D68+003F"
+cheat77_desc = "No Random Battle"
+cheat77_code = "320375D4+0000"
 cheat77_enable = false
 
-cheat78_desc = "No Random Battle"
-cheat78_code = "320375D4+0000"
+cheat78_desc = "Enable National Dex [Press Select]"
+cheat78_code = "D0000020+0004+83000E48+9F0D+D0000020+0004+83000E4A+081F"
 cheat78_enable = false
 
-cheat79_desc = "Enable National Dex [Press Select]"
-cheat79_code = "D0000020+0004+83000E48+9F0D+D0000020+0004+83000E4A+081F"
+cheat79_desc = "Mini EXP Gain After Battle"
+cheat79_code = "8202309C+0100+820241F0+0100"
 cheat79_enable = false
 
-cheat80_desc = "Mini EXP Gain After Battle"
-cheat80_code = "8202309C+0100+820241F0+0100"
+cheat80_desc = "Medium EXP Gain After Battle"
+cheat80_code = "8202309C+0200+820241F0+0200"
 cheat80_enable = false
 
-cheat81_desc = "Medium EXP Gain After Battle"
-cheat81_code = "8202309C+0200+820241F0+0200"
+cheat81_desc = "Max EXP Gain After Battle"
+cheat81_code = "8202309C+03E7+820241F0+03E7"
 cheat81_enable = false
 
-cheat82_desc = "Max EXP Gain After Battle"
-cheat82_code = "8202309C+03E7+820241F0+03E7"
+cheat82_desc = "Access Secret Power"
+cheat82_code = "73000E48+5A05+83000E48+5A80"
 cheat82_enable = false
 
-cheat83_desc = "Access Secret Power"
-cheat83_code = "73000E48+5A05+83000E48+5A80"
+cheat83_desc = "Have Dive [Press R+Select]"
+cheat83_code = "74000130+02FB+83000E48+0B45+74000130+02FB+83000E4A+0829"
 cheat83_enable = false
 
-cheat84_desc = "Have Dive [Press R+Select]"
-cheat84_code = "74000130+02FB+83000E48+0B45+74000130+02FB+83000E4A+0829"
+cheat84_desc = "Have Rock Smash Ability"
+cheat84_code = "73000E48+07A7+83000E48+07EA"
 cheat84_enable = false
 
-cheat85_desc = "Have Rock Smash Ability"
-cheat85_code = "73000E48+07A7+83000E48+07EA"
+cheat85_desc = "Have Surf Ability [Press Select]"
+cheat85_code = "D0000020+0004+83000E48+1ED2+D0000020+0004+83000E4A+0827"
 cheat85_enable = false
 
-cheat86_desc = "Have Surf Ability [Press Select]"
-cheat86_code = "D0000020+0004+83000E48+1ED2+D0000020+0004+83000E4A+0827"
+cheat86_desc = "Waterfall"
+cheat86_code = "73000E48+0A84+83000E48+0A4A"
 cheat86_enable = false
 
-cheat87_desc = "Waterfall"
-cheat87_code = "73000E48+0A84+83000E48+0A4A"
+cheat87_desc = "Receive Balance Badge [Press Select+L+Up]"
+cheat87_code = "74000130+01BB+83000E48+4E53+74000130+01BB+83000E4A+0820"
 cheat87_enable = false
 
-cheat88_desc = "Receive Balance Badge [Press Select+L+Up]"
-cheat88_code = "74000130+01BB+83000E48+4E53+74000130+01BB+83000E4A+0820"
+cheat88_desc = "Receive Dynamo Badge [Press Select+Down]"
+cheat88_code = "74000130+037B+83000E48+DF31+74000130+037B+83000E4A+0820"
 cheat88_enable = false
 
-cheat89_desc = "Receive Dynamo Badge [Press Select+Down]"
-cheat89_code = "74000130+037B+83000E48+DF31+74000130+037B+83000E4A+0820"
+cheat89_desc = "Receive Feather Badge [Press Select+L+Right]"
+cheat89_code = "74000130+01EB+83000E48+6603+74000130+01EB+83000E4A+0821"
 cheat89_enable = false
 
-cheat90_desc = "Receive Feather Badge [Press Select+L+Right]"
-cheat90_code = "74000130+01EB+83000E48+6603+74000130+01EB+83000E4A+0821"
+cheat90_desc = "Receive Heat Badge [Press Select+Left]"
+cheat90_code = "74000130+03DB+83000E48+E7C7+74000130+03DB+83000E4A+081F"
 cheat90_enable = false
 
-cheat91_desc = "Receive Heat Badge [Press Select+Left]"
-cheat91_code = "74000130+03DB+83000E48+E7C7+74000130+03DB+83000E4A+081F"
+cheat91_desc = "Receive Knuckle Badge [Press Select+Right]"
+cheat91_code = "74000130+03EB+83000E48+C802+74000130+03EB+83000E4A+081F"
 cheat91_enable = false
 
-cheat92_desc = "Receive Knuckle Badge [Press Select+Right]"
-cheat92_code = "74000130+03EB+83000E48+C802+74000130+03EB+83000E4A+081F"
+cheat92_desc = "Receive Mind Badge [Press Select+L+Down]"
+cheat92_code = "74000130+017B+83000E48+08D7+74000130+017B+83000E4A+0822"
 cheat92_enable = false
 
-cheat93_desc = "Receive Mind Badge [Press Select+L+Down]"
-cheat93_code = "74000130+017B+83000E48+08D7+74000130+017B+83000E4A+0822"
+cheat93_desc = "Receive Rain Badge [Press Select+L+Left]"
+cheat93_code = "74000130+01DB+83000E48+4F88+74000130+01DB+83000E4A+0822"
 cheat93_enable = false
 
-cheat94_desc = "Receive Rain Badge [Press Select+L+Left]"
-cheat94_code = "74000130+01DB+83000E48+4F88+74000130+01DB+83000E4A+0822"
+cheat94_desc = "Receive Stone Badge [Press Select+Up]"
+cheat94_code = "74000130+03BB+83000E48+2F6C+74000130+03BB+83000E4A+0821"
 cheat94_enable = false
 
-cheat95_desc = "Receive Stone Badge [Press Select+Up]"
-cheat95_code = "74000130+03BB+83000E48+2F6C+74000130+03BB+83000E4A+0821"
+cheat95_desc = "Berry Blender Re-Battle [Hold Select]"
+cheat95_code = "D0000020+0004+83000E48+1440+D0000020+0004+83000E4A+0827"
 cheat95_enable = false
 
-cheat96_desc = "Berry Blender Re-Battle [Hold Select]"
-cheat96_code = "D0000020+0004+83000E48+1440+D0000020+0004+83000E4A+0827"
+cheat96_desc = "Mystic Ticket (one at a time)"
+cheat96_code = "82025EE0+0172"
 cheat96_enable = false
 
-cheat97_desc = "Mystic Ticket (one at a time)"
-cheat97_code = "82025EE0+0172"
+cheat97_desc = "Aurora Ticket (one at a time)"
+cheat97_code = "82025EE0+0173"
 cheat97_enable = false
 
-cheat98_desc = "Aurora Ticket (one at a time)"
-cheat98_code = "82025EE0+0173"
+cheat98_desc = "Have Old Sea Map (one at a time)"
+cheat98_code = "82025EE0+0178"
 cheat98_enable = false
 
-cheat99_desc = "Have Old Sea Map (one at a time)"
-cheat99_code = "82025EE0+0178"
+cheat99_desc = "Install Match Call [Press Select+R+Up]"
+cheat99_code = "74000130+02BB+83000E48+0779+74000130+02BB+83000E4A+081E"
 cheat99_enable = false
-
-cheat100_desc = "Install Match Call [Press Select+R+Up]"
-cheat100_code = "74000130+02BB+83000E48+0779+74000130+02BB+83000E4A+081E"
-cheat100_enable = false

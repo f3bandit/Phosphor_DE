@@ -1,4 +1,4 @@
-cheats = 20
+cheats = 16
 
 cheat0_desc = "1 Win Victory P1"
 cheat0_code = "7200C01A+0100+3200C01B+0003"
@@ -44,38 +44,22 @@ cheat10_desc = "No Strikers P2"
 cheat10_code = "3200C01B+0003+3200C029+0003"
 cheat10_enable = false
 
-cheat11_desc = "P1 Costume Color Modifier"
-cheat11_code = "3200A7BC+0000"
+cheat11_desc = "Play Tag!"
+cheat11_code = "3200A894+0005"
 cheat11_enable = false
 
-cheat12_desc = "P2 Costume Color Modifier"
-cheat12_code = "8200AA18+0000"
+cheat12_desc = "Player 1: Infinite Power"
+cheat12_code = "3200A7C9+0090"
 cheat12_enable = false
 
-cheat13_desc = "Play Tag!"
-cheat13_code = "3200A894+0005"
+cheat13_desc = "Player 1: Infinite Strikers"
+cheat13_code = "3200C003+0000"
 cheat13_enable = false
 
-cheat14_desc = "Player 1: 1 Win Victory"
-cheat14_code = "7200C01A+0100"
+cheat14_desc = "Press Select To Call Up The Jump-In-Attack Helper"
+cheat14_code = "74000130+03FB+8200A7C6+0100"
 cheat14_enable = false
 
-cheat15_desc = "Player 1: Infinite Power"
-cheat15_code = "3200A7C9+0090"
+cheat15_desc = "Unlock All Extras"
+cheat15_code = "82010228+FFFF"
 cheat15_enable = false
-
-cheat16_desc = "Player 1: Infinite Strikers"
-cheat16_code = "3200C003+0000"
-cheat16_enable = false
-
-cheat17_desc = "Player 2: 1 Win Victory"
-cheat17_code = "7200C028+0001"
-cheat17_enable = false
-
-cheat18_desc = "Press Select To Call Up The Jump-In-Attack Helper"
-cheat18_code = "74000130+03FB+8200A7C6+0100"
-cheat18_enable = false
-
-cheat19_desc = "Unlock All Extras"
-cheat19_code = "82010228+FFFF"
-cheat19_enable = false

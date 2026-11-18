@@ -1,4 +1,4 @@
-cheats = 78
+cheats = 70
 
 cheat0_desc = "10th Character: Infinite HP"
 cheat0_code = "82000702+03E7+8200070A+752F"
@@ -228,86 +228,54 @@ cheat56_desc = "Infinite Creation Gems (For Weapons/Armor)"
 cheat56_code = "430056AA+6363+00000005+0002"
 cheat56_enable = false
 
-cheat57_desc = "Number Of Active Characters Modifier"
-cheat57_code = "32011540+0001"
+cheat57_desc = "Start Battle With 100 Exp P1"
+cheat57_code = "8200027A+0064"
 cheat57_enable = false
 
-cheat58_desc = "Slot 1"
-cheat58_code = "32011538+0002"
+cheat58_desc = "Start Battle With 100 Exp P2"
+cheat58_code = "820002BE+0064"
 cheat58_enable = false
 
-cheat59_desc = "Slot 2"
-cheat59_code = "32011539+0000"
+cheat59_desc = "Start Battle With 100 Exp P3"
+cheat59_code = "820004DE+0064"
 cheat59_enable = false
 
-cheat60_desc = "Slot 3"
-cheat60_code = "3201153A+0000"
+cheat60_desc = "Start Battle With 100 Exp P4"
+cheat60_code = "82000522+0064"
 cheat60_enable = false
 
-cheat61_desc = "Slot 4"
-cheat61_code = "3201153B+0000"
+cheat61_desc = "Start Battle With 100 Exp P5"
+cheat61_code = "82000566+0064"
 cheat61_enable = false
 
-cheat62_desc = "Slot 5"
-cheat62_code = "3201153C+0000"
+cheat62_desc = "Start Battle With 100 Exp P6"
+cheat62_code = "8200049A+0064"
 cheat62_enable = false
 
-cheat63_desc = "Slot 6"
-cheat63_code = "3201153D+0000"
+cheat63_desc = "Start Battle With Max HP/SP P1"
+cheat63_code = "82000286+03E7+82000288+03E7"
 cheat63_enable = false
 
-cheat64_desc = "Slot 7"
-cheat64_code = "3201153E+0000"
+cheat64_desc = "Start Battle With Max HP/SP P2"
+cheat64_code = "820002CA+03E7+820002CC+03E7"
 cheat64_enable = false
 
-cheat65_desc = "Start Battle With 100 Exp P1"
-cheat65_code = "8200027A+0064"
+cheat65_desc = "Start Battle With Max HP/SP P3"
+cheat65_code = "820004EA+03E7+820004EC+03E7"
 cheat65_enable = false
 
-cheat66_desc = "Start Battle With 100 Exp P2"
-cheat66_code = "820002BE+0064"
+cheat66_desc = "Start Battle With Max HP/SP P4"
+cheat66_code = "8200052E+03E7+82000530+03E7"
 cheat66_enable = false
 
-cheat67_desc = "Start Battle With 100 Exp P3"
-cheat67_code = "820004DE+0064"
+cheat67_desc = "Start Battle With Max HP/SP P5"
+cheat67_code = "82000572+03E7+82000574+03E7"
 cheat67_enable = false
 
-cheat68_desc = "Start Battle With 100 Exp P4"
-cheat68_code = "82000522+0064"
+cheat68_desc = "Start Battle With Max HP/SP P6"
+cheat68_code = "820004A6+03E7+820004A8+03E7"
 cheat68_enable = false
 
-cheat69_desc = "Start Battle With 100 Exp P5"
-cheat69_code = "82000566+0064"
+cheat69_desc = "Untouchable"
+cheat69_code = "43003124+FFFF+0000000A+00EC"
 cheat69_enable = false
-
-cheat70_desc = "Start Battle With 100 Exp P6"
-cheat70_code = "8200049A+0064"
-cheat70_enable = false
-
-cheat71_desc = "Start Battle With Max HP/SP P1"
-cheat71_code = "82000286+03E7+82000288+03E7"
-cheat71_enable = false
-
-cheat72_desc = "Start Battle With Max HP/SP P2"
-cheat72_code = "820002CA+03E7+820002CC+03E7"
-cheat72_enable = false
-
-cheat73_desc = "Start Battle With Max HP/SP P3"
-cheat73_code = "820004EA+03E7+820004EC+03E7"
-cheat73_enable = false
-
-cheat74_desc = "Start Battle With Max HP/SP P4"
-cheat74_code = "8200052E+03E7+82000530+03E7"
-cheat74_enable = false
-
-cheat75_desc = "Start Battle With Max HP/SP P5"
-cheat75_code = "82000572+03E7+82000574+03E7"
-cheat75_enable = false
-
-cheat76_desc = "Start Battle With Max HP/SP P6"
-cheat76_code = "820004A6+03E7+820004A8+03E7"
-cheat76_enable = false
-
-cheat77_desc = "Untouchable"
-cheat77_code = "43003124+FFFF+0000000A+00EC"
-cheat77_enable = false

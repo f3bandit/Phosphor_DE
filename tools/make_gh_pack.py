@@ -32,6 +32,8 @@ FIX = {('AFXE', 'Infinite MP No 4'): '022003B4 000003E7',      # encrypted junk 
 # RENAME fixes the name (button combos read from the code's key checks).
 _EMERALD_HEAP = 'writes into the game\'s heap (0x02000000-0x0201BFFF) every frame: overworld graphics glitches'
 POST_DROP = {}
+# games whose revisions were sorted out by hand (cheats named "(Rev N)" above): the merge leaves them alone
+REV_BY_HAND = {'BPRE', 'BPGE'}
 for _c in ('BPEE', 'BPEP'):
     POST_DROP[(_c, 'Max Money')] = 'only changes the money shown in the bag; ' + _EMERALD_HEAP
     POST_DROP[(_c, 'Max Coins')] = _EMERALD_HEAP + ' (Max Coins From Pokies only writes in the slot machine)'
@@ -425,6 +427,58 @@ def fix_auto(code, cheats, report):
         auto.append((d, c))
     return auto + rest
 
+# ---------------------------------------------------------------- whole-pack checks (tools/audit_pack.py)
+# Run on every game after the hand-checked fixes: XXXX "Modifier" codes whose value was lost, codes that can't
+# do anything or do harm (BIOS stack writes, ROM patches past the end of the game or at odd addresses,
+# conditions with nothing after them, button checks that can never be true), and names the cart can't show.
+import html, unicodedata
+import audit_pack as AUD
+_ROMSIZE = None
+MOD_KEEP = re.compile(r'^Pokedex Modifier Codes|^Weapon Modifier, B Is For|Max HP Modifier|Magic Lv\. Modifier|'
+                      r'Bonus Modifieres Unlocked|Dark Meteor \(Buster Modifier\)', re.I)
+GENERIC_SLOT = re.compile(r'^((Item|Inventory|Bag|Equip(ment)?) )?Slot ?#?\d+$|^\d+(st|nd|rd|th) (Item|Slot)$|^(Item|Slot) #?\d+$', re.I)
+MOD_RENAME = [(re.compile(r'^Pokedex Modifier Codes For Pokemon #(\d+)-#(\d+)$'), r'Complete Pokedex #\1-#\2'),
+              (re.compile(r'^Magic Lv\. Modifier \((.*)\)$'), r'Max Magic Lv. (\1)')]
+
+def clean_name(n):
+    n = html.unescape(n).replace('–', '-').replace('—', '-').replace('‘', "'").replace('’', "'") \
+        .replace('“', "'").replace('”', "'").replace('"', "'")
+    n = unicodedata.normalize('NFKD', n).encode('ascii', 'ignore').decode()
+    n = re.sub(r'[\x00-\x1f\x7f]', ' ', n)
+    return re.sub(r'\s+', ' ', re.sub(r'\(\s*\)', '', n)).strip(' -')
+
+def audit_fix(code, cheats, report, romsize):
+    out = []
+    for d, c in cheats:
+        nd = clean_name(d) or d
+        if GENERIC_SLOT.match(nd):
+            report.append((code, d, 'value list from an XXXX code (just "Slot N": the item to put there was lost)')); continue
+        if re.search(r'modifi?e?r', nd, re.I):
+            if not MOD_KEEP.search(nd):
+                report.append((code, d, 'value list from an XXXX code (Modifier: the value to set was lost)')); continue
+            for rx, rep in MOD_RENAME: nd = rx.sub(rep, nd)
+        toks = c.split('+'); L = [(int(toks[k], 16), int(toks[k + 1], 16)) for k in range(0, len(toks) - 1, 2)]
+        kinds = [k for k, _, _, _ in AUD.walk(L)]
+        if not any(k in ('w', 'rom', 'list') for k in kinds):
+            report.append((code, d, 'does nothing (only conditions / hooks)')); continue
+        # conditions at the end with nothing after them
+        while kinds and kinds[-1] == 'c':
+            L.pop(); kinds.pop()
+        # button checks on KEYINPUT with bits outside the 10 buttons: keep the buttons
+        L = [(o1, o2 & 0x03FF) if (o1 >> 28) in (7, 0xA) and (o1 & 0x0FFFFFFF) == 0x04000130 and o2 & 0xFC00 else (o1, o2) for o1, o2 in L]
+        c2 = '+'.join('%08X+%04X' % x for x in L)
+        bad = [w for s, w in AUD.audit_cheat(code, nd, c2, romsize) if s == 'drop']
+        if bad:
+            report.append((code, d, bad[0])); continue
+        out.append((nd, c2))
+    # same name twice after cleaning: number them
+    cnt = collections.Counter(n for n, _ in out); seen = collections.Counter()
+    res = []
+    for n, c in out:
+        if cnt[n] > 1: seen[n] += 1; n = '%s (%d)' % (n, seen[n])
+        res.append((n, c))
+    return res
+
 def key(name):
     return re.sub(r'[^a-z0-9]', '', name.lower())
 
@@ -451,6 +505,7 @@ def engine_check(dst, code, cheats, report, checker, tmp):
 def main(src, lrpack, db, out):
     rows, files = load_gh(src)
     match = nointro(db)
+    sizes = AUD.rom_sizes(db)
     checker = os.path.join(tempfile.mkdtemp(), 'cht_check')
     subprocess.run(['gcc', '-O1', '-w', '-o', checker, os.path.join(HERE, 'cht_check.c')], check=True)
     report, nomatch = [], []
@@ -464,8 +519,20 @@ def main(src, lrpack, db, out):
             nomatch.append('%s %s [%s]' % (r['title'], r['region'], r['gamID'])); continue
         entries = [(d, c) for d, c in read_cht(files[r['file']]) if c]
         cheats = gh_game(codes[0], entries, report)
+        rv = re.search(r'\(Rev (\d)\)', r['region'])
         for code in codes:
             lst = by_code.setdefault(code, [])
+            if rv and lst and code not in REV_BY_HAND:
+                # a later revision of a game already in the list (same game code, other code addresses):
+                # its cheats are tagged "(Rev N)" so the cart lists them only for that revision; the base
+                # version's cheats that differ from it, or patch the ROM, get "(Rev 0)"
+                n = rv.group(1); mine = {key(d): c for d, c in cheats}
+                rom = lambda c: bool(re.search(r'(^|\+)8[89][0-9A-F]{6}\+', c))
+                lst[:] = [(d + ' (Rev 0)', c) if '(Rev ' not in d and ((key(d) in mine and mine[key(d)] != c) or rom(c)) else (d, c)
+                          for d, c in lst]
+                have = {(key(d), c) for d, c in lst}
+                lst += [(d + ' (Rev %s)' % n, c) for d, c in cheats if (key(d), c) not in have and '(Rev ' not in d]
+                continue
             names = {key(d) for d, _ in lst}; cs = {c for _, c in lst}
             lst += [(d, c) for d, c in cheats if key(d) not in names and c not in cs]
     # libretro extras
@@ -489,6 +556,7 @@ def main(src, lrpack, db, out):
             for d, _ in cheats[CH_MAX:]: report.append((code, d, 'over the 448-cheat list limit'))
             cheats = cheats[:CH_MAX]
         cheats = post_fix(code, cheats, report)
+        cheats = audit_fix(code, cheats, report, sizes.get(code))
         cheats = fix_auto(code, cheats, report)
         cheats = engine_check(dst, code, cheats, report, checker, tmp)
         if not cheats: continue

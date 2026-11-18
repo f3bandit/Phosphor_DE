@@ -1,13 +1,5 @@
-cheats = 3
+cheats = 1
 
-cheat0_desc = "Away Team (Right Flag) Goal Modifier"
-cheat0_code = "33006200+0000"
+cheat0_desc = "Infinite Money"
+cheat0_code = "82030498+423F+8203049A+000F"
 cheat0_enable = false
-
-cheat1_desc = "Home Team (Left Flag) Goal Modifier"
-cheat1_code = "330061F4+0000"
-cheat1_enable = false
-
-cheat2_desc = "Infinite Money"
-cheat2_code = "82030498+423F+8203049A+000F"
-cheat2_enable = false

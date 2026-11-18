@@ -1,4 +1,4 @@
-cheats = 17
+cheats = 16
 
 cheat0_desc = "Access Cheat Menu [Press Select+L+R]"
 cheat0_code = "74000130+00FB+33005660+0004"
@@ -63,7 +63,3 @@ cheat14_enable = false
 cheat15_desc = "Maximum XP"
 cheat15_code = "43004A0A+FFFF+00000003+0060"
 cheat15_enable = false
-
-cheat16_desc = "Movement Speed modifier"
-cheat16_code = "3200F6EA+0002"
-cheat16_enable = false

@@ -1,4 +1,4 @@
-cheats = 12
+cheats = 11
 
 cheat0_desc = "Access All Areas"
 cheat0_code = "82034660+FFFF+82034670+FFFF"
@@ -43,7 +43,3 @@ cheat9_enable = false
 cheat10_desc = "Quick Rev"
 cheat10_code = "7300114C+0007+3300114C+000F"
 cheat10_enable = false
-
-cheat11_desc = "Room Modifier"
-cheat11_code = "32000015+0007"
-cheat11_enable = false

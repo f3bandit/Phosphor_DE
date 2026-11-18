@@ -1,6 +1,6 @@
-cheats = 34
+cheats = 31
 
-cheat0_desc = "-100% Relationship"
+cheat0_desc = "100% Relationship"
 cheat0_code = "430037F2+FF00+0000001D+0004+430037F4+9C00+0000001D+0004"
 cheat0_enable = false
 
@@ -60,78 +60,66 @@ cheat14_desc = "Hoopz"
 cheat14_code = "33004271+0001+3300466D+0004"
 cheat14_enable = false
 
-cheat15_desc = "Hour Modifier"
-cheat15_code = "330037CA+0000"
+cheat15_desc = "Increase Time by 1 Hour (Press R)"
+cheat15_code = "D0000020+0100+330037CB+003B"
 cheat15_enable = false
 
-cheat16_desc = "Increase Time by 1 Hour (Press R)"
-cheat16_code = "D0000020+0100+330037CB+003B"
+cheat16_desc = "Infinite Simolians"
+cheat16_code = "830037C4+423F+830037C6+000F"
 cheat16_enable = false
 
-cheat17_desc = "Infinite Simolians"
-cheat17_code = "830037C4+423F+830037C6+000F"
+cheat17_desc = "Max Gang Stats"
+cheat17_code = "830038BC+0A0A+830038BE+0A0A"
 cheat17_enable = false
 
-cheat18_desc = "Max Gang Stats"
-cheat18_code = "830038BC+0A0A+830038BE+0A0A"
+cheat18_desc = "Max Money"
+cheat18_code = "830037C4+E0FF+830037C6+05F5"
 cheat18_enable = false
 
-cheat19_desc = "Max Money"
-cheat19_code = "830037C4+E0FF+830037C6+05F5"
+cheat19_desc = "Max Skill Points"
+cheat19_code = "4300386A+0A00+00000006+0004"
 cheat19_enable = false
 
-cheat20_desc = "Max Skill Points"
-cheat20_code = "4300386A+0A00+00000006+0004"
+cheat20_desc = "Max Squeegie Level"
+cheat20_code = "3300466C+0004"
 cheat20_enable = false
 
-cheat21_desc = "Max Squeegie Level"
-cheat21_code = "3300466C+0004"
+cheat21_desc = "Max Stats"
+cheat21_code = "43003882+6400+00000008+0004"
 cheat21_enable = false
 
-cheat22_desc = "Max Stats"
-cheat22_code = "43003882+6400+00000008+0004"
+cheat22_desc = "Max Windows Squeegied"
+cheat22_code = "7201BEC4+0000+8201BEC4+270F"
 cheat22_enable = false
 
-cheat23_desc = "Max Windows Squeegied"
-cheat23_code = "7201BEC4+0000+8201BEC4+270F"
+cheat23_desc = "Maximum Popularity"
+cheat23_code = "330037EE+0064"
 cheat23_enable = false
 
-cheat24_desc = "Maximum Popularity"
-cheat24_code = "330037EE+0064"
+cheat24_desc = "Maximum Reputation"
+cheat24_code = "430038BC+0A0A+00000004+0002"
 cheat24_enable = false
 
-cheat25_desc = "Maximum Reputation"
-cheat25_code = "430038BC+0A0A+00000004+0002"
+cheat25_desc = "Moogoo Monkey"
+cheat25_code = "33004330+0001+33004669+0004"
 cheat25_enable = false
 
-cheat26_desc = "Minutes Modifier"
-cheat26_code = "330037CB+0000"
+cheat26_desc = "Motocross Mayhem"
+cheat26_code = "330042D1+0001+33004670+0004"
 cheat26_enable = false
 
-cheat27_desc = "Moogoo Monkey"
-cheat27_code = "33004330+0001+33004669+0004"
+cheat27_desc = "Soul Music"
+cheat27_code = "330043D9+0001+3300466E+0004"
 cheat27_enable = false
 
-cheat28_desc = "Motocross Mayhem"
-cheat28_code = "330042D1+0001+33004670+0004"
+cheat28_desc = "Warp Back To Docks [Press L+R+Down]"
+cheat28_code = "74000130+007F+830046E0+0008+74000130+007F+83004950+0081+74000130+007F+83004958+0009"
 cheat28_enable = false
 
-cheat29_desc = "Positive Relationship Modifier"
-cheat29_code = "330037F5+0011"
+cheat29_desc = "Warp To Paradise Island [Press L+R+Up]"
+cheat29_code = "74000130+00BF+830046E0+0008+74000130+00BF+83004950+0081+74000130+00BF+83004958+0009"
 cheat29_enable = false
 
-cheat30_desc = "Soul Music"
-cheat30_code = "330043D9+0001+3300466E+0004"
+cheat30_desc = "Yar Hey! Bombard!"
+cheat30_code = "33004349+0001+3300466F+0004"
 cheat30_enable = false
-
-cheat31_desc = "Warp Back To Docks [Press L+R+Down]"
-cheat31_code = "74000130+007F+830046E0+0008+74000130+007F+83004950+0081+74000130+007F+83004958+0009"
-cheat31_enable = false
-
-cheat32_desc = "Warp To Paradise Island [Press L+R+Up]"
-cheat32_code = "74000130+00BF+830046E0+0008+74000130+00BF+83004950+0081+74000130+00BF+83004958+0009"
-cheat32_enable = false
-
-cheat33_desc = "Yar Hey! Bombard!"
-cheat33_code = "33004349+0001+3300466F+0004"
-cheat33_enable = false

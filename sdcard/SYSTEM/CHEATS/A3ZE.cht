@@ -1,4 +1,4 @@
-cheats = 12
+cheats = 10
 
 cheat0_desc = "End Match (Press Select)"
 cheat0_code = "74000130+03FB+83003B04+0000"
@@ -16,34 +16,26 @@ cheat3_desc = "Have King Rating"
 cheat3_code = "83004110+270F"
 cheat3_enable = false
 
-cheat4_desc = "P1 Score Modifier"
-cheat4_code = "33003AC2+0000"
+cheat4_desc = "Player 1 - Starts With 10 Points"
+cheat4_code = "73003AC2+0000+33003AC2+000A"
 cheat4_enable = false
 
-cheat5_desc = "P2 Score Modifier"
-cheat5_code = "33003ADA+0000"
+cheat5_desc = "Player 1 - Starts With 20 Points"
+cheat5_code = "73003AC2+0000+33003AC2+0014"
 cheat5_enable = false
 
-cheat6_desc = "Player 1 - Starts With 10 Points"
-cheat6_code = "73003AC2+0000+33003AC2+000A"
+cheat6_desc = "Infinite Speed Bar P1"
+cheat6_code = "33003ACA+0008"
 cheat6_enable = false
 
-cheat7_desc = "Player 1 - Starts With 20 Points"
-cheat7_code = "73003AC2+0000+33003AC2+0014"
+cheat7_desc = "Full Power Meter P1"
+cheat7_code = "33003ACB+000B"
 cheat7_enable = false
 
-cheat8_desc = "Infinite Speed Bar P1"
-cheat8_code = "33003ACA+0008"
+cheat8_desc = "No Speed Bar P2"
+cheat8_code = "33003AE2+0000"
 cheat8_enable = false
 
-cheat9_desc = "Full Power Meter P1"
-cheat9_code = "33003ACB+000B"
+cheat9_desc = "No Power Bar P2"
+cheat9_code = "33003AE3+0000"
 cheat9_enable = false
-
-cheat10_desc = "No Speed Bar P2"
-cheat10_code = "33003AE2+0000"
-cheat10_enable = false
-
-cheat11_desc = "No Power Bar P2"
-cheat11_code = "33003AE3+0000"
-cheat11_enable = false

@@ -1,4 +1,4 @@
-cheats = 7
+cheats = 6
 
 cheat0_desc = "Gain Life Per 1000 Points"
 cheat0_code = "730067B8+0C80+820000A8+03E8"
@@ -12,18 +12,14 @@ cheat2_desc = "Infinite Fuel"
 cheat2_code = "730067B8+17C0+82000048+0618"
 cheat2_enable = false
 
-cheat3_desc = "Infinite Health"
-cheat3_code = "A2000114+0000+0000FF4D+F607"
+cheat3_desc = "Infinite Time"
+cheat3_code = "730067B8+0C80+8200009C+0780"
 cheat3_enable = false
 
-cheat4_desc = "Infinite Time"
-cheat4_code = "730067B8+0C80+8200009C+0780"
+cheat4_desc = "Twin Fire"
+cheat4_code = "730067B8+1A60+32000007+0001"
 cheat4_enable = false
 
-cheat5_desc = "Twin Fire"
-cheat5_code = "730067B8+1A60+32000007+0001"
+cheat5_desc = "Weak Opponent"
+cheat5_code = "7200016C+0008+3200016C+0001"
 cheat5_enable = false
-
-cheat6_desc = "Weak Opponent"
-cheat6_code = "7200016C+0008+3200016C+0001"
-cheat6_enable = false

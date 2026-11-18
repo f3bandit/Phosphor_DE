@@ -1,4 +1,4 @@
-cheats = 85
+cheats = 43
 
 cheat0_desc = "Cloud Lens"
 cheat0_code = "3203DCE1+0008"
@@ -96,7 +96,7 @@ cheat23_desc = "Invincible"
 cheat23_code = "33001C41+0001"
 cheat23_enable = false
 
-cheat24_desc = "Kill Boss of Fog Castle in 1 Hit  - Boss: Count of Groundsoaking Blood"
+cheat24_desc = "Kill Boss of Fog Castle in 1 Hit - Boss: Count of Groundsoaking Blood"
 cheat24_code = "8203DAF4+0001"
 cheat24_enable = false
 
@@ -144,198 +144,30 @@ cheat35_desc = "Quick Health Refill"
 cheat35_code = "320034F2+000F"
 cheat35_enable = false
 
-cheat36_desc = "Slot 1"
-cheat36_code = "3203DC1A+0000"
+cheat36_desc = "Sol Lens"
+cheat36_code = "3203DCD9+0008"
 cheat36_enable = false
 
-cheat37_desc = "Slot 10"
-cheat37_code = "3203DC2C+0000"
+cheat37_desc = "Star Lens"
+cheat37_code = "3203DCE7+0008"
 cheat37_enable = false
 
-cheat38_desc = "Slot 11"
-cheat38_code = "3203DC2E+0000"
+cheat38_desc = "Unlock Hard Mode"
+cheat38_code = "7200B10A+0003+3200B10A+0004"
 cheat38_enable = false
 
-cheat39_desc = "Slot 12"
-cheat39_code = "3203DC30+0000"
+cheat39_desc = "Unlock Sound Test"
+cheat39_code = "7200356C+0004+3200356C+0005"
 cheat39_enable = false
 
-cheat40_desc = "Slot 13"
-cheat40_code = "3203DC32+0000"
+cheat40_desc = "Have All Lenses"
+cheat40_code = "8203DCB4+003F"
 cheat40_enable = false
 
-cheat41_desc = "Slot 14"
-cheat41_code = "3203DC34+0000"
+cheat41_desc = "Max All Grenades"
+cheat41_code = "4203D80A+0063+00000007+0002"
 cheat41_enable = false
 
-cheat42_desc = "Slot 15"
-cheat42_code = "3203DC36+0000"
+cheat42_desc = "Have All Lens (Level 1)"
+cheat42_code = "3203DCC2+0014+8203DCC4+9249+3203DCC6+0024"
 cheat42_enable = false
-
-cheat43_desc = "Slot 16"
-cheat43_code = "3203DC38+0000"
-cheat43_enable = false
-
-cheat44_desc = "Slot 17"
-cheat44_code = "3203DC3A+0000"
-cheat44_enable = false
-
-cheat45_desc = "Slot 18"
-cheat45_code = "3203DC3C+0000"
-cheat45_enable = false
-
-cheat46_desc = "Slot 19"
-cheat46_code = "3203DC3E+0000"
-cheat46_enable = false
-
-cheat47_desc = "Slot 2"
-cheat47_code = "3203DC1C+0000"
-cheat47_enable = false
-
-cheat48_desc = "Slot 20"
-cheat48_code = "3203DC40+0000"
-cheat48_enable = false
-
-cheat49_desc = "Slot 21"
-cheat49_code = "3203DC42+0000"
-cheat49_enable = false
-
-cheat50_desc = "Slot 22"
-cheat50_code = "3203DC44+0000"
-cheat50_enable = false
-
-cheat51_desc = "Slot 23"
-cheat51_code = "3203DC46+0000"
-cheat51_enable = false
-
-cheat52_desc = "Slot 24"
-cheat52_code = "3203DC48+0000"
-cheat52_enable = false
-
-cheat53_desc = "Slot 25"
-cheat53_code = "3203DC4A+0000"
-cheat53_enable = false
-
-cheat54_desc = "Slot 26"
-cheat54_code = "3203DC4C+0000"
-cheat54_enable = false
-
-cheat55_desc = "Slot 27"
-cheat55_code = "3203DC4E+0000"
-cheat55_enable = false
-
-cheat56_desc = "Slot 28"
-cheat56_code = "3203DC50+0000"
-cheat56_enable = false
-
-cheat57_desc = "Slot 29"
-cheat57_code = "3203DC52+0000"
-cheat57_enable = false
-
-cheat58_desc = "Slot 3"
-cheat58_code = "3203DC1E+0000"
-cheat58_enable = false
-
-cheat59_desc = "Slot 30"
-cheat59_code = "3203DC54+0000"
-cheat59_enable = false
-
-cheat60_desc = "Slot 31"
-cheat60_code = "3203DC56+0000"
-cheat60_enable = false
-
-cheat61_desc = "Slot 32"
-cheat61_code = "3203DC58+0000"
-cheat61_enable = false
-
-cheat62_desc = "Slot 33"
-cheat62_code = "3203DC5A+0000"
-cheat62_enable = false
-
-cheat63_desc = "Slot 34"
-cheat63_code = "3203DC5C+0000"
-cheat63_enable = false
-
-cheat64_desc = "Slot 35"
-cheat64_code = "3203DC5E+0000"
-cheat64_enable = false
-
-cheat65_desc = "Slot 36"
-cheat65_code = "3203DC60+0000"
-cheat65_enable = false
-
-cheat66_desc = "Slot 37"
-cheat66_code = "3203DC62+0000"
-cheat66_enable = false
-
-cheat67_desc = "Slot 38"
-cheat67_code = "3203DC64+0000"
-cheat67_enable = false
-
-cheat68_desc = "Slot 39"
-cheat68_code = "3203DC66+0000"
-cheat68_enable = false
-
-cheat69_desc = "Slot 4"
-cheat69_code = "3203DC20+0000"
-cheat69_enable = false
-
-cheat70_desc = "Slot 40"
-cheat70_code = "3203DC68+0000"
-cheat70_enable = false
-
-cheat71_desc = "Slot 41"
-cheat71_code = "3203DC6A+0000"
-cheat71_enable = false
-
-cheat72_desc = "Slot 5"
-cheat72_code = "3203DC22+0000"
-cheat72_enable = false
-
-cheat73_desc = "Slot 6"
-cheat73_code = "3203DC24+0000"
-cheat73_enable = false
-
-cheat74_desc = "Slot 7"
-cheat74_code = "3203DC26+0000"
-cheat74_enable = false
-
-cheat75_desc = "Slot 8"
-cheat75_code = "3203DC28+0000"
-cheat75_enable = false
-
-cheat76_desc = "Slot 9"
-cheat76_code = "3203DC2A+0000"
-cheat76_enable = false
-
-cheat77_desc = "Sol Lens"
-cheat77_code = "3203DCD9+0008"
-cheat77_enable = false
-
-cheat78_desc = "Star Lens"
-cheat78_code = "3203DCE7+0008"
-cheat78_enable = false
-
-cheat79_desc = "Time Modifier"
-cheat79_code = "83004704+0000"
-cheat79_enable = false
-
-cheat80_desc = "Unlock Hard Mode"
-cheat80_code = "7200B10A+0003+3200B10A+0004"
-cheat80_enable = false
-
-cheat81_desc = "Unlock Sound Test"
-cheat81_code = "7200356C+0004+3200356C+0005"
-cheat81_enable = false
-
-cheat82_desc = "Have All Lenses"
-cheat82_code = "8203DCB4+003F"
-cheat82_enable = false
-
-cheat83_desc = "Max All Grenades"
-cheat83_code = "4203D80A+0063+00000007+0002"
-cheat83_enable = false
-
-cheat84_desc = "Have All Lens (Level 1)"
-cheat84_code = "3203DCC2+0014+8203DCC4+9249+3203DCC6+0024"
-cheat84_enable = false

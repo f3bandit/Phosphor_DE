@@ -1,4 +1,4 @@
-cheats = 11
+cheats = 10
 
 cheat0_desc = "Have 9999 Curio"
 cheat0_code = "820003D6+270F"
@@ -32,14 +32,10 @@ cheat7_desc = "Max Health Hearts"
 cheat7_code = "320003CC+000A"
 cheat7_enable = false
 
-cheat8_desc = "Survive Falls"
-cheat8_code = "720041AC+0206"
+cheat8_desc = "Transparent (Once Hit)"
+cheat8_code = "320041B1+000A"
 cheat8_enable = false
 
-cheat9_desc = "Transparent (Once Hit)"
-cheat9_code = "320041B1+000A"
+cheat9_desc = "Infinite Health"
+cheat9_code = "320003CD+000A"
 cheat9_enable = false
-
-cheat10_desc = "Infinite Health"
-cheat10_code = "320003CD+000A"
-cheat10_enable = false

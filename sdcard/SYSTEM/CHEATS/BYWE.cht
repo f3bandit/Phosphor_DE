@@ -16,8 +16,7 @@ cheat3_desc = "Access High Level Fusion Deck"
 cheat3_code = "320234B0+0014+82023030+0171+82023038+00D5+82023040+02A4+82023048+0025+82023050+0045+82023058+0167+82023060+0176+82023068+019E+82023070+0255+82023078+029E+82023080+02CC+82023088+0391+82023090+03DF+82023098+005B+820230A0+00DB+820230A8+018D+820230B0+01AC+820230B8+01C3+820230C0+01C5+820230C8+01C9"
 cheat3_enable = false
 
-cheat4_desc = "Activate Polymerization 
-[Press Select+R]"
+cheat4_desc = "Activate Polymerization [Press Select+R]"
 cheat4_code = "74000130+02FB+8201E79C+02E0+74000130+02FB+8201E7A0+441A+74000130+02FB+8201E7A2+0001+74000130+02FB+8201E7A4+0004+74000130+02FB+8201E7A6+2D40"
 cheat4_enable = false
 
@@ -45,8 +44,7 @@ cheat10_desc = "Inflict Max Direct Damage"
 cheat10_code = "8201AC1E+C350"
 cheat10_enable = false
 
-cheat11_desc = "Instant Win
- [Press Select+Up]"
+cheat11_desc = "Instant Win [Press Select+Up]"
 cheat11_code = "74000130+03BB+8201D378+0000"
 cheat11_enable = false
 

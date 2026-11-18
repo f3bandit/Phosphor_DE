@@ -1,4 +1,4 @@
-cheats = 146
+cheats = 145
 
 cheat0_desc = "511 Exp After Battle"
 cheat0_code = "33003F62+00FF"
@@ -364,222 +364,218 @@ cheat90_desc = "Level 99"
 cheat90_code = "320048C4+0063"
 cheat90_enable = false
 
-cheat91_desc = "Level Modifier"
-cheat91_code = "33001C00+0000+330054F0+0000"
+cheat91_desc = "Lucky Bros."
+cheat91_code = "320049B8+0026"
 cheat91_enable = false
 
-cheat92_desc = "Lucky Bros."
-cheat92_code = "320049B8+0026"
+cheat92_desc = "Lucky Ribbon"
+cheat92_code = "320049B2+0020"
 cheat92_enable = false
 
-cheat93_desc = "Lucky Ribbon"
-cheat93_code = "320049B2+0020"
+cheat93_desc = "Luigi: Infinite Lives (Border Jump)"
+cheat93_code = "730068EA+0001+330068EA+0000"
 cheat93_enable = false
 
-cheat94_desc = "Luigi: Infinite Lives (Border Jump)"
-cheat94_code = "730068EA+0001+330068EA+0000"
+cheat94_desc = "Mari-Lui Badge"
+cheat94_code = "3200499C+000A"
 cheat94_enable = false
 
-cheat95_desc = "Mari-Lui Badge"
-cheat95_code = "3200499C+000A"
+cheat95_desc = "Mario: Infinite Lives (Border Jump)"
+cheat95_code = "7300686A+0001+3300686A+0000"
 cheat95_enable = false
 
-cheat96_desc = "Mario: Infinite Lives (Border Jump)"
-cheat96_code = "7300686A+0001+3300686A+0000"
+cheat96_desc = "Max Hp"
+cheat96_code = "8200486A+03E7"
 cheat96_enable = false
 
-cheat97_desc = "Max Hp"
-cheat97_code = "8200486A+03E7"
+cheat97_desc = "Max Score"
+cheat97_code = "83001BD4+423F+83001BD6+000F"
 cheat97_enable = false
 
-cheat98_desc = "Max Score"
-cheat98_code = "83001BD4+423F+83001BD6+000F"
+cheat98_desc = "Max. Pow Points (note)"
+cheat98_code = "32004874+0063+320048B0+0063"
 cheat98_enable = false
 
-cheat99_desc = "Max. Pow Points (note)"
-cheat99_code = "32004874+0063+320048B0+0063"
+cheat99_desc = "Miracle Badge"
+cheat99_code = "32004999+0007"
 cheat99_enable = false
 
-cheat100_desc = "Miracle Badge"
-cheat100_code = "32004999+0007"
+cheat100_desc = "Muscle Badge"
+cheat100_code = "3200499D+000B"
 cheat100_enable = false
 
-cheat101_desc = "Muscle Badge"
-cheat101_code = "3200499D+000B"
+cheat101_desc = "Mush Badge"
+cheat101_code = "3200499B+0009"
 cheat101_enable = false
 
-cheat102_desc = "Mush Badge"
-cheat102_code = "3200499B+0009"
+cheat102_desc = "Mush Badge A"
+cheat102_code = "3200499F+000D"
 cheat102_enable = false
 
-cheat103_desc = "Mush Badge A"
-cheat103_code = "3200499F+000D"
+cheat103_desc = "Mush Badge A (Double?)"
+cheat103_code = "320049B3+0021"
 cheat103_enable = false
 
-cheat104_desc = "Mush Badge A (Double?)"
-cheat104_code = "320049B3+0021"
+cheat104_desc = "Mush Badge AA"
+cheat104_code = "320049A1+000F"
 cheat104_enable = false
 
-cheat105_desc = "Mush Badge AA"
-cheat105_code = "320049A1+000F"
+cheat105_desc = "Oh-Jee Symbol"
+cheat105_code = "320049AD+001B"
 cheat105_enable = false
 
-cheat106_desc = "Oh-Jee Symbol"
-cheat106_code = "320049AD+001B"
+cheat106_desc = "Oh-Pah Badge"
+cheat106_code = "320049A6+0014"
 cheat106_enable = false
 
-cheat107_desc = "Oh-Pah Badge"
-cheat107_code = "320049A6+0014"
+cheat107_desc = "Ohoracle Badge"
+cheat107_code = "3200499A+0008"
 cheat107_enable = false
 
-cheat108_desc = "Ohoracle Badge"
-cheat108_code = "3200499A+0008"
+cheat108_desc = "One Hit Kills"
+cheat108_code = "8810E258+2000"
 cheat108_enable = false
 
-cheat109_desc = "One Hit Kills"
-cheat109_code = "8810E258+2000"
+cheat109_desc = "Pea Badge"
+cheat109_code = "32004994+0002"
 cheat109_enable = false
 
-cheat110_desc = "Pea Badge"
-cheat110_code = "32004994+0002"
+cheat110_desc = "Piranha Swing"
+cheat110_code = "320049B0+001E"
 cheat110_enable = false
 
-cheat111_desc = "Piranha Swing"
-cheat111_code = "320049B0+001E"
+cheat111_desc = "Power Badge"
+cheat111_code = "320049A2+0010"
 cheat111_enable = false
 
-cheat112_desc = "Power Badge"
-cheat112_code = "320049A2+0010"
+cheat112_desc = "Press R+A For 9 Spirits (HooHoo Mountain)"
+cheat112_code = "74000130+02FE+32004EFC+0009"
 cheat112_enable = false
 
-cheat113_desc = "Press R+A For 9 Spirits (HooHoo Mountain)"
-cheat113_code = "74000130+02FE+32004EFC+0009"
+cheat113_desc = "Quick Level Up (In-Battle)"
+cheat113_code = "83003F62+FFFF"
 cheat113_enable = false
 
-cheat114_desc = "Quick Level Up (In-Battle)"
-cheat114_code = "83003F62+FFFF"
+cheat114_desc = "Quick Score Gain"
+cheat114_code = "83001BD4+FFFF"
 cheat114_enable = false
 
-cheat115_desc = "Quick Score Gain"
-cheat115_code = "83001BD4+FFFF"
+cheat115_desc = "Salvage Badge"
+cheat115_code = "320049A5+0013"
 cheat115_enable = false
 
-cheat116_desc = "Salvage Badge"
-cheat116_code = "320049A5+0013"
+cheat116_desc = "Sarge Badge"
+cheat116_code = "320049A8+0016"
 cheat116_enable = false
 
-cheat117_desc = "Sarge Badge"
-cheat117_code = "320049A8+0016"
+cheat117_desc = "School Emblem"
+cheat117_code = "320049AB+0019"
 cheat117_enable = false
 
-cheat118_desc = "School Emblem"
-cheat118_code = "320049AB+0019"
+cheat118_desc = "Sledge Heart"
+cheat118_code = "320049B7+0025"
 cheat118_enable = false
 
-cheat119_desc = "Sledge Heart"
-cheat119_code = "320049B7+0025"
+cheat119_desc = "Soulful Bros."
+cheat119_code = "320049B4+0022"
 cheat119_enable = false
 
-cheat120_desc = "Soulful Bros."
-cheat120_code = "320049B4+0022"
+cheat120_desc = "Spike Badge"
+cheat120_code = "320049BC+002A"
 cheat120_enable = false
 
-cheat121_desc = "Spike Badge"
-cheat121_code = "320049BC+002A"
+cheat121_desc = "Spiny Badge A"
+cheat121_code = "320049AE+001C"
 cheat121_enable = false
 
-cheat122_desc = "Spiny Badge A"
-cheat122_code = "320049AE+001C"
+cheat122_desc = "Spiny Badge AA"
+cheat122_code = "3200499E+000C"
 cheat122_enable = false
 
-cheat123_desc = "Spiny Badge AA"
-cheat123_code = "3200499E+000C"
+cheat123_desc = "Steady Badge"
+cheat123_code = "320049AC+001A"
 cheat123_enable = false
 
-cheat124_desc = "Steady Badge"
-cheat124_code = "320049AC+001A"
+cheat124_desc = "Stop Game Timer"
+cheat124_code = "83000370+0E0F"
 cheat124_enable = false
 
-cheat125_desc = "Stop Game Timer"
-cheat125_code = "83000370+0E0F"
+cheat125_desc = "Tank Badge"
+cheat125_code = "320049AA+0018"
 cheat125_enable = false
 
-cheat126_desc = "Tank Badge"
-cheat126_code = "320049AA+0018"
+cheat126_desc = "Walk Through Walls (Luigi)"
+cheat126_code = "74000130+02EF+E2006FB0+0004+74000130+02AF+E2006FB0+0004+74000130+02AF+E2006FB4+FFFC+74000130+026F+E2006FB0+0004+74000130+026F+E2006FB4+0004+74000130+02DF+E2006FB0+FFFC+74000130+029F+E2006FB0+FFFC+74000130+029F+E2006FB4+FFFC+74000130+025F+E2006FB0+FFFC+74000130+025F+E2006FB4+0004+74000130+02BF+E2006FB4+FFFC+74000130+027F+E2006FB4+0004"
 cheat126_enable = false
 
-cheat127_desc = "Walk Through Walls (Luigi)"
-cheat127_code = "74000130+02EF+E2006FB0+0004+74000130+02AF+E2006FB0+0004+74000130+02AF+E2006FB4+FFFC+74000130+026F+E2006FB0+0004+74000130+026F+E2006FB4+0004+74000130+02DF+E2006FB0+FFFC+74000130+029F+E2006FB0+FFFC+74000130+029F+E2006FB4+FFFC+74000130+025F+E2006FB0+FFFC+74000130+025F+E2006FB4+0004+74000130+02BF+E2006FB4+FFFC+74000130+027F+E2006FB4+0004"
+cheat127_desc = "Walk Through Walls (Mario)"
+cheat127_code = "74000130+02EF+E2006C14+0004+74000130+02AF+E2006C14+0004+74000130+02AF+E2006C18+FFFC+74000130+026F+E2006C14+0004+74000130+026F+E2006C18+0004+74000130+02DF+E2006C14+FFFC+74000130+029F+E2006C14+FFFC+74000130+029F+E2006C18+FFFC+74000130+025F+E2006C14+FFFC+74000130+025F+E2006C18+0004+74000130+02BF+E2006C18+FFFC+74000130+027F+E2006C18+0004"
 cheat127_enable = false
 
-cheat128_desc = "Walk Through Walls (Mario)"
-cheat128_code = "74000130+02EF+E2006C14+0004+74000130+02AF+E2006C14+0004+74000130+02AF+E2006C18+FFFC+74000130+026F+E2006C14+0004+74000130+026F+E2006C18+0004+74000130+02DF+E2006C14+FFFC+74000130+029F+E2006C14+FFFC+74000130+029F+E2006C18+FFFC+74000130+025F+E2006C14+FFFC+74000130+025F+E2006C18+0004+74000130+02BF+E2006C18+FFFC+74000130+027F+E2006C18+0004"
+cheat128_desc = "Wonder Badge"
+cheat128_code = "320049A3+0011"
 cheat128_enable = false
 
-cheat129_desc = "Wonder Badge"
-cheat129_code = "320049A3+0011"
+cheat129_desc = "Infinite Coins"
+cheat129_code = "820048E0+270F"
 cheat129_enable = false
 
-cheat130_desc = "Infinite Coins"
-cheat130_code = "820048E0+270F"
+cheat130_desc = "Have Map"
+cheat130_code = "2200433C+0032"
 cheat130_enable = false
 
-cheat131_desc = "Have Map"
-cheat131_code = "2200433C+0032"
+cheat131_desc = "Have All Items"
+cheat131_code = "420048E2+6363+0000000D+0002"
 cheat131_enable = false
 
-cheat132_desc = "Have All Items"
-cheat132_code = "420048E2+6363+0000000D+0002"
+cheat132_desc = "Have All Beans"
+cheat132_code = "82004902+6363+82004904+6363"
 cheat132_enable = false
 
-cheat133_desc = "Have All Beans"
-cheat133_code = "82004902+6363+82004904+6363"
+cheat133_desc = "Have All Key Items"
+cheat133_code = "4200490A+FFFF+00000004+0002"
 cheat133_enable = false
 
-cheat134_desc = "Have All Key Items"
-cheat134_code = "4200490A+FFFF+00000004+0002"
+cheat134_desc = "Have All Regular Items"
+cheat134_code = "320048E2+0063"
 cheat134_enable = false
 
-cheat135_desc = "Have All Regular Items"
-cheat135_code = "320048E2+0063"
+cheat135_desc = "Mario Unlimited HP"
+cheat135_code = "82004866+03E7"
 cheat135_enable = false
 
-cheat136_desc = "Mario Unlimited HP"
-cheat136_code = "82004866+03E7"
+cheat136_desc = "Mario Unlimited BP"
+cheat136_code = "8200486C+03E7"
 cheat136_enable = false
 
-cheat137_desc = "Mario Unlimited BP"
-cheat137_code = "8200486C+03E7"
+cheat137_desc = "Mario Max BP"
+cheat137_code = "82004870+03E7"
 cheat137_enable = false
 
-cheat138_desc = "Mario Max BP"
-cheat138_code = "82004870+03E7"
+cheat138_desc = "Luigi Unlimited HP"
+cheat138_code = "820048A2+03E7"
 cheat138_enable = false
 
-cheat139_desc = "Luigi Unlimited HP"
-cheat139_code = "820048A2+03E7"
+cheat139_desc = "Luigi Unlimited BP"
+cheat139_code = "820048A8+03E7"
 cheat139_enable = false
 
-cheat140_desc = "Luigi Unlimited BP"
-cheat140_code = "820048A8+03E7"
+cheat140_desc = "Luigi Max HP"
+cheat140_code = "820048A6+03E7"
 cheat140_enable = false
 
-cheat141_desc = "Luigi Max HP"
-cheat141_code = "820048A6+03E7"
+cheat141_desc = "Luigi Max BP"
+cheat141_code = "820048AC+03E7"
 cheat141_enable = false
 
-cheat142_desc = "Luigi Max BP"
-cheat142_code = "820048AC+03E7"
+cheat142_desc = "Quick Level Up"
+cheat142_code = "33003F62+0064"
 cheat142_enable = false
 
-cheat143_desc = "Quick Level Up"
-cheat143_code = "33003F62+0064"
+cheat143_desc = "Max Luigi Stats (Press L+R+A)"
+cheat143_code = "74000130+00FE+820048B0+03E7+74000130+00FE+820048B8+03E7+74000130+00FE+820048B4+03E7+74000130+00FE+820048BC+03E7"
 cheat143_enable = false
 
-cheat144_desc = "Max Luigi Stats (Press L+R+A)"
-cheat144_code = "74000130+00FE+820048B0+03E7+74000130+00FE+820048B8+03E7+74000130+00FE+820048B4+03E7+74000130+00FE+820048BC+03E7"
+cheat144_desc = "Max Mario Stats (Press L+R+A)"
+cheat144_code = "74000130+00FE+82004874+03E7+74000130+00FE+8200487C+03E7+74000130+00FE+82004878+03E7+74000130+00FE+82004880+03E7"
 cheat144_enable = false
-
-cheat145_desc = "Max Mario Stats (Press L+R+A)"
-cheat145_code = "74000130+00FE+82004874+03E7+74000130+00FE+8200487C+03E7+74000130+00FE+82004878+03E7+74000130+00FE+82004880+03E7"
-cheat145_enable = false

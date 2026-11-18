@@ -1,4 +1,4 @@
-cheats = 106
+cheats = 104
 
 cheat0_desc = "Anti DMA (Rev 0)"
 cheat0_code = "8804C064+2100+8804C13C+2400"
@@ -256,170 +256,162 @@ cheat63_desc = "Instant Male Egg"
 cheat63_code = "32028640+0016"
 cheat63_enable = false
 
-cheat64_desc = "IV Modifier"
-cheat64_code = "33007CF1+0000"
+cheat64_desc = "Level 100 Pokemon"
+cheat64_code = "820242D8+0064"
 cheat64_enable = false
 
-cheat65_desc = "Level 100 Pokémon"
-cheat65_code = "820242D8+0064"
+cheat65_desc = "Low Game Time"
+cheat65_code = "82024596+0000+82024598+0001"
 cheat65_enable = false
 
-cheat66_desc = "Low Game Time"
-cheat66_code = "82024596+0000+82024598+0001"
+cheat66_desc = "Max HP"
+cheat66_code = "820242DC+03E7"
 cheat66_enable = false
 
-cheat67_desc = "Max HP"
-cheat67_code = "820242DC+03E7"
+cheat67_desc = "Max Inf PP [All Moves]"
+cheat67_code = "42022BD0+6363+00000004+0002"
 cheat67_enable = false
 
-cheat68_desc = "Max Inf PP [All Moves]"
-cheat68_code = "42022BD0+6363+00000004+0002"
+cheat68_desc = "Max Infinite Items (Deposit)"
+cheat68_code = "830050A8+0320"
 cheat68_enable = false
 
-cheat69_desc = "Max Infinite Items (Deposit)"
-cheat69_code = "830050A8+0320"
+cheat69_desc = "MAX PP 1"
+cheat69_code = "32023C08+0063"
 cheat69_enable = false
 
-cheat70_desc = "MAX PP 1"
-cheat70_code = "32023C08+0063"
+cheat70_desc = "MAX PP 2"
+cheat70_code = "32023C09+0063"
 cheat70_enable = false
 
-cheat71_desc = "MAX PP 2"
-cheat71_code = "32023C09+0063"
+cheat71_desc = "MAX PP 3"
+cheat71_code = "32023C0A+0063"
 cheat71_enable = false
 
-cheat72_desc = "MAX PP 3"
-cheat72_code = "32023C0A+0063"
+cheat72_desc = "MAX PP 4"
+cheat72_code = "32023C0B+0063"
 cheat72_enable = false
 
-cheat73_desc = "MAX PP 4"
-cheat73_code = "32023C0B+0063"
+cheat73_desc = "Max PP Move 1"
+cheat73_code = "32022BD4+0063"
 cheat73_enable = false
 
-cheat74_desc = "Max PP Move 1"
-cheat74_code = "32022BD4+0063"
+cheat74_desc = "Max PP Move 2"
+cheat74_code = "32022BD5+0063"
 cheat74_enable = false
 
-cheat75_desc = "Max PP Move 2"
-cheat75_code = "32022BD5+0063"
+cheat75_desc = "Max PP Move 3"
+cheat75_code = "32022BD6+0063"
 cheat75_enable = false
 
-cheat76_desc = "Max PP Move 3"
-cheat76_code = "32022BD6+0063"
+cheat76_desc = "Max PP Move 4"
+cheat76_code = "32022BD7+0063"
 cheat76_enable = false
 
-cheat77_desc = "Max PP Move 4"
-cheat77_code = "32022BD7+0063"
+cheat77_desc = "Max PP [All Moves]"
+cheat77_code = "82022BD4+6363+82022BD6+6363"
 cheat77_enable = false
 
-cheat78_desc = "Max PP [All Moves]"
-cheat78_code = "82022BD4+6363+82022BD6+6363"
+cheat78_desc = "Maximum Sale Price"
+cheat78_code = "73005090+A835+830050A8+FFFF"
 cheat78_enable = false
 
-cheat79_desc = "Maximum Sale Price"
-cheat79_code = "73005090+A835+830050A8+FFFF"
+cheat79_desc = "National Pokedex"
+cheat79_code = "32026511+0013+3202651F+0008+320370CA+003C"
 cheat79_enable = false
 
-cheat80_desc = "National Pokedex"
-cheat80_code = "32026511+0013+3202651F+0008+320370CA+003C"
+cheat80_desc = "Press B+Left For Max Game Corner Coins"
+cheat80_code = "74000130+03DD+8202583C+757E"
 cheat80_enable = false
 
-cheat81_desc = "Press B+Left For Max Game Corner Coins"
-cheat81_code = "74000130+03DD+8202583C+757E"
+cheat81_desc = "Press B+Start For Infinite Money"
+cheat81_code = "74000130+03F5+820257BC+423F+74000130+03F5+820257BE+000F"
 cheat81_enable = false
 
-cheat82_desc = "Press B+Start For Infinite Money"
-cheat82_code = "74000130+03F5+820257BC+423F+74000130+03F5+820257BE+000F"
+cheat82_desc = "Quick Level Gain (Daycare)"
+cheat82_code = "820285B0+FFFF+8202863C+FFFF"
 cheat82_enable = false
 
-cheat83_desc = "Quick Level Gain (Daycare)"
-cheat83_code = "820285B0+FFFF+8202863C+FFFF"
+cheat83_desc = "Refight Deoxys"
+cheat83_code = "32026468+0000"
 cheat83_enable = false
 
-cheat84_desc = "Refight Deoxys"
-cheat84_code = "32026468+0000"
+cheat84_desc = "Refight Lugia and Ho-oh"
+cheat84_code = "3202646A+0000"
 cheat84_enable = false
 
-cheat85_desc = "Refight Lugia and Ho-oh"
-cheat85_code = "3202646A+0000"
+cheat85_desc = "Ride Bike Over Water"
+cheat85_code = "72036E3C+0100+32036E43+0000"
 cheat85_enable = false
 
-cheat86_desc = "Ride Bike Over Water"
-cheat86_code = "72036E3C+0100+32036E43+0000"
+cheat86_desc = "Safari Pokemon Easily Caught"
+cheat86_code = "72023D74+9A1B+82023D74+9A2F"
 cheat86_enable = false
 
-cheat87_desc = "Safari Pokemon Easily Caught"
-cheat87_code = "72023D74+9A1B+82023D74+9A2F"
+cheat87_desc = "Single Pokemon Battles"
+cheat87_code = "420240E6+0000+00000005+0064"
 cheat87_enable = false
 
-cheat88_desc = "Single Pokemon Battles"
-cheat88_code = "420240E6+0000+00000005+0064"
+cheat88_desc = "SP.Attack"
+cheat88_code = "320242E4+00FF"
 cheat88_enable = false
 
-cheat89_desc = "SP.Attack"
-cheat89_code = "320242E4+00FF"
+cheat89_desc = "SP.Defense"
+cheat89_code = "320242E6+00FF"
 cheat89_enable = false
 
-cheat90_desc = "SP.Defense"
-cheat90_code = "320242E6+00FF"
+cheat90_desc = "Speed"
+cheat90_code = "320242E2+00FF"
 cheat90_enable = false
 
-cheat91_desc = "Species Modifier"
-cheat91_code = "83007CEE+0001"
+cheat91_desc = "Use All Move Tutors Infinite Times"
+cheat91_code = "82026464+0000"
 cheat91_enable = false
 
-cheat92_desc = "Speed"
-cheat92_code = "320242E2+00FF"
+cheat92_desc = "View Secret Trainer ID (Rev 0)"
+cheat92_code = "880897D8+7B41+880897DC+7B00"
 cheat92_enable = false
 
-cheat93_desc = "Use All Move Tutors Infinite Times"
-cheat93_code = "82026464+0000"
+cheat93_desc = "Walk in Menu/Conversation"
+cheat93_code = "F3003118+0100+33000F9C+0000"
 cheat93_enable = false
 
-cheat94_desc = "View Secret Trainer ID (Rev 0)"
-cheat94_code = "880897D8+7B41+880897DC+7B00"
+cheat94_desc = "Weak Opponents"
+cheat94_code = "42024082+0000+00000006+0064"
 cheat94_enable = false
 
-cheat95_desc = "Walk in Menu/Conversation"
-cheat95_code = "F3003118+0100+33000F9C+0000"
+cheat95_desc = "Wild Pokemon Easily Caught"
+cheat95_code = "72023D74+99F0+82023D74+9A2F"
 cheat95_enable = false
 
-cheat96_desc = "Weak Opponents"
-cheat96_code = "42024082+0000+00000006+0064"
+cheat96_desc = "Your Character Is A Boy"
+cheat96_code = "320245C8+0000"
 cheat96_enable = false
 
-cheat97_desc = "Wild Pokemon Easily Caught"
-cheat97_code = "72023D74+99F0+82023D74+9A2F"
+cheat97_desc = "Your Character Is A Girl"
+cheat97_code = "320245C8+0001"
 cheat97_enable = false
 
-cheat98_desc = "Your Character Is A Boy"
-cheat98_code = "320245C8+0000"
+cheat98_desc = "Level 100"
+cheat98_code = "73007D1C+DAAF+33007CF0+0064"
 cheat98_enable = false
 
-cheat99_desc = "Your Character Is A Girl"
-cheat99_code = "320245C8+0001"
+cheat99_desc = "Level 50"
+cheat99_code = "73007D1C+DAAF+33007CF0+0032"
 cheat99_enable = false
 
-cheat100_desc = "Level 100"
-cheat100_code = "73007D1C+DAAF+33007CF0+0064"
+cheat100_desc = "Wild Pokemon Easy Catch"
+cheat100_code = "5202C52D+0003+D200D851+AD9D"
 cheat100_enable = false
 
-cheat101_desc = "Level 50"
-cheat101_code = "73007D1C+DAAF+33007CF0+0032"
+cheat101_desc = "Can Use Fly in Buildings, Caves, etc. (Rev 1)"
+cheat101_code = "88124AE8+2001+880C511E+2001"
 cheat101_enable = false
 
-cheat102_desc = "Wild Pokemon Easy Catch"
-cheat102_code = "5202C52D+0003+D200D851+AD9D"
+cheat102_desc = "View Secret Trainer ID (Rev 1)"
+cheat102_code = "880897EC+7B41+880897F0+7B00"
 cheat102_enable = false
 
-cheat103_desc = "Can Use Fly in Buildings, Caves, etc. (Rev 1)"
-cheat103_code = "88124AE8+2001+880C511E+2001"
+cheat103_desc = "EXP Multiplier (Rev 1)"
+cheat103_code = "8203FF00+4803+8203FF02+B401+8203FF04+464A+8203FF06+8810+8203FF08+0040+8203FF0A+6008+8203FF0C+4689+8203FF0E+BD00+8203FF10+1D99+8203FF12+0802+88021D90+4800+88021D92+4700+88021D94+FF01+88021D96+0203"
 cheat103_enable = false
-
-cheat104_desc = "View Secret Trainer ID (Rev 1)"
-cheat104_code = "880897EC+7B41+880897F0+7B00"
-cheat104_enable = false
-
-cheat105_desc = "EXP Multiplier (Rev 1)"
-cheat105_code = "8203FF00+4803+8203FF02+B401+8203FF04+464A+8203FF06+8810+8203FF08+0040+8203FF0A+6008+8203FF0C+4689+8203FF0E+BD00+8203FF10+1D99+8203FF12+0802+88021D90+4800+88021D92+4700+88021D94+FF01+88021D96+0203"
-cheat105_enable = false

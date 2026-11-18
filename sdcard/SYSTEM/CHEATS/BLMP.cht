@@ -1,4 +1,4 @@
-cheats = 12
+cheats = 9
 
 cheat0_desc = "Unlock all Games"
 cheat0_code = "42006082+0101+00000000+0000"
@@ -35,15 +35,3 @@ cheat7_enable = false
 cheat8_desc = "Unlock Word Match"
 cheat8_code = "32006087+0001"
 cheat8_enable = false
-
-cheat9_desc = "When Cheerleaders Attack: 1 Item to Collect"
-cheat9_code = "72005730+0065"
-cheat9_enable = false
-
-cheat10_desc = "When Cheerleaders Attack: Invincible"
-cheat10_code = "72005714+0004"
-cheat10_enable = false
-
-cheat11_desc = "Word Guess: Infinite Guesses"
-cheat11_code = "72005730+005E"
-cheat11_enable = false

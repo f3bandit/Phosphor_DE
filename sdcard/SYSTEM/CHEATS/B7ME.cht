@@ -1,4 +1,4 @@
-cheats = 10
+cheats = 9
 
 cheat0_desc = "Away Score: Max Points (231)"
 cheat0_code = "3201F214+00E7"
@@ -20,22 +20,18 @@ cheat4_desc = "Play Clock Codes"
 cheat4_code = "74000130+00DF+3202BAA6+001F+74000130+00EF+3202BAA6+0000"
 cheat4_enable = false
 
-cheat5_desc = "Round Modifier (Mini Camp)"
-cheat5_code = "32026BBC+0000"
+cheat5_desc = "Home Score: Max Points (231)"
+cheat5_code = "3201D0C4+00E7"
 cheat5_enable = false
 
-cheat6_desc = "Home Score: Max Points (231)"
-cheat6_code = "3201D0C4+00E7"
+cheat6_desc = "Home Score: Zer0 Points"
+cheat6_code = "3201D0C4+0000"
 cheat6_enable = false
 
-cheat7_desc = "Home Score: Zer0 Points"
-cheat7_code = "3201D0C4+0000"
+cheat7_desc = "Home Always Wins [Press L+R+Up]"
+cheat7_code = "74000130+00BF+3201D0C4+00E7+3201F214+0000"
 cheat7_enable = false
 
-cheat8_desc = "Home Always Wins [Press L+R+Up]"
-cheat8_code = "74000130+00BF+3201D0C4+00E7+3201F214+0000"
+cheat8_desc = "Away Always Wins [Press L+R+Down]"
+cheat8_code = "74000130+007F+3201D0C4+0000+3201F214+00E7"
 cheat8_enable = false
-
-cheat9_desc = "Away Always Wins [Press L+R+Down]"
-cheat9_code = "74000130+007F+3201D0C4+0000+3201F214+00E7"
-cheat9_enable = false

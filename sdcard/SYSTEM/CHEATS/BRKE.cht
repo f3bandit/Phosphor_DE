@@ -1,4 +1,4 @@
-cheats = 49
+cheats = 48
 
 cheat0_desc = "1 Turn Liberate"
 cheat0_code = "72034A96+0200+32034A97+0001"
@@ -160,38 +160,34 @@ cheat39_desc = "Move Anywhere On Battle Screen"
 cheat39_code = "3203A2C8+0012+3203A2EC+0012+3203A310+0012+3203A3E8+0012+3203A40C+0012+3203A430+0012+3203A508+0012+3203A52C+0012+3203A550+0012"
 cheat39_enable = false
 
-cheat40_desc = "Music Modifier"
-cheat40_code = "88E91CE0+867A"
+cheat40_desc = "Quick Charge"
+cheat40_code = "320340AB+0064"
 cheat40_enable = false
 
-cheat41_desc = "Quick Charge"
-cheat41_code = "320340AB+0064"
+cheat41_desc = "Replace All Background Music With Virus Busting Theme"
+cheat41_code = "880005A8+2015"
 cheat41_enable = false
 
-cheat42_desc = "Replace All Background Music With Virus Busting Theme"
-cheat42_code = "880005A8+2015"
+cheat42_desc = "Soul Max Charged"
+cheat42_code = "320340AF+0002"
 cheat42_enable = false
 
-cheat43_desc = "Soul Max Charged"
-cheat43_code = "320340AF+0002"
+cheat43_desc = "Standard Chips"
+cheat43_code = "74000130+00F9+42002EB8+6363+000000B4+000C+74000130+00F9+42002EBA+6363+000000B4+000C"
 cheat43_enable = false
 
-cheat44_desc = "Standard Chips"
-cheat44_code = "74000130+00F9+42002EB8+6363+000000B4+000C+74000130+00F9+42002EBA+6363+000000B4+000C"
+cheat44_desc = "Swap Mega Man's Charged Shot With Colonel's Charged Shot"
+cheat44_code = "820052AC+1400"
 cheat44_enable = false
 
-cheat45_desc = "Swap Mega Man's Charged Shot With Colonel's Charged Shot"
-cheat45_code = "820052AC+1400"
+cheat45_desc = "Target: 99 Phases"
+cheat45_code = "32002306+0063"
 cheat45_enable = false
 
-cheat46_desc = "Target: 99 Phases"
-cheat46_code = "32002306+0063"
+cheat46_desc = "Unlock Second Row Of Chips On Chip Selection Screen"
+cheat46_code = "8203C88A+0A0A"
 cheat46_enable = false
 
-cheat47_desc = "Unlock Second Row Of Chips On Chip Selection Screen"
-cheat47_code = "8203C88A+0A0A"
+cheat47_desc = "Walk Thru Walls"
+cheat47_code = "82013774+0000"
 cheat47_enable = false
-
-cheat48_desc = "Walk Thru Walls"
-cheat48_code = "82013774+0000"
-cheat48_enable = false

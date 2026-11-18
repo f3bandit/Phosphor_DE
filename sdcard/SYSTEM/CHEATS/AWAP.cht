@@ -1,4 +1,4 @@
-cheats = 46
+cheats = 45
 
 cheat0_desc = "40 Below Fridge"
 cheat0_code = "33000AA0+003F"
@@ -136,50 +136,46 @@ cheat33_desc = "Press Start to View Ending"
 cheat33_code = "74000130+03F7+33000C3A+000C"
 cheat33_enable = false
 
-cheat34_desc = "Room Modifier"
-cheat34_code = "33000023+0018"
+cheat34_desc = "Select+L+R To Reduce Boss HP To 1"
+cheat34_code = "D0000020+0304+33000A41+0001"
 cheat34_enable = false
 
-cheat35_desc = "Select+L+R To Reduce Boss HP To 1"
-cheat35_code = "D0000020+0304+33000A41+0001"
+cheat35_desc = "Select+L+R To Reduce Boss HP To 2"
+cheat35_code = "D0000020+0304+33000A41+0002"
 cheat35_enable = false
 
-cheat36_desc = "Select+L+R To Reduce Boss HP To 2"
-cheat36_code = "D0000020+0304+33000A41+0002"
+cheat36_desc = "Select+R+A to start dominos"
+cheat36_code = "74000130+02FA+3300002F+0002"
 cheat36_enable = false
 
-cheat37_desc = "Select+R+A to start dominos"
-cheat37_code = "74000130+02FA+3300002F+0002"
+cheat37_desc = "Select+R+B to stop dominos"
+cheat37_code = "74000130+02F9+3300002F+0003"
 cheat37_enable = false
 
-cheat38_desc = "Select+R+B to stop dominos"
-cheat38_code = "74000130+02F9+3300002F+0003"
+cheat38_desc = "Spoiled Rotten"
+cheat38_code = "7300014C+0A10+8300014C+0110"
 cheat38_enable = false
 
-cheat39_desc = "Spoiled Rotten"
-cheat39_code = "7300014C+0A10+8300014C+0110"
+cheat39_desc = "Stop Timer"
+cheat39_code = "33000BF0+0009"
 cheat39_enable = false
 
-cheat40_desc = "Stop Timer"
-cheat40_code = "33000BF0+0009"
+cheat40_desc = "The Big Board"
+cheat40_code = "33000AB4+003F"
 cheat40_enable = false
 
-cheat41_desc = "The Big Board"
-cheat41_code = "33000AB4+003F"
+cheat41_desc = "The Curious Factory"
+cheat41_code = "33000A98+003F"
 cheat41_enable = false
 
-cheat42_desc = "The Curious Factory"
-cheat42_code = "33000A98+003F"
+cheat42_desc = "The Toxic Landfill"
+cheat42_code = "33000A9C+003F"
 cheat42_enable = false
 
-cheat43_desc = "The Toxic Landfill"
-cheat43_code = "33000A9C+003F"
+cheat43_desc = "Toy Block Tower"
+cheat43_code = "33000AB0+003F"
 cheat43_enable = false
 
-cheat44_desc = "Toy Block Tower"
-cheat44_code = "33000AB0+003F"
+cheat44_desc = "Wildflower Fields"
+cheat44_code = "33000A84+003F"
 cheat44_enable = false
-
-cheat45_desc = "Wildflower Fields"
-cheat45_code = "33000A84+003F"
-cheat45_enable = false

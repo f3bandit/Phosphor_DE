@@ -1,4 +1,4 @@
-cheats = 77
+cheats = 76
 
 cheat0_desc = "(VB) Viruses = 1HP"
 cheat0_code = "3203A9D4+0001+3203AAAC+0001"
@@ -44,266 +44,262 @@ cheat10_desc = "Always Rank S"
 cheat10_code = "3203489E+000B"
 cheat10_enable = false
 
-cheat11_desc = "Buster Modifier"
-cheat11_code = "8203CE04+0000"
+cheat11_desc = "Central Town"
+cheat11_code = "74000130+037B+4200A490+0001+00020002+000C"
 cheat11_enable = false
 
-cheat12_desc = "Central Town"
-cheat12_code = "74000130+037B+4200A490+0001+00020002+000C"
+cheat12_desc = "Chips Do 5000 Damage"
+cheat12_code = "420349CE+1388+00000005+0002"
 cheat12_enable = false
 
-cheat13_desc = "Chips Do 5000 Damage"
-cheat13_code = "420349CE+1388+00000005+0002"
+cheat13_desc = "Choose Any Chip (In-Battle)"
+cheat13_code = "72001B8A+0001+420365C6+0000+00000008+000C"
 cheat13_enable = false
 
-cheat14_desc = "Choose Any Chip (In-Battle)"
-cheat14_code = "72001B8A+0001+420365C6+0000+00000008+000C"
+cheat14_desc = "Complete Library+PA"
+cheat14_code = "7200DF24+0100+420008A0+0000+00000100+0002+7200DF24+0100+42004BE0+1717+00000100+0002+7200DF24+0100+4200204C+FFFF+00000016+0002"
 cheat14_enable = false
 
-cheat15_desc = "Complete Library+PA"
-cheat15_code = "7200DF24+0100+420008A0+0000+00000100+0002+7200DF24+0100+42004BE0+1717+00000100+0002+7200DF24+0100+4200204C+FFFF+00000016+0002"
+cheat15_desc = "Complete Virus List"
+cheat15_code = "720094C0+0001+42001CBA+FFFF+00000003+0002"
 cheat15_enable = false
 
-cheat16_desc = "Complete Virus List"
-cheat16_code = "720094C0+0001+42001CBA+FFFF+00000003+0002"
+cheat16_desc = "Credits"
+cheat16_code = "74000130+037B+4200A490+0001+001C0002+000C"
 cheat16_enable = false
 
-cheat17_desc = "Credits"
-cheat17_code = "74000130+037B+4200A490+0001+001C0002+000C"
+cheat17_desc = "Crisis Theme"
+cheat17_code = "74000130+037B+4200A490+0001+000B0002+000C"
 cheat17_enable = false
 
-cheat18_desc = "Crisis Theme"
-cheat18_code = "74000130+037B+4200A490+0001+000B0002+000C"
+cheat18_desc = "Delete All Sharks"
+cheat18_code = "72012138+0903+42012138+0000+00000005+0078"
 cheat18_enable = false
 
-cheat19_desc = "Delete All Sharks"
-cheat19_code = "72012138+0903+42012138+0000+00000005+0078"
+cheat19_desc = "Delete All Targets"
+cheat19_code = "720094C0+0001+42011F04+0001+0000000C+0078"
 cheat19_enable = false
 
-cheat20_desc = "Delete All Targets"
-cheat20_code = "720094C0+0001+42011F04+0001+0000000C+0078"
+cheat20_desc = "Delete Enemies [Press Select]"
+cheat20_code = "D0000020+0004+4203AAAC+0000+00000003+00D8"
 cheat20_enable = false
 
-cheat21_desc = "Delete Enemies [Press Select]"
-cheat21_code = "D0000020+0004+4203AAAC+0000+00000003+00D8"
+cheat21_desc = "Delete EvilSpirits [Press Select+B]"
+cheat21_code = "74000130+03F9+4200667E+0008+0000000D+0008"
 cheat21_enable = false
 
-cheat22_desc = "Delete EvilSpirits [Press Select+B]"
-cheat22_code = "74000130+03F9+4200667E+0008+0000000D+0008"
+cheat22_desc = "Delete Virus [Press Select+Up]"
+cheat22_code = "74000130+03BB+8203A9D4+0000"
 cheat22_enable = false
 
-cheat23_desc = "Delete Virus [Press Select+Up]"
-cheat23_code = "74000130+03BB+8203A9D4+0000"
+cheat23_desc = "Enable Beast Cross"
+cheat23_code = "720094C0+0001+82001CA4+FFFF"
 cheat23_enable = false
 
-cheat24_desc = "Enable Beast Cross"
-cheat24_code = "720094C0+0001+82001CA4+FFFF"
+cheat24_desc = "Enable Beast Out"
+cheat24_code = "7200DF24+0100+32001CA4+00FF"
 cheat24_enable = false
 
-cheat25_desc = "Enable Beast Out"
-cheat25_code = "7200DF24+0100+32001CA4+00FF"
+cheat25_desc = "Falzar = Gregar"
+cheat25_code = "7203A980+000B+3203A980+000C"
 cheat25_enable = false
 
-cheat26_desc = "Falzar = Gregar"
-cheat26_code = "7203A980+000B+3203A980+000C"
+cheat26_desc = "Fifth Chip In-Battle"
+cheat26_code = "820349CA+0000"
 cheat26_enable = false
 
-cheat27_desc = "Fifth Chip In-Battle"
-cheat27_code = "820349CA+0000"
+cheat27_desc = "Fourth Chip In-Battle"
+cheat27_code = "820349C8+0000"
 cheat27_enable = false
 
-cheat28_desc = "Fourth Chip In-Battle"
-cheat28_code = "820349C8+0000"
+cheat28_desc = "Green Town"
+cheat28_code = "74000130+037B+4200A490+0001+00070002+000C"
 cheat28_enable = false
 
-cheat29_desc = "Green Town"
-cheat29_code = "74000130+037B+4200A490+0001+00070002+000C"
+cheat29_desc = "Have 160g of Veggies"
+cheat29_code = "720094C0+0001+32001024+00A0"
 cheat29_enable = false
 
-cheat30_desc = "Have 160g of Veggies"
-cheat30_code = "720094C0+0001+32001024+00A0"
+cheat30_desc = "Have 99 of Every Chip"
+cheat30_code = "4200223C+6363+000000CA+000C+4200223E+6363+000000CA+000C+42002C8C+6363+0000003C+000C+4200304C+6363+0000000D+000C"
 cheat30_enable = false
 
-cheat31_desc = "Have 99 of Every Chip"
-cheat31_code = "4200223C+6363+000000CA+000C+4200223E+6363+000000CA+000C+42002C8C+6363+0000003C+000C+4200304C+6363+0000000D+000C"
+cheat31_desc = "Have All Chips"
+cheat31_code = "7200DF24+0100+4200223C+6363+000000CA+000C+7200DF24+0100+4200223E+6363+000000CA+000C+7200DF24+0100+42002C8C+6363+0000003C+000C+7200DF24+0100+4200304C+6363+0000000D+000C"
 cheat31_enable = false
 
-cheat32_desc = "Have All Chips"
-cheat32_code = "7200DF24+0100+4200223C+6363+000000CA+000C+7200DF24+0100+4200223E+6363+000000CA+000C+7200DF24+0100+42002C8C+6363+0000003C+000C+7200DF24+0100+4200304C+6363+0000000D+000C"
+cheat32_desc = "Have All Navi Blocks"
+cheat32_code = "7200DF24+0100+42000574+0000+0000005C+0002+7200DF24+0100+42004B20+5555+0000005C+0002+7200DF24+0100+420031C8+0909+0000005C+0002"
 cheat32_enable = false
 
-cheat33_desc = "Have All Navi Blocks"
-cheat33_code = "7200DF24+0100+42000574+0000+0000005C+0002+7200DF24+0100+42004B20+5555+0000005C+0002+7200DF24+0100+420031C8+0909+0000005C+0002"
+cheat33_desc = "Have Infinite Rush Food (For Building Shortcuts)"
+cheat33_code = "32003160+0009"
 cheat33_enable = false
 
-cheat34_desc = "Have Infinite Rush Food (For Building Shortcuts)"
-cheat34_code = "32003160+0009"
+cheat34_desc = "Have Maximum Bug Frags"
+cheat34_code = "7200DF24+0100+420018B8+0000+00000002+0002+7200DF24+0100+42001BE0+270F+D8F10002+0002+7200DF24+0100+42005030+270F+D8F10002+0002"
 cheat34_enable = false
 
-cheat35_desc = "Have Maximum Bug Frags"
-cheat35_code = "7200DF24+0100+420018B8+0000+00000002+0002+7200DF24+0100+42001BE0+270F+D8F10002+0002+7200DF24+0100+42005030+270F+D8F10002+0002"
+cheat35_desc = "Have Maximum Zenny"
+cheat35_code = "7200DF24+0100+42000060+0000+00000002+0002+7200DF24+0100+42001BDC+423F+BDD00002+0002+7200DF24+0100+42005028+423F+BDD00002+0002"
 cheat35_enable = false
 
-cheat36_desc = "Have Maximum Zenny"
-cheat36_code = "7200DF24+0100+42000060+0000+00000002+0002+7200DF24+0100+42001BDC+423F+BDD00002+0002+7200DF24+0100+42005028+423F+BDD00002+0002"
+cheat36_desc = "Have Rainbow Power"
+cheat36_code = "72000314+00FF+82000332+0000"
 cheat36_enable = false
 
-cheat37_desc = "Have Rainbow Power"
-cheat37_code = "72000314+00FF+82000332+0000"
+cheat37_desc = "Have Shuffle"
+cheat37_code = "72001B8A+0001+3203CE60+0001"
 cheat37_enable = false
 
-cheat38_desc = "Have Shuffle"
-cheat38_code = "72001B8A+0001+3203CE60+0001"
+cheat38_desc = "Infinite Battery"
+cheat38_code = "720094C0+0001+32001018+0005"
 cheat38_enable = false
 
-cheat39_desc = "Infinite Battery"
-cheat39_code = "720094C0+0001+32001018+0005"
+cheat39_desc = "Infinite Beast Cross"
+cheat39_code = "3203CE21+0003"
 cheat39_enable = false
 
-cheat40_desc = "Infinite Beast Cross"
-cheat40_code = "3203CE21+0003"
+cheat40_desc = "Infinite BugFrags"
+cheat40_code = "82001BE0+869F+82001BE2+0001+820018B8+0000+820018BA+0000+82005030+869F+82005032+0001"
 cheat40_enable = false
 
-cheat41_desc = "Infinite BugFrags"
-cheat41_code = "82001BE0+869F+82001BE2+0001+820018B8+0000+820018BA+0000+82005030+869F+82005032+0001"
+cheat41_desc = "Infinite Chip (In-Battle)"
+cheat41_code = "820349C0+0000"
 cheat41_enable = false
 
-cheat42_desc = "Infinite Chip (In-Battle)"
-cheat42_code = "820349C0+0000"
+cheat42_desc = "Infinite Data Gems"
+cheat42_code = "32009D1D+0000"
 cheat42_enable = false
 
-cheat43_desc = "Infinite Data Gems"
-cheat43_code = "32009D1D+0000"
+cheat43_desc = "Infinite Health"
+cheat43_code = "8200480C+270F+8203A9D4+270F"
 cheat43_enable = false
 
-cheat44_desc = "Infinite Health"
-cheat44_code = "8200480C+270F+8203A9D4+270F"
+cheat44_desc = "Infinite Navi Chip"
+cheat44_code = "820349AC+0000"
 cheat44_enable = false
 
-cheat45_desc = "Infinite Navi Chip"
-cheat45_code = "820349AC+0000"
+cheat45_desc = "Infinite Rush Food"
+cheat45_code = "720094C0+0001+32003160+0009"
 cheat45_enable = false
 
-cheat46_desc = "Infinite Rush Food"
-cheat46_code = "720094C0+0001+32003160+0009"
+cheat46_desc = "Infinite Shuffle"
+cheat46_code = "72001B8A+0001+32036624+0003"
 cheat46_enable = false
 
-cheat47_desc = "Infinite Shuffle"
-cheat47_code = "72001B8A+0001+32036624+0003"
+cheat47_desc = "Infinite Soul Weapons"
+cheat47_code = "720094C0+0001+42000790+0606+00000002+0002"
 cheat47_enable = false
 
-cheat48_desc = "Infinite Soul Weapons"
-cheat48_code = "720094C0+0001+42000790+0606+00000002+0002"
+cheat48_desc = "Infinite Zenny"
+cheat48_code = "82001BDC+423F+82001BDE+000F+82000060+0000+82000062+0000+82005028+423F+8200502A+000F"
 cheat48_enable = false
 
-cheat49_desc = "Infinite Zenny"
-cheat49_code = "82001BDC+423F+82001BDE+000F+82000060+0000+82000062+0000+82005028+423F+8200502A+000F"
+cheat49_desc = "Instant Battle Win"
+cheat49_code = "8203AAAC+0000+8203AAAE+0000+8203AB84+0000+8203AB86+0000+8203AC5C+0000+8203AC5E+0000"
 cheat49_enable = false
 
-cheat50_desc = "Instant Battle Win"
-cheat50_code = "8203AAAC+0000+8203AAAE+0000+8203AB84+0000+8203AB86+0000+8203AC5C+0000+8203AC5E+0000"
+cheat50_desc = "Lans Home"
+cheat50_code = "74000130+037B+4200A490+0001+00030002+000C"
 cheat50_enable = false
 
-cheat51_desc = "Lans Home"
-cheat51_code = "74000130+037B+4200A490+0001+00030002+000C"
+cheat51_desc = "Lans HP"
+cheat51_code = "74000130+037B+4200A490+0001+00120002+000C"
 cheat51_enable = false
 
-cheat52_desc = "Lans HP"
-cheat52_code = "74000130+037B+4200A490+0001+00120002+000C"
+cheat52_desc = "Low Game Time"
+cheat52_code = "82001C1C+1000+82001C1E+0000"
 cheat52_enable = false
 
-cheat53_desc = "Low Game Time"
-cheat53_code = "82001C1C+1000+82001C1E+0000"
+cheat53_desc = "Max Buster Charge"
+cheat53_code = "3203CE01+00C7+3203409B+0064"
 cheat53_enable = false
 
-cheat54_desc = "Max Buster Charge"
-cheat54_code = "3203CE01+00C7+3203409B+0064"
+cheat54_desc = "Max Chips In-Battle"
+cheat54_code = "3203CE0A+000A"
 cheat54_enable = false
 
-cheat55_desc = "Max Chips In-Battle"
-cheat55_code = "3203CE0A+000A"
+cheat55_desc = "Max Health"
+cheat55_code = "8200480E+270F+8200480A+270F"
 cheat55_enable = false
 
-cheat56_desc = "Max Health"
-cheat56_code = "8200480E+270F+8200480A+270F"
+cheat56_desc = "Max Stats (Temp)"
+cheat56_code = "720094C0+0001+320047CD+0062+720094C0+0001+820047CE+6262"
 cheat56_enable = false
 
-cheat57_desc = "Max Stats (Temp)"
-cheat57_code = "720094C0+0001+320047CD+0062+720094C0+0001+820047CE+6262"
+cheat57_desc = "Maximum HP"
+cheat57_code = "720094C0+0001+4200480A+270F+00000003+0002"
 cheat57_enable = false
 
-cheat58_desc = "Maximum HP"
-cheat58_code = "720094C0+0001+4200480A+270F+00000003+0002"
+cheat58_desc = "Maximum HP (Virus Battler)"
+cheat58_code = "720094C0+0001+4203AB84+270F+00000002+00D8"
 cheat58_enable = false
 
-cheat59_desc = "Maximum HP (Virus Battler)"
-cheat59_code = "720094C0+0001+4203AB84+270F+00000002+00D8"
+cheat59_desc = "Maximum MB (Virus Battler)"
+cheat59_code = "720094C0+0001+820364D2+0000"
 cheat59_enable = false
 
-cheat60_desc = "Maximum MB (Virus Battler)"
-cheat60_code = "720094C0+0001+820364D2+0000"
+cheat60_desc = "No 50mb Chip Limit"
+cheat60_code = "7200DF24+0100+4202A03A+0000+0000001E+0020"
 cheat60_enable = false
 
-cheat61_desc = "No 50mb Chip Limit"
-cheat61_code = "7200DF24+0100+4202A03A+0000+0000001E+0020"
+cheat61_desc = "No Blackout"
+cheat61_code = "7200101A+0008+8200AC4A+3F0B"
 cheat61_enable = false
 
-cheat62_desc = "No Blackout"
-cheat62_code = "7200101A+0008+8200AC4A+3F0B"
+cheat62_desc = "ProtoMan"
+cheat62_code = "7203CC12+1F00+3203CC15+000B"
 cheat62_enable = false
 
-cheat63_desc = "ProtoMan"
-cheat63_code = "7203CC12+1F00+3203CC15+000B"
+cheat63_desc = "Rotate NaviBlocks [Press Select+D-Pad]"
+cheat63_code = "74000130+03BB+420096D8+0000+00000002+0366+74000130+03EB+420096D8+0001+00000002+0366+74000130+037B+420096D8+0002+00000002+0366+74000130+03DB+420096D8+0003+00000002+0366"
 cheat63_enable = false
 
-cheat64_desc = "Rotate NaviBlocks [Press Select+D-Pad]"
-cheat64_code = "74000130+03BB+420096D8+0000+00000002+0366+74000130+03EB+420096D8+0001+00000002+0366+74000130+037B+420096D8+0002+00000002+0366+74000130+03DB+420096D8+0003+00000002+0366"
+cheat64_desc = "School"
+cheat64_code = "74000130+037B+4200A490+0001+00040002+000C"
 cheat64_enable = false
 
-cheat65_desc = "School"
-cheat65_code = "74000130+037B+4200A490+0001+00040002+000C"
+cheat65_desc = "Seaside Town"
+cheat65_code = "74000130+037B+4200A490+0001+00050002+000C"
 cheat65_enable = false
 
-cheat66_desc = "Seaside Town"
-cheat66_code = "74000130+037B+4200A490+0001+00050002+000C"
+cheat66_desc = "Second Chip In-Battle"
+cheat66_code = "820349C4+0001"
 cheat66_enable = false
 
-cheat67_desc = "Second Chip In-Battle"
-cheat67_code = "820349C4+0001"
+cheat67_desc = "Short Train Ride"
+cheat67_code = "72011812+8008+32011813+0060"
 cheat67_enable = false
 
-cheat68_desc = "Short Train Ride"
-cheat68_code = "72011812+8008+32011813+0060"
+cheat68_desc = "Sky Town"
+cheat68_code = "74000130+037B+4200A490+0001+00060002+000C"
 cheat68_enable = false
 
-cheat69_desc = "Sky Town"
-cheat69_code = "74000130+037B+4200A490+0001+00060002+000C"
+cheat69_desc = "Stay On Cloud"
+cheat69_code = "72000326+0003+32000326+0004"
 cheat69_enable = false
 
-cheat70_desc = "Stay On Cloud"
-cheat70_code = "72000326+0003+32000326+0004"
+cheat70_desc = "Tag 1st 2 Chips In Folder"
+cheat70_code = "82009A8C+0000+82009A90+0001"
 cheat70_enable = false
 
-cheat71_desc = "Tag 1st 2 Chips In Folder"
-cheat71_code = "82009A8C+0000+82009A90+0001"
+cheat71_desc = "Third Chip In-Battle"
+cheat71_code = "820349C6+0000"
 cheat71_enable = false
 
-cheat72_desc = "Third Chip In-Battle"
-cheat72_code = "820349C6+0000"
+cheat72_desc = "Title Theme"
+cheat72_code = "74000130+037B+4200A490+0001+00000002+000C"
 cheat72_enable = false
 
-cheat73_desc = "Title Theme"
-cheat73_code = "74000130+037B+4200A490+0001+00000002+000C"
+cheat73_desc = "Undernet"
+cheat73_code = "74000130+037B+4200A490+0001+00130002+000C"
 cheat73_enable = false
 
-cheat74_desc = "Undernet"
-cheat74_code = "74000130+037B+4200A490+0001+00130002+000C"
+cheat74_desc = "V.Battler Complete"
+cheat74_code = "82001CBA+FF01+82001CBC+FF6F+32001CBE+00F0"
 cheat74_enable = false
 
-cheat75_desc = "V.Battler Complete"
-cheat75_code = "82001CBA+FF01+82001CBC+FF6F+32001CBE+00F0"
+cheat75_desc = "Walk Through Walls"
+cheat75_code = "82011D14+0001"
 cheat75_enable = false
-
-cheat76_desc = "Walk Through Walls"
-cheat76_code = "82011D14+0001"
-cheat76_enable = false

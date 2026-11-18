@@ -1,4 +1,4 @@
-cheats = 6
+cheats = 3
 
 cheat0_desc = "All Characters"
 cheat0_code = "430052A0+0001+00010007+0010+430052A4+03E7+00000007+0010+430052A8+03E7+00000007+0010"
@@ -8,18 +8,6 @@ cheat1_desc = "ATB Gauge Always Full"
 cheat1_code = "43001A38+0640+00000003+0108"
 cheat1_enable = false
 
-cheat2_desc = "Character Modifier Slot #1"
-cheat2_code = "330052A0+0000"
+cheat2_desc = "Infinite HP"
+cheat2_code = "43001A30+03E7+00000003+0108+42001A32+03E7+00000003+0108"
 cheat2_enable = false
-
-cheat3_desc = "Character Modifier Slot #2"
-cheat3_code = "330052B0+0000"
-cheat3_enable = false
-
-cheat4_desc = "Character Modifier Slot #3"
-cheat4_code = "330052C0+0000"
-cheat4_enable = false
-
-cheat5_desc = "Infinite HP"
-cheat5_code = "43001A30+03E7+00000003+0108+42001A32+03E7+00000003+0108"
-cheat5_enable = false

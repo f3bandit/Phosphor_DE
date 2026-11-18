@@ -1,4 +1,4 @@
-cheats = 7
+cheats = 6
 
 cheat0_desc = "Access Test Level"
 cheat0_code = "330017FC+0011"
@@ -23,7 +23,3 @@ cheat4_enable = false
 cheat5_desc = "Only 1 Butterlfy Needed to win Mini-Game"
 cheat5_code = "33006D06+0000+33006D26+0000"
 cheat5_enable = false
-
-cheat6_desc = "Power-Up Modifier"
-cheat6_code = "330003F0+0000"
-cheat6_enable = false

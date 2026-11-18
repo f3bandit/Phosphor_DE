@@ -1,4 +1,4 @@
-cheats = 29
+cheats = 27
 
 cheat0_desc = "Access All Worlds"
 cheat0_code = "33001BD3+0013"
@@ -28,90 +28,82 @@ cheat6_desc = "Have 40/40 Yoshi's Eggs Collected"
 cheat6_code = "83001140+FFFF+83001142+FFFF+33001144+00FF"
 cheat6_enable = false
 
-cheat7_desc = "Have All 5 Coins"
-cheat7_code = "8851F4DC+FFAF"
+cheat7_desc = "Have All A Coins"
+cheat7_code = "33001C35+001F"
 cheat7_enable = false
 
-cheat8_desc = "Have All A Coins"
-cheat8_code = "33001C35+001F"
+cheat8_desc = "Have Both Yoshi Eggs"
+cheat8_code = "33001C37+0003"
 cheat8_enable = false
 
-cheat9_desc = "Have Both Yoshi Eggs"
-cheat9_code = "33001C37+0003"
+cheat9_desc = "Hit Anywhere"
+cheat9_code = "880A6DA2+4280+880A6DE6+4280"
 cheat9_enable = false
 
-cheat10_desc = "Hit Anywhere"
-cheat10_code = "880A6DA2+4280+880A6DE6+4280"
+cheat10_desc = "Infinite Bonus Room Time"
+cheat10_code = "33001CCF+0060"
 cheat10_enable = false
 
-cheat11_desc = "Infinite Bonus Room Time"
-cheat11_code = "33001CCF+0060"
+cheat11_desc = "Infinite Carpet Time"
+cheat11_code = "73001E28+1609+83001E2C+1000"
 cheat11_enable = false
 
-cheat12_desc = "Infinite Carpet Time"
-cheat12_code = "73001E28+1609+83001E2C+1000"
+cheat12_desc = "Infinite Float"
+cheat12_code = "33001C7E+002A"
 cheat12_enable = false
 
-cheat13_desc = "Infinite Float"
-cheat13_code = "33001C7E+002A"
+cheat13_desc = "Infinite Health"
+cheat13_code = "33001C76+003F"
 cheat13_enable = false
 
-cheat14_desc = "Infinite Health"
-cheat14_code = "33001C76+003F"
+cheat14_desc = "Infinite POW Block (Bottom)"
+cheat14_code = "33003D78+00AD+33003D79+00AE+33003DB8+00AF+33003DB9+00B0"
 cheat14_enable = false
 
-cheat15_desc = "Infinite POW Block (Bottom)"
-cheat15_code = "33003D78+00AD+33003D79+00AE+33003DB8+00AF+33003DB9+00B0"
+cheat15_desc = "Infinite POW Block (Top)"
+cheat15_code = "33003878+00AD+33003879+00AE+330038B8+00AF+330038B9+00B0"
 cheat15_enable = false
 
-cheat16_desc = "Infinite POW Block (Top)"
-cheat16_code = "33003878+00AD+33003879+00AE+330038B8+00AF+330038B9+00B0"
+cheat16_desc = "Infinite POW Blocks"
+cheat16_code = "83003DB8+B0AF+830038B8+B0AF"
 cheat16_enable = false
 
-cheat17_desc = "Infinite POW Blocks"
-cheat17_code = "83003DB8+B0AF+830038B8+B0AF"
+cheat17_desc = "Invincible"
+cheat17_code = "73003FC0+0800+83003FC0+0100+73003FCA+0080+83003FCA+0000"
 cheat17_enable = false
 
-cheat18_desc = "Invincible"
-cheat18_code = "73003FC0+0800+83003FC0+0100+73003FCA+0080+83003FCA+0000"
+cheat18_desc = "Invincible OFF [Press Select+R]"
+cheat18_code = "74000130+02FB+82003500+0000+72003500+0000+83001C88+0400"
 cheat18_enable = false
 
-cheat19_desc = "Invincible OFF [Press Select+R]"
-cheat19_code = "74000130+02FB+82003500+0000+72003500+0000+83001C88+0400"
+cheat19_desc = "Invincible ON [Press Select+L]"
+cheat19_code = "74000130+01FB+82003500+0001+72003500+0001+83001C88+0410"
 cheat19_enable = false
 
-cheat20_desc = "Invincible ON [Press Select+L]"
-cheat20_code = "74000130+01FB+82003500+0001+72003500+0001+83001C88+0410"
+cheat20_desc = "Invincible/Walk Thru Enemies"
+cheat20_code = "33001C7D+0055"
 cheat20_enable = false
 
-cheat21_desc = "Invincible/Walk Thru Enemies"
-cheat21_code = "33001C7D+0055"
+cheat21_desc = "Max Hearts"
+cheat21_code = "33001C77+0003"
 cheat21_enable = false
 
-cheat22_desc = "Max Hearts"
-cheat22_code = "33001C77+0003"
+cheat22_desc = "Max Score"
+cheat22_code = "8300114C+E0FF+8300114E+05F5"
 cheat22_enable = false
 
-cheat23_desc = "Max Score"
-cheat23_code = "8300114C+E0FF+8300114E+05F5"
+cheat23_desc = "Max Score P1 classic"
+cheat23_code = "83001E10+423F+83001E12+000F"
 cheat23_enable = false
 
-cheat24_desc = "Max Score P1 classic"
-cheat24_code = "83001E10+423F+83001E12+000F"
+cheat24_desc = "Moon Jump"
+cheat24_code = "D0000020+0001+83001C5A+FFC8"
 cheat24_enable = false
 
-cheat25_desc = "Moon Jump"
-cheat25_code = "D0000020+0001+83001C5A+FFC8"
+cheat25_desc = "One Enemy to Kill"
+cheat25_code = "33001DEE+0000"
 cheat25_enable = false
 
-cheat26_desc = "One Enemy to Kill"
-cheat26_code = "33001DEE+0000"
+cheat26_desc = "Unfreeze Enemies [Press Select+A]"
+cheat26_code = "74000130+03FA+82003502+0000+72003502+0000+83001CAC+0000"
 cheat26_enable = false
-
-cheat27_desc = "Start On Phase 40"
-cheat27_code = "8868C678+9DDD"
-cheat27_enable = false
-
-cheat28_desc = "Unfreeze Enemies [Press Select+A]"
-cheat28_code = "74000130+03FA+82003502+0000+72003502+0000+83001CAC+0000"
-cheat28_enable = false

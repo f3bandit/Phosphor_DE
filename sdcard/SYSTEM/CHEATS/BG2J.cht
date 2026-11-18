@@ -1,4 +1,4 @@
-cheats = 9
+cheats = 8
 
 cheat0_desc = "Always Throw Bombs"
 cheat0_code = "33003F2F+0001"
@@ -31,7 +31,3 @@ cheat6_enable = false
 cheat7_desc = "Upside Down Character (Top Down View)"
 cheat7_code = "33002C75+0006"
 cheat7_enable = false
-
-cheat8_desc = "Weapon Level Modifier"
-cheat8_code = "83003F30+0000"
-cheat8_enable = false

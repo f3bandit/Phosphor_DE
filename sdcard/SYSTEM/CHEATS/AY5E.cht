@@ -1,4 +1,4 @@
-cheats = 448
+cheats = 443
 
 cheat0_desc = "7 Completed"
 cheat0_code = "32011C30+0009"
@@ -1736,58 +1736,38 @@ cheat433_desc = "Magic-Arm Shield"
 cheat433_code = "320122E8+0009"
 cheat433_enable = false
 
-cheat434_desc = "Magic/Trap Card Modifier Slot 1"
-cheat434_code = "820195F0+0000"
+cheat434_desc = "Magical Ghost"
+cheat434_code = "320122DC+0009"
 cheat434_enable = false
 
-cheat435_desc = "Magic/Trap Card Modifier Slot 2"
-cheat435_code = "82019684+0000"
+cheat435_desc = "Magical Hats"
+cheat435_code = "320122E0+0009"
 cheat435_enable = false
 
-cheat436_desc = "Magic/Trap Card Modifier Slot 3"
-cheat436_code = "82019718+0000"
+cheat436_desc = "Magical Labyrinth"
+cheat436_code = "320122E4+0009"
 cheat436_enable = false
 
-cheat437_desc = "Magic/Trap Card Modifier Slot 4"
-cheat437_code = "820197AC+0000"
+cheat437_desc = "Magician Of Black Chaos"
+cheat437_code = "320122EC+0009"
 cheat437_enable = false
 
-cheat438_desc = "Magic/Trap Card Modifier Slot 5"
-cheat438_code = "82019840+0000"
+cheat438_desc = "Magician Of Faith"
+cheat438_code = "320122F0+0009"
 cheat438_enable = false
 
-cheat439_desc = "Magical Ghost"
-cheat439_code = "320122DC+0009"
+cheat439_desc = "Maha Vailo"
+cheat439_code = "320122F4+0009"
 cheat439_enable = false
 
-cheat440_desc = "Magical Hats"
-cheat440_code = "320122E0+0009"
+cheat440_desc = "Maiden Of The Moonlight"
+cheat440_code = "320122F8+0009"
 cheat440_enable = false
 
-cheat441_desc = "Magical Labyrinth"
-cheat441_code = "320122E4+0009"
+cheat441_desc = "Major Riot"
+cheat441_code = "320122FC+0009"
 cheat441_enable = false
 
-cheat442_desc = "Magician Of Black Chaos"
-cheat442_code = "320122EC+0009"
+cheat442_desc = "Malevolent Nuzzler"
+cheat442_code = "32012300+0009"
 cheat442_enable = false
-
-cheat443_desc = "Magician Of Faith"
-cheat443_code = "320122F0+0009"
-cheat443_enable = false
-
-cheat444_desc = "Maha Vailo"
-cheat444_code = "320122F4+0009"
-cheat444_enable = false
-
-cheat445_desc = "Maiden Of The Moonlight"
-cheat445_code = "320122F8+0009"
-cheat445_enable = false
-
-cheat446_desc = "Major Riot"
-cheat446_code = "320122FC+0009"
-cheat446_enable = false
-
-cheat447_desc = "Malevolent Nuzzler"
-cheat447_code = "32012300+0009"
-cheat447_enable = false

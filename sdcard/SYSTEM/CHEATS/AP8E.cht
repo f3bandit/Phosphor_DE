@@ -40,13 +40,11 @@ cheat9_desc = "Infinite Stamina: Velma"
 cheat9_code = "3201F9E8+0040"
 cheat9_enable = false
 
-cheat10_desc = "Infinite Time: 
-Chests/Mini Games"
+cheat10_desc = "Infinite Time: Chests/Mini Games"
 cheat10_code = "82001804+0040"
 cheat10_enable = false
 
-cheat11_desc = "Infinite Tries: Musical Mayhem
-(Timer Needs To Be On)"
+cheat11_desc = "Infinite Tries: Musical Mayhem (Timer Needs To Be On)"
 cheat11_code = "82001074+0000"
 cheat11_enable = false
 

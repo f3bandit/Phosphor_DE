@@ -1,5 +1,0 @@
-cheats = 1
-
-cheat0_desc = "Score Modifier"
-cheat0_code = "3200000C+0000"
-cheat0_enable = false

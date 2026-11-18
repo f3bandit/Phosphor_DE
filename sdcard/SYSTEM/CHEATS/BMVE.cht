@@ -1,4 +1,4 @@
-cheats = 22
+cheats = 20
 
 cheat0_desc = "Access All Areas"
 cheat0_code = "43006348+0001+00000005+000C"
@@ -32,58 +32,50 @@ cheat7_desc = "Infinite Ball Saver"
 cheat7_code = "730001F0+FFFF+330001EB+0008"
 cheat7_enable = false
 
-cheat8_desc = "Item Modifier"
-cheat8_code = "3300002C+0006"
+cheat8_desc = "Max Gold Coins"
+cheat8_code = "33000008+0063"
 cheat8_enable = false
 
-cheat9_desc = "Max Gold Coins"
-cheat9_code = "33000008+0063"
+cheat9_desc = "Max Gold Keys"
+cheat9_code = "33000024+0063+33005790+0063"
 cheat9_enable = false
 
-cheat10_desc = "Max Gold Keys"
-cheat10_code = "33000024+0063+33005790+0063"
+cheat10_desc = "Max Gold Stars"
+cheat10_code = "33000014+0063"
 cheat10_enable = false
 
-cheat11_desc = "Max Gold Stars"
-cheat11_code = "33000014+0063"
+cheat11_desc = "Max Red Coins"
+cheat11_code = "33000010+0063"
 cheat11_enable = false
 
-cheat12_desc = "Max Red Coins"
-cheat12_code = "33000010+0063"
+cheat12_desc = "Max Score"
+cheat12_code = "83000004+E0FF+83000006+05F5"
 cheat12_enable = false
 
-cheat13_desc = "Max Score"
-cheat13_code = "83000004+E0FF+83000006+05F5"
+cheat13_desc = "Max Stars Collected"
+cheat13_code = "33000014+0023+3300578C+0023"
 cheat13_enable = false
 
-cheat14_desc = "Max Stars Collected"
-cheat14_code = "33000014+0023+3300578C+0023"
+cheat14_desc = "Quick Score Gain"
+cheat14_code = "83000004+FFFF"
 cheat14_enable = false
 
-cheat15_desc = "Quick Score Gain"
-cheat15_code = "83000004+FFFF"
+cheat15_desc = "Red Coin"
+cheat15_code = "3300001C+0063"
 cheat15_enable = false
 
-cheat16_desc = "Red Coin"
-cheat16_code = "3300001C+0063"
+cheat16_desc = "Slow Item Roller"
+cheat16_code = "73005A24+000A+33005A24+0001"
 cheat16_enable = false
 
-cheat17_desc = "Slow Item Roller"
-cheat17_code = "73005A24+000A+33005A24+0001"
+cheat17_desc = "Infinite Lives"
+cheat17_code = "33000000+0003+3300579C+0003"
 cheat17_enable = false
 
-cheat18_desc = "Stage Modifier"
-cheat18_code = "33000030+0000"
+cheat18_desc = "Max Yellow Coins"
+cheat18_code = "83000008+03E7+83000018+03E7"
 cheat18_enable = false
 
-cheat19_desc = "Infinite Lives"
-cheat19_code = "33000000+0003+3300579C+0003"
+cheat19_desc = "Max Blue Coins"
+cheat19_code = "8300000C+03E7+8300001C+03E7"
 cheat19_enable = false
-
-cheat20_desc = "Max Yellow Coins"
-cheat20_code = "83000008+03E7+83000018+03E7"
-cheat20_enable = false
-
-cheat21_desc = "Max Blue Coins"
-cheat21_code = "8300000C+03E7+8300001C+03E7"
-cheat21_enable = false

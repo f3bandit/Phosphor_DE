@@ -1,5 +1,0 @@
-cheats = 1
-
-cheat0_desc = "Drop Piece to Clear Line"
-cheat0_code = "893F963E+40F8"
-cheat0_enable = false

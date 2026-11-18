@@ -1,65 +1,25 @@
-cheats = 16
+cheats = 6
 
-cheat0_desc = "Character 1 Current HP/PP Modifier"
-cheat0_code = "330031E4+0000+330031E6+0000"
+cheat0_desc = "Gain 65,535 Experience after every Battle"
+cheat0_code = "83003608+FFFF"
 cheat0_enable = false
 
-cheat1_desc = "Character 1 Force Stat Modifier"
-cheat1_code = "330031DF+0000"
+cheat1_desc = "Have all Areas in Teleport List"
+cheat1_code = "330033AD+00FF"
 cheat1_enable = false
 
-cheat2_desc = "Character 1 Max HP/PP Modifier"
-cheat2_code = "330031D2+0000+330031D4+0000"
+cheat2_desc = "Have All Melodies"
+cheat2_code = "330033AE+00FF"
 cheat2_enable = false
 
-cheat3_desc = "Character 1 Strength Stat Modifier"
-cheat3_code = "330031DE+0000"
+cheat3_desc = "Maximum Cash"
+cheat3_code = "830031A0+FFFF"
 cheat3_enable = false
 
-cheat4_desc = "Character 1 Wisdom Stat Modifier"
-cheat4_code = "330031DD+0000"
+cheat4_desc = "Maximum Cash (ATM)"
+cheat4_code = "830031A2+FFFF"
 cheat4_enable = false
 
-cheat5_desc = "Character Modifier, Slot 1"
-cheat5_code = "33003198+0000"
+cheat5_desc = "No Random Battles"
+cheat5_code = "830007FC+0000+830007FE+0000"
 cheat5_enable = false
-
-cheat6_desc = "Character Modifier, Slot 2"
-cheat6_code = "33003199+0000"
-cheat6_enable = false
-
-cheat7_desc = "Character Modifier, Slot 3"
-cheat7_code = "3300319A+0000"
-cheat7_enable = false
-
-cheat8_desc = "Character Modifier, Slot 4"
-cheat8_code = "3300319B+0000"
-cheat8_enable = false
-
-cheat9_desc = "Gain 65,535 Experience after every Battle"
-cheat9_code = "83003608+FFFF"
-cheat9_enable = false
-
-cheat10_desc = "Have all Areas in Teleport List"
-cheat10_code = "330033AD+00FF"
-cheat10_enable = false
-
-cheat11_desc = "Have All Melodies"
-cheat11_code = "330033AE+00FF"
-cheat11_enable = false
-
-cheat12_desc = "Maximum Cash"
-cheat12_code = "830031A0+FFFF"
-cheat12_enable = false
-
-cheat13_desc = "Maximum Cash (ATM)"
-cheat13_code = "830031A2+FFFF"
-cheat13_enable = false
-
-cheat14_desc = "Music Modifier"
-cheat14_code = "33003178+0000"
-cheat14_enable = false
-
-cheat15_desc = "No Random Battles"
-cheat15_code = "830007FC+0000+830007FE+0000"
-cheat15_enable = false

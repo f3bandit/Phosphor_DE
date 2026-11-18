@@ -1104,11 +1104,11 @@ cheat275_desc = "Max Poke (Money)"
 cheat275_code = "82038C08+423F+82038C0A+000F"
 cheat275_enable = false
 
-cheat276_desc = "Infinite Max HP ALL PokÃÂ©mon (In-Battle Only)"
+cheat276_desc = "Infinite Max HP ALL PokAAmon (In-Battle Only)"
 cheat276_code = "4200419E+03E7+00000004+0208+420041A0+03E7+00000004+0208"
 cheat276_enable = false
 
-cheat277_desc = "Max Stats ALL PokÃÂ©mon (In-Battle Only)"
+cheat277_desc = "Max Stats ALL PokAAmon (In-Battle Only)"
 cheat277_code = "420041A4+FFFF+00000004+0208+420041A6+FFFF+00000004+0208"
 cheat277_enable = false
 
@@ -1116,7 +1116,7 @@ cheat278_desc = "Max Stats"
 cheat278_code = "820047BC+FFFF+820047BE+FFFF"
 cheat278_enable = false
 
-cheat279_desc = "One Fight For Max Level Up ALL PokÃÂ©mon (In-Battle Only)"
+cheat279_desc = "One Fight For Max Level Up ALL PokAAmon (In-Battle Only)"
 cheat279_code = "420041AA+0020+00000004+0208"
 cheat279_enable = false
 

@@ -1,141 +1,133 @@
-cheats = 35
+cheats = 33
 
-cheat0_desc = "Always On Lap Modifier (01-0A)"
-cheat0_code = "830058C0+0000"
+cheat0_desc = "Auto Pilot [Press Select]"
+cheat0_code = "74000130+03FB+83003A24+600C"
 cheat0_enable = false
 
-cheat1_desc = "Auto Pilot [Press Select]"
-cheat1_code = "74000130+03FB+83003A24+600C"
+cheat1_desc = "Have All Beginning Stages"
+cheat1_code = "33002180+0008"
 cheat1_enable = false
 
-cheat2_desc = "Have All Beginning Stages"
-cheat2_code = "33002180+0008"
+cheat2_desc = "Have All Cars"
+cheat2_code = "43002184+FFFF+00000003+0002"
 cheat2_enable = false
 
-cheat3_desc = "Have All Cars"
-cheat3_code = "43002184+FFFF+00000003+0002"
+cheat3_desc = "Have All Engines"
+cheat3_code = "33002194+0003"
 cheat3_enable = false
 
-cheat4_desc = "Have All Engines"
-cheat4_code = "33002194+0003"
+cheat4_desc = "Have All Gold Trophies"
+cheat4_code = "430022BC+0001+00000020+004C"
 cheat4_enable = false
 
-cheat5_desc = "Have All Gold Trophies"
-cheat5_code = "430022BC+0001+00000020+004C"
+cheat5_desc = "Have All High Speed Stages"
+cheat5_code = "33002182+0008"
 cheat5_enable = false
 
-cheat6_desc = "Have All High Speed Stages"
-cheat6_code = "33002182+0008"
+cheat6_desc = "Have All Middle Stages"
+cheat6_code = "33002181+0008"
 cheat6_enable = false
 
-cheat7_desc = "Have All Middle Stages"
-cheat7_code = "33002181+0008"
+cheat7_desc = "Have All Mufflers"
+cheat7_code = "33002196+0003"
 cheat7_enable = false
 
-cheat8_desc = "Have All Mufflers"
-cheat8_code = "33002196+0003"
+cheat8_desc = "Have All Professional Stages"
+cheat8_code = "33002183+0008"
 cheat8_enable = false
 
-cheat9_desc = "Have All Professional Stages"
-cheat9_code = "33002183+0008"
+cheat9_desc = "Have All Suspensions"
+cheat9_code = "33002195+0003"
 cheat9_enable = false
 
-cheat10_desc = "Have All Suspensions"
-cheat10_code = "33002195+0003"
+cheat10_desc = "Have Special Aero Dynamics"
+cheat10_code = "3300219C+0001"
 cheat10_enable = false
 
-cheat11_desc = "Have Special Aero Dynamics"
-cheat11_code = "3300219C+0001"
+cheat11_desc = "Have Special CPU"
+cheat11_code = "33002198+0001"
 cheat11_enable = false
 
-cheat12_desc = "Have Special CPU"
-cheat12_code = "33002198+0001"
+cheat12_desc = "Have Special Filter"
+cheat12_code = "3300219B+0001"
 cheat12_enable = false
 
-cheat13_desc = "Have Special Filter"
-cheat13_code = "3300219B+0001"
+cheat13_desc = "Have Special Grip"
+cheat13_code = "33002197+0001"
 cheat13_enable = false
 
-cheat14_desc = "Have Special Grip"
-cheat14_code = "33002197+0001"
+cheat14_desc = "Have Special Seat"
+cheat14_code = "3300219A+0001"
 cheat14_enable = false
 
-cheat15_desc = "Have Special Seat"
-cheat15_code = "3300219A+0001"
+cheat15_desc = "Have Special Weight"
+cheat15_code = "33002199+0001"
 cheat15_enable = false
 
-cheat16_desc = "Have Special Weight"
-cheat16_code = "33002199+0001"
+cheat16_desc = "Low Lap Time"
+cheat16_code = "83005D1C+0000"
 cheat16_enable = false
 
-cheat17_desc = "Low Lap Time"
-cheat17_code = "83005D1C+0000"
+cheat17_desc = "Low Total Time"
+cheat17_code = "83005D18+0000"
 cheat17_enable = false
 
-cheat18_desc = "Low Total Time"
-cheat18_code = "83005D18+0000"
+cheat18_desc = "Press A+R For Turbo Xlr8"
+cheat18_code = "74000130+02FE+33004F0C+00FF"
 cheat18_enable = false
 
-cheat19_desc = "Press A+R For Turbo Xlr8"
-cheat19_code = "74000130+02FE+33004F0C+00FF"
+cheat19_desc = "Press Select+Down For Auto Pilot Off"
+cheat19_code = "74000130+037B+83004F00+0008"
 cheat19_enable = false
 
-cheat20_desc = "Press Select+Down For Auto Pilot Off"
-cheat20_code = "74000130+037B+83004F00+0008"
+cheat20_desc = "Press Select+L To End Race"
+cheat20_code = "74000130+01FB+830058BC+0201"
 cheat20_enable = false
 
-cheat21_desc = "Press Select+L To End Race"
-cheat21_code = "74000130+01FB+830058BC+0201"
+cheat21_desc = "Press Select+Up For Auto Pilot On"
+cheat21_code = "74000130+03BB+83004F00+0004"
 cheat21_enable = false
 
-cheat22_desc = "Press Select+Up For Auto Pilot On"
-cheat22_code = "74000130+03BB+83004F00+0004"
+cheat22_desc = "Turbo Boost [Press R]"
+cheat22_code = "74000130+02FF+83003A30+0500"
 cheat22_enable = false
 
-cheat23_desc = "Start On Lap Modifier (01-0A)"
-cheat23_code = "730058C0+0000+830058C0+0000"
+cheat23_desc = "Turbo Opponent #6"
+cheat23_code = "880CAA5A+36AC"
 cheat23_enable = false
 
-cheat24_desc = "Turbo Boost [Press R]"
-cheat24_code = "74000130+02FF+83003A30+0500"
+cheat24_desc = "Always Place 1st"
+cheat24_code = "33002865+0003"
 cheat24_enable = false
 
-cheat25_desc = "Turbo Opponent #6"
-cheat25_code = "880CAA5A+36AC"
+cheat25_desc = "Stop Timer"
+cheat25_code = "730058BC+0080+330058BC+0000"
 cheat25_enable = false
 
-cheat26_desc = "Always Place 1st"
-cheat26_code = "33002865+0003"
+cheat26_desc = "No Start Delay"
+cheat26_code = "73004F40+0000+33004F40+0001"
 cheat26_enable = false
 
-cheat27_desc = "Stop Timer"
-cheat27_code = "730058BC+0080+330058BC+0000"
+cheat27_desc = "Have All Tuned Parts"
+cheat27_code = "33001CF0+007F+33001CF2+0055"
 cheat27_enable = false
 
-cheat28_desc = "No Start Delay"
-cheat28_code = "73004F40+0000+33004F40+0001"
+cheat28_desc = "Have All Races Open/Won"
+cheat28_code = "43001780+FFFF+00000006+0002"
 cheat28_enable = false
 
-cheat29_desc = "Have All Tuned Parts"
-cheat29_code = "33001CF0+007F+33001CF2+0055"
+cheat29_desc = "Have All Cars Unlocked"
+cheat29_code = "430017A0+FFFF+00000007+0002"
 cheat29_enable = false
 
-cheat30_desc = "Have All Races Open/Won"
-cheat30_code = "43001780+FFFF+00000006+0002"
+cheat30_desc = "Unlock Kart"
+cheat30_code = "33001CFC+0001"
 cheat30_enable = false
 
-cheat31_desc = "Have All Cars Unlocked"
-cheat31_code = "430017A0+FFFF+00000007+0002"
+cheat31_desc = "Unlock Wireframe"
+cheat31_code = "33001CFD+0001"
 cheat31_enable = false
 
-cheat32_desc = "Unlock Kart"
-cheat32_code = "33001CFC+0001"
+cheat32_desc = "Unlock Radio Con"
+cheat32_code = "33001CFE+0001"
 cheat32_enable = false
-
-cheat33_desc = "Unlock Wireframe"
-cheat33_code = "33001CFD+0001"
-cheat33_enable = false
-
-cheat34_desc = "Unlock Radio Con"
-cheat34_code = "33001CFE+0001"
-cheat34_enable = false

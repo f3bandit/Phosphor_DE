@@ -1,4 +1,4 @@
-cheats = 13
+cheats = 11
 
 cheat0_desc = "Activate Cross [R+Up]"
 cheat0_code = "74000130+03BB+8300735C+0202"
@@ -43,11 +43,3 @@ cheat9_enable = false
 cheat10_desc = "Moon Jump"
 cheat10_code = "D0000020+0001+330076DC+0096"
 cheat10_enable = false
-
-cheat11_desc = "Stage Section Modifier"
-cheat11_code = "33007228+0000"
-cheat11_enable = false
-
-cheat12_desc = "Weapon Modifier"
-cheat12_code = "3300735B+0000"
-cheat12_enable = false

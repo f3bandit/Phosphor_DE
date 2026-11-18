@@ -1,17 +1,14 @@
 cheats = 6
 
-cheat0_desc = "Auto Pilot 
-[Press R+Up]"
+cheat0_desc = "Auto Pilot [Press R+Up]"
 cheat0_code = "74000130+02BF+32006E50+0085"
 cheat0_enable = false
 
-cheat1_desc = "End Race 
-[Press Select+R]"
+cheat1_desc = "End Race [Press Select+R]"
 cheat1_code = "74000130+02FB+320070B4+0001"
 cheat1_enable = false
 
-cheat2_desc = "Manual Pilot 
-[Press R+Down]"
+cheat2_desc = "Manual Pilot [Press R+Down]"
 cheat2_code = "74000130+027F+32006E50+0049"
 cheat2_enable = false
 

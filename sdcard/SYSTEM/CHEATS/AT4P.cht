@@ -1,4 +1,4 @@
-cheats = 25
+cheats = 24
 
 cheat0_desc = "3-Way Gun"
 cheat0_code = "3300503C+0001"
@@ -8,94 +8,90 @@ cheat1_desc = "Burner"
 cheat1_code = "3300503F+0001"
 cheat1_enable = false
 
-cheat2_desc = "Eagle"
-cheat2_code = "72036234+C2FE"
+cheat2_desc = "Eraser"
+cheat2_code = "3300503D+0001"
 cheat2_enable = false
 
-cheat3_desc = "Eraser"
-cheat3_code = "3300503D+0001"
+cheat3_desc = "Flame Thrower"
+cheat3_code = "33005037+0001"
 cheat3_enable = false
 
-cheat4_desc = "Flame Thrower"
-cheat4_code = "33005037+0001"
+cheat4_desc = "Flame Thrower/Burner"
+cheat4_code = "3300504C+00C8"
 cheat4_enable = false
 
-cheat5_desc = "Flame Thrower/Burner"
-cheat5_code = "3300504C+00C8"
+cheat5_desc = "Gatling Gun"
+cheat5_code = "3300503E+0001"
 cheat5_enable = false
 
-cheat6_desc = "Gatling Gun"
-cheat6_code = "3300503E+0001"
+cheat6_desc = "Gatling Gun/Minimi"
+cheat6_code = "3300504A+00C8"
 cheat6_enable = false
 
-cheat7_desc = "Gatling Gun/Minimi"
-cheat7_code = "3300504A+00C8"
+cheat7_desc = "Homing"
+cheat7_code = "33005041+0001"
 cheat7_enable = false
 
-cheat8_desc = "Homing"
-cheat8_code = "33005041+0001"
+cheat8_desc = "Infinite Armor"
+cheat8_code = "33005024+0064"
 cheat8_enable = false
 
-cheat9_desc = "Infinite Armor"
-cheat9_code = "33005024+0064"
+cheat9_desc = "Infinite Health"
+cheat9_code = "33005025+0064"
 cheat9_enable = false
 
-cheat10_desc = "Infinite Health"
-cheat10_code = "33005025+0064"
+cheat10_desc = "Infinite Stars"
+cheat10_code = "33005031+0009"
 cheat10_enable = false
 
-cheat11_desc = "Infinite Stars"
-cheat11_code = "33005031+0009"
+cheat11_desc = "Invincible"
+cheat11_code = "330050A2+0002"
 cheat11_enable = false
 
-cheat12_desc = "Invincible"
-cheat12_code = "330050A2+0002"
+cheat12_desc = "Laser"
+cheat12_code = "33005038+0001"
 cheat12_enable = false
 
-cheat13_desc = "Laser"
-cheat13_code = "33005038+0001"
+cheat13_desc = "Laser/X-Bound"
+cheat13_code = "3300504E+00C8"
 cheat13_enable = false
 
-cheat14_desc = "Laser/X-Bound"
-cheat14_code = "3300504E+00C8"
+cheat14_desc = "Minimi"
+cheat14_code = "33005036+0001"
 cheat14_enable = false
 
-cheat15_desc = "Minimi"
-cheat15_code = "33005036+0001"
+cheat15_desc = "Press A For Moon Jump"
+cheat15_code = "D0000020+0001+830050B2+FDC8"
 cheat15_enable = false
 
-cheat16_desc = "Press A For Moon Jump"
-cheat16_code = "D0000020+0001+830050B2+FDC8"
+cheat16_desc = "Rapid Fire"
+cheat16_code = "3300518C+0000"
 cheat16_enable = false
 
-cheat17_desc = "Rapid Fire"
-cheat17_code = "3300518C+0000"
+cheat17_desc = "Rocket Launcher"
+cheat17_code = "33005039+0001"
 cheat17_enable = false
 
-cheat18_desc = "Rocket Launcher"
-cheat18_code = "33005039+0001"
+cheat18_desc = "Rocket Launcher/Homing"
+cheat18_code = "33005050+00C8"
 cheat18_enable = false
 
-cheat19_desc = "Rocket Launcher/Homing"
-cheat19_code = "33005050+00C8"
+cheat19_desc = "Shot Gun"
+cheat19_code = "33005035+0001"
 cheat19_enable = false
 
-cheat20_desc = "Shot Gun"
-cheat20_code = "33005035+0001"
+cheat20_desc = "Shot Gun/Eraser"
+cheat20_code = "33005048+00C8"
 cheat20_enable = false
 
-cheat21_desc = "Shot Gun/Eraser"
-cheat21_code = "33005048+00C8"
+cheat21_desc = "Sub-MG"
+cheat21_code = "33005034+0001"
 cheat21_enable = false
 
-cheat22_desc = "Sub-MG"
-cheat22_code = "33005034+0001"
+cheat22_desc = "Sub-MG/3-Way Gun"
+cheat22_code = "33005046+00C8"
 cheat22_enable = false
 
-cheat23_desc = "Sub-MG/3-Way Gun"
-cheat23_code = "33005046+00C8"
+cheat23_desc = "X-Bound"
+cheat23_code = "33005040+0001"
 cheat23_enable = false
-
-cheat24_desc = "X-Bound"
-cheat24_code = "33005040+0001"
-cheat24_enable = false

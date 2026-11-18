@@ -1,13 +1,9 @@
-cheats = 3
+cheats = 2
 
 cheat0_desc = "Level 1 Blob And Level 3 Gambit"
 cheat0_code = "88085724+0E4D"
 cheat0_enable = false
 
-cheat1_desc = "Stage 01 - Xavier Mansion"
-cheat1_code = "A201A944+91D2"
+cheat1_desc = "Unknown 4"
+cheat1_code = "89006B0C+AA73"
 cheat1_enable = false
-
-cheat2_desc = "Unknown 4"
-cheat2_code = "89006B0C+AA73"
-cheat2_enable = false

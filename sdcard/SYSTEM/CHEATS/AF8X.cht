@@ -1,33 +1,21 @@
-cheats = 8
+cheats = 5
 
 cheat0_desc = "Infinite Fuel"
 cheat0_code = "330003AA+0077"
 cheat0_enable = false
 
-cheat1_desc = "Instant Win [Press Select+L]"
-cheat1_code = "74000130+01FB"
+cheat1_desc = "Low Lap Time"
+cheat1_code = "830002F8+0000"
 cheat1_enable = false
 
-cheat2_desc = "Low Lap Time"
-cheat2_code = "830002F8+0000"
+cheat2_desc = "No Damage"
+cheat2_code = "330003B2+0002"
 cheat2_enable = false
 
-cheat3_desc = "No Damage"
-cheat3_code = "330003B2+0002"
+cheat3_desc = "No Tyre Wear"
+cheat3_code = "330003AF+0002"
 cheat3_enable = false
 
-cheat4_desc = "No Tyre Wear"
-cheat4_code = "330003AF+0002"
+cheat4_desc = "Opponents have No Fuel"
+cheat4_code = "430003FA+0000+00000000+0000"
 cheat4_enable = false
-
-cheat5_desc = "Opponents have No Fuel"
-cheat5_code = "430003FA+0000+00000000+0000"
-cheat5_enable = false
-
-cheat6_desc = "Start on Lap #3"
-cheat6_code = "730003D2+1600"
-cheat6_enable = false
-
-cheat7_desc = "Turbo"
-cheat7_code = "D0000020+0001"
-cheat7_enable = false

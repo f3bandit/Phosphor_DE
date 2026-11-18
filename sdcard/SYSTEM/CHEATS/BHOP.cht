@@ -1,9 +1,5 @@
-cheats = 2
+cheats = 1
 
 cheat0_desc = "Always Your Turn"
 cheat0_code = "3200EE54+0000"
 cheat0_enable = false
-
-cheat1_desc = "Character Modifier"
-cheat1_code = "320012CC+0000"
-cheat1_enable = false
