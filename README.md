@@ -100,7 +100,7 @@ You need: the cart, a microSD card (FAT32), and a PC.
 5. Let it finish. **Do not turn the power off while it writes.**
 6. The console boots into Phosphor_DE. You can delete `ezkernelnew.bin` from the SD card afterwards (keep a copy on your PC).
 
-`ezkernelnew.bin` for v0.1: 1,011,688 bytes, md5 `ea6c68266ac9495500f598d8653b5545`.
+`ezkernelnew.bin` for v0.2: 1,012,360 bytes, md5 `3bbd546d6ff85331d3dfef8873c38dd4`.
 
 Optional extras:
 - **Box art** is included: `SYSTEM/IMGS` (2,767 games, EZ-Flash's box art pack, see [credits](#credits-and-licenses)). Turn it off in **Settings > Display > Box art** if you don't want it.

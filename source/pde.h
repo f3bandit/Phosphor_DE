@@ -5,7 +5,7 @@
 #include "ff.h"
 
 #define PDE_NAME     "Phosphor_DE"
-#define PDE_VERSION  "0.1"
+#define PDE_VERSION  "0.2"
 #define W_CLOCK_X    198
 
 void pde_splash(void);
