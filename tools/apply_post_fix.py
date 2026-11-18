@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Phosphor_DE - apply make_gh_pack.py's hand-checked fixes (POST_DROP, POST_CODE, RENAME) to a pack
+"""Phosphor_DE - apply make_gh_pack.py's hand-checked fixes (POST_DROP, POST_CODE, RENAME, POST_ADD) to a pack
 that's already built, without the GameHacking download - by f3bandit
 
   python apply_post_fix.py <folder with SYSTEM/CHEATS> [<CHEATS_REPORT.txt>]
 
-Only the games named in those lists are touched. Each is put through the same steps as a full build
+Only the games named in those lists (and POST_ADD) are touched. Each is put through the same steps as a full build
 (post_fix, fix_auto, the Phosphor_DE cheat engine check), and the report's totals and list are updated.
 Running it twice changes nothing the second time.
 """
@@ -33,7 +33,7 @@ def update_report(path, dropped, removed_cheats):
 
 def main(root, report_path=None):
     dst = os.path.join(root, 'SYSTEM', 'CHEATS')
-    codes = sorted({c for c, _ in list(p.POST_DROP) + list(p.POST_CODE) + list(p.RENAME)})
+    codes = sorted({c for c, _ in list(p.POST_DROP) + list(p.POST_CODE) + list(p.RENAME)} | set(p.POST_ADD))
     checker = os.path.join(tempfile.mkdtemp(), 'cht_check')
     subprocess.run(['gcc', '-O1', '-w', '-o', checker, os.path.join(p.HERE, 'cht_check.c')], check=True)
     tmp = tempfile.mkdtemp()

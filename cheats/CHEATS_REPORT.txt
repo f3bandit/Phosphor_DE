@@ -1,4 +1,4 @@
-1704 games, 31159 cheats
+1704 games, 31138 cheats
 
 Dropped:
    24979  value list from an XXXX code
@@ -9,13 +9,17 @@ Dropped:
      825  same code as another cheat
      390  over the 448-cheat list limit
       40  unknown code format
+      30  the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
        5  auto code that does more than plain writes / ROM patches
+       3  auto code that freezes the random seed (gRngValue) every frame; Anti DMA (Rev 0/1) does its job
        2  writes into the game's heap (0x02000000-0x0201BFFF) every frame: overworld graphics glitches (Max Coins From Pokies only writes in the slot machine)
        2  only changes the money shown in the bag; writes into the game's heap (0x02000000-0x0201BFFF) every frame: overworld graphics glitches
        2  writes into the game's heap (0x02000000-0x0201BFFF) every frame: overworld graphics glitches
        1  also overwrites the byte next to each item count
        1  suspicious master code (GBA Video)
        1  only fills entries 1-8 (Pokedex Complete is the full one)
+       1  its ROM patch lands in the wireless link code on both revisions
+       1  its ROM patch lands in the movement code on both revisions
 
 GameHacking games with no game code (not included):
   Anguna (Homebrew) [69056]
@@ -32089,3 +32093,38 @@ BPEE | Complete Pokedex | only fills entries 1-8 (Pokedex Complete is the full o
 BPEP | Max Coins | writes into the game's heap (0x02000000-0x0201BFFF) every frame: overworld graphics glitches (Max Coins From Pokies only writes in the slot machine)
 BPEP | Max Money | only changes the money shown in the bag; writes into the game's heap (0x02000000-0x0201BFFF) every frame: overworld graphics glitches
 BPEP | Wild Pokemon Catching Spree | writes into the game's heap (0x02000000-0x0201BFFF) every frame: overworld graphics glitches
+BPGE | Slot 1 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 10 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 11 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 12 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 13 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 14 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 15 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 16 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 17 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 18 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 19 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 2 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 20 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 21 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 22 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 23 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 24 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 25 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 26 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 27 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 28 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 29 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 3 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 30 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 4 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 5 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 6 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 7 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 8 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPGE | Slot 9 | the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot
+BPRE | Careful | its ROM patch lands in the wireless link code on both revisions
+BPRE | Naughty | its ROM patch lands in the movement code on both revisions
+BPGE | Pokemon Fire Red-Enable Code (Must Be On) | auto code that freezes the random seed (gRngValue) every frame; Anti DMA (Rev 0/1) does its job
+BPGE | Pokemon Leaf Green-Enable Code (Must Be On) | auto code that freezes the random seed (gRngValue) every frame; Anti DMA (Rev 0/1) does its job
+BPRE | Disable DMA (Must Be On) | auto code that freezes the random seed (gRngValue) every frame; Anti DMA (Rev 0/1) does its job

@@ -41,11 +41,14 @@ POST_CODE = {
     # libretro's Anti DMA (SuperCheats' B2809E31 3CEF5320 1C7B3231 B494738C) patches 0x08076BEE and the
     # save data still moves (Infinite Money did nothing on the cart); the Action Replay money code's own
     # Anti DMA (A57E2EDE A5AFF3E4, game ID BPEE) patches 0x08076BEA
-    ('BPEE', 'Anti DMA'): '88076BEA+2400',
+    # + MoveSaveBlocks_ResetHeap's new money/coins/item-count key ("adds r4, r4, r0" -> "movs r4, #0"): the
+    # game re-keys at every battle and map load (converting what's stored), so from the first one the key
+    # is 0 and plain money/coin/item writes are real amounts (Infinite Money gave the bag 999999 XOR key)
+    ('BPEE', 'Anti DMA'): '88076BEA+2400+88076CD6+2400',
 }
 for _c in ('BPEE', 'BPEP', 'BPEF'):     # SaveBlock2 play time: hours (0x0E) were left alone
     POST_CODE[(_c, 'Low Game Time')] = '82024A62+0000+82024A64+0001+82024A66+0000'
-RENAME = {('BPEE', a): b for a, b in (
+_EMERALD_NAMES = (
     ('Access Fly Map [Press Select]', 'Access Fly Map [Press A+Select]'),
     ('Have Flash [Press L+Select]', 'Have Flash [Press Select+Up]'),
     ('1-Hit Kill', '1-Hit Kill [Hold L]'),
@@ -68,15 +71,76 @@ RENAME = {('BPEE', a): b for a, b in (
     ('Receive Stone Badge', 'Receive Stone Badge [Press Select+Up]'),
     ('Mystic Ticket', 'Mystic Ticket (one at a time)'),
     ('Aurora Ticket', 'Aurora Ticket (one at a time)'),
-    ('Have Old Sea Map', 'Have Old Sea Map (one at a time)'))}
+    ('Have Old Sea Map', 'Have Old Sea Map (one at a time)'),
+    ('Shiny Groudon', 'Shiny Groudon (replaces PC Box 14, slot 1)'))
+RENAME = {(c, a): b for c in ('BPEE', 'BPEP') for a, b in _EMERALD_NAMES}
+
+# FireRed / LeafGreen (US): 1.0 (Rev 0) and 1.1 (Rev 1) share the game code and all their RAM, not their
+# code. Checked against pret's byte-exact builds of all four ROMs: each ROM patch below fits one revision
+# (on the other it lands inside unrelated code), so it's tagged "(Rev N)" - the cart leaves out cheats for
+# the other revision (source/pde_cheats.c drop_other_revs) - and the other revision gets its own copy,
+# found by the same original instructions (+0x14, or +0x78 in the Fly check). Anti DMA: SetSaveBlocksPointers'
+# "ands r1, r0" (the random offset) becomes "movs r1, #0".
+_FR_REV1 = ('No Random Battle', 'Skip Trainer Battles', 'Faster Text Display', "Opponent Can't Attack")
+_FR_REV0 = ('Can Use Fly in Buildings, Caves, etc.', 'View Secret ID', "Catch Trainer's Pokemon", 'EXP Multiplier')
+_EXP_REV1 = ('8203FF00+4803+8203FF02+B401+8203FF04+464A+8203FF06+8810+8203FF08+0040+8203FF0A+6008+8203FF0C+4689+'
+             '8203FF0E+BD00+8203FF10+1D99+8203FF12+0802+88021D90+4800+88021D92+4700+88021D94+FF01+88021D96+0203')
+RENAME[('BPRE', 'Anti DMA')] = 'Anti DMA (Rev 1)'
+POST_CODE[('BPRE', 'Anti DMA')] = '8804C078+2100+8804C150+2400'   # + the money key, as Emerald's
+for _n in _FR_REV1:
+    RENAME[('BPRE', _n)] = _n + ' (Rev 1)'
+for _n in _FR_REV0:
+    RENAME[('BPRE', _n)] = _n + ' (Rev 0)'
+RENAME[('BPRE', "Catch Trainer's Pokemon")] = "Catch Trainer's Pokemon [Hold L+R] (Rev 0)"
+for _n in ('Can Use Fly in Buildings, Caves, etc.', 'View Secret Trainer ID', 'EXP Multiplier'):
+    RENAME[('BPGE', _n)] = _n + ' (Rev 0)'
+POST_CODE[('BPGE', 'View Secret Trainer ID')] = '880897D8+7B41+880897DC+7B00'   # was 0808981C: a typo, over a str
+for _i in range(1, 31):     # GameHacking's "put item X in slot N" with the item lost: B+Up empties the slot
+    POST_DROP[('BPGE', 'Slot %d' % _i)] = 'the item to put in the slot was lost (an XXXX code): B+Up empties that bag slot'
+POST_DROP[('BPRE', 'Careful')] = 'its ROM patch lands in the wireless link code on both revisions'
+POST_DROP[('BPRE', 'Naughty')] = 'its ROM patch lands in the movement code on both revisions'
+# Ruby / Sapphire (US): writes the contest data in gSharedMem (0x02000000 + 0x192B6, sContestantStatus) every
+# frame - other screens use that memory outside a contest
+for _c in ('AXVE', 'AXPE'):
+    RENAME[(_c, 'Max Hearts In Contests')] = 'Max Hearts In Contests (on only during a contest)'
+# Code Breaker's way to stop the save data moving: freeze the random seed (gRngValue, 0x03005000) at a value
+# that makes Random() return 0. It runs with every cheat and also freezes encounters, damage, catch odds and
+# shininess; the Anti DMA ROM patches above stop the move by themselves
+_RNG = 'auto code that freezes the random seed (gRngValue) every frame; Anti DMA (Rev 0/1) does its job'
+POST_DROP[('BPRE', 'Disable DMA (Must Be On)')] = _RNG
+POST_DROP[('BPGE', 'Pokemon Fire Red-Enable Code (Must Be On)')] = _RNG
+POST_DROP[('BPGE', 'Pokemon Leaf Green-Enable Code (Must Be On)')] = _RNG
+POST_ADD = {
+    'BPRE': [('Anti DMA (Rev 0)', '8804C064+2100+8804C13C+2400'),
+             ('No Random Battle (Rev 0)', '880833B8+2000'),
+             ('Skip Trainer Battles (Rev 0)', '88081BAE+E019'),
+             ('Faster Text Display (Rev 0)', '880057F0+E01A'),
+             ("Opponent Can't Attack (Rev 0)", '88015CD4+2801'),
+             ('Can Use Fly in Buildings, Caves, etc. (Rev 1)', '88124B10+2001+880C514A+2001'),
+             ('View Secret ID (Rev 1)', '88089818+7B41+8808981C+7B00'),
+             ("Catch Trainer's Pokemon [Hold L+R] (Rev 1)", '8803DB00+2000+74000130+00FF+82022B4C+0004+74000130+00FF+82022B4E+0000'),
+             ('EXP Multiplier (Rev 1)', _EXP_REV1)],
+    'BPGE': [('Anti DMA (Rev 0)', '8804C064+2100+8804C13C+2400'),
+             ('Anti DMA (Rev 1)', '8804C078+2100+8804C150+2400'),
+             ('Can Use Fly in Buildings, Caves, etc. (Rev 1)', '88124AE8+2001+880C511E+2001'),
+             ('View Secret Trainer ID (Rev 1)', '880897EC+7B41+880897F0+7B00'),
+             ('EXP Multiplier (Rev 1)', _EXP_REV1)],
+}
 
 def post_fix(code, cheats, report):
     """the hand-checked fixes above, on one game's merged list"""
+    # (also on a pack these fixes were already applied to: a renamed cheat still gets its corrected code,
+    # and an added one is refreshed)
+    old_name = {(k[0], v): k[1] for k, v in RENAME.items()}
+    added = dict(POST_ADD.get(code, []))
     out = []
     for d, c in cheats:
         if (code, d) in POST_DROP:
             report.append((code, d, POST_DROP[(code, d)])); continue
-        out.append((RENAME.get((code, d), d), POST_CODE.get((code, d), c)))
+        orig = old_name.get((code, d), d)
+        out.append((RENAME.get((code, orig), d), added.get(d, POST_CODE.get((code, orig), c))))
+    have = {n for n, _ in out}
+    out += [(n, c) for n, c in POST_ADD.get(code, []) if n not in have]
     return out
 
 # ---------------------------------------------------------------- reading

@@ -1,11 +1,11 @@
-cheats = 133
+cheats = 106
 
-cheat0_desc = "Pokemon Fire Red-Enable Code (Must Be On)"
-cheat0_code = "000014D1+000A+10044EC8+0007+83005000+61A1+83005002+0A35"
+cheat0_desc = "Anti DMA (Rev 0)"
+cheat0_code = "8804C064+2100+8804C13C+2400"
 cheat0_enable = false
 
-cheat1_desc = "Pokemon Leaf Green-Enable Code (Must Be On)"
-cheat1_code = "0000BE99+000A+10044EC8+0007+83005000+61A1+83005002+0A35"
+cheat1_desc = "Anti DMA (Rev 1)"
+cheat1_code = "8804C078+2100+8804C150+2400"
 cheat1_enable = false
 
 cheat2_desc = "1-Hit Kills"
@@ -148,7 +148,7 @@ cheat36_desc = "Birth Island and Naval Rock Enabler"
 cheat36_code = "32026515+000E"
 cheat36_enable = false
 
-cheat37_desc = "Can Use Fly in Buildings, Caves, etc."
+cheat37_desc = "Can Use Fly in Buildings, Caves, etc. (Rev 0)"
 cheat37_code = "88124A70+2001+880C510A+2001"
 cheat37_enable = false
 
@@ -196,7 +196,7 @@ cheat48_desc = "Escape Any Battle [Press Select+B]"
 cheat48_code = "74000130+03F9+32023E8A+0004"
 cheat48_enable = false
 
-cheat49_desc = "EXP Multiplier"
+cheat49_desc = "EXP Multiplier (Rev 0)"
 cheat49_code = "8203FF00+4803+8203FF02+B401+8203FF04+464A+8203FF06+8810+8203FF08+0040+8203FF0A+6008+8203FF0C+4689+8203FF0E+BD00+8203FF10+1D85+8203FF12+0802+88021D7C+4800+88021D7E+4700+88021D80+FF01+88021D82+0203"
 cheat49_enable = false
 
@@ -356,178 +356,70 @@ cheat88_desc = "Single Pokemon Battles"
 cheat88_code = "420240E6+0000+00000005+0064"
 cheat88_enable = false
 
-cheat89_desc = "Slot 1"
-cheat89_code = "74000130+03BD+82025840+0000"
+cheat89_desc = "SP.Attack"
+cheat89_code = "320242E4+00FF"
 cheat89_enable = false
 
-cheat90_desc = "Slot 10"
-cheat90_code = "74000130+03BD+82025864+0000"
+cheat90_desc = "SP.Defense"
+cheat90_code = "320242E6+00FF"
 cheat90_enable = false
 
-cheat91_desc = "Slot 11"
-cheat91_code = "74000130+03BD+82025868+0000"
+cheat91_desc = "Species Modifier"
+cheat91_code = "83007CEE+0001"
 cheat91_enable = false
 
-cheat92_desc = "Slot 12"
-cheat92_code = "74000130+03BD+8202586C+0000"
+cheat92_desc = "Speed"
+cheat92_code = "320242E2+00FF"
 cheat92_enable = false
 
-cheat93_desc = "Slot 13"
-cheat93_code = "74000130+03BD+82025870+0000"
+cheat93_desc = "Use All Move Tutors Infinite Times"
+cheat93_code = "82026464+0000"
 cheat93_enable = false
 
-cheat94_desc = "Slot 14"
-cheat94_code = "74000130+03BD+82025874+0000"
+cheat94_desc = "View Secret Trainer ID (Rev 0)"
+cheat94_code = "880897D8+7B41+880897DC+7B00"
 cheat94_enable = false
 
-cheat95_desc = "Slot 15"
-cheat95_code = "74000130+03BD+82025878+0000"
+cheat95_desc = "Walk in Menu/Conversation"
+cheat95_code = "F3003118+0100+33000F9C+0000"
 cheat95_enable = false
 
-cheat96_desc = "Slot 16"
-cheat96_code = "74000130+03BD+8202587C+0000"
+cheat96_desc = "Weak Opponents"
+cheat96_code = "42024082+0000+00000006+0064"
 cheat96_enable = false
 
-cheat97_desc = "Slot 17"
-cheat97_code = "74000130+03BD+82025880+0000"
+cheat97_desc = "Wild Pokemon Easily Caught"
+cheat97_code = "72023D74+99F0+82023D74+9A2F"
 cheat97_enable = false
 
-cheat98_desc = "Slot 18"
-cheat98_code = "74000130+03BD+82025884+0000"
+cheat98_desc = "Your Character Is A Boy"
+cheat98_code = "320245C8+0000"
 cheat98_enable = false
 
-cheat99_desc = "Slot 19"
-cheat99_code = "74000130+03BD+82025888+0000"
+cheat99_desc = "Your Character Is A Girl"
+cheat99_code = "320245C8+0001"
 cheat99_enable = false
 
-cheat100_desc = "Slot 2"
-cheat100_code = "74000130+03BD+82025844+0000"
+cheat100_desc = "Level 100"
+cheat100_code = "73007D1C+DAAF+33007CF0+0064"
 cheat100_enable = false
 
-cheat101_desc = "Slot 20"
-cheat101_code = "74000130+03BD+8202588C+0000"
+cheat101_desc = "Level 50"
+cheat101_code = "73007D1C+DAAF+33007CF0+0032"
 cheat101_enable = false
 
-cheat102_desc = "Slot 21"
-cheat102_code = "74000130+03BD+82025890+0000"
+cheat102_desc = "Wild Pokemon Easy Catch"
+cheat102_code = "5202C52D+0003+D200D851+AD9D"
 cheat102_enable = false
 
-cheat103_desc = "Slot 22"
-cheat103_code = "74000130+03BD+82025894+0000"
+cheat103_desc = "Can Use Fly in Buildings, Caves, etc. (Rev 1)"
+cheat103_code = "88124AE8+2001+880C511E+2001"
 cheat103_enable = false
 
-cheat104_desc = "Slot 23"
-cheat104_code = "74000130+03BD+82025898+0000"
+cheat104_desc = "View Secret Trainer ID (Rev 1)"
+cheat104_code = "880897EC+7B41+880897F0+7B00"
 cheat104_enable = false
 
-cheat105_desc = "Slot 24"
-cheat105_code = "74000130+03BD+8202589C+0000"
+cheat105_desc = "EXP Multiplier (Rev 1)"
+cheat105_code = "8203FF00+4803+8203FF02+B401+8203FF04+464A+8203FF06+8810+8203FF08+0040+8203FF0A+6008+8203FF0C+4689+8203FF0E+BD00+8203FF10+1D99+8203FF12+0802+88021D90+4800+88021D92+4700+88021D94+FF01+88021D96+0203"
 cheat105_enable = false
-
-cheat106_desc = "Slot 25"
-cheat106_code = "74000130+03BD+820258A0+0000"
-cheat106_enable = false
-
-cheat107_desc = "Slot 26"
-cheat107_code = "74000130+03BD+820258A4+0000"
-cheat107_enable = false
-
-cheat108_desc = "Slot 27"
-cheat108_code = "74000130+03BD+820258A8+0000"
-cheat108_enable = false
-
-cheat109_desc = "Slot 28"
-cheat109_code = "74000130+03BD+820258AC+0000"
-cheat109_enable = false
-
-cheat110_desc = "Slot 29"
-cheat110_code = "74000130+03BD+820258B0+0000"
-cheat110_enable = false
-
-cheat111_desc = "Slot 3"
-cheat111_code = "74000130+03BD+82025848+0000"
-cheat111_enable = false
-
-cheat112_desc = "Slot 30"
-cheat112_code = "74000130+03BD+820258B4+0000"
-cheat112_enable = false
-
-cheat113_desc = "Slot 4"
-cheat113_code = "74000130+03BD+8202584C+0000"
-cheat113_enable = false
-
-cheat114_desc = "Slot 5"
-cheat114_code = "74000130+03BD+82025850+0000"
-cheat114_enable = false
-
-cheat115_desc = "Slot 6"
-cheat115_code = "74000130+03BD+82025854+0000"
-cheat115_enable = false
-
-cheat116_desc = "Slot 7"
-cheat116_code = "74000130+03BD+82025858+0000"
-cheat116_enable = false
-
-cheat117_desc = "Slot 8"
-cheat117_code = "74000130+03BD+8202585C+0000"
-cheat117_enable = false
-
-cheat118_desc = "Slot 9"
-cheat118_code = "74000130+03BD+82025860+0000"
-cheat118_enable = false
-
-cheat119_desc = "SP.Attack"
-cheat119_code = "320242E4+00FF"
-cheat119_enable = false
-
-cheat120_desc = "SP.Defense"
-cheat120_code = "320242E6+00FF"
-cheat120_enable = false
-
-cheat121_desc = "Species Modifier"
-cheat121_code = "83007CEE+0001"
-cheat121_enable = false
-
-cheat122_desc = "Speed"
-cheat122_code = "320242E2+00FF"
-cheat122_enable = false
-
-cheat123_desc = "Use All Move Tutors Infinite Times"
-cheat123_code = "82026464+0000"
-cheat123_enable = false
-
-cheat124_desc = "View Secret Trainer ID"
-cheat124_code = "880897D8+7B41+8808981C+7B00"
-cheat124_enable = false
-
-cheat125_desc = "Walk in Menu/Conversation"
-cheat125_code = "F3003118+0100+33000F9C+0000"
-cheat125_enable = false
-
-cheat126_desc = "Weak Opponents"
-cheat126_code = "42024082+0000+00000006+0064"
-cheat126_enable = false
-
-cheat127_desc = "Wild Pokemon Easily Caught"
-cheat127_code = "72023D74+99F0+82023D74+9A2F"
-cheat127_enable = false
-
-cheat128_desc = "Your Character Is A Boy"
-cheat128_code = "320245C8+0000"
-cheat128_enable = false
-
-cheat129_desc = "Your Character Is A Girl"
-cheat129_code = "320245C8+0001"
-cheat129_enable = false
-
-cheat130_desc = "Level 100"
-cheat130_code = "73007D1C+DAAF+33007CF0+0064"
-cheat130_enable = false
-
-cheat131_desc = "Level 50"
-cheat131_code = "73007D1C+DAAF+33007CF0+0032"
-cheat131_enable = false
-
-cheat132_desc = "Wild Pokemon Easy Catch"
-cheat132_code = "5202C52D+0003+D200D851+AD9D"
-cheat132_enable = false

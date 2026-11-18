@@ -2,7 +2,7 @@
 
 A custom kernel (the menu/firmware you see when you turn the cart on) for the **EZ-Flash Omega Definitive Edition** GBA flash cart, by **f3bandit**.
 
-Dark, readable, GBA-only, with a new cheat engine and a ready-made cheat pack of **31,166 cheats for 1,704 games**, every one ready to play with nothing to type in.
+Dark, readable, GBA-only, with a new cheat engine and a ready-made cheat pack of **31,138 cheats for 1,704 games**, every one ready to play with nothing to type in.
 
 ![Phosphor_DE splash](docs/splash.png)
 
@@ -149,16 +149,18 @@ The cheat system is new; EZ-Flash's was dropped because its library is badly org
 
 - Cheats marked **auto** ("Anti DMA", "Must Be On") switch on by themselves whenever any other cheat is on. Some games (Pokemon in particular) move their data around in memory, and their codes only hit the right place with Anti DMA on.
 - A cheat marked **n/a** is one the engine can't run. The included pack has none.
+- A cheat whose name ends in **(Rev 0)** or **(Rev 1)** fits only that revision of the game (FireRed and LeafGreen 1.0 and 1.1 share a game code but not their code). Phosphor_DE reads the revision from the ROM and lists only the cheats that fit it.
 - Cheats can be turned off in-game from the in-game menu, and switched off entirely in **Settings > Add-ons > Cheats**.
 - Up to **448 cheats per game** are listed.
 
 ### The cheat pack (`SYSTEM/CHEATS`)
-- **1,704 games, 31,166 cheats**, from **GameHacking.org** (all GBA games) and the **libretro cheat database**, merged per game code.
+- **1,704 games, 31,138 cheats**, from **GameHacking.org** (all GBA games) and the **libretro cheat database**, merged per game code.
 - **Ready to play only.** Every cheat works the moment you turn it on:
   - codes where you'd have to type in a value (`XXXX`, `??`) are **removed**, along with GameHacking's long "pick a value" lists made from them. Normal codes already have the value set (like 9999 gold).
   - master / "must be on" codes are removed: Phosphor_DE doesn't need them. Anti-DMA fixes are kept.
   - Action Replay and GameShark codes are converted to plain Code Breaker, decrypted where needed.
   - every file was compiled with the Phosphor_DE cheat engine itself; anything it couldn't run was removed.
+  - **Pokemon Ruby, Sapphire, FireRed, LeafGreen and Emerald (USA)** were checked against byte-exact builds of the games (pret's decompilations): every ROM patch against the instruction it changes, every RAM address against the variable it hits. Broken ones were removed, FireRed/LeafGreen get the right Anti DMA for each revision, and Anti DMA also keeps the money key at 0, so money, coin and item-count cheats give real amounts.
 - What was left out, game by game and why: [`cheats/CHEATS_REPORT.txt`](cheats/CHEATS_REPORT.txt).
 - Where it came from: [`cheats/CHEATS_SOURCE.txt`](cheats/CHEATS_SOURCE.txt).
 

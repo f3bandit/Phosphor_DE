@@ -295,16 +295,47 @@ static void save_sel(void)
 	f_close(&gfile);
 }
 
+// ---------------------------------------------------------------- game revision
+// A cheat named "... (Rev N)" fits only that revision of the game: its ROM patches were made for it
+// (FireRed/LeafGreen 1.0 and 1.1 share a game code, not their code addresses). The ROM header's version
+// byte (0xBC) says which revision this is; cheats for another one are left out of the list altogether.
+static int rev_of(const char *name)
+{
+	const char *p = strstr(name, "(Rev ");
+	if (!p || p[5] < '0' || p[5] > '9' || p[6] != ')') return -1;
+	return p[5] - '0';
+}
+static int game_rev(TCHAR *gamefile)   // -1: can't tell (then nothing is left out)
+{
+	UINT br = 0; u8 v = 0xFF;
+	if (!gamefile || f_open(&gfile, gamefile, FA_READ) != FR_OK) return -1;
+	if (f_lseek(&gfile, 0xBC) != FR_OK || f_read(&gfile, &v, 1, &br) != FR_OK || br != 1) v = 0xFF;
+	f_close(&gfile);
+	return v == 0xFF ? -1 : v;
+}
+static void drop_other_revs(int rev)
+{
+	if (rev < 0) return;
+	int k = 0;
+	for (int i = 0; i < n_ch; i++) {
+		int r = rev_of(CH[i].name);
+		if (r >= 0 && r != rev) continue;
+		if (k != i) CH[k] = CH[i];
+		k++;
+	}
+	n_ch = k;
+}
+
 // ---------------------------------------------------------------- public
 int pde_cheats_probe(TCHAR *gamefile, const char *code)
 {
-	(void)gamefile;
 	gl_cheat_count = 0; n_ch = 0;
 	cht_close();
 	if (!code[0]) return -1;
 	sprintf(cht_path, "/SYSTEM/CHEATS/%.4s.cht", code);
 	sprintf(sel_path, "/SYSTEM/CHEATS/%.4s.sel", code);
 	if (!parse_cht()) { cht_close(); return -1; }
+	drop_other_revs(game_rev(gamefile));
 	check_all();
 	load_sel();
 	int n = count_on();

@@ -176,7 +176,7 @@ cheat43_desc = "Infinite PP"
 cheat43_code = "42024AA4+FFFF+00000002+0002"
 cheat43_enable = false
 
-cheat44_desc = "Max Hearts In Contests"
+cheat44_desc = "Max Hearts In Contests (on only during a contest)"
 cheat44_code = "320192B6+00FF"
 cheat44_enable = false
 

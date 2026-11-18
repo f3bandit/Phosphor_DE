@@ -1,6 +1,6 @@
 // Phosphor_DE cheat checker - by f3bandit
 // The cart's cheat parser/compiler (source/pde_cheats.c) built for the PC with stubbed file I/O.
-// Usage: CHROOT=<folder with SYSTEM/CHEATS> ./cht_check <GAMECODE> [cheat name ...]
+// Usage: CHROOT=<folder with SYSTEM/CHEATS> [CHGAME=<ROM under CHROOT>] ./cht_check <GAMECODE> [cheat name ...]
 // Prints every cheat ([n/a] = the engine can't run it); names given on the command line are switched
 // on and their compiled engine entries are printed. make_gh_pack.py builds and runs it.
 // Keep it in step with source/pde_cheats.c when the cheat code changes.
@@ -316,16 +316,47 @@ static void save_sel(void)
 	f_close(&gfile);
 }
 
+// ---------------------------------------------------------------- game revision
+// A cheat named "... (Rev N)" fits only that revision of the game: its ROM patches were made for it
+// (FireRed/LeafGreen 1.0 and 1.1 share a game code, not their code addresses). The ROM header's version
+// byte (0xBC) says which revision this is; cheats for another one are left out of the list altogether.
+static int rev_of(const char *name)
+{
+	const char *p = strstr(name, "(Rev ");
+	if (!p || p[5] < '0' || p[5] > '9' || p[6] != ')') return -1;
+	return p[5] - '0';
+}
+static int game_rev(TCHAR *gamefile)   // -1: can't tell (then nothing is left out)
+{
+	UINT br = 0; u8 v = 0xFF;
+	if (!gamefile || f_open(&gfile, gamefile, FA_READ) != FR_OK) return -1;
+	if (f_lseek(&gfile, 0xBC) != FR_OK || f_read(&gfile, &v, 1, &br) != FR_OK || br != 1) v = 0xFF;
+	f_close(&gfile);
+	return v == 0xFF ? -1 : v;
+}
+static void drop_other_revs(int rev)
+{
+	if (rev < 0) return;
+	int k = 0;
+	for (int i = 0; i < n_ch; i++) {
+		int r = rev_of(CH[i].name);
+		if (r >= 0 && r != rev) continue;
+		if (k != i) CH[k] = CH[i];
+		k++;
+	}
+	n_ch = k;
+}
+
 // ---------------------------------------------------------------- public
 int pde_cheats_probe(TCHAR *gamefile, const char *code)
 {
-	(void)gamefile;
 	gl_cheat_count = 0; n_ch = 0;
 	cht_close();
 	if (!code[0]) return -1;
 	sprintf(cht_path, "/SYSTEM/CHEATS/%.4s.cht", code);
 	sprintf(sel_path, "/SYSTEM/CHEATS/%.4s.sel", code);
 	if (!parse_cht()) { cht_close(); return -1; }
+	drop_other_revs(game_rev(gamefile));
 	check_all();
 	load_sel();
 	int n = count_on();
@@ -336,7 +367,7 @@ int pde_cheats_probe(TCHAR *gamefile, const char *code)
 
 // full name of a cheat (names longer than CH_NAME are read back from the file)
 #endif
-int main(int c,char**v){ root=getenv("CHROOT")?getenv("CHROOT"):"/tmp/ht/sd"; int n=pde_cheats_probe("x",v[1]); printf("cheats=%d\n",n_ch);
+int main(int c,char**v){ root=getenv("CHROOT")?getenv("CHROOT"):"/tmp/ht/sd"; int n=pde_cheats_probe(getenv("CHGAME")?getenv("CHGAME"):"x",v[1]);   /* CHGAME: a ROM under CHROOT, for its revision */ printf("cheats=%d\n",n_ch);
  for(int i=0;i<n_ch;i++) printf(" %s%s%s\n",CH[i].name,(CH[i].fl&FL_BAD)?" [n/a]":"",is_auto(i)?" [auto]":"");
  for(int i=2;i<c;i++) for(int j=0;j<n_ch;j++) if(strstr(CH[j].name,v[i])) {CH[j].sel=1; printf("on: %s\n",CH[j].name); break;}
  cht_open(); apply();

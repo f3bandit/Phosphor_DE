@@ -232,7 +232,7 @@ cheat57_desc = "Infinite PP"
 cheat57_code = "42024AA4+6363+00000002+0002"
 cheat57_enable = false
 
-cheat58_desc = "Max Hearts In Contests"
+cheat58_desc = "Max Hearts In Contests (on only during a contest)"
 cheat58_code = "320192B6+00FF"
 cheat58_enable = false
 

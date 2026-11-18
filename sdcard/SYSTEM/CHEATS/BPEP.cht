@@ -1,18 +1,18 @@
 cheats = 77
 
-cheat0_desc = "1-Hit Double Battle Kill (Instant Win)"
+cheat0_desc = "1-Hit Double Battle Kill [Hold L]"
 cheat0_code = "74000130+01FF+8202479A+0000+74000130+01FF+8202479C+0000+74000130+01FF+820247FE+0000+74000130+01FF+82024800+0000"
 cheat0_enable = false
 
-cheat1_desc = "1-Hit Kill"
+cheat1_desc = "1-Hit Kill [Hold L]"
 cheat1_code = "74000130+01FF+8202479A+0000+74000130+01FF+8202479C+0000"
 cheat1_enable = false
 
-cheat2_desc = "1-Hit Win"
+cheat2_desc = "1-Hit Win [Hold R]"
 cheat2_code = "74000130+02FF+8202479A+0000+74000130+02FF+8202479C+0000+74000130+02FF+820247FE+0000+74000130+02FF+82024800+0000+74000130+02FF+82024862+0000+74000130+02FF+82024864+0000+74000130+02FF+820248C6+0000+74000130+02FF+820248C8+0000+74000130+02FF+8202492A+0000+74000130+02FF+8202492C+0000+74000130+02FF+8202498E+0000+74000130+02FF+82024990+0000"
 cheat2_enable = false
 
-cheat3_desc = "100% catch Rate"
+cheat3_desc = "100% Catch Rate"
 cheat3_code = "720207AE+0102+820055D4+0004+720207AE+0102+82024214+BD84"
 cheat3_enable = false
 
@@ -48,7 +48,7 @@ cheat11_desc = "Access Deco Shop [Press L+A+Select]"
 cheat11_code = "74000130+01FA+83000E38+0000+74000130+01FA+83000E48+0012+74000130+01FA+83000E4A+0822+72002DD4+0280+42002DD0+0000+00000002+0002"
 cheat11_enable = false
 
-cheat12_desc = "Access Fly Map [Press Select]"
+cheat12_desc = "Access Fly Map [Press A+Select]"
 cheat12_code = "74000130+03FA+830022C4+4691+74000130+03FA+830022C6+0812"
 cheat12_enable = false
 
@@ -140,7 +140,7 @@ cheat34_desc = "Free MOD Shop Items"
 cheat34_code = "72002DE2+0200+420051B0+0000+00000002+0002+720051BA+FF00+820051BA+FF63"
 cheat34_enable = false
 
-cheat35_desc = "Gain 5000 Exp"
+cheat35_desc = "Gain 5000 Exp [Press A+R]"
 cheat35_code = "74000130+02FE+820241F0+1388"
 cheat35_enable = false
 
@@ -148,7 +148,7 @@ cheat36_desc = "Have Cut Ability"
 cheat36_code = "73000E4C+0729+83000E4C+06E7"
 cheat36_enable = false
 
-cheat37_desc = "Have Flash [Press L+Select]"
+cheat37_desc = "Have Flash [Press Select+Up]"
 cheat37_code = "74000130+03BB+43000E48+26F8+E1310002+0002+74000130+03BB+83000F2C+0000"
 cheat37_enable = false
 
@@ -260,15 +260,15 @@ cheat64_desc = "Receive BP [Hold Select]"
 cheat64_code = "D0000020+0004+83000E4C+0813+D0000020+0004+83000E4E+0825+D0000020+0004+83000E40+0101"
 cheat64_enable = false
 
-cheat65_desc = "Receive Starter"
+cheat65_desc = "Receive Starter [Press L+R+Down]"
 cheat65_code = "74000130+007F+83000E38+0000+74000130+007F+83000E40+0201+74000130+007F+83000E44+833D+74000130+007F+83000E46+0809+74000130+007F+83000E48+1338+74000130+007F+83000E4A+0827"
 cheat65_enable = false
 
-cheat66_desc = "Receive Symbol"
+cheat66_desc = "Receive Symbol [Hold Select]"
 cheat66_code = "D0000020+0004+83000E48+C330+D0000020+0004+83000E4A+0824+73000E48+C861+83000E48+99F1"
 cheat66_enable = false
 
-cheat67_desc = "Recieve More Exp"
+cheat67_desc = "Receive More Exp"
 cheat67_code = "32023A92+00FF"
 cheat67_enable = false
 
@@ -276,7 +276,7 @@ cheat68_desc = "Safari PKMN Easily Caught"
 cheat68_code = "72024214+BD7E+82024214+BD95"
 cheat68_enable = false
 
-cheat69_desc = "Shiny Groudon"
+cheat69_desc = "Shiny Groudon (replaces PC Box 14, slot 1)"
 cheat69_code = "820311EC+1D5A+820311EE+1EFC+820311F0+03A0+820311F2+0000+820311F4+CCC1+820311F6+CFC9+820311F8+C9BE+820311FA+FFC8+820311FC+FFFF+820311FE+0202+82031200+D5BE+82031202+E8E2+82031204+FFD9+82031206+00FF+82031208+EE41+8203120A+0000+8203120C+1F6F+8203120E+1EFC+82031210+0C2A+82031212+1EEF+82031214+1E05+82031216+1EFC+82031218+720F+8203121A+5085+8203121C+D809+8203121E+E103+82031220+E105+82031222+E103+82031224+1EA3+82031226+1FE0+82031228+1FC1+8203122A+1EB0+8203122C+16EA+8203122E+0EF4+82031230+56FA+82031232+4751+82031234+1BBD+82031236+0A98+82031238+1EFA+8203123A+9EFC"
 cheat69_enable = false
 
@@ -292,7 +292,7 @@ cheat72_desc = "Soot Sack Full"
 cheat72_code = "82026E2C+FFFF"
 cheat72_enable = false
 
-cheat73_desc = "The Human Bike"
+cheat73_desc = "The Human Bike [B+Up On, B+Down Off]"
 cheat73_code = "74000130+03BD+32037590+0002+74000130+037D+32037590+0000"
 cheat73_enable = false
 
