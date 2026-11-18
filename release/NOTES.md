@@ -1,4 +1,4 @@
-Phosphor_DE {VERSION}, a kernel for the **EZ-Flash Omega Definitive Edition** (Rev B tested, Rev A untested).
+Phosphor_DE {VERSION}, a kernel for the **EZ-Flash Omega Definitive Edition** (Rev B tested, Rev A untested). Tested and working on real hardware and on the Analogue Pocket.
 
 **Not for** the original Omega, the newer blue "Omega DE B" (`ezbluekernel.bin`), or any other cart.
 

@@ -36,7 +36,7 @@ Dark, readable, GBA-only, with a new cheat engine and a ready-made cheat pack of
 
 | Cart | Works? |
 |---|---|
-| EZ-Flash Omega **Definitive Edition, Rev B** (FPGA firmware 7) | **Yes.** This is the cart it's developed and tested on, mostly in an Analogue Pocket. |
+| EZ-Flash Omega **Definitive Edition, Rev B** (FPGA firmware 7) | **Yes. Tested and working on real hardware and on the Analogue Pocket.** |
 | EZ-Flash Omega **Definitive Edition, Rev A** (firmware 5) | Should work: the kernel detects Rev A and Rev B the same way EZ-Flash's kernel does. **Not tested.** |
 | EZ-Flash Omega Definitive Edition **B** (the newer blue board, "Rev.BLUE", official file `ezbluekernel.bin`) | **No.** Different kernel. Don't flash this on it. |
 | Original EZ-Flash Omega (not Definitive Edition) | **No.** Different hardware and kernel (`ezkernel.bin`). |
@@ -44,7 +44,7 @@ Dark, readable, GBA-only, with a new cheat engine and a ready-made cheat pack of
 
 Not sure which you have? On the official kernel the cart revision shows on screen. On Phosphor_DE it's on **Settings > About** (for example `Rev B (LX16) FW7`).
 
-It runs on anything that plays GBA carts: GBA, GBA SP, Game Boy Micro, DS/DS Lite (GBA slot), Game Boy Player and the Analogue Pocket.
+Phosphor_DE has been **tested and working on real hardware and on the Analogue Pocket**. It runs on anything that plays GBA carts: GBA, GBA SP, Game Boy Micro, DS/DS Lite (GBA slot), Game Boy Player and the Analogue Pocket.
 
 ---
 

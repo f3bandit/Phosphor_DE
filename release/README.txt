@@ -2,6 +2,7 @@ Phosphor_DE {VERSION} - kernel for the EZ-Flash Omega Definitive Edition - by f3
 https://github.com/f3bandit/Phosphor_DE   (full guide, tools, source)
 
 FOR: EZ-Flash Omega Definitive Edition (Rev B tested, Rev A untested).
+Tested and working on real hardware and on the Analogue Pocket.
 NOT FOR: the original Omega, the newer blue "Omega DE B" (ezbluekernel.bin), or any other cart.
 
 INSTALL
